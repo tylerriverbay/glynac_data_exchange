@@ -30,12 +30,21 @@ def load_emails_from_json(folder):
     for file_name in os.listdir(folder):
         if file_name.endswith(".json"):
             file_path = os.path.join(folder, file_name)
-            with open(file_path, "r", encoding="utf-8") as f:
-                try:
-                    data = json.load(f)
-                    all_emails.extend(data)
-                except Exception as e:
-                    logging.error(f"Error loading {file_name}: {e}")
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    try:
+                        data = json.load(f)
+                        num_emails = len(data)
+                        all_emails.extend(data)
+                        logging.info(f"Loaded {num_emails} emails from file: {file_name}")
+                    except json.JSONDecodeError as e:
+                        logging.error(f"Error decoding JSON in {file_name}: {e}")
+                    except Exception as e:
+                        logging.error(f"Error processing data from {file_name}: {e}")
+            except FileNotFoundError:
+                logging.error(f"File not found: {file_name}")
+            except Exception as e:
+                logging.error(f"Error opening file {file_name}: {e}")
     return all_emails
 
 def load_seeded_ids():

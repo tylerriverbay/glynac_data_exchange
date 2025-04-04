@@ -14,7 +14,7 @@ import threading
 EMAIL_JSON_FOLDER = "email_json"
 NO_MORE_EMAILS_FILE = "no_more_emails.json"
 
-def fetch_paginated_message_ids(user_upn, skip_pages=50):
+def fetch_paginated_message_ids(user_upn, skip_pages=200):
     """Fetch all message metadata (IDs) for a user using pagination, with an option to skip initial pages."""
     access_token = get_access_token()
     headers = {"Authorization": f"Bearer {access_token}"}
@@ -22,7 +22,7 @@ def fetch_paginated_message_ids(user_upn, skip_pages=50):
 
     all_ids = []
     page_count = 0
-    max_pages = 51  # Increased safety cap
+    max_pages = 400  # Increased safety cap
     skipped_count = 0  # Number of pages to skip
 
     while url and page_count < max_pages:
