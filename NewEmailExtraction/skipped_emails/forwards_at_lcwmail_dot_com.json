@@ -1,0 +1,827 @@
+[
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXhWAAA=",
+    "from": "demand@info.adobe.com",
+    "to": [
+      "k.salek@lcwmail.com"
+    ],
+    "subject": "5 Ways to speed up your document tasks",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:23.161299Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXhTAAA=",
+    "from": "mail@mail.adobe.com",
+    "to": [
+      "c.williams@lcwmail.com"
+    ],
+    "subject": "Get more done with advanced PDF tools",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:24.480643Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXhVAAA=",
+    "from": "noreply-zoomevents@zoom.us",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "You are registered for Professional Resilience:  Navigating Workplace Interactions",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:24.482322Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXhOAAA=",
+    "from": "luiza@masteringculturaldifferences.com",
+    "to": [
+      "t.thorpe@lcwmail.com"
+    ],
+    "subject": "\ud83e\udde0 Lack of Psychological Safety: Why Inclusion Can\u2019t Survive Without It",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:27.442610Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXhPAAA=",
+    "from": "support@wpbeginner.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "\u26a0\ufe0f Is your WordPress site breaking privacy laws?",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:28.990711Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXhNAAA=",
+    "from": "postmaster@lcwmail.com",
+    "to": [
+      "d.gough@lcwmail.com"
+    ],
+    "subject": "You have new held messages",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:29.646556Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXhQAAA=",
+    "from": "mattpoepsel@predictiveindex.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "\u26a1\ufe0fThe Recharge | April Edition",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:29.648875Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXhKAAA=",
+    "from": "microsoft-noreply@microsoft.com",
+    "to": [
+      "clientserviceadmin@lcwmail.com"
+    ],
+    "subject": "Action required: Renew your Microsoft subscriptions before they expire on May 1, 2025",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:32.725330Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXhSAAA=",
+    "from": "lauren.mitchell@revgrowthlabs.org",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "Re: Olga Urbieta-DiStefano's LI Recommendation + Pipeline Visibility",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:35.328811Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXhJAAA=",
+    "from": "email.dimpact@194635678.mailchimpapp.com",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "\ud83d\udce3DIMPACT | The EU Diversity Month is coming!\ud83d\udce3",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:36.668221Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXhLAAA=",
+    "from": "microsoft-noreply@microsoft.com",
+    "to": [
+      "k.washington@lcwmail.com"
+    ],
+    "subject": "Action required: Renew your Microsoft subscriptions before they expire on May 1, 2025",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:39.817007Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXhEAAA=",
+    "from": "no-reply@identity.wpengine.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "New sign-on detected",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:41.637536Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXhIAAA=",
+    "from": "karlis@fastercourse.com",
+    "to": [
+      "k.salek@lcwmail.com"
+    ],
+    "subject": "Subsription payment didn't go through",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:42.471890Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXhFAAA=",
+    "from": "no-reply@identity.wpengine.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "One-time verification code",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:42.929095Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXg-AAA=",
+    "from": "sap@mail.sap.com",
+    "to": [
+      "m.neu@lcwmail.com"
+    ],
+    "subject": "Join our SAP Business Network Webinars",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:47.888010Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgzAAA=",
+    "from": "info@iccglobal.org",
+    "to": [
+      "h.strack@lcwmail.com"
+    ],
+    "subject": "Newsletter March 2025 - World Council on Intercultural and Global Competence",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:50.499524Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXhDAAA=",
+    "from": "info@roiinstitute.net",
+    "to": [
+      "k.salek@lcwmail.com"
+    ],
+    "subject": "Join us for ROI Boot Camp",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:51.971966Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXg7AAA=",
+    "from": "treasurer@youngsietar.org",
+    "to": [
+      "community@youngsietar.org"
+    ],
+    "subject": "Important: membership adjustment; please renew your membership",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:55.386854Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXg2AAA=",
+    "from": "trados@rws.com",
+    "to": [
+      "M.Benoit@lcwmail.com"
+    ],
+    "subject": "Are You Looking to Gain a Competitive Edge in the Industry?\u00a0",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:57.730372Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXg9AAA=",
+    "from": "TurboTax@em1.turbotax.intuit.com",
+    "to": [
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "Great news! Your 2024 tax status is available",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:00.964619Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXhRAAA=",
+    "from": "publications@ncchamber.com",
+    "to": [
+      "h.strack@lcwmail.com"
+    ],
+    "subject": "Keynote Spotlight: Dr. Sarah Vinson to Headline the Business Summit on Mental Health",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:01.437640Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXhBAAA=",
+    "from": "demand@info.adobe.com",
+    "to": [
+      "k.salek@lcwmail.com"
+    ],
+    "subject": "Big innovations, endless possibilities",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:04.279525Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgwAAA=",
+    "from": "noreply-zoomevents@zoom.us",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "Reminder for HRCInsights: Addressing Workforce Burnout: Proven Strategies for Mental Well-Being",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:05.470738Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgkAAA=",
+    "from": "publishing@email.mckinsey.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "Top 10 articles this quarter",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:07.145614Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXg1AAA=",
+    "from": "postmaster@lcwmail.com",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "You have new held messages",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:08.191156Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgfAAA=",
+    "from": "info@advancingjustice-chicago.org",
+    "to": [
+      "z.allerding@lcwmail.com"
+    ],
+    "subject": "Navigating Uncertainty",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:09.913977Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgrAAA=",
+    "from": "noreply@campaign.eventbrite.com",
+    "to": [
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "Upcoming events in April...",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:11.720915Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgvAAA=",
+    "from": "noreply@community.rws.com",
+    "to": [
+      "M.Benoit@lcwmail.com"
+    ],
+    "subject": "Trados Enterprise, Accelerate, Team and cloud capabilities in Trados Studio Weekly Digest - 30 Mar 2025",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:13.315847Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXg0AAA=",
+    "from": "info@gala-global.org",
+    "to": [
+      "j.parsons@lcwmail.com"
+    ],
+    "subject": "This Week at GALA: 31 March 2025",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:15.188535Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgyAAA=",
+    "from": "noreply@cloud.trados.com",
+    "to": [
+      "M.Benoit@lcwmail.com"
+    ],
+    "subject": "Project(s) will soon be archived",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:15.690402Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgdAAA=",
+    "from": "postmaster@lcwmail.com",
+    "to": [
+      "d.gough@lcwmail.com"
+    ],
+    "subject": "You have new held messages",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:16.313086Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXggAAA=",
+    "from": "travel@crossculturaljourneys.com",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "$150 OFF Early Bird Special",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:19.622077Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgcAAA=",
+    "from": "diversitymba-diversitymbamagazine.com@shared1.ccsend.com",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "The Inclusive Voice Radio Show w/ Pam McElvane",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:21.976613Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXghAAA=",
+    "from": "support@wpbeginner.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "How to set up email alerts in Google Analytics (for free)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:23.313888Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgUAAA=",
+    "from": "eharr@hingemarketing.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "The Mysterious Invisible Referral",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:23.628049Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgtAAA=",
+    "from": "nord-media@mail.beehiiv.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "\ud83e\udde0 Virality fades. This $200M content engine compounds.",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:23.647582Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgnAAA=",
+    "from": "noreply-zoomevents@zoom.us",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "Recording for Beyond Team Building: The Ultimate HR Toolkit for Unlocking Team Potential is available",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:23.813576Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgjAAA=",
+    "from": "fortune@mail.fortune.com",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "How Delta became America's most profitable airline",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:24.430080Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgaAAA=",
+    "from": "noreply-zoomevents@zoom.us",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "Recording for Take Action for Mental Health Action Day 2025 is available",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:24.805832Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgbAAA=",
+    "from": "noreply-zoomevents@zoom.us",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "You are registered for Braving the Workplace: Belonging at the Breaking Point",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:26.701087Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgsAAA=",
+    "from": "no-reply@identity.wpengine.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "New sign-on detected",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:27.104444Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgQAAA=",
+    "from": "mail@mail.adobe.com",
+    "to": [
+      "c.williams@lcwmail.com"
+    ],
+    "subject": "Have PDF tools. Will travel.",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:33.161856Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgiAAA=",
+    "from": "fortune@mail.fortune.com",
+    "to": [
+      "m.neu@lcwmail.com"
+    ],
+    "subject": "How Delta became America's most profitable airline",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:33.401080Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXglAAA=",
+    "from": "no-reply@identity.wpengine.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "New sign-on detected",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:36.047833Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXg5AAA=",
+    "from": "mitch@flowdconsultancy.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "Re: Hubspot email campaigns",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:38.515469Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgEAAA=",
+    "from": "marleen@creolesolutions.com",
+    "to": [
+      "M.Benoit@lcwmail.com"
+    ],
+    "subject": "Be Part of Creole\u2019s Digital Future\u00a0 Maya!",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:39.136068Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgMAAA=",
+    "from": "nord-media@mail.beehiiv.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "You're Stopping Your Own Growth",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:39.682729Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgWAAA=",
+    "from": "info@roiinstitute.net",
+    "to": [
+      "k.salek@lcwmail.com"
+    ],
+    "subject": "Register Now for Measurement Simplified Workshop",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:39.751723Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgYAAA=",
+    "from": "info=sietarusa.org@v.kajabimail.net",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "Reimagining Culturally Resilient Initiatives Through the Power of Questions",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:39.832773Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgSAAA=",
+    "from": "public.workshops@franklincovey.com",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "[Register Today] Build Trust at Work",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:39.892607Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgCAAA=",
+    "from": "info@roiinstitute.net",
+    "to": [
+      "k.salek@lcwmail.com"
+    ],
+    "subject": "Demonstrating the Impact and ROI of DEI",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:40.036800Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgBAAA=",
+    "from": "noreply-zoomevents@zoom.us",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "Recording for How to Set Pay Ranges in the Context of Pay Transparency Legislation is available",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:41.036292Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgGAAA=",
+    "from": "fortune@mail.fortune.com",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "The Reader is now Fortune 500 Digest",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:42.501414Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXguAAA=",
+    "from": "noreply@community.rws.com",
+    "to": [
+      "M.Benoit@lcwmail.com"
+    ],
+    "subject": "Trados Portfolio Ideas Weekly Digest - 30 Mar 2025",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:43.061388Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXf_AAA=",
+    "from": "events@wpengine.com",
+    "to": [
+      "a.vicente@lcwmail.com"
+    ],
+    "subject": "Agenda Revealed For The Premier WordPress Innovation Event",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:43.874634Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXf-AAA=",
+    "from": "info@globalwa.org",
+    "to": [
+      "g.vottero@lcwmail.com"
+    ],
+    "subject": "You Are Invited! The Future of Foreign Aid: An Evening with Pangea Giving",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:44.447120Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgpAAA=",
+    "from": "noreply@campaign.eventbrite.com",
+    "to": [
+      "d.gough@lcwmail.com"
+    ],
+    "subject": "Upcoming events in April...",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:45.273615Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgqAAA=",
+    "from": "noreply@campaign.eventbrite.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "Upcoming events in April...",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:45.484015Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgIAAA=",
+    "from": "postmaster@lcwmail.com",
+    "to": [
+      "d.gough@lcwmail.com"
+    ],
+    "subject": "You have new held messages",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:45.980008Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgFAAA=",
+    "from": "fortune@mail.fortune.com",
+    "to": [
+      "m.neu@lcwmail.com"
+    ],
+    "subject": "The Reader is now Fortune 500 Digest",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:46.065512Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgJAAA=",
+    "from": "postmaster@lcwmail.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "You have new held messages",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:46.505153Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgPAAA=",
+    "from": "postmaster@lcwmail.com",
+    "to": [
+      "k.washington@lcwmail.com"
+    ],
+    "subject": "You have new held messages",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:46.514425Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgHAAA=",
+    "from": "email@washingtonpost.com",
+    "to": [
+      "t.thorpe@lcwmail.com"
+    ],
+    "subject": "Exclusive | Internal White House document details layoff plans across U.S. agencies",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:47.702353Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXf0AAA=",
+    "from": "matt@intelex.com",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "Your guide to choosing the right EHSQ partner",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:48.602249Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgZAAA=",
+    "from": "lauren.mitchell@revgrowthlabs.org",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "Olga Urbieta-DiStefano's LI Recommendation + Pipeline Visibility",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:50.485140Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgNAAA=",
+    "from": "info@gala-global.org",
+    "to": [
+      "j.parsons@lcwmail.com"
+    ],
+    "subject": "GALA Academy Q2 - Winning Sales Strategies for Localization Professionals",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:51.614904Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXf5AAA=",
+    "from": "noreply-zoomevents@zoom.us",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "Reminder for HRCInsights: Beyond Team Building: The Ultimate HR Toolkit for Unlocking Team Potential",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:51.878038Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXf7AAA=",
+    "from": "marketing@hello.bill.com",
+    "to": [
+      "h.strack@lcwmail.com"
+    ],
+    "subject": "Final stretch: March Money Madness",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:52.029517Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXf9AAA=",
+    "from": "events@wpengine.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "Agenda Revealed For The Premier WordPress Innovation Event",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:52.996079Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXf1AAA=",
+    "from": "events@wpengine.com",
+    "to": [
+      "SocialMedia@lcwmail.com"
+    ],
+    "subject": "Agenda Revealed For The Premier WordPress Innovation Event",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:57.168435Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXf2AAA=",
+    "from": "diversitymba@diversitymbamagazine.ccsend.com",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "DMBA Events",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:58.506361Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADrJXgAAAA=",
+    "from": "HealthEquity@b.healthequity.com",
+    "to": [
+      "m.mercado@lcwmail.com"
+    ],
+    "subject": "Boost benefits engagement with our new product launch  \ud83d\ude80",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:58.508280Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADwYoQwAAA=",
+    "from": "noreply-zoomevents@zoom.us",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "Recording for Braving the Workplace: Belonging at the Breaking Point is available",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:04:04.686668Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADwYoQzAAA=",
+    "from": "info@roiinstitute.net",
+    "to": [
+      "k.salek@lcwmail.com"
+    ],
+    "subject": "Unlock the Secrets to Better Reporting \u2013 Join Our Deep Dive Workshops",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:04:05.585500Z"
+  },
+  {
+    "user_upn": "forwards@lcwmail.com",
+    "message_id": "AAMkAGEzNzlhNGY1LTkwN2YtNDg0Yy1hZDg0LTZlNmUxMTVhYzZmOQBGAAAAAACoHLSzwdN8QoDfBECddCKgBwDUX6QpRAnHSo2B6Lu3qgEOAAAAAAEMAADUX6QpRAnHSo2B6Lu3qgEOAADwYoQxAAA=",
+    "from": "diversitymba-diversitymbamagazine.com@shared1.ccsend.com",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "The Inclusive Voice Radio Show w/ Pam McElvane",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:04:06.425341Z"
+  }
+]

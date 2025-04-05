@@ -1,0 +1,35 @@
+[
+  {
+    "user_upn": "t.thorpe@lcwmail.com",
+    "message_id": "AQMkADViZGNiNGMxLWM2MDUtNDBlMC1hZDBiLTkwYjM4ZjcxYmZlOABGAAADNJhbFNWkNkCVS8HLfRFvKgcAyfmbyoCVl0aZ18WO1Q-zmQAAAgEMAAAAyfmbyoCVl0aZ18WO1Q-zmQADyy5GLwAAAA==",
+    "from": "celeste.lancin@ubisoft.com",
+    "to": [
+      "accounting@lcwmail.com"
+    ],
+    "subject": "Credit Note Request for Invoice No. 1724022430",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:58:18.946300Z"
+  },
+  {
+    "user_upn": "t.thorpe@lcwmail.com",
+    "message_id": "AQMkADViZGNiNGMxLWM2MDUtNDBlMC1hZDBiLTkwYjM4ZjcxYmZlOABGAAADNJhbFNWkNkCVS8HLfRFvKgcAyfmbyoCVl0aZ18WO1Q-zmQAAAgEMAAAAyfmbyoCVl0aZ18WO1Q-zmQADtGGsGQAAAA==",
+    "from": "BFarnan@SpencerStuart.com",
+    "to": [
+      "v.bongiovanni@lcwmail.com"
+    ],
+    "subject": "Spencer Stuart - Interrupting Unconscious Bias Session: September 12th",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:58:20.994839Z"
+  },
+  {
+    "user_upn": "t.thorpe@lcwmail.com",
+    "message_id": "AQMkADViZGNiNGMxLWM2MDUtNDBlMC1hZDBiLTkwYjM4ZjcxYmZlOABGAAADNJhbFNWkNkCVS8HLfRFvKgcAyfmbyoCVl0aZ18WO1Q-zmQAAAgEMAAAAyfmbyoCVl0aZ18WO1Q-zmQADt3Kd2gAAAA==",
+    "from": "YCKenned@ra.rockwell.com",
+    "to": [
+      "r.parrilla@lcwmail.com"
+    ],
+    "subject": "RE: EXTERNAL: RE: LCW Neurodiverse Training",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:58:25.100078Z"
+  }
+]

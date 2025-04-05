@@ -1,0 +1,39 @@
+[
+  {
+    "user_upn": "j.barbieri@lcwmail.com",
+    "message_id": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAEMAABCMmEeN4QdTo95RKYwbkvNAAFtKWGiAAA=",
+    "from": "slombardo@hmscpatax.com",
+    "to": [
+      "accounting@lcwmail.com",
+      "a.kolodizner@lcwmail.com"
+    ],
+    "subject": "RE: Follow Up for Reviewed Financials",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:48:10.311418Z"
+  },
+  {
+    "user_upn": "j.barbieri@lcwmail.com",
+    "message_id": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAEMAABCMmEeN4QdTo95RKYwbkvNAAFtKWGhAAA=",
+    "from": "accounting@lcwmail.com",
+    "to": [
+      "slombardo@hmscpatax.com",
+      "a.kolodizner@lcwmail.com"
+    ],
+    "subject": "RE: Follow Up for Reviewed Financials",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:48:10.435371Z"
+  },
+  {
+    "user_upn": "j.barbieri@lcwmail.com",
+    "message_id": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAEMAABCMmEeN4QdTo95RKYwbkvNAAFtKWGjAAA=",
+    "from": "a.kolodizner@lcwmail.com",
+    "to": [
+      "slombardo@hmscpatax.com",
+      "accounting@lcwmail.com",
+      "s.gluckstein@lcwmail.com"
+    ],
+    "subject": "RE: Follow Up for Reviewed Financials",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:48:10.968012Z"
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "user_upn": "p.coulter@lcwmail.com",
+    "message_id": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAEMAAARNaNds68XQpUWYT8kHgRXAABW9VjHAAA=",
+    "from": "a.jones@lcwmail.com",
+    "to": [
+      "a.kolodizner@lcwmail.com",
+      "c.adams@lcwmail.com"
+    ],
+    "subject": "Payroll Special Payments for 7.15.2023",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:58:00.568968Z"
+  },
+  {
+    "user_upn": "p.coulter@lcwmail.com",
+    "message_id": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAEMAAARNaNds68XQpUWYT8kHgRXAABW9Vi5AAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "rosie@bookandstreet.com",
+      "j.barbieri@lcwmail.com"
+    ],
+    "subject": "RE: [DKIM Failure]  Toni's onboarding plan week 2 and on",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:58:01.945520Z"
+  },
+  {
+    "user_upn": "p.coulter@lcwmail.com",
+    "message_id": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAEMAAARNaNds68XQpUWYT8kHgRXAABW9VjJAAA=",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "a.jones@lcwmail.com",
+      "a.kolodizner@lcwmail.com"
+    ],
+    "subject": "RE: Payroll Special Payments for 7.15.2023",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:58:02.409686Z"
+  },
+  {
+    "user_upn": "p.coulter@lcwmail.com",
+    "message_id": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAEMAAARNaNds68XQpUWYT8kHgRXAABW9Vi4AAA=",
+    "from": "j.barbieri@lcwmail.com",
+    "to": [
+      "rosie@bookandstreet.com"
+    ],
+    "subject": "Re: [DKIM Failure]  Toni's onboarding plan week 2 and on",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:58:02.526662Z"
+  },
+  {
+    "user_upn": "p.coulter@lcwmail.com",
+    "message_id": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAEMAAARNaNds68XQpUWYT8kHgRXAABW9VjMAAA=",
+    "from": "a.kolodizner@lcwmail.com",
+    "to": [
+      "c.adams@lcwmail.com",
+      "a.jones@lcwmail.com"
+    ],
+    "subject": "RE: Payroll Special Payments for 7.15.2023",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:58:02.610655Z"
+  },
+  {
+    "user_upn": "p.coulter@lcwmail.com",
+    "message_id": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAEMAAARNaNds68XQpUWYT8kHgRXAABQRYl5AAA=",
+    "from": "M.Benoit@lcwmail.com",
+    "to": [
+      "k.salek@lcwmail.com",
+      "accounting@lcwmail.com"
+    ],
+    "subject": "RE: Invitation from LANGUAGE & CULTURE WORLDWIDE, LLC is waiting for your response",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:58:02.651786Z"
+  },
+  {
+    "user_upn": "p.coulter@lcwmail.com",
+    "message_id": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAEMAAARNaNds68XQpUWYT8kHgRXAABQRYl7AAA=",
+    "from": "M.Benoit@lcwmail.com",
+    "to": [
+      "accounting@lcwmail.com",
+      "k.salek@lcwmail.com"
+    ],
+    "subject": "RE: Invitation from LANGUAGE & CULTURE WORLDWIDE, LLC is waiting for your response",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:58:02.772803Z"
+  },
+  {
+    "user_upn": "p.coulter@lcwmail.com",
+    "message_id": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAEMAAARNaNds68XQpUWYT8kHgRXAABQRYlvAAA=",
+    "from": "j.barbieri@lcwmail.com",
+    "to": [
+      "a.kolodizner@lcwmail.com",
+      "c.adams@lcwmail.com"
+    ],
+    "subject": "RE: Payroll 6/30/2023",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:58:03.530509Z"
+  },
+  {
+    "user_upn": "p.coulter@lcwmail.com",
+    "message_id": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAEKAAARNaNds68XQpUWYT8kHgRXAABW9kHYAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": "",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:58:03.874827Z"
+  },
+  {
+    "user_upn": "p.coulter@lcwmail.com",
+    "message_id": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAEMAAARNaNds68XQpUWYT8kHgRXAABW9Vi0AAA=",
+    "from": "j.barbieri@lcwmail.com",
+    "to": [
+      "b.cardenas@lcwmail.com"
+    ],
+    "subject": "Re: Toni's onboarding plan week 2 and on",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:58:03.929005Z"
+  },
+  {
+    "user_upn": "p.coulter@lcwmail.com",
+    "message_id": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAEMAAARNaNds68XQpUWYT8kHgRXAABQRYl6AAA=",
+    "from": "accounting@lcwmail.com",
+    "to": [
+      "M.Benoit@lcwmail.com",
+      "k.salek@lcwmail.com"
+    ],
+    "subject": "Re: Invitation from LANGUAGE & CULTURE WORLDWIDE, LLC is waiting for your response",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:58:04.019589Z"
+  }
+]

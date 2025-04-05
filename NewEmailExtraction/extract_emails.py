@@ -13,16 +13,17 @@ import threading
 
 EMAIL_JSON_FOLDER = "email_json"
 NO_MORE_EMAILS_FILE = "no_more_emails.json"
+SKIPPED_EMAILS_FOLDER = "skipped_emails"
 
-def fetch_paginated_message_ids(user_upn, skip_pages=200):
+def fetch_paginated_message_ids(user_upn, skip_pages=1):
     """Fetch all message metadata (IDs) for a user using pagination, with an option to skip initial pages."""
     access_token = get_access_token()
     headers = {"Authorization": f"Bearer {access_token}"}
-    url = f"{config.GRAPH_API_ENDPOINT}/users/{user_upn}/messages?$select=id&$top=10"
+    url = f"{config.GRAPH_API_ENDPOINT}/users/{user_upn}/messages?$select=id&$top=5"
 
     all_ids = []
     page_count = 0
-    max_pages = 400  # Increased safety cap
+    max_pages = 2  # Increased safety cap
     skipped_count = 0  # Number of pages to skip
 
     while url and page_count < max_pages:
@@ -122,10 +123,51 @@ def is_user_in_no_more_emails(user_upn):
             pass  # File might not exist or be corrupted, proceed as normal
     return False
 
+def log_skipped_email(email, user_upn, reason):
+    """Append skipped email info to a user-specific JSON file."""
+    
+    # Sanitize filename
+    filename = user_upn.replace("@", "_at_").replace(".", "_dot_") + ".json"
+    filepath = os.path.join(SKIPPED_EMAILS_FOLDER, filename)
+
+    # Make sure folder exists
+    os.makedirs(SKIPPED_EMAILS_FOLDER, exist_ok=True)
+
+    # Build data entry
+    data = {
+        "user_upn": user_upn,
+        "message_id": email.get("id"),
+        "from": email.get("from", {}).get("emailAddress", {}).get("address", "Unknown Sender"),
+        "to": [r["emailAddress"]["address"] for r in email.get("toRecipients", []) if "emailAddress" in r],
+        "subject": email.get("subject"),
+        "reason": reason,
+        "logged_at": datetime.utcnow().isoformat() + "Z"
+    }
+
+    # Write to file (append style)
+    if os.path.exists(filepath):
+        with open(filepath, "r+", encoding="utf-8") as f:
+            try:
+                existing = json.load(f)
+            except json.JSONDecodeError:
+                existing = []
+            existing.append(data)
+            f.seek(0)
+            json.dump(existing, f, indent=2)
+            f.truncate()
+    else:
+        with open(filepath, "w", encoding="utf-8") as f:
+            json.dump([data], f, indent=2)
+
+
 def extract_emails(user_upn):
     if is_user_in_no_more_emails(user_upn):
         return []
+
     existing_message_ids = set()
+    skipped_message_ids = set()
+
+    # Load processed email IDs from existing JSON files
     for filename in os.listdir(EMAIL_JSON_FOLDER):
         if filename.startswith(f"emails_{user_upn.replace('@', '_at_')}") and filename.endswith(".json"):
             filepath = os.path.join(EMAIL_JSON_FOLDER, filename)
@@ -138,21 +180,39 @@ def extract_emails(user_upn):
             except Exception as e:
                 print(f"Thread: {threading.current_thread().name} - Error reading existing JSON file {filename}: {e}")
 
-    print(f"Thread: {threading.current_thread().name} - Found {len(existing_message_ids)} email IDs already in JSON files for user: {user_upn}.")
+    # Load skipped message IDs
+    skipped_filename = f"{user_upn.replace('@', '_at_').replace('.', '_dot_')}.json"
+    skipped_filepath = os.path.join("skipped_emails", skipped_filename)
+    if os.path.exists(skipped_filepath):
+        try:
+            with open(skipped_filepath, "r", encoding="utf-8") as f:
+                skipped_data = json.load(f)
+                for entry in skipped_data:
+                    if 'message_id' in entry:
+                        skipped_message_ids.add(entry['message_id'])
+        except Exception as e:
+            print(f"Thread: {threading.current_thread().name} - Error reading skipped email file: {e}")
 
+    print(f"Thread: {threading.current_thread().name} - Found {len(existing_message_ids)} processed and {len(skipped_message_ids)} skipped email IDs for user: {user_upn}.")
+
+    # Fetch all message IDs from API
     all_message_ids_fetched = fetch_paginated_message_ids(user_upn)
-    new_message_ids_to_process = [mid for mid in all_message_ids_fetched if mid not in existing_message_ids]
+    new_message_ids_to_process = [
+        mid for mid in all_message_ids_fetched
+        if mid not in existing_message_ids and mid not in skipped_message_ids
+    ]
+
+    print(new_message_ids_to_process)
 
     print(f"Thread: {threading.current_thread().name} - Fetched {len(all_message_ids_fetched)} message IDs from API.")
     print(f"Thread: {threading.current_thread().name} - Found {len(new_message_ids_to_process)} new message IDs to process for {user_upn}.")
+
     if not all_message_ids_fetched:
         print(f"Thread: {threading.current_thread().name} - No message IDs fetched from API for user: {user_upn}.")
         record_no_more_emails(user_upn)
         return []
 
-    processed_emails = []
     parent_thread = threading.current_thread()
-    print(f"Thread: {parent_thread.name} - Starting processing of {len(new_message_ids_to_process)} new email IDs for user: {user_upn}.")
     total_count = len(new_message_ids_to_process)
     processed_count = 0
     processed_message_ids_in_run = set()
@@ -167,14 +227,18 @@ def extract_emails(user_upn):
         current_thread = threading.current_thread()
         print(f"Thread: {current_thread.name} - Processing new message ID {message_id} ({processed_count}/{total_count}) for user: {user_upn}")
         email = fetch_full_message(user_upn, message_id)
+
         if not email:
             print(f"Thread: {current_thread.name} - Could not fetch full message for new ID: {message_id} for user: {user_upn}")
             return None
 
         sender = email.get("from", {}).get("emailAddress", {}).get("address", "Unknown Sender")
         to_recipients_list = [r["emailAddress"]["address"].lower() for r in email.get("toRecipients", []) if "emailAddress" in r]
+
         if user_upn.lower() not in to_recipients_list and sender.lower() != user_upn.lower():
+            print(f"Thread: {current_thread.name} - Sender: {sender}, User UPN: {user_upn}, To Recipients: {to_recipients_list}")
             print(f"Thread: {current_thread.name} - Skipping new message ID: {message_id} for user: {user_upn} (not to or from user)")
+            log_skipped_email(email, user_upn, reason="Not to or from the user")
             return None
 
         reply_to = ", ".join([r["emailAddress"]["address"] for r in email.get("replyTo", []) if "emailAddress" in r]) or sender
@@ -190,8 +254,9 @@ def extract_emails(user_upn):
                 print(f"Thread: {current_thread.name} - Error parsing timestamp '{ts}': {e}")
                 return "Invalid Timestamp"
 
-        print(f"Thread: {current_thread.name} - Extracted details for new message ID: {message_id} for user: {user_upn}")
         processed_message_ids_in_run.add(message_id)
+        print(f"Thread: {current_thread.name} - Extracted details for new message ID: {message_id} for user: {user_upn}")
+
         return {
             "email_id": message_id,
             "conversation_id": email.get("conversationId", "N/A"),

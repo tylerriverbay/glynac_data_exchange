@@ -1,0 +1,24 @@
+[
+  {
+    "user_upn": "m.fagrelius@lcwmail.com",
+    "message_id": "AAMkADk1NGIxOWIwLTNkNDQtNGE1My05YzFhLTk0OTU5MDUwMTMyZQBGAAAAAAAj_T7Ay8oETawcaeYfVWpxBwBgJPr9pXeARoV8CjQdegrmAAAAAAEMAABgJPr9pXeARoV8CjQdegrmAAbXfd5rAAA=",
+    "from": "info@ariaserve.com",
+    "to": [
+      "info@ariadne-services.com"
+    ],
+    "subject": "Best wishes",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:56:57.338778Z"
+  },
+  {
+    "user_upn": "m.fagrelius@lcwmail.com",
+    "message_id": "AAMkADk1NGIxOWIwLTNkNDQtNGE1My05YzFhLTk0OTU5MDUwMTMyZQBGAAAAAAAj_T7Ay8oETawcaeYfVWpxBwBgJPr9pXeARoV8CjQdegrmAAAAAAEMAABgJPr9pXeARoV8CjQdegrmAAbx1hl8AAA=",
+    "from": "xingjian.ma@chicagoii.com",
+    "to": [
+      "c.desanctis@lcwmail.com"
+    ],
+    "subject": "Contract document",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:57:05.065677Z"
+  }
+]

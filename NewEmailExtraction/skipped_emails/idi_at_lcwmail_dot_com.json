@@ -1,0 +1,39 @@
+[
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AAZRjmtOAAA=",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "k.nonweiler@lcwmail.com",
+      "s.nodarse@lcwmail.com",
+      "p.coleman@lcwmail.com",
+      "l.baker@lcwmail.com",
+      "a.wicksbowles@lcwmail.com"
+    ],
+    "subject": "RE: IDI New platform orientation",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:48:10.156827Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AAZood1xAAA=",
+    "from": "p.coleman@lcwmail.com",
+    "to": [
+      "tballenger@gmail.com"
+    ],
+    "subject": "Timothy-Complimentary IDI assessment  debrief Dec 10th 11am CST/12pm EST ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:48:10.189501Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AAZVX8V7AAA=",
+    "from": "p.coleman@lcwmail.com",
+    "to": [
+      "timothy.ballenger@veolia.com"
+    ],
+    "subject": "RE: RSVP 11/06/2024 Timothy-We sent you your complimentary IDI assessment credentials",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T10:48:10.746892Z"
+  }
+]
