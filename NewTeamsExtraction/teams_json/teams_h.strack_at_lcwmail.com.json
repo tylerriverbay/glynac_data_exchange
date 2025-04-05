@@ -8,7 +8,7 @@
     "thread_id": null,
     "timestamp": "2022-11-08T17:17:05.365Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:59.491994"
+    "date_extracted": "2025-04-05T21:09:27.292606"
   },
   {
     "platform": "Teams",
@@ -19,7 +19,7 @@
     "thread_id": null,
     "timestamp": "2022-11-01T19:24:48.653Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:59.493079"
+    "date_extracted": "2025-04-05T21:09:27.293256"
   },
   {
     "platform": "Teams",
@@ -30,7 +30,7 @@
     "thread_id": null,
     "timestamp": "2022-10-27T19:27:56.729Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:13.975661"
+    "date_extracted": "2025-04-05T21:09:30.232798"
   },
   {
     "platform": "Teams",
@@ -41,7 +41,7 @@
     "thread_id": null,
     "timestamp": "2022-10-17T13:08:11.703Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:13.975969"
+    "date_extracted": "2025-04-05T21:09:30.232995"
   },
   {
     "platform": "Teams",
@@ -52,7 +52,7 @@
     "thread_id": null,
     "timestamp": "2022-10-12T18:23:46.846Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:13.976350"
+    "date_extracted": "2025-04-05T21:09:30.233230"
   },
   {
     "platform": "Teams",
@@ -63,7 +63,7 @@
     "thread_id": null,
     "timestamp": "2022-07-13T14:30:47.436Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:13.976726"
+    "date_extracted": "2025-04-05T21:09:30.233458"
   },
   {
     "platform": "Teams",
@@ -74,7 +74,7 @@
     "thread_id": null,
     "timestamp": "2022-05-10T16:41:27.398Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:04.444305"
+    "date_extracted": "2025-04-05T21:09:29.404970"
   },
   {
     "platform": "Teams",
@@ -85,7 +85,7 @@
     "thread_id": null,
     "timestamp": "2022-05-24T15:00:23.964Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:16.732967"
+    "date_extracted": "2025-04-05T21:09:34.207698"
   },
   {
     "platform": "Teams",
@@ -96,7 +96,7 @@
     "thread_id": null,
     "timestamp": "2022-04-18T17:15:18.465Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:16.733476"
+    "date_extracted": "2025-04-05T21:09:34.208291"
   },
   {
     "platform": "Teams",
@@ -107,7 +107,7 @@
     "thread_id": null,
     "timestamp": "2022-04-06T16:17:08.348Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:16.733840"
+    "date_extracted": "2025-04-05T21:09:34.208723"
   },
   {
     "platform": "Teams",
@@ -118,7 +118,7 @@
     "thread_id": null,
     "timestamp": "2022-04-04T21:03:00.628Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:16.734187"
+    "date_extracted": "2025-04-05T21:09:34.209141"
   },
   {
     "platform": "Teams",
@@ -129,7 +129,7 @@
     "thread_id": null,
     "timestamp": "2022-04-05T19:40:41.535Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:16.734608"
+    "date_extracted": "2025-04-05T21:09:34.209631"
   },
   {
     "platform": "Teams",
@@ -140,7 +140,7 @@
     "thread_id": null,
     "timestamp": "2022-04-04T21:02:23.312Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:16.734996"
+    "date_extracted": "2025-04-05T21:09:34.210084"
   },
   {
     "platform": "Teams",
@@ -151,7 +151,7 @@
     "thread_id": null,
     "timestamp": "2022-04-05T16:15:24.196Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:16.735171"
+    "date_extracted": "2025-04-05T21:09:34.210314"
   },
   {
     "platform": "Teams",
@@ -162,7 +162,7 @@
     "thread_id": null,
     "timestamp": "2022-05-12T19:15:05.296Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:10.759775"
+    "date_extracted": "2025-04-05T21:09:30.409820"
   },
   {
     "platform": "Teams",
@@ -173,18 +173,7 @@
     "thread_id": null,
     "timestamp": "2022-05-12T18:45:47.29Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:10.760186"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1620826877437",
-    "chat_from": "Tamara Thorpe",
-    "channel": "Associate Onboarding 2021 / Training",
-    "message": "Hello everyone! Super excited to have this space to chat.",
-    "thread_id": null,
-    "timestamp": "2021-05-12T13:41:17.437Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:10.931911"
+    "date_extracted": "2025-04-05T21:09:30.410022"
   },
   {
     "platform": "Teams",
@@ -195,7 +184,7 @@
     "thread_id": null,
     "timestamp": "2021-05-17T16:20:21.396Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:11.251001"
+    "date_extracted": "2025-04-05T21:09:30.961113"
   },
   {
     "platform": "Teams",
@@ -206,7 +195,18 @@
     "thread_id": null,
     "timestamp": "2021-05-13T19:09:44.237Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:11.251727"
+    "date_extracted": "2025-04-05T21:09:30.961552"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1620826877437",
+    "chat_from": "Tamara Thorpe",
+    "channel": "Associate Onboarding 2021 / Training",
+    "message": "Hello everyone! Super excited to have this space to chat.",
+    "thread_id": null,
+    "timestamp": "2021-05-12T13:41:17.437Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:31.099507"
   },
   {
     "platform": "Teams",
@@ -217,7 +217,7 @@
     "thread_id": null,
     "timestamp": "2022-06-30T15:08:04.738Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.804528"
+    "date_extracted": "2025-04-05T21:09:31.852084"
   },
   {
     "platform": "Teams",
@@ -228,7 +228,7 @@
     "thread_id": null,
     "timestamp": "2022-02-07T16:18:40.471Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.805351"
+    "date_extracted": "2025-04-05T21:09:31.852755"
   },
   {
     "platform": "Teams",
@@ -239,7 +239,7 @@
     "thread_id": null,
     "timestamp": "2022-01-19T21:49:11.503Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.805590"
+    "date_extracted": "2025-04-05T21:09:31.852946"
   },
   {
     "platform": "Teams",
@@ -250,7 +250,7 @@
     "thread_id": null,
     "timestamp": "2021-12-03T14:51:25.271Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.806162"
+    "date_extracted": "2025-04-05T21:09:31.853445"
   },
   {
     "platform": "Teams",
@@ -261,7 +261,7 @@
     "thread_id": null,
     "timestamp": "2021-11-17T18:08:45.625Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.806840"
+    "date_extracted": "2025-04-05T21:09:31.853916"
   },
   {
     "platform": "Teams",
@@ -272,7 +272,7 @@
     "thread_id": null,
     "timestamp": "2021-09-20T15:42:22.237Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.814892"
+    "date_extracted": "2025-04-05T21:09:31.856663"
   },
   {
     "platform": "Teams",
@@ -283,7 +283,7 @@
     "thread_id": null,
     "timestamp": "2021-09-09T16:25:26.403Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.815839"
+    "date_extracted": "2025-04-05T21:09:31.857167"
   },
   {
     "platform": "Teams",
@@ -294,7 +294,7 @@
     "thread_id": null,
     "timestamp": "2021-09-09T16:21:05.608Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.815850"
+    "date_extracted": "2025-04-05T21:09:31.857173"
   },
   {
     "platform": "Teams",
@@ -305,7 +305,7 @@
     "thread_id": null,
     "timestamp": "2021-07-27T20:11:36.783Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.816344"
+    "date_extracted": "2025-04-05T21:09:31.857452"
   },
   {
     "platform": "Teams",
@@ -316,7 +316,7 @@
     "thread_id": null,
     "timestamp": "2021-07-12T21:00:43.808Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.816749"
+    "date_extracted": "2025-04-05T21:09:31.857678"
   },
   {
     "platform": "Teams",
@@ -327,7 +327,7 @@
     "thread_id": null,
     "timestamp": "2021-07-12T22:11:57.823Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.817086"
+    "date_extracted": "2025-04-05T21:09:31.857875"
   },
   {
     "platform": "Teams",
@@ -338,7 +338,7 @@
     "thread_id": null,
     "timestamp": "2021-07-12T21:00:49.46Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.817399"
+    "date_extracted": "2025-04-05T21:09:31.858050"
   },
   {
     "platform": "Teams",
@@ -349,7 +349,7 @@
     "thread_id": null,
     "timestamp": "2021-07-09T02:32:01.658Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.817665"
+    "date_extracted": "2025-04-05T21:09:31.858198"
   },
   {
     "platform": "Teams",
@@ -360,7 +360,7 @@
     "thread_id": null,
     "timestamp": "2021-07-07T15:07:38.818Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.818103"
+    "date_extracted": "2025-04-05T21:09:31.858475"
   },
   {
     "platform": "Teams",
@@ -371,7 +371,7 @@
     "thread_id": null,
     "timestamp": "2021-07-01T13:26:29.019Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.818648"
+    "date_extracted": "2025-04-05T21:09:31.858777"
   },
   {
     "platform": "Teams",
@@ -382,7 +382,7 @@
     "thread_id": null,
     "timestamp": "2021-06-30T16:07:34.817Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.819163"
+    "date_extracted": "2025-04-05T21:09:31.859440"
   },
   {
     "platform": "Teams",
@@ -393,7 +393,7 @@
     "thread_id": null,
     "timestamp": "2021-06-29T22:54:09.118Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.820128"
+    "date_extracted": "2025-04-05T21:09:31.859982"
   },
   {
     "platform": "Teams",
@@ -404,7 +404,7 @@
     "thread_id": null,
     "timestamp": "2021-06-29T16:12:04.14Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.820891"
+    "date_extracted": "2025-04-05T21:09:31.860341"
   },
   {
     "platform": "Teams",
@@ -415,7 +415,7 @@
     "thread_id": null,
     "timestamp": "2021-06-23T19:11:24.227Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.821464"
+    "date_extracted": "2025-04-05T21:09:31.860632"
   },
   {
     "platform": "Teams",
@@ -426,7 +426,7 @@
     "thread_id": null,
     "timestamp": "2021-06-17T20:21:41.445Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.821651"
+    "date_extracted": "2025-04-05T21:09:31.860729"
   },
   {
     "platform": "Teams",
@@ -437,7 +437,7 @@
     "thread_id": null,
     "timestamp": "2021-06-17T17:30:08.587Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.821942"
+    "date_extracted": "2025-04-05T21:09:31.860884"
   },
   {
     "platform": "Teams",
@@ -448,7 +448,7 @@
     "thread_id": null,
     "timestamp": "2021-06-17T17:26:08.868Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.822241"
+    "date_extracted": "2025-04-05T21:09:31.861045"
   },
   {
     "platform": "Teams",
@@ -459,7 +459,7 @@
     "thread_id": null,
     "timestamp": "2021-06-17T16:33:14.89Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.822415"
+    "date_extracted": "2025-04-05T21:09:31.861137"
   },
   {
     "platform": "Teams",
@@ -470,7 +470,7 @@
     "thread_id": null,
     "timestamp": "2021-06-16T19:56:29.368Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.822968"
+    "date_extracted": "2025-04-05T21:09:31.861441"
   },
   {
     "platform": "Teams",
@@ -481,7 +481,7 @@
     "thread_id": null,
     "timestamp": "2021-06-02T22:16:16.183Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.823367"
+    "date_extracted": "2025-04-05T21:09:31.861655"
   },
   {
     "platform": "Teams",
@@ -492,7 +492,7 @@
     "thread_id": null,
     "timestamp": "2021-05-21T15:00:38.74Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.823542"
+    "date_extracted": "2025-04-05T21:09:31.861746"
   },
   {
     "platform": "Teams",
@@ -503,7 +503,7 @@
     "thread_id": null,
     "timestamp": "2021-05-18T17:07:42.507Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.823690"
+    "date_extracted": "2025-04-05T21:09:31.861834"
   },
   {
     "platform": "Teams",
@@ -514,7 +514,7 @@
     "thread_id": null,
     "timestamp": "2021-05-13T20:21:48.805Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.824189"
+    "date_extracted": "2025-04-05T21:09:31.862113"
   },
   {
     "platform": "Teams",
@@ -525,62 +525,7 @@
     "thread_id": null,
     "timestamp": "2021-05-12T18:42:49.191Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:14.824992"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1650654119928",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
-    "message": "Thanks for capturing these notes. I think based on this early feedback, it will be exciting to see what you take away from modules such as \"Fostering Collaboration\".",
-    "thread_id": null,
-    "timestamp": "2022-04-22T19:01:59.928Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:03.376079"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1650311888242",
-    "chat_from": "Tahitia Timmons",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
-    "message": "Kelly Salek Grace Vottero Jake Pieczynski Is this week too soon to schedule the discussion for Culture & Identity? I scheduled the first one this Thursday per the slide calendar - hopefully this gives everyone enough time. I am also open to Friday too.",
-    "thread_id": null,
-    "timestamp": "2022-04-18T19:58:08.242Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:03.376853"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1650042380912",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
-    "message": "Hello Spring 2022 Cohort! Here is the link to your eLearning for this week: https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=a30008f9-a4cd-4601-b9a5-7a77c3f88d8d (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=a30008f9-a4cd-4601-b9a5-7a77c3f88d8d)",
-    "thread_id": null,
-    "timestamp": "2022-04-15T17:06:20.912Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:03.377565"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1621432264671",
-    "chat_from": "Briza Cardenas",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
-    "message": "Happy Wednesday! By now your captain should have scheduled your debrief for this week. Once you have completed the eLearning make sure to use the questions in the Reflect section to help you think through and prepare for your debrief. We ask you to complete the survey below after completing the eLearning and before attending your group debrief. https://www.surveymonkey.com/r/week1_buddy_program (https://www.surveymonkey.com/r/week1_buddy_program) This survey is designed to let us know from a product point of view what if anything needs to be updated or removed. If you have any questions feel free to reach out.",
-    "thread_id": null,
-    "timestamp": "2021-05-19T13:51:04.671Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:03.380092"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1620933097922",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
-    "message": "After you and your team have your first meeting to discuss \"Culture & Identity\" -- click on the \"WIKI\" tab above, to share your insights or a summary of them.",
-    "thread_id": null,
-    "timestamp": "2021-05-13T19:11:37.922Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:03.380515"
+    "date_extracted": "2025-04-05T21:09:31.862561"
   },
   {
     "platform": "Teams",
@@ -591,7 +536,7 @@
     "thread_id": null,
     "timestamp": "2021-06-28T19:43:29.313Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:05.296822"
+    "date_extracted": "2025-04-05T21:09:27.507799"
   },
   {
     "platform": "Teams",
@@ -602,7 +547,7 @@
     "thread_id": null,
     "timestamp": "2021-06-28T19:42:31.638Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:05.296845"
+    "date_extracted": "2025-04-05T21:09:27.507813"
   },
   {
     "platform": "Teams",
@@ -613,7 +558,7 @@
     "thread_id": null,
     "timestamp": "2021-06-01T19:05:51.329Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:05.299711"
+    "date_extracted": "2025-04-05T21:09:27.509571"
   },
   {
     "platform": "Teams",
@@ -624,7 +569,7 @@
     "thread_id": null,
     "timestamp": "2021-06-01T19:04:02.1Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:05.302406"
+    "date_extracted": "2025-04-05T21:09:27.516533"
   },
   {
     "platform": "Teams",
@@ -635,183 +580,62 @@
     "thread_id": null,
     "timestamp": "2021-06-01T18:33:52.161Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:05.304490"
+    "date_extracted": "2025-04-05T21:09:27.517823"
   },
   {
     "platform": "Teams",
-    "chat_id": "1624909669089",
+    "chat_id": "1650654119928",
     "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 2 - Practicing Inclusion",
-    "message": "Conner Williams Keri Luo Larry Baker - can you please elaborate what is meant in your 3rd bullet by \"and just some general cleaning\"?",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
+    "message": "Thanks for capturing these notes. I think based on this early feedback, it will be exciting to see what you take away from modules such as \"Fostering Collaboration\".",
     "thread_id": null,
-    "timestamp": "2021-06-28T19:47:49.089Z",
+    "timestamp": "2022-04-22T19:01:59.928Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:07.398471"
+    "date_extracted": "2025-04-05T21:09:27.960013"
   },
   {
     "platform": "Teams",
-    "chat_id": "1624910403155",
+    "chat_id": "1650311888242",
+    "chat_from": "Tahitia Timmons",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
+    "message": "Kelly Salek Grace Vottero Jake Pieczynski Is this week too soon to schedule the discussion for Culture & Identity? I scheduled the first one this Thursday per the slide calendar - hopefully this gives everyone enough time. I am also open to Friday too.",
+    "thread_id": null,
+    "timestamp": "2022-04-18T19:58:08.242Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:27.960505"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1650042380912",
     "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 2 - Practicing Inclusion",
-    "message": "Jeffrey Cookson LaQuanda Murray Melissa Neu Dustin Puehler Tamara Thorpe Briza Cardenas - I left you a coupe of notes in orange.",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
+    "message": "Hello Spring 2022 Cohort! Here is the link to your eLearning for this week: https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=a30008f9-a4cd-4601-b9a5-7a77c3f88d8d (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=a30008f9-a4cd-4601-b9a5-7a77c3f88d8d)",
     "thread_id": null,
-    "timestamp": "2021-06-28T20:00:03.155Z",
+    "timestamp": "2022-04-15T17:06:20.912Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:07.399420"
+    "date_extracted": "2025-04-05T21:09:27.960858"
   },
   {
     "platform": "Teams",
-    "chat_id": "1624910203452",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 2 - Practicing Inclusion",
-    "message": "Nicole Barile Jose Guardado Kendall Washington - I left a quick note for you in orange .",
-    "thread_id": null,
-    "timestamp": "2021-06-28T19:56:43.452Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:07.400367"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1624910136658",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 2 - Practicing Inclusion",
-    "message": "Vince Bongiovanni Chuck Adams Randy Pringle Daniel Gough Alsu Schondelmayer Ada Vargas - I left a few notes for you in orange. Thank you!",
-    "thread_id": null,
-    "timestamp": "2021-06-28T19:55:36.658Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:07.401357"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1621868994647",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 2 - Practicing Inclusion",
-    "message": "Hello all! Hopefully you have completed your Week 1 discussions with your team and captured some notes in the Week 1 summary section. Lesson 2 is posted in the \"Files\" section of this channel, and also are included for convenience below. Note that the Qs in the the \u201capply\u201d section will be used to center your Team dialogue. Also, the correct links to the eLearning modules are contained on page 1 in the lesson. We will also share a Surveymonkey link soon where people can register their comments on the modules with a view towards updates. Intro to Managing Unconscious Bias : https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=af636ae1-2ed6-436a-859c-43a36992f756 (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=af636ae1-2ed6-436a-859c-43a36992f756) UPDATED - Practicing Inclusion: https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=6e5ef4e4-1ee5-463d-8eb8-8691df03128a (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=6e5ef4e4-1ee5-463d-8eb8-8691df03128a)",
-    "thread_id": null,
-    "timestamp": "2021-05-24T15:09:54.647Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:07.406169"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1621961946858",
+    "chat_id": "1621432264671",
     "chat_from": "Briza Cardenas",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 2 - Practicing Inclusion",
-    "message": "",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
+    "message": "Happy Wednesday! By now your captain should have scheduled your debrief for this week. Once you have completed the eLearning make sure to use the questions in the Reflect section to help you think through and prepare for your debrief. We ask you to complete the survey below after completing the eLearning and before attending your group debrief. https://www.surveymonkey.com/r/week1_buddy_program (https://www.surveymonkey.com/r/week1_buddy_program) This survey is designed to let us know from a product point of view what if anything needs to be updated or removed. If you have any questions feel free to reach out.",
     "thread_id": null,
-    "timestamp": "2021-05-25T16:59:06.858Z",
+    "timestamp": "2021-05-19T13:51:04.671Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:07.406192"
+    "date_extracted": "2025-04-05T21:09:27.962541"
   },
   {
     "platform": "Teams",
-    "chat_id": "1624908372877",
+    "chat_id": "1620933097922",
     "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 4 - Fostering Collaboration and Embedding Inc",
-    "message": "Hello Nicole Barile Jose Guardado Kendall Washington ! Can you elaborate on your last bullett under Embedding Inclusion. Are you saying you are all 3 in agreement that the module is a \"boring session\" -- or was there one piece of it that was? And is the idea that your 4 bullets above would make it less boring? Any elaboration would be much appreciated. Thank you!",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
+    "message": "After you and your team have your first meeting to discuss \"Culture & Identity\" -- click on the \"WIKI\" tab above, to share your insights or a summary of them.",
     "thread_id": null,
-    "timestamp": "2021-06-28T19:26:12.877Z",
+    "timestamp": "2021-05-13T19:11:37.922Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:07.471521"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1624908992868",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 4 - Fostering Collaboration and Embedding Inc",
-    "message": "Jeffrey Cookson LaQuanda Murray Briza Cardenas Tamara Thorpe Dustin Puehler Melissa Neu - can you please elaborate as to what is meant when you ask \"Is there an opportunity for both courses to bring in different voices?\" and how specifically you recommend doing that -- are you saying different voice overs? or different images on screen? or or or or??? thank you!",
-    "thread_id": null,
-    "timestamp": "2021-06-28T19:36:32.868Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:07.472711"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1624908707935",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 4 - Fostering Collaboration and Embedding Inc",
-    "message": "Emani Richmond Sarah Nodarse Maria Fagrelius -- can you elaborate on the point under your first bullet where you said LCW has \"no culture\". I realize you then went on to talk about it as individualistic in the past and that the culture is emerging -- but would love to better understand your first idea that there seems to be no culture. Thank you!",
-    "thread_id": null,
-    "timestamp": "2021-06-28T19:31:47.935Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:07.473452"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1623281582707",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 4 - Fostering Collaboration and Embedding Inc",
-    "message": "Hello all! This week's Lesson is now available in the \"Files\" section on teams. Tagging the Captains to help push this file out to their teams -- Ada Vargas Briza Cardenas Vince Bongiovanni Amir Ghazaleh Kendall Washington Conner Williams Emani Richmond Melissa Neu",
-    "thread_id": null,
-    "timestamp": "2021-06-09T23:33:02.707Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:07.474587"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1623169583515",
-    "chat_from": "Briza Cardenas",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 4 - Fostering Collaboration and Embedding Inc",
-    "message": "For your convenience, here are the links to the 2 modules for this week: Fostering Collaboration (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=787bc9d3-9a47-4367-996a-76ff8905e93a) Embedding Inclusion (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=9114bd0f-9538-41d4-8078-d2cd1cf95194)",
-    "thread_id": null,
-    "timestamp": "2021-06-08T16:26:23.515Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:07.475901"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1623165948667",
-    "chat_from": "Briza Cardenas",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 4 - Fostering Collaboration and Embedding Inc",
-    "message": "Hello Everyone! Below are the (2) Surveymonkey links for this week\u2019s modules. https://www.surveymonkey.com/r/Week4_Fostering_Collaboration (https://www.surveymonkey.com/r/Week4_Fostering_Collaboration) https://www.surveymonkey.com/r/Week_4_Embedding_Inclusion (https://www.surveymonkey.com/r/Week_4_Embedding_Inclusion)",
-    "thread_id": null,
-    "timestamp": "2021-06-08T15:25:48.667Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:07.477522"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1624908164848",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 5- Evaluating, Hiring, Promoting Top Talent",
-    "message": "Jeffrey Cookson LaQuanda Murray Briza Cardenas Tamara Thorpe Dustin Puehler Melissa Neu -- can you elaborate on these bullets: \" In general, we would love to see more voices in all eLearning\u2019s, which will help make changes easier.\" and also the last bullet on \"Content\" and the subbullets that follow -- unclear and seems a nonsequitur given the bullet above it...",
-    "thread_id": null,
-    "timestamp": "2021-06-28T19:22:44.848Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:09.189935"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1623801550373",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 5- Evaluating, Hiring, Promoting Top Talent",
-    "message": "Hello again! Your week 5 Lesson has been posted in the \"FILES\" section. Tagging Captains to push the lesson out to their teams. Ada Vargas Amir Ghazaleh Vince Bongiovanni Kendall Washington Conner Williams Briza Cardenas Melissa Neu Emani Richmond",
-    "thread_id": null,
-    "timestamp": "2021-06-15T23:59:10.373Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:09.191028"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1623780837593",
-    "chat_from": "Briza Cardenas",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 5- Evaluating, Hiring, Promoting Top Talent",
-    "message": "Hello Everyone! Below are the (2) Surveymonkey links for this week\u2019s modules. https://www.surveymonkey.com/r/Week_5_Evaluating_Talent_Inclusively (https://www.surveymonkey.com/r/Week_5_Evaluating_Talent_Inclusively) https://www.surveymonkey.com/r/Week_5_Hiring_and_Promoting_Top_Talent (https://www.surveymonkey.com/r/Week_5_Hiring_and_Promoting_Top_Talent)",
-    "thread_id": null,
-    "timestamp": "2021-06-15T18:13:57.593Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:09.192643"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1623705094760",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 5- Evaluating, Hiring, Promoting Top Talent",
-    "message": "Hello there! Here are the links (for your convenience) to this week's eLearnings. Evaluating Talent Inclusively (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=2879d99a-28fd-47ed-a6c4-e181029c1d2b) Hiring & Promoting Top Talent (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=90e3609d-2847-4949-ab30-5da21a28ebf4)",
-    "thread_id": null,
-    "timestamp": "2021-06-14T21:11:34.76Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:09.193532"
+    "date_extracted": "2025-04-05T21:09:27.962805"
   },
   {
     "platform": "Teams",
@@ -822,7 +646,7 @@
     "thread_id": null,
     "timestamp": "2021-07-12T22:23:45.113Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:10.280552"
+    "date_extracted": "2025-04-05T21:09:28.665872"
   },
   {
     "platform": "Teams",
@@ -833,7 +657,7 @@
     "thread_id": null,
     "timestamp": "2021-07-12T20:35:36.297Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:10.281057"
+    "date_extracted": "2025-04-05T21:09:28.666226"
   },
   {
     "platform": "Teams",
@@ -844,7 +668,7 @@
     "thread_id": null,
     "timestamp": "2021-07-06T15:48:35.115Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:10.282495"
+    "date_extracted": "2025-04-05T21:09:28.667181"
   },
   {
     "platform": "Teams",
@@ -855,7 +679,183 @@
     "thread_id": null,
     "timestamp": "2021-07-06T12:34:47.945Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:10.283240"
+    "date_extracted": "2025-04-05T21:09:28.667691"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1624908372877",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 4 - Fostering Collaboration and Embedding Inc",
+    "message": "Hello Nicole Barile Jose Guardado Kendall Washington ! Can you elaborate on your last bullett under Embedding Inclusion. Are you saying you are all 3 in agreement that the module is a \"boring session\" -- or was there one piece of it that was? And is the idea that your 4 bullets above would make it less boring? Any elaboration would be much appreciated. Thank you!",
+    "thread_id": null,
+    "timestamp": "2021-06-28T19:26:12.877Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:29.176738"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1624908992868",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 4 - Fostering Collaboration and Embedding Inc",
+    "message": "Jeffrey Cookson LaQuanda Murray Briza Cardenas Tamara Thorpe Dustin Puehler Melissa Neu - can you please elaborate as to what is meant when you ask \"Is there an opportunity for both courses to bring in different voices?\" and how specifically you recommend doing that -- are you saying different voice overs? or different images on screen? or or or or??? thank you!",
+    "thread_id": null,
+    "timestamp": "2021-06-28T19:36:32.868Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:29.177473"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1624908707935",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 4 - Fostering Collaboration and Embedding Inc",
+    "message": "Emani Richmond Sarah Nodarse Maria Fagrelius -- can you elaborate on the point under your first bullet where you said LCW has \"no culture\". I realize you then went on to talk about it as individualistic in the past and that the culture is emerging -- but would love to better understand your first idea that there seems to be no culture. Thank you!",
+    "thread_id": null,
+    "timestamp": "2021-06-28T19:31:47.935Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:29.177939"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1623281582707",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 4 - Fostering Collaboration and Embedding Inc",
+    "message": "Hello all! This week's Lesson is now available in the \"Files\" section on teams. Tagging the Captains to help push this file out to their teams -- Ada Vargas Briza Cardenas Vince Bongiovanni Amir Ghazaleh Kendall Washington Conner Williams Emani Richmond Melissa Neu",
+    "thread_id": null,
+    "timestamp": "2021-06-09T23:33:02.707Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:29.178709"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1623169583515",
+    "chat_from": "Briza Cardenas",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 4 - Fostering Collaboration and Embedding Inc",
+    "message": "For your convenience, here are the links to the 2 modules for this week: Fostering Collaboration (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=787bc9d3-9a47-4367-996a-76ff8905e93a) Embedding Inclusion (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=9114bd0f-9538-41d4-8078-d2cd1cf95194)",
+    "thread_id": null,
+    "timestamp": "2021-06-08T16:26:23.515Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:29.179719"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1623165948667",
+    "chat_from": "Briza Cardenas",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 4 - Fostering Collaboration and Embedding Inc",
+    "message": "Hello Everyone! Below are the (2) Surveymonkey links for this week\u2019s modules. https://www.surveymonkey.com/r/Week4_Fostering_Collaboration (https://www.surveymonkey.com/r/Week4_Fostering_Collaboration) https://www.surveymonkey.com/r/Week_4_Embedding_Inclusion (https://www.surveymonkey.com/r/Week_4_Embedding_Inclusion)",
+    "thread_id": null,
+    "timestamp": "2021-06-08T15:25:48.667Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:29.180903"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1624909669089",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 2 - Practicing Inclusion",
+    "message": "Conner Williams Keri Luo Larry Baker - can you please elaborate what is meant in your 3rd bullet by \"and just some general cleaning\"?",
+    "thread_id": null,
+    "timestamp": "2021-06-28T19:47:49.089Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:29.338350"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1624910403155",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 2 - Practicing Inclusion",
+    "message": "Jeffrey Cookson LaQuanda Murray Melissa Neu Dustin Puehler Tamara Thorpe Briza Cardenas - I left you a coupe of notes in orange.",
+    "thread_id": null,
+    "timestamp": "2021-06-28T20:00:03.155Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:29.338966"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1624910203452",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 2 - Practicing Inclusion",
+    "message": "Nicole Barile Jose Guardado Kendall Washington - I left a quick note for you in orange .",
+    "thread_id": null,
+    "timestamp": "2021-06-28T19:56:43.452Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:29.339529"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1624910136658",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 2 - Practicing Inclusion",
+    "message": "Vince Bongiovanni Chuck Adams Randy Pringle Daniel Gough Alsu Schondelmayer Ada Vargas - I left a few notes for you in orange. Thank you!",
+    "thread_id": null,
+    "timestamp": "2021-06-28T19:55:36.658Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:29.340194"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1621868994647",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 2 - Practicing Inclusion",
+    "message": "Hello all! Hopefully you have completed your Week 1 discussions with your team and captured some notes in the Week 1 summary section. Lesson 2 is posted in the \"Files\" section of this channel, and also are included for convenience below. Note that the Qs in the the \u201capply\u201d section will be used to center your Team dialogue. Also, the correct links to the eLearning modules are contained on page 1 in the lesson. We will also share a Surveymonkey link soon where people can register their comments on the modules with a view towards updates. Intro to Managing Unconscious Bias : https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=af636ae1-2ed6-436a-859c-43a36992f756 (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=af636ae1-2ed6-436a-859c-43a36992f756) UPDATED - Practicing Inclusion: https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=6e5ef4e4-1ee5-463d-8eb8-8691df03128a (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=6e5ef4e4-1ee5-463d-8eb8-8691df03128a)",
+    "thread_id": null,
+    "timestamp": "2021-05-24T15:09:54.647Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:29.343922"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1621961946858",
+    "chat_from": "Briza Cardenas",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 2 - Practicing Inclusion",
+    "message": "",
+    "thread_id": null,
+    "timestamp": "2021-05-25T16:59:06.858Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:29.343935"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1624908164848",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 5- Evaluating, Hiring, Promoting Top Talent",
+    "message": "Jeffrey Cookson LaQuanda Murray Briza Cardenas Tamara Thorpe Dustin Puehler Melissa Neu -- can you elaborate on these bullets: \" In general, we would love to see more voices in all eLearning\u2019s, which will help make changes easier.\" and also the last bullet on \"Content\" and the subbullets that follow -- unclear and seems a nonsequitur given the bullet above it...",
+    "thread_id": null,
+    "timestamp": "2021-06-28T19:22:44.848Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:30.133302"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1623801550373",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 5- Evaluating, Hiring, Promoting Top Talent",
+    "message": "Hello again! Your week 5 Lesson has been posted in the \"FILES\" section. Tagging Captains to push the lesson out to their teams. Ada Vargas Amir Ghazaleh Vince Bongiovanni Kendall Washington Conner Williams Briza Cardenas Melissa Neu Emani Richmond",
+    "thread_id": null,
+    "timestamp": "2021-06-15T23:59:10.373Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:30.133963"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1623780837593",
+    "chat_from": "Briza Cardenas",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 5- Evaluating, Hiring, Promoting Top Talent",
+    "message": "Hello Everyone! Below are the (2) Surveymonkey links for this week\u2019s modules. https://www.surveymonkey.com/r/Week_5_Evaluating_Talent_Inclusively (https://www.surveymonkey.com/r/Week_5_Evaluating_Talent_Inclusively) https://www.surveymonkey.com/r/Week_5_Hiring_and_Promoting_Top_Talent (https://www.surveymonkey.com/r/Week_5_Hiring_and_Promoting_Top_Talent)",
+    "thread_id": null,
+    "timestamp": "2021-06-15T18:13:57.593Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:30.134639"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1623705094760",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 5- Evaluating, Hiring, Promoting Top Talent",
+    "message": "Hello there! Here are the links (for your convenience) to this week's eLearnings. Evaluating Talent Inclusively (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=2879d99a-28fd-47ed-a6c4-e181029c1d2b) Hiring & Promoting Top Talent (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=90e3609d-2847-4949-ab30-5da21a28ebf4)",
+    "thread_id": null,
+    "timestamp": "2021-06-14T21:11:34.76Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:30.135001"
   },
   {
     "platform": "Teams",
@@ -866,7 +866,7 @@
     "thread_id": null,
     "timestamp": "2022-04-15T17:11:04.097Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:20.839025"
+    "date_extracted": "2025-04-05T21:09:38.986767"
   },
   {
     "platform": "Teams",
@@ -877,7 +877,7 @@
     "thread_id": null,
     "timestamp": "2021-09-09T13:57:04.911Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:20.839662"
+    "date_extracted": "2025-04-05T21:09:38.987232"
   },
   {
     "platform": "Teams",
@@ -888,7 +888,7 @@
     "thread_id": null,
     "timestamp": "2023-11-14T14:19:41.956Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.627334"
+    "date_extracted": "2025-04-05T21:09:43.681893"
   },
   {
     "platform": "Teams",
@@ -899,7 +899,7 @@
     "thread_id": null,
     "timestamp": "2023-04-28T17:04:01.245Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.627673"
+    "date_extracted": "2025-04-05T21:09:43.682120"
   },
   {
     "platform": "Teams",
@@ -910,7 +910,7 @@
     "thread_id": null,
     "timestamp": "2023-04-28T15:48:54.523Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.628594"
+    "date_extracted": "2025-04-05T21:09:43.682634"
   },
   {
     "platform": "Teams",
@@ -921,7 +921,7 @@
     "thread_id": null,
     "timestamp": "2023-03-09T14:19:44.511Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.628938"
+    "date_extracted": "2025-04-05T21:09:43.682752"
   },
   {
     "platform": "Teams",
@@ -932,7 +932,7 @@
     "thread_id": null,
     "timestamp": "2023-02-01T16:30:14.484Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.629556"
+    "date_extracted": "2025-04-05T21:09:43.682990"
   },
   {
     "platform": "Teams",
@@ -943,7 +943,7 @@
     "thread_id": null,
     "timestamp": "2022-09-28T20:34:59.674Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.629947"
+    "date_extracted": "2025-04-05T21:09:43.683141"
   },
   {
     "platform": "Teams",
@@ -954,7 +954,7 @@
     "thread_id": null,
     "timestamp": "2022-09-20T13:41:25.269Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.630236"
+    "date_extracted": "2025-04-05T21:09:43.683246"
   },
   {
     "platform": "Teams",
@@ -965,7 +965,7 @@
     "thread_id": null,
     "timestamp": "2022-09-14T11:36:09.581Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.630975"
+    "date_extracted": "2025-04-05T21:09:43.683522"
   },
   {
     "platform": "Teams",
@@ -976,7 +976,7 @@
     "thread_id": null,
     "timestamp": "2022-09-13T18:49:26.791Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.631498"
+    "date_extracted": "2025-04-05T21:09:43.683742"
   },
   {
     "platform": "Teams",
@@ -987,7 +987,7 @@
     "thread_id": null,
     "timestamp": "2022-08-29T17:53:22.7Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.632031"
+    "date_extracted": "2025-04-05T21:09:43.683998"
   },
   {
     "platform": "Teams",
@@ -998,7 +998,7 @@
     "thread_id": null,
     "timestamp": "2022-06-13T00:55:39.753Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.633004"
+    "date_extracted": "2025-04-05T21:09:43.684241"
   },
   {
     "platform": "Teams",
@@ -1009,7 +1009,7 @@
     "thread_id": null,
     "timestamp": "2022-05-10T14:41:42.96Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.633269"
+    "date_extracted": "2025-04-05T21:09:43.684378"
   },
   {
     "platform": "Teams",
@@ -1020,7 +1020,7 @@
     "thread_id": null,
     "timestamp": "2022-05-10T14:41:03.36Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.633554"
+    "date_extracted": "2025-04-05T21:09:43.684525"
   },
   {
     "platform": "Teams",
@@ -1031,7 +1031,7 @@
     "thread_id": null,
     "timestamp": "2022-05-10T14:39:11.212Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.633866"
+    "date_extracted": "2025-04-05T21:09:43.684721"
   },
   {
     "platform": "Teams",
@@ -1042,7 +1042,7 @@
     "thread_id": null,
     "timestamp": "2022-04-15T15:24:09.33Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.634091"
+    "date_extracted": "2025-04-05T21:09:43.684852"
   },
   {
     "platform": "Teams",
@@ -1053,7 +1053,7 @@
     "thread_id": null,
     "timestamp": "2022-04-04T17:43:33.653Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.634482"
+    "date_extracted": "2025-04-05T21:09:43.685095"
   },
   {
     "platform": "Teams",
@@ -1064,7 +1064,7 @@
     "thread_id": null,
     "timestamp": "2022-04-05T15:32:26.681Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.634641"
+    "date_extracted": "2025-04-05T21:09:43.685195"
   },
   {
     "platform": "Teams",
@@ -1075,7 +1075,7 @@
     "thread_id": null,
     "timestamp": "2022-03-18T15:13:50.115Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.634834"
+    "date_extracted": "2025-04-05T21:09:43.685320"
   },
   {
     "platform": "Teams",
@@ -1086,7 +1086,7 @@
     "thread_id": null,
     "timestamp": "2022-02-24T02:16:35.156Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.635022"
+    "date_extracted": "2025-04-05T21:09:43.685448"
   },
   {
     "platform": "Teams",
@@ -1097,7 +1097,7 @@
     "thread_id": null,
     "timestamp": "2022-02-01T15:35:13.038Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.635207"
+    "date_extracted": "2025-04-05T21:09:43.685574"
   },
   {
     "platform": "Teams",
@@ -1108,7 +1108,7 @@
     "thread_id": null,
     "timestamp": "2022-02-01T15:10:21.2Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.635578"
+    "date_extracted": "2025-04-05T21:09:43.685820"
   },
   {
     "platform": "Teams",
@@ -1119,7 +1119,7 @@
     "thread_id": null,
     "timestamp": "2022-01-26T20:20:11.513Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.635762"
+    "date_extracted": "2025-04-05T21:09:43.685949"
   },
   {
     "platform": "Teams",
@@ -1130,7 +1130,7 @@
     "thread_id": null,
     "timestamp": "2022-01-19T17:48:16.85Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.635944"
+    "date_extracted": "2025-04-05T21:09:43.686072"
   },
   {
     "platform": "Teams",
@@ -1141,7 +1141,7 @@
     "thread_id": null,
     "timestamp": "2022-01-10T21:09:39.556Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.636547"
+    "date_extracted": "2025-04-05T21:09:43.686478"
   },
   {
     "platform": "Teams",
@@ -1152,7 +1152,7 @@
     "thread_id": null,
     "timestamp": "2021-12-20T19:42:32.855Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.636962"
+    "date_extracted": "2025-04-05T21:09:43.686743"
   },
   {
     "platform": "Teams",
@@ -1163,7 +1163,7 @@
     "thread_id": null,
     "timestamp": "2021-12-14T20:11:05.989Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.637389"
+    "date_extracted": "2025-04-05T21:09:43.687030"
   },
   {
     "platform": "Teams",
@@ -1174,7 +1174,7 @@
     "thread_id": null,
     "timestamp": "2021-11-17T14:12:42.825Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.637734"
+    "date_extracted": "2025-04-05T21:09:43.687252"
   },
   {
     "platform": "Teams",
@@ -1185,7 +1185,7 @@
     "thread_id": null,
     "timestamp": "2021-10-06T12:21:22.589Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.637930"
+    "date_extracted": "2025-04-05T21:09:43.687384"
   },
   {
     "platform": "Teams",
@@ -1196,7 +1196,7 @@
     "thread_id": null,
     "timestamp": "2021-10-06T12:18:52.755Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.638131"
+    "date_extracted": "2025-04-05T21:09:43.687508"
   },
   {
     "platform": "Teams",
@@ -1207,7 +1207,7 @@
     "thread_id": null,
     "timestamp": "2021-10-06T12:15:13.611Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.638326"
+    "date_extracted": "2025-04-05T21:09:43.687629"
   },
   {
     "platform": "Teams",
@@ -1218,7 +1218,7 @@
     "thread_id": null,
     "timestamp": "2021-10-28T14:53:03.19Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.638604"
+    "date_extracted": "2025-04-05T21:09:43.687812"
   },
   {
     "platform": "Teams",
@@ -1229,7 +1229,7 @@
     "thread_id": null,
     "timestamp": "2021-10-06T12:13:10.825Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.638792"
+    "date_extracted": "2025-04-05T21:09:43.687941"
   },
   {
     "platform": "Teams",
@@ -1240,7 +1240,7 @@
     "thread_id": null,
     "timestamp": "2021-10-19T19:11:53.004Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.638947"
+    "date_extracted": "2025-04-05T21:09:43.688043"
   },
   {
     "platform": "Teams",
@@ -1251,7 +1251,7 @@
     "thread_id": null,
     "timestamp": "2021-10-06T12:09:23.681Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.639133"
+    "date_extracted": "2025-04-05T21:09:43.688167"
   },
   {
     "platform": "Teams",
@@ -1262,7 +1262,7 @@
     "thread_id": null,
     "timestamp": "2021-10-06T12:07:10.162Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.639329"
+    "date_extracted": "2025-04-05T21:09:43.688290"
   },
   {
     "platform": "Teams",
@@ -1273,7 +1273,7 @@
     "thread_id": null,
     "timestamp": "2021-08-20T16:07:31.936Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.639536"
+    "date_extracted": "2025-04-05T21:09:43.688417"
   },
   {
     "platform": "Teams",
@@ -1284,7 +1284,7 @@
     "thread_id": null,
     "timestamp": "2021-08-06T18:39:50.361Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.639720"
+    "date_extracted": "2025-04-05T21:09:43.688539"
   },
   {
     "platform": "Teams",
@@ -1295,7 +1295,7 @@
     "thread_id": null,
     "timestamp": "2021-09-20T15:49:25.104Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.640260"
+    "date_extracted": "2025-04-05T21:09:43.688873"
   },
   {
     "platform": "Teams",
@@ -1306,7 +1306,7 @@
     "thread_id": null,
     "timestamp": "2021-08-06T18:39:10.887Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.640465"
+    "date_extracted": "2025-04-05T21:09:43.689005"
   },
   {
     "platform": "Teams",
@@ -1317,7 +1317,7 @@
     "thread_id": null,
     "timestamp": "2021-09-13T19:05:38.342Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.640648"
+    "date_extracted": "2025-04-05T21:09:43.689128"
   },
   {
     "platform": "Teams",
@@ -1328,7 +1328,7 @@
     "thread_id": null,
     "timestamp": "2021-08-06T18:38:22.279Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.640830"
+    "date_extracted": "2025-04-05T21:09:43.689250"
   },
   {
     "platform": "Teams",
@@ -1339,7 +1339,7 @@
     "thread_id": null,
     "timestamp": "2021-09-13T18:04:16.456Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.640980"
+    "date_extracted": "2025-04-05T21:09:43.689351"
   },
   {
     "platform": "Teams",
@@ -1350,7 +1350,7 @@
     "thread_id": null,
     "timestamp": "2021-08-06T18:37:44.251Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.641165"
+    "date_extracted": "2025-04-05T21:09:43.689479"
   },
   {
     "platform": "Teams",
@@ -1361,7 +1361,7 @@
     "thread_id": null,
     "timestamp": "2021-09-07T16:32:19.401Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.641446"
+    "date_extracted": "2025-04-05T21:09:43.689663"
   },
   {
     "platform": "Teams",
@@ -1372,7 +1372,7 @@
     "thread_id": null,
     "timestamp": "2021-08-30T20:03:07.575Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.641638"
+    "date_extracted": "2025-04-05T21:09:43.689788"
   },
   {
     "platform": "Teams",
@@ -1383,7 +1383,7 @@
     "thread_id": null,
     "timestamp": "2021-08-30T20:33:21.923Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.643888"
+    "date_extracted": "2025-04-05T21:09:43.691245"
   },
   {
     "platform": "Teams",
@@ -1394,7 +1394,7 @@
     "thread_id": null,
     "timestamp": "2021-08-30T20:22:55.046Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.648524"
+    "date_extracted": "2025-04-05T21:09:43.694452"
   },
   {
     "platform": "Teams",
@@ -1405,7 +1405,7 @@
     "thread_id": null,
     "timestamp": "2021-08-30T20:03:51.762Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.648755"
+    "date_extracted": "2025-04-05T21:09:43.694588"
   },
   {
     "platform": "Teams",
@@ -1416,7 +1416,7 @@
     "thread_id": null,
     "timestamp": "2021-08-30T20:02:00.087Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.648930"
+    "date_extracted": "2025-04-05T21:09:43.694695"
   },
   {
     "platform": "Teams",
@@ -1427,7 +1427,7 @@
     "thread_id": null,
     "timestamp": "2021-08-06T18:37:04.867Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.649157"
+    "date_extracted": "2025-04-05T21:09:43.694828"
   },
   {
     "platform": "Teams",
@@ -1438,7 +1438,7 @@
     "thread_id": null,
     "timestamp": "2021-08-24T16:31:10.41Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.649508"
+    "date_extracted": "2025-04-05T21:09:43.695041"
   },
   {
     "platform": "Teams",
@@ -1449,7 +1449,7 @@
     "thread_id": null,
     "timestamp": "2021-08-06T18:36:24.823Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.649704"
+    "date_extracted": "2025-04-05T21:09:43.695170"
   },
   {
     "platform": "Teams",
@@ -1460,7 +1460,7 @@
     "thread_id": null,
     "timestamp": "2021-08-20T16:09:21.48Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.649895"
+    "date_extracted": "2025-04-05T21:09:43.695305"
   },
   {
     "platform": "Teams",
@@ -1471,7 +1471,7 @@
     "thread_id": null,
     "timestamp": "2021-08-06T18:35:42.77Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.650083"
+    "date_extracted": "2025-04-05T21:09:43.695433"
   },
   {
     "platform": "Teams",
@@ -1482,7 +1482,7 @@
     "thread_id": null,
     "timestamp": "2021-08-16T16:07:05.393Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.650350"
+    "date_extracted": "2025-04-05T21:09:43.695612"
   },
   {
     "platform": "Teams",
@@ -1493,7 +1493,7 @@
     "thread_id": null,
     "timestamp": "2021-08-06T18:34:27.333Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.650537"
+    "date_extracted": "2025-04-05T21:09:43.695737"
   },
   {
     "platform": "Teams",
@@ -1504,7 +1504,7 @@
     "thread_id": null,
     "timestamp": "2021-08-12T19:51:05.21Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.650707"
+    "date_extracted": "2025-04-05T21:09:43.695845"
   },
   {
     "platform": "Teams",
@@ -1515,7 +1515,7 @@
     "thread_id": null,
     "timestamp": "2021-08-09T14:48:44.801Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:24.652285"
+    "date_extracted": "2025-04-05T21:09:43.697646"
   },
   {
     "platform": "Teams",
@@ -1526,7 +1526,7 @@
     "thread_id": null,
     "timestamp": "2022-03-16T15:18:23.601Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:09.138167"
+    "date_extracted": "2025-04-05T21:09:30.101630"
   },
   {
     "platform": "Teams",
@@ -1537,7 +1537,7 @@
     "thread_id": null,
     "timestamp": "2022-02-15T21:38:52.793Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:09.138584"
+    "date_extracted": "2025-04-05T21:09:30.101896"
   },
   {
     "platform": "Teams",
@@ -1548,7 +1548,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T20:58:14.559Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:09.139018"
+    "date_extracted": "2025-04-05T21:09:30.102181"
   },
   {
     "platform": "Teams",
@@ -1559,7 +1559,7 @@
     "thread_id": null,
     "timestamp": "2022-12-20T16:21:04.626Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.426164"
+    "date_extracted": "2025-04-05T21:09:52.371524"
   },
   {
     "platform": "Teams",
@@ -1570,7 +1570,7 @@
     "thread_id": null,
     "timestamp": "2022-11-23T18:41:35.434Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.428331"
+    "date_extracted": "2025-04-05T21:09:52.372984"
   },
   {
     "platform": "Teams",
@@ -1581,7 +1581,7 @@
     "thread_id": null,
     "timestamp": "2022-09-01T20:06:35.355Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.429050"
+    "date_extracted": "2025-04-05T21:09:52.373428"
   },
   {
     "platform": "Teams",
@@ -1592,7 +1592,7 @@
     "thread_id": null,
     "timestamp": "2022-08-08T16:08:24.261Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.429971"
+    "date_extracted": "2025-04-05T21:09:52.374010"
   },
   {
     "platform": "Teams",
@@ -1603,7 +1603,7 @@
     "thread_id": null,
     "timestamp": "2022-08-08T16:01:02.487Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.430895"
+    "date_extracted": "2025-04-05T21:09:52.374551"
   },
   {
     "platform": "Teams",
@@ -1614,7 +1614,7 @@
     "thread_id": null,
     "timestamp": "2022-08-08T15:56:59.695Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.431676"
+    "date_extracted": "2025-04-05T21:09:52.375044"
   },
   {
     "platform": "Teams",
@@ -1625,7 +1625,7 @@
     "thread_id": null,
     "timestamp": "2022-07-21T16:51:48.496Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.432471"
+    "date_extracted": "2025-04-05T21:09:52.375364"
   },
   {
     "platform": "Teams",
@@ -1636,7 +1636,7 @@
     "thread_id": null,
     "timestamp": "2022-07-21T16:46:32.466Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.434137"
+    "date_extracted": "2025-04-05T21:09:52.375679"
   },
   {
     "platform": "Teams",
@@ -1647,7 +1647,7 @@
     "thread_id": null,
     "timestamp": "2022-07-21T16:35:07.35Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.434704"
+    "date_extracted": "2025-04-05T21:09:52.375988"
   },
   {
     "platform": "Teams",
@@ -1658,7 +1658,7 @@
     "thread_id": null,
     "timestamp": "2022-09-07T19:39:03.32Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.434878"
+    "date_extracted": "2025-04-05T21:09:52.376089"
   },
   {
     "platform": "Teams",
@@ -1669,7 +1669,7 @@
     "thread_id": null,
     "timestamp": "2022-07-12T17:19:29.766Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.435514"
+    "date_extracted": "2025-04-05T21:09:52.376471"
   },
   {
     "platform": "Teams",
@@ -1680,7 +1680,7 @@
     "thread_id": null,
     "timestamp": "2022-07-12T17:15:15.379Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.436194"
+    "date_extracted": "2025-04-05T21:09:52.376892"
   },
   {
     "platform": "Teams",
@@ -1691,7 +1691,7 @@
     "thread_id": null,
     "timestamp": "2022-07-12T17:11:46.856Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.436835"
+    "date_extracted": "2025-04-05T21:09:52.377299"
   },
   {
     "platform": "Teams",
@@ -1702,7 +1702,7 @@
     "thread_id": null,
     "timestamp": "2022-07-12T17:08:49.074Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.437445"
+    "date_extracted": "2025-04-05T21:09:52.377672"
   },
   {
     "platform": "Teams",
@@ -1713,7 +1713,7 @@
     "thread_id": null,
     "timestamp": "2022-07-12T17:06:02.043Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.438126"
+    "date_extracted": "2025-04-05T21:09:52.378098"
   },
   {
     "platform": "Teams",
@@ -1724,7 +1724,7 @@
     "thread_id": null,
     "timestamp": "2022-07-12T17:00:33.694Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.439208"
+    "date_extracted": "2025-04-05T21:09:52.378588"
   },
   {
     "platform": "Teams",
@@ -1735,7 +1735,7 @@
     "thread_id": null,
     "timestamp": "2022-07-25T20:39:26.035Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.439398"
+    "date_extracted": "2025-04-05T21:09:52.378695"
   },
   {
     "platform": "Teams",
@@ -1746,7 +1746,7 @@
     "thread_id": null,
     "timestamp": "2022-07-25T20:38:47.96Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.439553"
+    "date_extracted": "2025-04-05T21:09:52.378791"
   },
   {
     "platform": "Teams",
@@ -1757,7 +1757,7 @@
     "thread_id": null,
     "timestamp": "2022-07-25T20:36:45.084Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.439902"
+    "date_extracted": "2025-04-05T21:09:52.378982"
   },
   {
     "platform": "Teams",
@@ -1768,7 +1768,7 @@
     "thread_id": null,
     "timestamp": "2022-03-17T20:28:24.702Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.443969"
+    "date_extracted": "2025-04-05T21:09:52.382391"
   },
   {
     "platform": "Teams",
@@ -1779,7 +1779,7 @@
     "thread_id": null,
     "timestamp": "2022-03-17T20:25:56.905Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.448058"
+    "date_extracted": "2025-04-05T21:09:52.384507"
   },
   {
     "platform": "Teams",
@@ -1790,7 +1790,7 @@
     "thread_id": null,
     "timestamp": "2022-03-18T18:43:59.287Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.448074"
+    "date_extracted": "2025-04-05T21:09:52.384515"
   },
   {
     "platform": "Teams",
@@ -1801,7 +1801,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T21:20:31.295Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.448678"
+    "date_extracted": "2025-04-05T21:09:52.384856"
   },
   {
     "platform": "Teams",
@@ -1812,7 +1812,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T21:08:40.511Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.449357"
+    "date_extracted": "2025-04-05T21:09:52.385222"
   },
   {
     "platform": "Teams",
@@ -1823,7 +1823,7 @@
     "thread_id": null,
     "timestamp": "2022-02-11T18:07:43.866Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.449547"
+    "date_extracted": "2025-04-05T21:09:52.385328"
   },
   {
     "platform": "Teams",
@@ -1834,7 +1834,7 @@
     "thread_id": null,
     "timestamp": "2022-02-11T18:07:42.544Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.449721"
+    "date_extracted": "2025-04-05T21:09:52.385430"
   },
   {
     "platform": "Teams",
@@ -1845,7 +1845,7 @@
     "thread_id": null,
     "timestamp": "2022-02-11T18:07:42.052Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.450420"
+    "date_extracted": "2025-04-05T21:09:52.385533"
   },
   {
     "platform": "Teams",
@@ -1856,7 +1856,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T21:03:39.729Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.451029"
+    "date_extracted": "2025-04-05T21:09:52.385886"
   },
   {
     "platform": "Teams",
@@ -1867,7 +1867,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T20:59:32.108Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.451569"
+    "date_extracted": "2025-04-05T21:09:52.386208"
   },
   {
     "platform": "Teams",
@@ -1878,7 +1878,7 @@
     "thread_id": null,
     "timestamp": "2022-02-07T17:42:04.491Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.451796"
+    "date_extracted": "2025-04-05T21:09:52.386340"
   },
   {
     "platform": "Teams",
@@ -1889,7 +1889,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T20:51:27.921Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.452359"
+    "date_extracted": "2025-04-05T21:09:52.386669"
   },
   {
     "platform": "Teams",
@@ -1900,7 +1900,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T20:46:16.678Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.453573"
+    "date_extracted": "2025-04-05T21:09:52.387378"
   },
   {
     "platform": "Teams",
@@ -1911,6 +1911,6 @@
     "thread_id": null,
     "timestamp": "2022-01-24T21:16:08.96Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:33.454125"
+    "date_extracted": "2025-04-05T21:09:52.387695"
   }
 ]

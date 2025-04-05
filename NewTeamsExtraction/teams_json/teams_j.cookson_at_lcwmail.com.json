@@ -8,7 +8,7 @@
     "thread_id": null,
     "timestamp": "2022-02-22T15:26:52.382Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:33.514951"
+    "date_extracted": "2025-04-05T21:06:21.680859"
   },
   {
     "platform": "Teams",
@@ -19,51 +19,7 @@
     "thread_id": null,
     "timestamp": "2022-02-15T21:39:00.902Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:43.424628"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1631290886665",
-    "chat_from": "Ada Vargas",
-    "channel": "CSAA Equity Audit Team / General",
-    "message": "Emani Richmond sorry about the delay in your prize! Without further a do:",
-    "thread_id": null,
-    "timestamp": "2021-09-10T16:21:26.665Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:46.811200"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1631034034780",
-    "chat_from": "Emani Richmond",
-    "channel": "CSAA Equity Audit Team / General",
-    "message": "I have finished all of my document review and look forward to my 100% prize!!!",
-    "thread_id": null,
-    "timestamp": "2021-09-07T17:00:34.78Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:46.812436"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1631024038888",
-    "chat_from": "Ada Vargas",
-    "channel": "CSAA Equity Audit Team / General",
-    "message": "",
-    "thread_id": null,
-    "timestamp": "2021-09-07T14:13:58.888Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:46.813048"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1631023962174",
-    "chat_from": "Ada Vargas",
-    "channel": "CSAA Equity Audit Team / General",
-    "message": "Good morning! I'm kicking into some document review this morning and wanted to share a motivational Sprite photo. Also to celebrate that Emani Richmond is moving along and more than half way through her document review. Please share your milestones (finishing a document, a section, whatever!) and I'll post more Sprite in different outfits pictures.",
-    "thread_id": null,
-    "timestamp": "2021-09-07T14:12:42.174Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:46.814547"
+    "date_extracted": "2025-04-05T21:06:24.341741"
   },
   {
     "platform": "Teams",
@@ -74,7 +30,7 @@
     "thread_id": null,
     "timestamp": "2022-06-24T17:02:39.313Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.065472"
+    "date_extracted": "2025-04-05T21:06:24.723851"
   },
   {
     "platform": "Teams",
@@ -85,7 +41,7 @@
     "thread_id": null,
     "timestamp": "2022-06-09T19:53:59.69Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.065778"
+    "date_extracted": "2025-04-05T21:06:24.724031"
   },
   {
     "platform": "Teams",
@@ -96,7 +52,7 @@
     "thread_id": null,
     "timestamp": "2022-06-09T01:14:51.385Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.067744"
+    "date_extracted": "2025-04-05T21:06:24.725134"
   },
   {
     "platform": "Teams",
@@ -107,7 +63,7 @@
     "thread_id": null,
     "timestamp": "2022-06-08T22:08:43.442Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.068406"
+    "date_extracted": "2025-04-05T21:06:24.725545"
   },
   {
     "platform": "Teams",
@@ -118,7 +74,7 @@
     "thread_id": null,
     "timestamp": "2022-06-08T21:46:35.071Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.068881"
+    "date_extracted": "2025-04-05T21:06:24.725824"
   },
   {
     "platform": "Teams",
@@ -129,7 +85,7 @@
     "thread_id": null,
     "timestamp": "2022-06-07T15:48:05.779Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.069138"
+    "date_extracted": "2025-04-05T21:06:24.725974"
   },
   {
     "platform": "Teams",
@@ -140,7 +96,7 @@
     "thread_id": null,
     "timestamp": "2022-06-08T18:15:26.166Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.069424"
+    "date_extracted": "2025-04-05T21:06:24.726141"
   },
   {
     "platform": "Teams",
@@ -151,7 +107,7 @@
     "thread_id": null,
     "timestamp": "2022-06-07T19:02:22.829Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.069836"
+    "date_extracted": "2025-04-05T21:06:24.726285"
   },
   {
     "platform": "Teams",
@@ -162,7 +118,7 @@
     "thread_id": null,
     "timestamp": "2022-06-07T15:48:04.091Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.070682"
+    "date_extracted": "2025-04-05T21:06:24.726753"
   },
   {
     "platform": "Teams",
@@ -173,7 +129,7 @@
     "thread_id": null,
     "timestamp": "2022-06-07T15:33:02.767Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.071151"
+    "date_extracted": "2025-04-05T21:06:24.727025"
   },
   {
     "platform": "Teams",
@@ -184,7 +140,7 @@
     "thread_id": null,
     "timestamp": "2022-06-07T14:36:07.568Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.071399"
+    "date_extracted": "2025-04-05T21:06:24.727170"
   },
   {
     "platform": "Teams",
@@ -195,7 +151,7 @@
     "thread_id": null,
     "timestamp": "2022-06-07T13:35:43.936Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.071633"
+    "date_extracted": "2025-04-05T21:06:24.727307"
   },
   {
     "platform": "Teams",
@@ -206,139 +162,51 @@
     "thread_id": null,
     "timestamp": "2022-06-07T13:35:33.581Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.072272"
+    "date_extracted": "2025-04-05T21:06:24.727697"
   },
   {
     "platform": "Teams",
-    "chat_id": "1647443903601",
-    "chat_from": "Andrea Wicks Bowles",
-    "channel": "Scoro/Compass / Your Scoro Ideas",
-    "message": "Thank you for the Pricing chart. Going forward, we might want to add\"last updated\" date, onto forms we use. That way we will know what is current... And can replace the old version we have saved. Cheers~",
+    "chat_id": "1631290886665",
+    "chat_from": "Ada Vargas",
+    "channel": "CSAA Equity Audit Team / General",
+    "message": "Emani Richmond sorry about the delay in your prize! Without further a do:",
     "thread_id": null,
-    "timestamp": "2022-03-16T15:18:23.601Z",
+    "timestamp": "2021-09-10T16:21:26.665Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:42.904616"
+    "date_extracted": "2025-04-05T21:06:25.685081"
   },
   {
     "platform": "Teams",
-    "chat_id": "1644961132793",
-    "chat_from": "Nicole Barile",
-    "channel": "Scoro/Compass / Your Scoro Ideas",
-    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "chat_id": "1631034034780",
+    "chat_from": "Emani Richmond",
+    "channel": "CSAA Equity Audit Team / General",
+    "message": "I have finished all of my document review and look forward to my 100% prize!!!",
     "thread_id": null,
-    "timestamp": "2022-02-15T21:38:52.793Z",
+    "timestamp": "2021-09-07T17:00:34.78Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:43.165288"
+    "date_extracted": "2025-04-05T21:06:25.685249"
   },
   {
     "platform": "Teams",
-    "chat_id": "1643057894559",
-    "chat_from": "Nicole Barile",
-    "channel": "Scoro/Compass / Your Scoro Ideas",
-    "message": "Add your suggestions and ideas to the TASKS tab (in suggestions/ideas ). Your Scoro squad will review twice a month to prioritize and implement as needed.",
-    "thread_id": null,
-    "timestamp": "2022-01-24T20:58:14.559Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:43.165819"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1587654657255",
-    "chat_from": "Sarah Nodarse",
-    "channel": "Product Development Team / Elearning Campaigns and Curated Email Series",
-    "message": "Tanya Stanfield see the contact sheet here in \"Files\"",
-    "thread_id": null,
-    "timestamp": "2020-04-23T15:10:57.255Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:49.006967"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1586446166599",
-    "chat_from": "Mallory Warner",
-    "channel": "Product Development Team / Elearning Campaigns and Curated Email Series",
-    "message": "FYI Tanya and I can execute this idea within the next 2 weeks you can take this off of your list for other consultants. We are running with this idea",
-    "thread_id": null,
-    "timestamp": "2020-04-09T15:29:26.599Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:49.007340"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1586444887315",
-    "chat_from": "Mallory Warner",
-    "channel": "Product Development Team / Elearning Campaigns and Curated Email Series",
+    "chat_id": "1631024038888",
+    "chat_from": "Ada Vargas",
+    "channel": "CSAA Equity Audit Team / General",
     "message": "",
     "thread_id": null,
-    "timestamp": "2020-04-09T15:08:07.315Z",
+    "timestamp": "2021-09-07T14:13:58.888Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:49.007357"
+    "date_extracted": "2025-04-05T21:06:25.685435"
   },
   {
     "platform": "Teams",
-    "chat_id": "1646768675088",
-    "chat_from": "Melissa Neu",
-    "channel": "Product Development Team / Sustainable Culture of Inclusion",
-    "message": "Sarah Nodarse Here is a preliminary list of journals:",
+    "chat_id": "1631023962174",
+    "chat_from": "Ada Vargas",
+    "channel": "CSAA Equity Audit Team / General",
+    "message": "Good morning! I'm kicking into some document review this morning and wanted to share a motivational Sprite photo. Also to celebrate that Emani Richmond is moving along and more than half way through her document review. Please share your milestones (finishing a document, a section, whatever!) and I'll post more Sprite in different outfits pictures.",
     "thread_id": null,
-    "timestamp": "2022-03-08T19:44:35.088Z",
+    "timestamp": "2021-09-07T14:12:42.174Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:27.479091"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1587487940785",
-    "chat_from": "Sarah Nodarse",
-    "channel": "Product Development Team / Sustainable Culture of Inclusion",
-    "message": "The conversation about Kickoff Meeting: April 21, 2020 in Meeting and Project Notes has begun.",
-    "thread_id": null,
-    "timestamp": "2020-04-21T16:52:20.785Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:27.479514"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1587149770172",
-    "chat_from": "Sarah Nodarse",
-    "channel": "Product Development Team / Sustainable Culture of Inclusion",
-    "message": "Chuck Adams I put our proposal here under Files",
-    "thread_id": null,
-    "timestamp": "2020-04-17T18:56:10.172Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:27.479975"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1578339913826",
-    "chat_from": "Mallory Warner",
-    "channel": "OLD - Business Development Team Channel / Social Media - Campaigns",
-    "message": "https://blog.hubspot.com/marketing/instagram-best-time-post (https://blog.hubspot.com/marketing/instagram-best-time-post)",
-    "thread_id": null,
-    "timestamp": "2020-01-06T19:45:13.826Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:43.901414"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1578338027583",
-    "chat_from": "Mallory Warner",
-    "channel": "OLD - Business Development Team Channel / Social Media - Campaigns",
-    "message": "https://blog.hubspot.com/marketing/social-media-calendar-tools (https://blog.hubspot.com/marketing/social-media-calendar-tools)",
-    "thread_id": null,
-    "timestamp": "2020-01-06T19:13:47.583Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:43.902125"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1577985498911",
-    "chat_from": "Mallory Warner",
-    "channel": "OLD - Business Development Team Channel / Social Media - Campaigns",
-    "message": "Quick Notes from our call on 1/2/20: Who is the target audience? What content are we hoping to deliver? We were planning on having trailers, would this be what we want to include? Exposure, ad, what are we using this for? Next steps: Bring back to Monica \u2013 which content and why? What did you envision? \u201cOverheard at LCW\u201d Quotes, compelling questions, comments from our trainings LCW 20 th year \u2013 20 interviews with past and current clients",
-    "thread_id": null,
-    "timestamp": "2020-01-02T17:18:18.911Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:43.904998"
+    "date_extracted": "2025-04-05T21:06:25.685724"
   },
   {
     "platform": "Teams",
@@ -349,7 +217,1151 @@
     "thread_id": null,
     "timestamp": "2022-05-10T16:41:27.398Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:43.428370"
+    "date_extracted": "2025-04-05T21:06:17.524060"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1653404423964",
+    "chat_from": "Tahitia Timmons",
+    "channel": "Crisis Communications Channel / General",
+    "message": "I am going to post this here - The American College of Obstetricians and Gynecologists (ACOG) the leading resource for maternal child health has issued a statement regarding Abortion - Understanding ACOG\u2019s Policy on Abortion. It can be found here https://www.acog.org/news/news-articles/2022/05/understanding-acog-policy-on-abortion (https://www.acog.org/news/news-articles/2022/05/understanding-acog-policy-on-abortion)",
+    "thread_id": null,
+    "timestamp": "2022-05-24T15:00:23.964Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:29.111909"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1650302118465",
+    "chat_from": "Jake Pieczynski",
+    "channel": "Crisis Communications Channel / General",
+    "message": "Checking back in two weeks removed - what reactions or feedback have you received in response to LCW's leadership transition announcement? We know that this will be an ongoing process. Please share the responses you've received in this thread so we can use them to inform our future communications. Thanks!",
+    "thread_id": null,
+    "timestamp": "2022-04-18T17:15:18.465Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:29.112316"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1649261828348",
+    "chat_from": "Jake Pieczynski",
+    "channel": "Crisis Communications Channel / General",
+    "message": "What reactions or feedback have you received in response to yesterday's announcement? Please share the responses you've received in this thread so we can use them to inform our future communications. Thanks!",
+    "thread_id": null,
+    "timestamp": "2022-04-06T16:17:08.348Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:29.112607"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1649106180628",
+    "chat_from": "Jake Pieczynski",
+    "channel": "Crisis Communications Channel / General",
+    "message": "What new questions are coming up? Post any responses that have were not covered in the FAQ guide in this thread.",
+    "thread_id": null,
+    "timestamp": "2022-04-04T21:03:00.628Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:29.112888"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1649187641535",
+    "chat_from": "Jake Pieczynski",
+    "channel": "Crisis Communications Channel / General",
+    "message": "The \"LCW Staff FAQ Guide\" is now available in the files section of this channel. Please take a moment to review and post any additional questions you think other may benefit from seeing the response to in this thread. Thanks!",
+    "thread_id": null,
+    "timestamp": "2022-04-05T19:40:41.535Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:29.113267"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1649106143312",
+    "chat_from": "Jake Pieczynski",
+    "channel": "Crisis Communications Channel / General",
+    "message": "What have your clients' reactions been to the email? Post any responses you've heard that others might benefit from in this thread.",
+    "thread_id": null,
+    "timestamp": "2022-04-04T21:02:23.312Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:29.113597"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1649175324196",
+    "chat_from": "Jake Pieczynski",
+    "channel": "Crisis Communications Channel / General",
+    "message": "Hi team - a quick heads up that we are targeting a 1:30pm release of our official announcement on the website, Facebook, LinkedIn, and Twitter. Please be on the look out. I will update you when it is live.",
+    "thread_id": null,
+    "timestamp": "2022-04-05T16:15:24.196Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:29.113748"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1632260457019",
+    "chat_from": "",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "Responses to some questions to Scoro",
+    "thread_id": null,
+    "timestamp": "2021-09-21T21:40:57.019Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:29.971293"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1631038154781",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "LCW is inviting you to a scheduled Zoom meeting. Topic: Short Marketing Demo/Discussion - Workamajig Time: Sep 14, 2021 11:00 AM Central Time (US and Canada) Join Zoom Meeting https://languageandculture.zoom.us/j/81539605785?pwd=cEVXZmdnUUJzTHlaTHA5YTFseDdsZz09 (https://languageandculture.zoom.us/j/81539605785?pwd=cEVXZmdnUUJzTHlaTHA5YTFseDdsZz09) Meeting ID: 815 3960 5785 Passcode: 341872 One tap mobile +13126266799,,81539605785#,,,,*341872# US (Chicago) +16465588656,,81539605785#,,,,*341872# US (New York) Dial by your location +1 312 626 6799 US (Chicago) +1 646 558 8656 US (New York) +1 301 715 8592 US (Washington DC) +1 253 215 8782 US (Tacoma) +1 346 248 7799 US (Houston) +1 720 707 2699 US (Denver) Meeting ID: 815 3960 5785 Passcode: 341872 Find your local number: https://languageandculture.zoom.us/u/kDr5XHm7V",
+    "thread_id": null,
+    "timestamp": "2021-09-07T18:09:14.781Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:29.972972"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1631038422542",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "LCW is inviting you to a scheduled Zoom meeting. Topic: Short Marketing Demo/Discussion - Scoro Time: Sep 16, 2021 01:00 PM Central Time (US and Canada) Join Zoom Meeting https://languageandculture.zoom.us/j/83912472930?pwd=M25teTllSEZ6Y1F4cXNQa3dXZGJydz09 (https://languageandculture.zoom.us/j/83912472930?pwd=M25teTllSEZ6Y1F4cXNQa3dXZGJydz09) Meeting ID: 839 1247 2930 Passcode: 266495 One tap mobile +13126266799,,83912472930#,,,,*266495# US (Chicago) +13017158592,,83912472930#,,,,*266495# US (Washington DC) Dial by your location +1 312 626 6799 US (Chicago) +1 301 715 8592 US (Washington DC) +1 646 558 8656 US (New York) +1 253 215 8782 US (Tacoma) +1 346 248 7799 US (Houston) +1 720 707 2699 US (Denver) Meeting ID: 839 1247 2930 Passcode: 266495 Find your local number: https://languageandculture.zoom.us/u/kbvMcTX2wc",
+    "thread_id": null,
+    "timestamp": "2021-09-07T18:13:42.542Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:29.974582"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1630595571004",
+    "chat_from": "",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "More information from Workamajig",
+    "thread_id": null,
+    "timestamp": "2021-09-02T15:12:51.004Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:29.974980"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1628599580922",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "Here are the links to most recent vendor recordings on Project Rio (https://teams.microsoft.com/l/message/19:ftKBC32RGnW2V6u-1355dtT_2iTowXHVwGCFO7VGyWw1@thread.tacv2/1628538059691?tenantId=3ca40a42-d72d-43c9-b92e-0740101d9dd3&groupId=499bc1a7-1c3a-4846-b20f-02652520a34d&parentMessageId=1628538059691&teamName=Project%20Rio%20-%20Business%20Management%20Software%20Selection&channelName=General&createdTime=1628538059691) team site.",
+    "thread_id": null,
+    "timestamp": "2021-08-10T12:46:20.922Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:29.975419"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1629473415544",
+    "chat_from": "",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "Pricing Confirmation from Workamajig",
+    "thread_id": null,
+    "timestamp": "2021-08-20T15:30:15.544Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:29.975744"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1629466823782",
+    "chat_from": "",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "Additional Pricing Information from Productive",
+    "thread_id": null,
+    "timestamp": "2021-08-20T13:40:23.782Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:29.976089"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1629157076790",
+    "chat_from": "",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "Updated Pricing from Deltek",
+    "thread_id": null,
+    "timestamp": "2021-08-16T23:37:56.79Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:29.976454"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1628538059691",
+    "chat_from": "Chuck Adams",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "Topic: Deltek - Follow-up Questions for Final Presentation Start Time : Jul 27, 2021 09:56 AM Meeting Recording: https://languageandculture.zoom.us/rec/share/p1xu_mFFTgVOJ-63ZLvmszVdiCHZiVMj7U4bgSZQGtFamUcWPFKxq6Nvb9aZB2i0.95nA2ku32-sWuzOu (https://languageandculture.zoom.us/rec/share/p1xu_mFFTgVOJ-63ZLvmszVdiCHZiVMj7U4bgSZQGtFamUcWPFKxq6Nvb9aZB2i0.95nA2ku32-sWuzOu) Access Passcode: e@T=$12Z Topic: Scoro - Follow-up Questions and Final Presentation Start Time : Jul 28, 2021 02:59 PM Meeting Recording: https://languageandculture.zoom.us/rec/share/3rFl1mAxTUgnp8kn1wR-K6ANea_HbP3ADAwlvoxwrt1sccuDaFl0l1_-yLsejSPv.uc7Z2pmQEtPB0ZJM (https://languageandculture.zoom.us/rec/share/3rFl1mAxTUgnp8kn1wR-K6ANea_HbP3ADAwlvoxwrt1sccuDaFl0l1_-yLsejSPv.uc7Z2pmQEtPB0ZJM) Access Passcode: fmYAF&5= Topic: Productive - Follow-up Questions and Final Presentation Start Time : Aug 2, 2021 12:00 PM Meeting Recording: https://languageandculture.zoom.us/rec/share/sC8TzO86mmrUA0s_PZxlz2m2CwgUSGHUZtXPqgnj6toXBjfuyFXjGfGHzsuhG4Sd.CotaSIEtelPeGtJf (https://languageandculture.zoom.us/rec/share/sC8TzO86mmrUA0s_PZxlz2m2CwgUSGHUZtXPqgnj6toXBjfuyFXjGfGHzsuhG4Sd.CotaSIEtelPeGtJf) Access Passcode: 01aG+UBZ Workamajig - Follow-up Questions and Final Presentation Start time: July 28, 2021 11:00 AM (https://zoom.us/rec/share/g71G0iVCj9lRJtj67iS4Nu7BIrhWegohn7y1ZrBe5wr3mectpc7JbJgXZFmdYYwf.B3ZwkfAMuIqVE1ii) Meeting Recording: https://zoom.us/rec/play/-MvgxtevW6vzLI2lM84tb950ylo1jow2PQWfGKP3RuGVM7xt5duxuwz0ivu5QqJTC8XHrfmFy-gzM9F9.h2Iaa6ChB3FjwaRo?continueMode=true&_x_zm_rtaid=KcE-8WMdQdivBNMl_gSiOQ.1628538385516.79fe19084a1492cc630a1199b27fa4d8&_x_zm_rhtaid=737 (https://zoom.us/rec/play/-MvgxtevW6vzLI2lM84tb950ylo1jow2PQWfGKP3RuGVM7xt5duxuwz0ivu5QqJTC8XHrfmFy-gzM9F9.h2Iaa6ChB3FjwaRo?continueMode=true&_x_zm_rtaid=KcE-8WMdQdivBNMl_gSiOQ.1628538385516.79fe19084a1492cc630a1199b27fa4d8&_x_zm_rhtaid=737) No access passcode required",
+    "thread_id": null,
+    "timestamp": "2021-08-09T19:40:59.691Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:30.114917"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1626784224795",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "LCW is inviting you to a scheduled Zoom meeting. Topic: Productive - Follow-up Questions and Final Presentation Time: Jul 28, 2021 12:00 PM Central Time (US and Canada) Join Zoom Meeting https://languageandculture.zoom.us/j/92036905386?pwd=UmQ3SnJFWHVLMzRsK3dIRTFyd0ZhZz09 Meeting ID: 920 3690 5386 Passcode: 582509 One tap mobile +13126266799,,92036905386#,,,,*582509# US (Chicago) +13017158592,,92036905386#,,,,*582509# US (Washington DC) Dial by your location +1 312 626 6799 US (Chicago) +1 301 715 8592 US (Washington DC) +1 646 558 8656 US (New York) +1 253 215 8782 US (Tacoma) +1 346 248 7799 US (Houston) +1 669 900 9128 US (San Jose) Meeting ID: 920 3690 5386 Passcode: 582509 Find your local number: https://languageandculture.zoom.us/u/adTjIDZzaz",
+    "thread_id": null,
+    "timestamp": "2021-07-20T12:30:24.795Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:30.116522"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1627923438529",
+    "chat_from": "",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "More details from Deltek",
+    "thread_id": null,
+    "timestamp": "2021-08-02T16:57:18.529Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:30.116934"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1627588527317",
+    "chat_from": "",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "Workamajig Follow-up and Video",
+    "thread_id": null,
+    "timestamp": "2021-07-29T19:55:27.317Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:30.117253"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1626784535726",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "LCW is inviting you to a scheduled Zoom meeting. Topic: Workamajig - Follow-up Questions and Final Presentation Time: Jul 28, 2021 11:00 AM Central Time (US and Canada) Join Zoom Meeting https://languageandculture.zoom.us/j/96935228204?pwd=UThhWU1sY3A5emJobHBLYnNOZE80Zz09 Meeting ID: 969 3522 8204 Passcode: 945179 One tap mobile +13126266799,,96935228204#,,,,*945179# US (Chicago) +13017158592,,96935228204#,,,,*945179# US (Washington DC) Dial by your location +1 312 626 6799 US (Chicago) +1 301 715 8592 US (Washington DC) +1 646 558 8656 US (New York) +1 346 248 7799 US (Houston) +1 669 900 9128 US (San Jose) +1 253 215 8782 US (Tacoma) Meeting ID: 969 3522 8204 Passcode: 945179 Find your local number: https://languageandculture.zoom.us/u/aFCtzQ9DP",
+    "thread_id": null,
+    "timestamp": "2021-07-20T12:35:35.726Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:30.118832"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1626722418561",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "LCW is inviting you to a scheduled Zoom meeting. Topic: Deltek - Follow-up Questions for Final Presentation Time: Jul 27, 2021 10:00 AM Central Time (US and Canada) Join Zoom Meeting https://languageandculture.zoom.us/j/97770491031?pwd=aGtIRllYYXhoUU9BS1BhcjJQQTVBdz09 Meeting ID: 977 7049 1031 Passcode: 251640 One tap mobile +13126266799,,97770491031#,,,,*251640# US (Chicago) +16465588656,,97770491031#,,,,*251640# US (New York) Dial by your location +1 312 626 6799 US (Chicago) +1 646 558 8656 US (New York) +1 301 715 8592 US (Washington DC) +1 253 215 8782 US (Tacoma) +1 346 248 7799 US (Houston) +1 669 900 9128 US (San Jose) Meeting ID: 977 7049 1031 Passcode: 251640 Find your local number: https://languageandculture.zoom.us/u/acPxVaEoh4",
+    "thread_id": null,
+    "timestamp": "2021-07-19T19:20:18.561Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:30.120379"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1626804919549",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "LCW is inviting you to a scheduled Zoom meeting. Topic: Scoro - Follow-up Questions and Final Presentation Time: Jul 28, 2021 03:00 PM Central Time (US and Canada) Join Zoom Meeting https://languageandculture.zoom.us/j/95721163780?pwd=SlZ0MU9QdnBmVzZrZUEzd1cwcWhwdz09 Meeting ID: 957 2116 3780 Passcode: 204352 One tap mobile +13126266799,,95721163780#,,,,*204352# US (Chicago) +13017158592,,95721163780#,,,,*204352# US (Washington DC) Dial by your location +1 312 626 6799 US (Chicago) +1 301 715 8592 US (Washington DC) +1 646 558 8656 US (New York) +1 669 900 9128 US (San Jose) +1 253 215 8782 US (Tacoma) +1 346 248 7799 US (Houston) Meeting ID: 957 2116 3780 Passcode: 204352 Find your local number: https://languageandculture.zoom.us/u/aOEBOunYt",
+    "thread_id": null,
+    "timestamp": "2021-07-20T18:15:19.549Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:30.121949"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1626465366706",
+    "chat_from": "",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "Realized that I hadn't shared this with everyone.",
+    "thread_id": null,
+    "timestamp": "2021-07-16T19:56:06.706Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:30.122372"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1626374150058",
+    "chat_from": "",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "",
+    "thread_id": null,
+    "timestamp": "2021-07-15T18:35:50.058Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:30.122770"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1626294795810",
+    "chat_from": "Chuck Adams",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "In response to questions I had about implementation and training. ~cma Agency Training Guides (https://www.workamajig.com/agency-training) Below is a brief outline of the implementation process: \u00b7 Sign and return contract - payment is processed within 2 hours \u00b7 Our Training Center will call you to schedule your Discovery call within 24 hours after the contract/payment is processed . Discovery call conducted within 7 days of processing contract. \u00b7 Then, weekly 1 hour training sessions begin \u00b7 Go live -- typically takes 8-12 weeks The recommended implementation time is 2-3 months. This allows you to complete the basic training sessions, input your information, customize the system, test your workflow, deploy training and go live.",
+    "thread_id": null,
+    "timestamp": "2021-07-14T20:33:15.81Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:30.124397"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1625070359238",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "Note from Chuck: Hello, all \u2013 As we narrow the list of finalists I thought it important we meet to discuss your thoughts on the remaining contenders. Please be prepared to discuss your overall impressions, as captured in your notes. If you need primers, you can find the presentation recordings here (https://teams.microsoft.com/l/channel/19%3aftKBC32RGnW2V6u-1355dtT_2iTowXHVwGCFO7VGyWw1%40thread.tacv2/General?groupId=499bc1a7-1c3a-4846-b20f-02652520a34d&tenantId=3ca40a42-d72d-43c9-b92e-0740101d9dd3) on the project Teams channel. Note that I have informed Monday.com that they are not moving forward so you can ignore their recording.",
+    "thread_id": null,
+    "timestamp": "2021-06-30T16:25:59.238Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:30.124993"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1623796945628",
+    "chat_from": "Chuck Adams",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "Here are the links to last week\u2019s demos. Topic: Productive - LCW RFP and Demo Process Start Time : Jun 9, 2021 09:31 AM Meeting Recording: https://languageandculture.zoom.us/rec/share/C5ccm1ot2GRhT1iMaZXNlpGvyEHzWXiN3O92U_xCwW5SjCZxsLnDCieq4gOK3Wg0._IS_qx-yczcoaiBq (https://languageandculture.zoom.us/rec/share/C5ccm1ot2GRhT1iMaZXNlpGvyEHzWXiN3O92U_xCwW5SjCZxsLnDCieq4gOK3Wg0._IS_qx-yczcoaiBq) Access Passcode: 6%U&1Kcj Topic: Deltek - LCW RFP and Demo Process Start Time : Jun 10, 2021 09:57 AM Meeting Recording: https://languageandculture.zoom.us/rec/share/yxTcKv4j-8_raXOHKA3SAi_R21LwRv9sT80ya1nJ8SNYgIEYnc8GHpR-cjQ_GcKV.IASFDL_D5foIMJ_y (https://languageandculture.zoom.us/rec/share/yxTcKv4j-8_raXOHKA3SAi_R21LwRv9sT80ya1nJ8SNYgIEYnc8GHpR-cjQ_GcKV.IASFDL_D5foIMJ_y) Access Passcode: i=eN98Ru Topic: Scoro - LCW RFP and Demo Process Start Time : Jun 10, 2021 11:56 AM Meeting Recording: https://languageandculture.zoom.us/rec/share/eDJfemkJptZFa9aRqll_hbM3amacyQqfH-hn9c9G3eO-6qNyRKtli_k1zy_fiE_H.oGlixOpsB_1C4Ix2 (https://languageandculture.zoom.us/rec/share/eDJfemkJptZFa9aRqll_hbM3amacyQqfH-hn9c9G3eO-6qNyRKtli_k1zy_fiE_H.oGlixOpsB_1C4Ix2) Access Passcode: !yZP@09v",
+    "thread_id": null,
+    "timestamp": "2021-06-15T22:42:25.628Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:30.128504"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1623768212259",
+    "chat_from": "Chuck Adams",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "Monday.com links are below. Call Recording (https://sl.monday.com/t/100583/c/ee4c311b-1522-4c5e-a83f-e36c6c1cb139/NB2HI4DTHIXS6YLQOAXGO33OM4XGS3ZPMUXWGLLTNBQXEZJPH52GW3R5PJ3DE6TFMIYWKZDMPIZTC33XPI3DG4DMO5VHAMZT/app-gong-io-e-c-share) monday.com for Marketing Teams (https://sl.monday.com/t/100583/c/ee4c311b-1522-4c5e-a83f-e36c6c1cb139/NB2HI4DTHIXS643VOBYG64TUFZWW63TEMF4S4Y3PNUXWQYZPMVXC25LTF5QXE5DJMNWGK4ZPGM3DAMBQGYZDKNRTGU4S23LPNZSGC6JNMNXW2LLGN5ZC23LBOJVWK5DJNZTS25DFMFWXGP3BMJRWEPJZHAYDSMA=/support-monday-com-hc-en-us-articles-360006256359-monday-com-for-marketing-) monday.com as a CRM (https://sl.monday.com/t/100583/c/ee4c311b-1522-4c5e-a83f-e36c6c1cb139/NB2HI4DTHIXS643VOBYG64TUFZWW63TEMF4S4Y3PNUXWQYZPMVXC25LTF5QXE5DJMNWGK4ZPGEYTKMBQGUZTCMJZGA4S23LPNZSGC6JNMNXW2LLBOMWWCLKDKJGQ====/support-monday-com-hc-en-us-articles-115005311909-monday-com-as-a-crm) Resource Management and Scheduling with monday.com (https://sl.monday.com/t/100583/c/ee4c311b-1522-4c5e-a83f-e36c6c1cb139/NB2HI4DTHIXS643VOBYG64TUFZWW63TEMF4S4Y3PNUXWQYZPMVXC25LTF5QXE5DJMNWGK4ZPGM3DAMBRGAYTMNRVGU4S2UTFONXXK4TDMUWU2YLOMFTWK3LFNZ2C253JORUC23LPNZSGC6JNMNXW2P3BMJRWEPJXHAYTCNY=/support-monday-com-hc-en-us-articles-360010166559-resource-management-with-) Our Dashboard Functions (https://sl.monday.com/t/100583/c/ee4c311b-1522-4c5e-a83f-e36c6c1cb139/NB2HI4DTHIXS643VOBYG64TUFZWW63TEMF4S4Y3PNUXWQYZPMVXC25LTF5QXE5DJMNWGK4ZPGM3DAMBQGIYTQNZYGE4S2V3IMF2C2YLSMUWXI2DFFVCGC43IMJXWC4TEOMWT6YLCMNRD2NZRGY4TC===/support-monday-com-hc-en-us-articles-360002187819-what-are-the-dashboards) Our Forms Functionality (https://sl.monday.com/t/100583/c/ee4c311b-1522-4c5e-a83f-e36c6c1cb139/NB2HI4DTHIXS643VOBYG64TUFZWW63TEMF4S4Y3PNUXWQYZPMVXC25LTF5QXE5DJMNWGK4ZPGM3DAMBQGAZTKOBXGAYC2RTPOJWXGLKQN53WK4TFMQWWE6JNNVXW4ZDBPEWWG33NFU7WCYTDMI6TQOBYGU======/support-monday-com-hc-en-us-articles-360000358700-forms-powered-by-monday-c)",
+    "thread_id": null,
+    "timestamp": "2021-06-15T14:43:32.259Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:30.130065"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1623441289468",
+    "chat_from": "Chuck Adams",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "Deltek sent over some additional Vantagepoint videos for us to review. https://www.deltek.com/en/products/vantagepoint/videos (https://www.deltek.com/en/products/vantagepoint/videos)",
+    "thread_id": null,
+    "timestamp": "2021-06-11T19:54:49.468Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:30.130430"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1623439196355",
+    "chat_from": "Chuck Adams",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "Workamajig sent over some additional videos for us to review. \"Day in the life\" role based videos: Project Manager Overview (https://www.workamajig.com/project-manager-overview-video) Salesperson Overview (https://www.workamajig.com/salesperson-overview-video) (https://www.workamajig.com/marcom-overview-video) Creatives Overview (https://www.workamajig.com/creatives-overview-video) Resource Manager Overview (https://www.workamajig.com/resource-manager-overview-video) Billing and Purchasing Overview (https://www.workamajig.com/billing-and-purchasing-overview)",
+    "thread_id": null,
+    "timestamp": "2021-06-11T19:19:56.355Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:30.132367"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1623169903887",
+    "chat_from": "Briza Cardenas",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "Good Afternoon All, Below are the recordings for the two demos we had last week. Workamajig Demo Recording: LCW (https://zoom.us/rec/share/VodGNm-NbNzYL5QVS6ltD2opZWcRiUerVPN-YdIATpDq1kcKDPfgdZiYlBGduRvb.S9jyaQEZaAJE2W38) Monday.com Demo Recording: Call Recording (https://sl.monday.com/t/100583/c/ee4c311b-1522-4c5e-a83f-e36c6c1cb139/NB2HI4DTHIXS6YLQOAXGO33OM4XGS3ZPMUXWGLLTNBQXEZJPH52GW3R5PJ3DE6TFMIYWKZDMPIZTC33XPI3DG4DMO5VHAMZT/app-gong-io-e-c-share)",
+    "thread_id": null,
+    "timestamp": "2021-06-08T16:31:43.887Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:30.137239"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1622730688716",
+    "chat_from": "Chuck Adams",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "First vendors up today are Workamajig and Monday.com. They were rated 3rd and 4th out of five vendors that advanced to this round of demos. Workamajig I know the least about. Their solutions seems robust but not as visual as the others. Let Briza Cardenas know if you need the link to either of those sessions.",
+    "thread_id": null,
+    "timestamp": "2021-06-03T14:31:28.716Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:30.137580"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1622690185634",
+    "chat_from": "Chuck Adams",
+    "channel": "Project Rio - Business Management Software Selection / General",
+    "message": "Hi - In the files section you'll find a document named 'Scoresheet and Responses.' This is the document you'll use to score the vendor demonstrations over the next couple of weeks. Please download a version and save it with your name at the end. This will be the document you use through all of the demos (You can right click to download the score sheet or see attached image for downloading if you open the file in Teams). After each demonstration save your file and upload it to the folder in the files section named 'Place score sheets here.' Your scoring should be captured on the Yellow tab. I included the other tabs so that you can see what the vendors have received.",
+    "thread_id": null,
+    "timestamp": "2021-06-03T03:16:25.634Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:30.138427"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1578339913826",
+    "chat_from": "Mallory Warner",
+    "channel": "OLD - Business Development Team Channel / Social Media - Campaigns",
+    "message": "https://blog.hubspot.com/marketing/instagram-best-time-post (https://blog.hubspot.com/marketing/instagram-best-time-post)",
+    "thread_id": null,
+    "timestamp": "2020-01-06T19:45:13.826Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:20.496162"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1578338027583",
+    "chat_from": "Mallory Warner",
+    "channel": "OLD - Business Development Team Channel / Social Media - Campaigns",
+    "message": "https://blog.hubspot.com/marketing/social-media-calendar-tools (https://blog.hubspot.com/marketing/social-media-calendar-tools)",
+    "thread_id": null,
+    "timestamp": "2020-01-06T19:13:47.583Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:20.496475"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1577985498911",
+    "chat_from": "Mallory Warner",
+    "channel": "OLD - Business Development Team Channel / Social Media - Campaigns",
+    "message": "Quick Notes from our call on 1/2/20: Who is the target audience? What content are we hoping to deliver? We were planning on having trailers, would this be what we want to include? Exposure, ad, what are we using this for? Next steps: Bring back to Monica \u2013 which content and why? What did you envision? \u201cOverheard at LCW\u201d Quotes, compelling questions, comments from our trainings LCW 20 th year \u2013 20 interviews with past and current clients",
+    "thread_id": null,
+    "timestamp": "2020-01-02T17:18:18.911Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:20.498258"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1604352371831",
+    "chat_from": "LaQuanda Murray",
+    "channel": "OLD - Business Development Team Channel / General",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": null,
+    "timestamp": "2020-11-02T21:26:11.831Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:41.223274"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1604350894118",
+    "chat_from": "LaQuanda Murray",
+    "channel": "OLD - Business Development Team Channel / General",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": null,
+    "timestamp": "2020-11-02T21:01:34.118Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:41.223527"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1595273156394",
+    "chat_from": "Tanya Stanfield",
+    "channel": "OLD - Business Development Team Channel / General",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": null,
+    "timestamp": "2020-07-20T19:25:56.394Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:41.223745"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1577480997854",
+    "chat_from": "Mallory Warner",
+    "channel": "OLD - Business Development Team Channel / General",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": null,
+    "timestamp": "2019-12-27T21:09:57.854Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:41.223969"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1574448969647",
+    "chat_from": "Mallory Warner",
+    "channel": "OLD - Business Development Team Channel / General",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": null,
+    "timestamp": "2019-11-22T18:56:09.647Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:41.224167"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1587654657255",
+    "chat_from": "Sarah Nodarse",
+    "channel": "Product Development Team / Elearning Campaigns and Curated Email Series",
+    "message": "Tanya Stanfield see the contact sheet here in \"Files\"",
+    "thread_id": null,
+    "timestamp": "2020-04-23T15:10:57.255Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:22.080356"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1586446166599",
+    "chat_from": "Mallory Warner",
+    "channel": "Product Development Team / Elearning Campaigns and Curated Email Series",
+    "message": "FYI Tanya and I can execute this idea within the next 2 weeks you can take this off of your list for other consultants. We are running with this idea",
+    "thread_id": null,
+    "timestamp": "2020-04-09T15:29:26.599Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:22.080533"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1586444887315",
+    "chat_from": "Mallory Warner",
+    "channel": "Product Development Team / Elearning Campaigns and Curated Email Series",
+    "message": "",
+    "thread_id": null,
+    "timestamp": "2020-04-09T15:08:07.315Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:22.080542"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1646768675088",
+    "chat_from": "Melissa Neu",
+    "channel": "Product Development Team / Sustainable Culture of Inclusion",
+    "message": "Sarah Nodarse Here is a preliminary list of journals:",
+    "thread_id": null,
+    "timestamp": "2022-03-08T19:44:35.088Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:35.950308"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1587487940785",
+    "chat_from": "Sarah Nodarse",
+    "channel": "Product Development Team / Sustainable Culture of Inclusion",
+    "message": "The conversation about Kickoff Meeting: April 21, 2020 in Meeting and Project Notes has begun.",
+    "thread_id": null,
+    "timestamp": "2020-04-21T16:52:20.785Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:35.950603"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1587149770172",
+    "chat_from": "Sarah Nodarse",
+    "channel": "Product Development Team / Sustainable Culture of Inclusion",
+    "message": "Chuck Adams I put our proposal here under Files",
+    "thread_id": null,
+    "timestamp": "2020-04-17T18:56:10.172Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:35.950864"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1586791813450",
+    "chat_from": "Jeffrey Cookson",
+    "channel": "Product Development Team / General",
+    "message": "https://web.microsoftstream.com/video/0fc681a2-5fba-4dd6-859d-b7d08e161bde (https://web.microsoftstream.com/video/0fc681a2-5fba-4dd6-859d-b7d08e161bde)",
+    "thread_id": null,
+    "timestamp": "2020-04-13T15:30:13.45Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:39.908753"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1586551639277",
+    "chat_from": "Sarah Nodarse",
+    "channel": "Product Development Team / General",
+    "message": "ALL: The Innovation Template is here! Please see attached, and it's also in the FILES section. I will also email it to everyone.",
+    "thread_id": null,
+    "timestamp": "2020-04-10T20:47:19.277Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:39.908940"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1586535305643",
+    "chat_from": "Mallory Warner",
+    "channel": "Product Development Team / General",
+    "message": "Great episode and overall series that might help frame our mindsets when approaching the unknown future: https://monocle.com/radio/shows/the-entrepreneurs/443/ (https://monocle.com/radio/shows/the-entrepreneurs/443/)",
+    "thread_id": null,
+    "timestamp": "2020-04-10T16:15:05.643Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:39.909301"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1586443513061",
+    "chat_from": "Mallory Warner",
+    "channel": "Product Development Team / General",
+    "message": "Build your thought leaderships: LinkedIn posts/blogs - write something up, have a teammate proofread and post - quick and easy",
+    "thread_id": null,
+    "timestamp": "2020-04-09T14:45:13.061Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:39.909478"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1586470740154",
+    "chat_from": "Sarah Nodarse",
+    "channel": "Product Development Team / General",
+    "message": "ALL - we are working on a template you can use to write up your ideas! You should have it by Friday-Monday latest. In the meantime, you can start thinking about audience, objectives, etc. Let me know if you have any questions!",
+    "thread_id": null,
+    "timestamp": "2020-04-09T22:19:00.154Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:39.909655"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1586443787966",
+    "chat_from": "Sarah Nodarse",
+    "channel": "Product Development Team / General",
+    "message": "We can put the product development template here",
+    "thread_id": null,
+    "timestamp": "2020-04-09T14:49:47.966Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:39.909813"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1586440616394",
+    "chat_from": "Monica Marcel",
+    "channel": "Product Development Team / General",
+    "message": "Here is the Innovation Lab deck presented on April 9th to all staff -- with ideas for new marketing through assets and new product development.",
+    "thread_id": null,
+    "timestamp": "2020-04-09T13:56:56.394Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:39.910033"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1587149784750",
+    "chat_from": "Sarah Nodarse",
+    "channel": "Product Development Team / Coaching Products",
+    "message": "Rebecca / BCG:",
+    "thread_id": null,
+    "timestamp": "2020-04-17T18:56:24.75Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:49.296765"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1586365438818",
+    "chat_from": "Sarah Nodarse",
+    "channel": "Product Development Team / Coaching Products",
+    "message": "Here is what Shona sent to US Bank:",
+    "thread_id": null,
+    "timestamp": "2020-04-08T17:03:58.818Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:49.296972"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1577718763426",
+    "chat_from": "Mallory Warner",
+    "channel": "2019 LCW Bootcamp / Training Team Charter",
+    "message": "https://www.shrm.org/hr-today/news/hr-magazine/0418/pages/6-steps-for-building-an-inclusive-workplace.aspx (https://www.shrm.org/hr-today/news/hr-magazine/0418/pages/6-steps-for-building-an-inclusive-workplace.aspx)",
+    "thread_id": null,
+    "timestamp": "2019-12-30T15:12:43.426Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:36.453041"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1576788374741",
+    "chat_from": "Mallory Warner",
+    "channel": "2019 LCW Bootcamp / Training Team Charter",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": null,
+    "timestamp": "2019-12-19T20:46:14.741Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:36.453284"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1647443903601",
+    "chat_from": "Andrea Wicks Bowles",
+    "channel": "Scoro/Compass / Your Scoro Ideas",
+    "message": "Thank you for the Pricing chart. Going forward, we might want to add\"last updated\" date, onto forms we use. That way we will know what is current... And can replace the old version we have saved. Cheers~",
+    "thread_id": null,
+    "timestamp": "2022-03-16T15:18:23.601Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:17.929377"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1644961132793",
+    "chat_from": "Nicole Barile",
+    "channel": "Scoro/Compass / Your Scoro Ideas",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": null,
+    "timestamp": "2022-02-15T21:38:52.793Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:17.929654"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1643057894559",
+    "chat_from": "Nicole Barile",
+    "channel": "Scoro/Compass / Your Scoro Ideas",
+    "message": "Add your suggestions and ideas to the TASKS tab (in suggestions/ideas ). Your Scoro squad will review twice a month to prioritize and implement as needed.",
+    "thread_id": null,
+    "timestamp": "2022-01-24T20:58:14.559Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:17.929913"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1671553264626",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "To discuss how to use standard quotes in Compass to sell marketing campaigns (and then in the future perhaps other product bundles).",
+    "thread_id": null,
+    "timestamp": "2022-12-20T16:21:04.626Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.180936"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1669228895434",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "30-min weekly calls on various topics: (these calls will be recorded) - Invoicing Hello all, I have been asked by a few folks to do a Compass refresher on invoicing. We will set that up shortly; however, in the meantime, I have updated the below 2 process docs: Invoices in Compass WIP & Prepayment Invoices in Compass_v2 . If you prefer to learn by reading, these should outline the processes in detail for you. If you prefer to learn by doing/watching, then please join the refresher session if you can make it. Thank you! - Nicole",
+    "thread_id": null,
+    "timestamp": "2022-11-23T18:41:35.434Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.182876"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1662062795355",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "30-min weekly calls on various topics: (these calls will be recorded) - Working with Multimedia & Translation",
+    "thread_id": null,
+    "timestamp": "2022-09-01T20:06:35.355Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.183536"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1659974904261",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "30-min weekly calls on various topics: (these calls will be recorded) - People in Compass",
+    "thread_id": null,
+    "timestamp": "2022-08-08T16:08:24.261Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.184413"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1659974462487",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "30-min weekly calls on various topics: (these calls will be recorded) - Companies in Compass",
+    "thread_id": null,
+    "timestamp": "2022-08-08T16:01:02.487Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.185219"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1659974219695",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "30-min weekly calls on various topics: (these calls will be recorded) - COGS in Compass",
+    "thread_id": null,
+    "timestamp": "2022-08-08T15:56:59.695Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.185950"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1658422308496",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "30-min weekly calls on various topics: (these calls will be recorded) 1. BD to Con handoff",
+    "thread_id": null,
+    "timestamp": "2022-07-21T16:51:48.496Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.186417"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1658421992466",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "30-min weekly calls on various topics: (these calls will be recorded) 1. Setting up your dashboard - CLT only",
+    "thread_id": null,
+    "timestamp": "2022-07-21T16:46:32.466Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.186882"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1658421307350",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "30-min weekly calls on various topics: (these calls will be recorded) 1. Setting up your dashboard",
+    "thread_id": null,
+    "timestamp": "2022-07-21T16:35:07.35Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.187332"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1662579543320",
+    "chat_from": "Tamara Thorpe",
+    "channel": "Scoro/Compass / General",
+    "message": "I thought this meeting was happening later. Did I miss the reschedule?",
+    "thread_id": null,
+    "timestamp": "2022-09-07T19:39:03.32Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.187485"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1657646369766",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "30-min weekly calls on various topics: (these calls will be recorded) - COGS in Compass",
+    "thread_id": null,
+    "timestamp": "2022-07-12T17:19:29.766Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.188050"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1657646115379",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "30-min weekly calls on various topics: (these calls will be recorded) - Customizing content in Compass",
+    "thread_id": null,
+    "timestamp": "2022-07-12T17:15:15.379Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.188670"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1657645906856",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "30-min weekly calls on various topics: (these calls will be recorded) - Compass \u2013 Scheduling essentials",
+    "thread_id": null,
+    "timestamp": "2022-07-12T17:11:46.856Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.189272"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1657645729074",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "30-min weekly calls on various topics: (these calls will be recorded) - Compass \u2013 Project essentials",
+    "thread_id": null,
+    "timestamp": "2022-07-12T17:08:49.074Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.189836"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1657645562043",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "30-min weekly calls on various topics: (these calls will be recorded) - Compass \u2013 SOW essentials",
+    "thread_id": null,
+    "timestamp": "2022-07-12T17:06:02.043Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.190472"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1657645233694",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "30-minute Mandatory Compass refresher session for consultants on: - invoicing - where we review basic steps - how to create a prepayment invoice",
+    "thread_id": null,
+    "timestamp": "2022-07-12T17:00:33.694Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.191218"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1658781566035",
+    "chat_from": "Nicole Barile",
+    "channel": "Scoro/Compass / General",
+    "message": "The process is located in the PROCESSES LIBRARY. Will get back to you all on some of your questions about applying the monies. Thank you!",
+    "thread_id": null,
+    "timestamp": "2022-07-25T20:39:26.035Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.191371"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1658781527960",
+    "chat_from": "Andrea Wicks Bowles",
+    "channel": "Scoro/Compass / General",
+    "message": "well i caanot get back in",
+    "thread_id": null,
+    "timestamp": "2022-07-25T20:38:47.96Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.191516"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1658781405084",
+    "chat_from": "Tamara Thorpe",
+    "channel": "Scoro/Compass / General",
+    "message": "",
+    "thread_id": null,
+    "timestamp": "2022-07-25T20:36:45.084Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.191809"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1647548904702",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "Hi Team, Please make sure to attend one of the two meeting options that will cover Compass Invoicing OPTION #1: Monday, March 21st at 10a CST OPTION #2: Wednesday, March 23rd at 11a CST Some of you have asked for info on what deliverables should/should not be added to Compass. Here are some guidelines to assist you: - If your open/active SOWs contain deliverables that HAVE been both delivered AND invoiced in prior years (prior to 2022) = You DO NOT need to add those deliverables to Compass - However, IF you choose to add deliverables that have been both delivered and invoiced in prior years, you must create an Invoice in Compass & mark the Accounting Status as \u201cLegacy Invoice\u201d - To create the invoice, from the Quote page select \u201cUse data on quote to Create Invoice.\u201d From here, you will choose \u201cSelect lines for partial invoicing.\u201d This will allow you to select only the deliverables that you need to invoice for. A box will pop up where you will check the deliverables you wish to add to your invoice. After selecting your deliverables, select \u201cProceed\u201d. An Invoice is then created. Since this is a \u201cdummy\u201d invoice, there is no need to edit any information. However, you must select \u201cLegacy Invoice\u201d from the Accounting Status and hit Save. Once you return to your Quote, you will see your invoice under \u201cInvoices.\u201d - For already invoiced items, you can group them all into 1 deliverable if easier (EX: put 100 IDIs on one line or 5 UTBEs on one line) - If your open/active SOWs contain deliverables that HAVE been invoiced but HAVE NOT been delivered = You MUST add deliverables to Compass - You must also create a \u201cPrepayment Invoice\u201d in Compass & mark the Accounting Status as \u201cLegacy Invoice\u201d - To create the prepayment invoice, from the Quote page select \u201cUse date on quote to Create Prepayment Invoice.\u201d From here, you will choose \u201cSelect lines for partial invoicing.\u201d This will allow you to select on the deliverables that you have pre-invoiced for. You can also choose to pre-invoice a percentage of all deliverables. After making your selection, select \u201cProceed.\u201d An Invoice is then created. Since this is a \u201cdummy\u201d invoice, there is no need to edit any information. However, you must select \u201cLegacy Invoice\u201d from the Accounting Status and hit Save. Once you return to your Quote, you will see your invoice under \u201cPrepayment Invoices.\u201d - For already invoiced items, you can group them all into 1 deliverable if easier - If your open/active SOWs contain deliverables that HAVE NOT been invoiced but HAVE been delivered = You MUST add deliverables to Compass",
+    "thread_id": null,
+    "timestamp": "2022-03-17T20:28:24.702Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.196014"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1647548756905",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "Hi Team, Please make sure to attend one of the two meeting options that will cover Compass Invoicing OPTION #1: Monday, March 21st at 10a CST OPTION #2: Wednesday, March 23rd at 11a CST Some of you have asked for info on what deliverables should/should not be added to Compass. Here are some guidelines to assist you: - If your open/active SOWs contain deliverables that HAVE been both delivered AND invoiced in prior years (prior to 2022) = You DO NOT need to add those deliverables to Compass - However, IF you choose to add deliverables that have been both delivered and invoiced in prior years, you must create an Invoice in Compass & mark the Accounting Status as \u201cLegacy Invoice\u201d - To create the invoice, from the Quote page select \u201cUse data on quote to Create Invoice.\u201d From here, you will choose \u201cSelect lines for partial invoicing.\u201d This will allow you to select only the deliverables that you need to invoice for. A box will pop up where you will check the deliverables you wish to add to your invoice. After selecting your deliverables, select \u201cProceed\u201d. An Invoice is then created. Since this is a \u201cdummy\u201d invoice, there is no need to edit any information. However, you must select \u201cLegacy Invoice\u201d from the Accounting Status and hit Save. Once you return to your Quote, you will see your invoice under \u201cInvoices.\u201d - For already invoiced items, you can group them all into 1 deliverable if easier (EX: put 100 IDIs on one line or 5 UTBEs on one line) - If your open/active SOWs contain deliverables that HAVE been invoiced but HAVE NOT been delivered = You MUST add deliverables to Compass - You must also create a \u201cPrepayment Invoice\u201d in Compass & mark the Accounting Status as \u201cLegacy Invoice\u201d - To create the prepayment invoice, from the Quote page select \u201cUse date on quote to Create Prepayment Invoice.\u201d From here, you will choose \u201cSelect lines for partial invoicing.\u201d This will allow you to select on the deliverables that you have pre-invoiced for. You can also choose to pre-invoice a percentage of all deliverables. After making your selection, select \u201cProceed.\u201d An Invoice is then created. Since this is a \u201cdummy\u201d invoice, there is no need to edit any information. However, you must select \u201cLegacy Invoice\u201d from the Accounting Status and hit Save. Once you return to your Quote, you will see your invoice under \u201cPrepayment Invoices.\u201d - For already invoiced items, you can group them all into 1 deliverable if easier - If your open/active SOWs contain deliverables that HAVE NOT been invoiced but HAVE been delivered = You MUST add deliverables to Compass",
+    "thread_id": null,
+    "timestamp": "2022-03-17T20:25:56.905Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.199434"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1647629039287",
+    "chat_from": "Nicole Barile",
+    "channel": "Scoro/Compass / General",
+    "message": "",
+    "thread_id": null,
+    "timestamp": "2022-03-18T18:43:59.287Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.199448"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1643059231295",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "Training #7 \u2013 End-to-end workflow from Creating Quote to Invoicing (Consulting focus) Wednesday February 23 rd 11a-11:50a CST",
+    "thread_id": null,
+    "timestamp": "2022-01-24T21:20:31.295Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.200008"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1643058520511",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "Training #5 \u2013 External Consultants; Invoicing & Accounting Monday, February 14 th 1p-1:50p CST",
+    "thread_id": null,
+    "timestamp": "2022-01-24T21:08:40.511Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.200631"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1644602863866",
+    "chat_from": "Jeffrey Cookson",
+    "channel": "Scoro/Compass / General",
+    "message": "",
+    "thread_id": null,
+    "timestamp": "2022-02-11T18:07:43.866Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.200814"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1644602862544",
+    "chat_from": "Jeffrey Cookson",
+    "channel": "Scoro/Compass / General",
+    "message": "",
+    "thread_id": null,
+    "timestamp": "2022-02-11T18:07:42.544Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.200987"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1644602862052",
+    "chat_from": "Jeffrey Cookson",
+    "channel": "Scoro/Compass / General",
+    "message": "",
+    "thread_id": null,
+    "timestamp": "2022-02-11T18:07:42.052Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.201157"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1643058219729",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "Training #4 \u2013 Creating a Project Wednesday, February 9 th 3p-3:50p CST",
+    "thread_id": null,
+    "timestamp": "2022-01-24T21:03:39.729Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.201741"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1643057972108",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "Training #3 \u2013Creating Quotes/SOWs, Handoff from BizDev to Consulting, Pipeline Tuesday, February 8 th 4p-4:50p CST",
+    "thread_id": null,
+    "timestamp": "2022-01-24T20:59:32.108Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.202267"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1644255724491",
+    "chat_from": "Nicole Barile",
+    "channel": "Scoro/Compass / General",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": null,
+    "timestamp": "2022-02-07T17:42:04.491Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.202479"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1643057487921",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "Training #2 \u2013 How to add People & Companies Tuesday, Feb. 1 st 4p-4:50p CST",
+    "thread_id": null,
+    "timestamp": "2022-01-24T20:51:27.921Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.203043"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1643057176678",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "Training #1 \u2013 Overview of Scoro, Benefits, What to expect over the next few weeks Monday, Jan. 31 st 9a-9:50a CST Agenda: - Chuck \u2013 kickoff - Ada \u2013 benefits of Scoro - Kendall \u2013 activating your account, linking Outlook calendar - Nicole \u2013 what to expect in the coming weeks",
+    "thread_id": null,
+    "timestamp": "2022-01-24T20:46:16.678Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.204235"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1643058968960",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "Scoro/Compass / General",
+    "message": "Training #6 \u2013 Customizing Scoro just for you Tuesday, February 15 th 12p-12:50p CST",
+    "thread_id": null,
+    "timestamp": "2022-01-24T21:16:08.96Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:04.204772"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1624909669089",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 2 - Practicing Inclusion",
+    "message": "Conner Williams Keri Luo Larry Baker - can you please elaborate what is meant in your 3rd bullet by \"and just some general cleaning\"?",
+    "thread_id": null,
+    "timestamp": "2021-06-28T19:47:49.089Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:22.818802"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1624910403155",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 2 - Practicing Inclusion",
+    "message": "Jeffrey Cookson LaQuanda Murray Melissa Neu Dustin Puehler Tamara Thorpe Briza Cardenas - I left you a coupe of notes in orange.",
+    "thread_id": null,
+    "timestamp": "2021-06-28T20:00:03.155Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:22.819356"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1624910203452",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 2 - Practicing Inclusion",
+    "message": "Nicole Barile Jose Guardado Kendall Washington - I left a quick note for you in orange .",
+    "thread_id": null,
+    "timestamp": "2021-06-28T19:56:43.452Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:22.819880"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1624910136658",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 2 - Practicing Inclusion",
+    "message": "Vince Bongiovanni Chuck Adams Randy Pringle Daniel Gough Alsu Schondelmayer Ada Vargas - I left a few notes for you in orange. Thank you!",
+    "thread_id": null,
+    "timestamp": "2021-06-28T19:55:36.658Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:22.820440"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1621868994647",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 2 - Practicing Inclusion",
+    "message": "Hello all! Hopefully you have completed your Week 1 discussions with your team and captured some notes in the Week 1 summary section. Lesson 2 is posted in the \"Files\" section of this channel, and also are included for convenience below. Note that the Qs in the the \u201capply\u201d section will be used to center your Team dialogue. Also, the correct links to the eLearning modules are contained on page 1 in the lesson. We will also share a Surveymonkey link soon where people can register their comments on the modules with a view towards updates. Intro to Managing Unconscious Bias : https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=af636ae1-2ed6-436a-859c-43a36992f756 (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=af636ae1-2ed6-436a-859c-43a36992f756) UPDATED - Practicing Inclusion: https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=6e5ef4e4-1ee5-463d-8eb8-8691df03128a (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=6e5ef4e4-1ee5-463d-8eb8-8691df03128a)",
+    "thread_id": null,
+    "timestamp": "2021-05-24T15:09:54.647Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:22.822064"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1621961946858",
+    "chat_from": "Briza Cardenas",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 2 - Practicing Inclusion",
+    "message": "",
+    "thread_id": null,
+    "timestamp": "2021-05-25T16:59:06.858Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:22.822075"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1626128625113",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Wrap-Up Weeks",
+    "message": "Hello everyone! Thank you for your sharing your ideas! We have narrowed them down into 4 New Product Teams for Innovation Lab 2021.",
+    "thread_id": null,
+    "timestamp": "2021-07-12T22:23:45.113Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:28.489969"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1626122136297",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Wrap-Up Weeks",
+    "message": "Ideas for how this could be leveraged -- a) we hearing about the need for psychological safety from clients, and this seems to align nicely in that direction; b) we have yet to build out the eLearning for J&J that is to accompany the \"Conscious Inclusion\" workshop and get rolled out to all audiences--perhaps elements of this can be packaged toward that purpose?",
+    "thread_id": null,
+    "timestamp": "2021-07-12T20:35:36.297Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:28.490232"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1625586515115",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Wrap-Up Weeks",
+    "message": "Hello Buddy Program Team Captains! Please check out the file shared here Innovation Lab 2021 - New Products .pptx (https://lcwmail.sharepoint.com/sites/LCWBuddyProgramforCross-CulturalLearning/Shared Documents/Wrap-Up Week July 6-9/Innovation Lab 2021 - New Products .pptx) for instructions for you and your team, between now and July 23rd. Please email me with any questions! Your first step is to meet in your buddy teams THIS WEEK to discuss what you all think are the greatest opportunity for new LCW products in the form of eLearning, microLearning or videos. Be sure to submit your top 1-3 ideas using the NEW PRODUCT IDEA TEMPLATE (slide 5 in the larger deck.) Tagging the captains here to make sure they share the news and expectations with their teams Ada Vargas Melissa Neu Briza Cardenas Kendall Washington Conner Williams Vince Bongiovanni Emani Richmond Amir Ghazaleh",
+    "thread_id": null,
+    "timestamp": "2021-07-06T15:48:35.115Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:28.491009"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1625574887945",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Wrap-Up Weeks",
+    "message": "Hey everyone. Before July 9 , we ask you to meet in your original small group and come up with 2-3 possible ideas to submit for new LCW eLearning, microlearning or videos (e.g. using Rise and/or Storyline). You will submit those 2-3 ideas using a template provided. Those ideas will then be reconciled/consolidated down into FOUR ideas by July 12th; your group will then be assigned one of those four ideas to collaborate on with another group as part of an innovation lab, in the week leading up to and also during the All-Staff Retreat in Chicago.",
+    "thread_id": null,
+    "timestamp": "2021-07-06T12:34:47.945Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:28.491402"
   },
   {
     "platform": "Teams",
@@ -360,7 +1372,7 @@
     "thread_id": null,
     "timestamp": "2021-06-28T19:43:29.313Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:34.214532"
+    "date_extracted": "2025-04-05T21:06:17.436582"
   },
   {
     "platform": "Teams",
@@ -371,7 +1383,7 @@
     "thread_id": null,
     "timestamp": "2021-06-28T19:42:31.638Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:34.214564"
+    "date_extracted": "2025-04-05T21:06:17.436596"
   },
   {
     "platform": "Teams",
@@ -382,7 +1394,7 @@
     "thread_id": null,
     "timestamp": "2021-06-01T19:05:51.329Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:34.219088"
+    "date_extracted": "2025-04-05T21:06:17.438961"
   },
   {
     "platform": "Teams",
@@ -393,7 +1405,7 @@
     "thread_id": null,
     "timestamp": "2021-06-01T19:04:02.1Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:34.221692"
+    "date_extracted": "2025-04-05T21:06:17.440415"
   },
   {
     "platform": "Teams",
@@ -404,7 +1416,7 @@
     "thread_id": null,
     "timestamp": "2021-06-01T18:33:52.161Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:34.223915"
+    "date_extracted": "2025-04-05T21:06:17.441635"
   },
   {
     "platform": "Teams",
@@ -415,7 +1427,7 @@
     "thread_id": null,
     "timestamp": "2022-04-22T19:01:59.928Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.073480"
+    "date_extracted": "2025-04-05T21:06:21.114871"
   },
   {
     "platform": "Teams",
@@ -426,7 +1438,7 @@
     "thread_id": null,
     "timestamp": "2022-04-18T19:58:08.242Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.074198"
+    "date_extracted": "2025-04-05T21:06:21.115284"
   },
   {
     "platform": "Teams",
@@ -437,7 +1449,7 @@
     "thread_id": null,
     "timestamp": "2022-04-15T17:06:20.912Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.074731"
+    "date_extracted": "2025-04-05T21:06:21.115598"
   },
   {
     "platform": "Teams",
@@ -448,7 +1460,7 @@
     "thread_id": null,
     "timestamp": "2021-05-19T13:51:04.671Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.077274"
+    "date_extracted": "2025-04-05T21:06:21.117033"
   },
   {
     "platform": "Teams",
@@ -459,7 +1471,7 @@
     "thread_id": null,
     "timestamp": "2021-05-13T19:11:37.922Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.077689"
+    "date_extracted": "2025-04-05T21:06:21.117265"
   },
   {
     "platform": "Teams",
@@ -470,7 +1482,7 @@
     "thread_id": null,
     "timestamp": "2021-06-28T19:26:12.877Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:29.335940"
+    "date_extracted": "2025-04-05T21:06:33.410276"
   },
   {
     "platform": "Teams",
@@ -481,7 +1493,7 @@
     "thread_id": null,
     "timestamp": "2021-06-28T19:36:32.868Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:29.336977"
+    "date_extracted": "2025-04-05T21:06:33.411018"
   },
   {
     "platform": "Teams",
@@ -492,7 +1504,7 @@
     "thread_id": null,
     "timestamp": "2021-06-28T19:31:47.935Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:29.337678"
+    "date_extracted": "2025-04-05T21:06:33.411456"
   },
   {
     "platform": "Teams",
@@ -503,7 +1515,7 @@
     "thread_id": null,
     "timestamp": "2021-06-09T23:33:02.707Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:29.338794"
+    "date_extracted": "2025-04-05T21:06:33.412123"
   },
   {
     "platform": "Teams",
@@ -514,7 +1526,7 @@
     "thread_id": null,
     "timestamp": "2021-06-08T16:26:23.515Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:29.340956"
+    "date_extracted": "2025-04-05T21:06:33.412975"
   },
   {
     "platform": "Teams",
@@ -525,40 +1537,73 @@
     "thread_id": null,
     "timestamp": "2021-06-08T15:25:48.667Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:29.342634"
+    "date_extracted": "2025-04-05T21:06:33.413982"
   },
   {
     "platform": "Teams",
-    "chat_id": "1652382905296",
-    "chat_from": "Tamara Thorpe",
-    "channel": "Associate Onboarding 2021 / AC Learners Journey",
-    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "chat_id": "1624908164848",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 5- Evaluating, Hiring, Promoting Top Talent",
+    "message": "Jeffrey Cookson LaQuanda Murray Briza Cardenas Tamara Thorpe Dustin Puehler Melissa Neu -- can you elaborate on these bullets: \" In general, we would love to see more voices in all eLearning\u2019s, which will help make changes easier.\" and also the last bullet on \"Content\" and the subbullets that follow -- unclear and seems a nonsequitur given the bullet above it...",
     "thread_id": null,
-    "timestamp": "2022-05-12T19:15:05.296Z",
+    "timestamp": "2021-06-28T19:22:44.848Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:04.804307"
+    "date_extracted": "2025-04-05T21:06:36.889758"
   },
   {
     "platform": "Teams",
-    "chat_id": "1652381147290",
-    "chat_from": "Tamara Thorpe",
-    "channel": "Associate Onboarding 2021 / AC Learners Journey",
-    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "chat_id": "1623801550373",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 5- Evaluating, Hiring, Promoting Top Talent",
+    "message": "Hello again! Your week 5 Lesson has been posted in the \"FILES\" section. Tagging Captains to push the lesson out to their teams. Ada Vargas Amir Ghazaleh Vince Bongiovanni Kendall Washington Conner Williams Briza Cardenas Melissa Neu Emani Richmond",
     "thread_id": null,
-    "timestamp": "2022-05-12T18:45:47.29Z",
+    "timestamp": "2021-06-15T23:59:10.373Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:04.804928"
+    "date_extracted": "2025-04-05T21:06:36.890397"
   },
   {
     "platform": "Teams",
-    "chat_id": "1620826877437",
-    "chat_from": "Tamara Thorpe",
-    "channel": "Associate Onboarding 2021 / Training",
-    "message": "Hello everyone! Super excited to have this space to chat.",
+    "chat_id": "1623780837593",
+    "chat_from": "Briza Cardenas",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 5- Evaluating, Hiring, Promoting Top Talent",
+    "message": "Hello Everyone! Below are the (2) Surveymonkey links for this week\u2019s modules. https://www.surveymonkey.com/r/Week_5_Evaluating_Talent_Inclusively (https://www.surveymonkey.com/r/Week_5_Evaluating_Talent_Inclusively) https://www.surveymonkey.com/r/Week_5_Hiring_and_Promoting_Top_Talent (https://www.surveymonkey.com/r/Week_5_Hiring_and_Promoting_Top_Talent)",
     "thread_id": null,
-    "timestamp": "2021-05-12T13:41:17.437Z",
+    "timestamp": "2021-06-15T18:13:57.593Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:28.093858"
+    "date_extracted": "2025-04-05T21:06:36.891391"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1623705094760",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 5- Evaluating, Hiring, Promoting Top Talent",
+    "message": "Hello there! Here are the links (for your convenience) to this week's eLearnings. Evaluating Talent Inclusively (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=2879d99a-28fd-47ed-a6c4-e181029c1d2b) Hiring & Promoting Top Talent (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=90e3609d-2847-4949-ab30-5da21a28ebf4)",
+    "thread_id": null,
+    "timestamp": "2021-06-14T21:11:34.76Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:36.891928"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1650042664097",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / General",
+    "message": "Check out the \"Wiki\" in the toolbar above, for more info on this channel.",
+    "thread_id": null,
+    "timestamp": "2022-04-15T17:11:04.097Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:07.914758"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1631195824911",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / General",
+    "message": "Hello all! I wanted to share with you this great resource on \"Creating Accessible Content\". https://web.augsburg.edu/classprogram/Creating%20Accessible%20Content.pdf (https://web.augsburg.edu/classprogram/Creating%20Accessible%20Content.pdf)",
+    "thread_id": null,
+    "timestamp": "2021-09-09T13:57:04.911Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:07.915152"
   },
   {
     "platform": "Teams",
@@ -569,7 +1614,7 @@
     "thread_id": null,
     "timestamp": "2022-06-30T15:08:04.738Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.558275"
+    "date_extracted": "2025-04-05T21:06:26.729841"
   },
   {
     "platform": "Teams",
@@ -580,7 +1625,7 @@
     "thread_id": null,
     "timestamp": "2022-02-07T16:18:40.471Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.559177"
+    "date_extracted": "2025-04-05T21:06:26.812223"
   },
   {
     "platform": "Teams",
@@ -591,7 +1636,7 @@
     "thread_id": null,
     "timestamp": "2022-01-19T21:49:11.503Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.559467"
+    "date_extracted": "2025-04-05T21:06:26.812512"
   },
   {
     "platform": "Teams",
@@ -602,7 +1647,7 @@
     "thread_id": null,
     "timestamp": "2021-12-03T14:51:25.271Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.560346"
+    "date_extracted": "2025-04-05T21:06:26.813075"
   },
   {
     "platform": "Teams",
@@ -613,7 +1658,7 @@
     "thread_id": null,
     "timestamp": "2021-11-17T18:08:45.625Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.561525"
+    "date_extracted": "2025-04-05T21:06:26.820278"
   },
   {
     "platform": "Teams",
@@ -624,7 +1669,7 @@
     "thread_id": null,
     "timestamp": "2021-09-20T15:42:22.237Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.570417"
+    "date_extracted": "2025-04-05T21:06:26.824763"
   },
   {
     "platform": "Teams",
@@ -635,7 +1680,7 @@
     "thread_id": null,
     "timestamp": "2021-09-09T16:25:26.403Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.571820"
+    "date_extracted": "2025-04-05T21:06:26.825561"
   },
   {
     "platform": "Teams",
@@ -646,7 +1691,7 @@
     "thread_id": null,
     "timestamp": "2021-09-09T16:21:05.608Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.571838"
+    "date_extracted": "2025-04-05T21:06:26.825581"
   },
   {
     "platform": "Teams",
@@ -657,7 +1702,7 @@
     "thread_id": null,
     "timestamp": "2021-07-27T20:11:36.783Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.572579"
+    "date_extracted": "2025-04-05T21:06:26.826013"
   },
   {
     "platform": "Teams",
@@ -668,7 +1713,7 @@
     "thread_id": null,
     "timestamp": "2021-07-12T21:00:43.808Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.573185"
+    "date_extracted": "2025-04-05T21:06:26.826466"
   },
   {
     "platform": "Teams",
@@ -679,7 +1724,7 @@
     "thread_id": null,
     "timestamp": "2021-07-12T22:11:57.823Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.573685"
+    "date_extracted": "2025-04-05T21:06:26.826795"
   },
   {
     "platform": "Teams",
@@ -690,7 +1735,7 @@
     "thread_id": null,
     "timestamp": "2021-07-12T21:00:49.46Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.574131"
+    "date_extracted": "2025-04-05T21:06:26.865375"
   },
   {
     "platform": "Teams",
@@ -701,7 +1746,7 @@
     "thread_id": null,
     "timestamp": "2021-07-09T02:32:01.658Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.574519"
+    "date_extracted": "2025-04-05T21:06:26.865681"
   },
   {
     "platform": "Teams",
@@ -712,7 +1757,7 @@
     "thread_id": null,
     "timestamp": "2021-07-07T15:07:38.818Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.575180"
+    "date_extracted": "2025-04-05T21:06:26.866089"
   },
   {
     "platform": "Teams",
@@ -723,7 +1768,7 @@
     "thread_id": null,
     "timestamp": "2021-07-01T13:26:29.019Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.575990"
+    "date_extracted": "2025-04-05T21:06:26.866580"
   },
   {
     "platform": "Teams",
@@ -734,7 +1779,7 @@
     "thread_id": null,
     "timestamp": "2021-06-30T16:07:34.817Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.576905"
+    "date_extracted": "2025-04-05T21:06:26.867031"
   },
   {
     "platform": "Teams",
@@ -745,7 +1790,7 @@
     "thread_id": null,
     "timestamp": "2021-06-29T22:54:09.118Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.578807"
+    "date_extracted": "2025-04-05T21:06:26.867919"
   },
   {
     "platform": "Teams",
@@ -756,7 +1801,7 @@
     "thread_id": null,
     "timestamp": "2021-06-29T16:12:04.14Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.580465"
+    "date_extracted": "2025-04-05T21:06:26.868556"
   },
   {
     "platform": "Teams",
@@ -767,7 +1812,7 @@
     "thread_id": null,
     "timestamp": "2021-06-23T19:11:24.227Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.581338"
+    "date_extracted": "2025-04-05T21:06:26.869448"
   },
   {
     "platform": "Teams",
@@ -778,7 +1823,7 @@
     "thread_id": null,
     "timestamp": "2021-06-17T20:21:41.445Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.581624"
+    "date_extracted": "2025-04-05T21:06:26.869634"
   },
   {
     "platform": "Teams",
@@ -789,7 +1834,7 @@
     "thread_id": null,
     "timestamp": "2021-06-17T17:30:08.587Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.585919"
+    "date_extracted": "2025-04-05T21:06:26.869879"
   },
   {
     "platform": "Teams",
@@ -800,7 +1845,7 @@
     "thread_id": null,
     "timestamp": "2021-06-17T17:26:08.868Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.586387"
+    "date_extracted": "2025-04-05T21:06:26.870146"
   },
   {
     "platform": "Teams",
@@ -811,7 +1856,7 @@
     "thread_id": null,
     "timestamp": "2021-06-17T16:33:14.89Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.586654"
+    "date_extracted": "2025-04-05T21:06:26.870297"
   },
   {
     "platform": "Teams",
@@ -822,7 +1867,7 @@
     "thread_id": null,
     "timestamp": "2021-06-16T19:56:29.368Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.587512"
+    "date_extracted": "2025-04-05T21:06:26.870781"
   },
   {
     "platform": "Teams",
@@ -833,7 +1878,7 @@
     "thread_id": null,
     "timestamp": "2021-06-02T22:16:16.183Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.588102"
+    "date_extracted": "2025-04-05T21:06:26.871119"
   },
   {
     "platform": "Teams",
@@ -844,7 +1889,7 @@
     "thread_id": null,
     "timestamp": "2021-05-21T15:00:38.74Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.588337"
+    "date_extracted": "2025-04-05T21:06:26.871264"
   },
   {
     "platform": "Teams",
@@ -855,7 +1900,7 @@
     "thread_id": null,
     "timestamp": "2021-05-18T17:07:42.507Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.588550"
+    "date_extracted": "2025-04-05T21:06:26.871399"
   },
   {
     "platform": "Teams",
@@ -866,7 +1911,7 @@
     "thread_id": null,
     "timestamp": "2021-05-13T20:21:48.805Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.589328"
+    "date_extracted": "2025-04-05T21:06:26.871819"
   },
   {
     "platform": "Teams",
@@ -877,6 +1922,61 @@
     "thread_id": null,
     "timestamp": "2021-05-12T18:42:49.191Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:37.590563"
+    "date_extracted": "2025-04-05T21:06:26.872517"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1652382905296",
+    "chat_from": "Tamara Thorpe",
+    "channel": "Associate Onboarding 2021 / AC Learners Journey",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": null,
+    "timestamp": "2022-05-12T19:15:05.296Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:18.952811"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1652381147290",
+    "chat_from": "Tamara Thorpe",
+    "channel": "Associate Onboarding 2021 / AC Learners Journey",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": null,
+    "timestamp": "2022-05-12T18:45:47.29Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:18.953026"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1621268421396",
+    "chat_from": "Monica Marcel",
+    "channel": "Associate Onboarding 2021 / Announcements \ud83d\udce2",
+    "message": "",
+    "thread_id": null,
+    "timestamp": "2021-05-17T16:20:21.396Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:26.030274"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1620932984237",
+    "chat_from": "Monica Marcel",
+    "channel": "Associate Onboarding 2021 / Announcements \ud83d\udce2",
+    "message": "Hey everyone! Notice in the \"files\" section I have been posting the materials shared with the onboarding sessions this week -- so that they are all in one place.",
+    "thread_id": null,
+    "timestamp": "2021-05-13T19:09:44.237Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:26.030698"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1620826877437",
+    "chat_from": "Tamara Thorpe",
+    "channel": "Associate Onboarding 2021 / Training",
+    "message": "Hello everyone! Super excited to have this space to chat.",
+    "thread_id": null,
+    "timestamp": "2021-05-12T13:41:17.437Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:36.513530"
   }
 ]

@@ -1,6 +1,17 @@
 [
   {
     "platform": "Teams",
+    "chat_id": "1657297467927",
+    "chat_from": "Emani Richmond",
+    "channel": "Children's Heart Link / General",
+    "message": "I added a tab at the top of this channel. Check it out!",
+    "thread_id": null,
+    "timestamp": "2022-07-08T16:24:27.927Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:30.379930"
+  },
+  {
+    "platform": "Teams",
     "chat_id": "1650485154388",
     "chat_from": "orgid:10b8563d-7d5e-4fbd-bdfa-3f2e63cb076e",
     "channel": "Gates Foundation / DEI Case Studies",
@@ -8,7 +19,7 @@
     "thread_id": null,
     "timestamp": "2022-04-20T20:05:54.388Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:55.093865"
+    "date_extracted": "2025-04-05T21:09:27.805248"
   },
   {
     "platform": "Teams",
@@ -19,7 +30,7 @@
     "thread_id": null,
     "timestamp": "2022-04-15T16:35:24.702Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:55.094231"
+    "date_extracted": "2025-04-05T21:09:27.805464"
   },
   {
     "platform": "Teams",
@@ -30,7 +41,7 @@
     "thread_id": null,
     "timestamp": "2022-04-18T20:50:53.187Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:55.094558"
+    "date_extracted": "2025-04-05T21:09:27.805655"
   },
   {
     "platform": "Teams",
@@ -41,7 +52,7 @@
     "thread_id": null,
     "timestamp": "2022-04-19T18:39:12.211Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:02.033747"
+    "date_extracted": "2025-04-05T21:09:33.323639"
   },
   {
     "platform": "Teams",
@@ -52,7 +63,7 @@
     "thread_id": null,
     "timestamp": "2022-02-23T19:01:23.096Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:02.034128"
+    "date_extracted": "2025-04-05T21:09:33.323820"
   },
   {
     "platform": "Teams",
@@ -63,7 +74,7 @@
     "thread_id": null,
     "timestamp": "2022-02-23T18:19:34.152Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:02.034422"
+    "date_extracted": "2025-04-05T21:09:33.323952"
   },
   {
     "platform": "Teams",
@@ -74,18 +85,7 @@
     "thread_id": null,
     "timestamp": "2021-12-08T20:18:45.301Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:02.034757"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1657297467927",
-    "chat_from": "Emani Richmond",
-    "channel": "Children's Heart Link / General",
-    "message": "I added a tab at the top of this channel. Check it out!",
-    "thread_id": null,
-    "timestamp": "2022-07-08T16:24:27.927Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:03.513981"
+    "date_extracted": "2025-04-05T21:09:33.324096"
   },
   {
     "platform": "Teams",
@@ -96,7 +96,7 @@
     "thread_id": null,
     "timestamp": "2022-04-06T20:06:51.764Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:09.322260"
+    "date_extracted": "2025-04-05T21:09:37.077851"
   },
   {
     "platform": "Teams",
@@ -107,7 +107,7 @@
     "thread_id": null,
     "timestamp": "2022-01-27T20:58:43.257Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:09.324208"
+    "date_extracted": "2025-04-05T21:09:37.079018"
   },
   {
     "platform": "Teams",
@@ -118,6 +118,6 @@
     "thread_id": null,
     "timestamp": "2021-08-23T19:19:39.006Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:09.324514"
+    "date_extracted": "2025-04-05T21:09:37.079144"
   }
 ]

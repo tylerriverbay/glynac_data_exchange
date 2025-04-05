@@ -1,28 +1,6 @@
 [
   {
     "platform": "Teams",
-    "chat_id": "1639501345467",
-    "chat_from": "orgid:6ac07717-545d-4b3c-ad60-3fd2b1fcbe98",
-    "channel": "LCW Social Think Tank / General",
-    "message": "Hi all, Thanks so much for agreeing to be a part of our LCW \u201csocial think tank\u201d. This will be a standing meeting once a month for us to gather feedback on social, get your input on social plans, and generate new ideas for content throughout the year. I will create an agenda for our time together each month and share it in the teams group before the meeting. I'm looking forward to 2022! Thanks, Jake",
-    "thread_id": null,
-    "timestamp": "2021-12-14T17:02:25.467Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:30.157508"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1639501210704",
-    "chat_from": "orgid:6ac07717-545d-4b3c-ad60-3fd2b1fcbe98",
-    "channel": "LCW Social Think Tank / General",
-    "message": "Hi all, Thanks so much for agreeing to be a part of our LCW \u201csocial thinktank\u201d. This will be a standing meeting once a month for us to gather feedback on social, get your input on social plans, and generate new ideas for content throughout the year. I will create an agenda for our time together each month. This first meeting will be used to introduce the goals of this group, show you what is planned for social in 2022, and gather your feedback on the 2022 thematic content calendar. I'm looking forward to meeting with you all soon! Thanks, Jake",
-    "thread_id": null,
-    "timestamp": "2021-12-14T17:00:10.704Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:30.160522"
-  },
-  {
-    "platform": "Teams",
     "chat_id": "1640112582346",
     "chat_from": "orgid:6ac07717-545d-4b3c-ad60-3fd2b1fcbe98",
     "channel": "LCW Learning Bundle Thinktank / General",
@@ -30,7 +8,7 @@
     "thread_id": null,
     "timestamp": "2021-12-21T18:49:42.346Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:33.492860"
+    "date_extracted": "2025-04-05T21:06:18.687150"
   },
   {
     "platform": "Teams",
@@ -41,7 +19,7 @@
     "thread_id": null,
     "timestamp": "2022-04-07T17:37:01.663Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:33.508320"
+    "date_extracted": "2025-04-05T21:06:18.695418"
   },
   {
     "platform": "Teams",
@@ -52,7 +30,7 @@
     "thread_id": null,
     "timestamp": "2021-12-21T18:51:56.806Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:33.510110"
+    "date_extracted": "2025-04-05T21:06:18.750742"
   },
   {
     "platform": "Teams",
@@ -63,7 +41,7 @@
     "thread_id": null,
     "timestamp": "2022-01-25T20:09:37.653Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:33.510730"
+    "date_extracted": "2025-04-05T21:06:18.751122"
   },
   {
     "platform": "Teams",
@@ -74,128 +52,29 @@
     "thread_id": null,
     "timestamp": "2021-12-08T18:26:28.677Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:33.512257"
+    "date_extracted": "2025-04-05T21:06:18.752057"
   },
   {
     "platform": "Teams",
-    "chat_id": "1666898660573",
-    "chat_from": "Jake Pieczynski",
-    "channel": "2022 Website Redesign / General",
-    "message": "I added a tab at the top of this channel. Check it out!",
+    "chat_id": "1639501345467",
+    "chat_from": "orgid:6ac07717-545d-4b3c-ad60-3fd2b1fcbe98",
+    "channel": "LCW Social Think Tank / General",
+    "message": "Hi all, Thanks so much for agreeing to be a part of our LCW \u201csocial think tank\u201d. This will be a standing meeting once a month for us to gather feedback on social, get your input on social plans, and generate new ideas for content throughout the year. I will create an agenda for our time together each month and share it in the teams group before the meeting. I'm looking forward to 2022! Thanks, Jake",
     "thread_id": null,
-    "timestamp": "2022-10-27T19:24:20.573Z",
+    "timestamp": "2021-12-14T17:02:25.467Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:09.087787"
+    "date_extracted": "2025-04-05T21:06:20.025521"
   },
   {
     "platform": "Teams",
-    "chat_id": "1656712354344",
-    "chat_from": "Jake Pieczynski",
-    "channel": "2022 Website Redesign / Announcements \ud83d\udce2",
-    "message": "I added a new tab to the tracker with the website's current indexed pages... this should be a list of every page we have. I did not have time to clean it up yet - sorry. If you want to work with this before I'm back on Wednesday, I'd filter the \"Index\" column (highlighted yellow) and only look at the pages marked \"yes\" -- this should eliminate most of the pages that are logins or pdf file/media uploads. If you want to, we can start marking them as \"keep, revise, or eliminate\" and use this tab to start our own list of needed pages.",
+    "chat_id": "1639501210704",
+    "chat_from": "orgid:6ac07717-545d-4b3c-ad60-3fd2b1fcbe98",
+    "channel": "LCW Social Think Tank / General",
+    "message": "Hi all, Thanks so much for agreeing to be a part of our LCW \u201csocial thinktank\u201d. This will be a standing meeting once a month for us to gather feedback on social, get your input on social plans, and generate new ideas for content throughout the year. I will create an agenda for our time together each month. This first meeting will be used to introduce the goals of this group, show you what is planned for social in 2022, and gather your feedback on the 2022 thematic content calendar. I'm looking forward to meeting with you all soon! Thanks, Jake",
     "thread_id": null,
-    "timestamp": "2022-07-01T21:52:34.344Z",
+    "timestamp": "2021-12-14T17:00:10.704Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:28.632420"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1656079474564",
-    "chat_from": "bansberg.james (Guest)",
-    "channel": "2022 Website Redesign / Announcements \ud83d\udce2",
-    "message": "Jake Pieczynski Just testing how the conversation app works. I'll let you know if I receive access to the files.",
-    "thread_id": null,
-    "timestamp": "2022-06-24T14:04:34.564Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:28.632927"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1652200887398",
-    "chat_from": "Jake Pieczynski",
-    "channel": "Crisis Communications Channel / FL Stop Woke Act",
-    "message": "What responses, questions, or new problems are you encountering in your conversations with clients? (please respond in this thread)",
-    "thread_id": null,
-    "timestamp": "2022-05-10T16:41:27.398Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:13:32.621555"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1653404423964",
-    "chat_from": "Tahitia Timmons",
-    "channel": "Crisis Communications Channel / General",
-    "message": "I am going to post this here - The American College of Obstetricians and Gynecologists (ACOG) the leading resource for maternal child health has issued a statement regarding Abortion - Understanding ACOG\u2019s Policy on Abortion. It can be found here https://www.acog.org/news/news-articles/2022/05/understanding-acog-policy-on-abortion (https://www.acog.org/news/news-articles/2022/05/understanding-acog-policy-on-abortion)",
-    "thread_id": null,
-    "timestamp": "2022-05-24T15:00:23.964Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:29.302808"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1650302118465",
-    "chat_from": "Jake Pieczynski",
-    "channel": "Crisis Communications Channel / General",
-    "message": "Checking back in two weeks removed - what reactions or feedback have you received in response to LCW's leadership transition announcement? We know that this will be an ongoing process. Please share the responses you've received in this thread so we can use them to inform our future communications. Thanks!",
-    "thread_id": null,
-    "timestamp": "2022-04-18T17:15:18.465Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:29.303486"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1649261828348",
-    "chat_from": "Jake Pieczynski",
-    "channel": "Crisis Communications Channel / General",
-    "message": "What reactions or feedback have you received in response to yesterday's announcement? Please share the responses you've received in this thread so we can use them to inform our future communications. Thanks!",
-    "thread_id": null,
-    "timestamp": "2022-04-06T16:17:08.348Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:29.303967"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1649106180628",
-    "chat_from": "Jake Pieczynski",
-    "channel": "Crisis Communications Channel / General",
-    "message": "What new questions are coming up? Post any responses that have were not covered in the FAQ guide in this thread.",
-    "thread_id": null,
-    "timestamp": "2022-04-04T21:03:00.628Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:29.304576"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1649187641535",
-    "chat_from": "Jake Pieczynski",
-    "channel": "Crisis Communications Channel / General",
-    "message": "The \"LCW Staff FAQ Guide\" is now available in the files section of this channel. Please take a moment to review and post any additional questions you think other may benefit from seeing the response to in this thread. Thanks!",
-    "thread_id": null,
-    "timestamp": "2022-04-05T19:40:41.535Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:29.305244"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1649106143312",
-    "chat_from": "Jake Pieczynski",
-    "channel": "Crisis Communications Channel / General",
-    "message": "What have your clients' reactions been to the email? Post any responses you've heard that others might benefit from in this thread.",
-    "thread_id": null,
-    "timestamp": "2022-04-04T21:02:23.312Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:29.305846"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1649175324196",
-    "chat_from": "Jake Pieczynski",
-    "channel": "Crisis Communications Channel / General",
-    "message": "Hi team - a quick heads up that we are targeting a 1:30pm release of our official announcement on the website, Facebook, LinkedIn, and Twitter. Please be on the look out. I will update you when it is live.",
-    "thread_id": null,
-    "timestamp": "2022-04-05T16:15:24.196Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:29.306143"
+    "date_extracted": "2025-04-05T21:06:20.026552"
   },
   {
     "platform": "Teams",
@@ -206,7 +85,7 @@
     "thread_id": null,
     "timestamp": "2022-10-27T19:27:56.729Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:29.309910"
+    "date_extracted": "2025-04-05T21:06:28.862918"
   },
   {
     "platform": "Teams",
@@ -217,7 +96,7 @@
     "thread_id": null,
     "timestamp": "2022-10-17T13:08:11.703Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:29.310746"
+    "date_extracted": "2025-04-05T21:06:28.863086"
   },
   {
     "platform": "Teams",
@@ -228,7 +107,7 @@
     "thread_id": null,
     "timestamp": "2022-10-12T18:23:46.846Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:29.311160"
+    "date_extracted": "2025-04-05T21:06:28.863295"
   },
   {
     "platform": "Teams",
@@ -239,6 +118,127 @@
     "thread_id": null,
     "timestamp": "2022-07-13T14:30:47.436Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:29.311657"
+    "date_extracted": "2025-04-05T21:06:28.863494"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1652200887398",
+    "chat_from": "Jake Pieczynski",
+    "channel": "Crisis Communications Channel / FL Stop Woke Act",
+    "message": "What responses, questions, or new problems are you encountering in your conversations with clients? (please respond in this thread)",
+    "thread_id": null,
+    "timestamp": "2022-05-10T16:41:27.398Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:21.292612"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1653404423964",
+    "chat_from": "Tahitia Timmons",
+    "channel": "Crisis Communications Channel / General",
+    "message": "I am going to post this here - The American College of Obstetricians and Gynecologists (ACOG) the leading resource for maternal child health has issued a statement regarding Abortion - Understanding ACOG\u2019s Policy on Abortion. It can be found here https://www.acog.org/news/news-articles/2022/05/understanding-acog-policy-on-abortion (https://www.acog.org/news/news-articles/2022/05/understanding-acog-policy-on-abortion)",
+    "thread_id": null,
+    "timestamp": "2022-05-24T15:00:23.964Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:31.876539"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1650302118465",
+    "chat_from": "Jake Pieczynski",
+    "channel": "Crisis Communications Channel / General",
+    "message": "Checking back in two weeks removed - what reactions or feedback have you received in response to LCW's leadership transition announcement? We know that this will be an ongoing process. Please share the responses you've received in this thread so we can use them to inform our future communications. Thanks!",
+    "thread_id": null,
+    "timestamp": "2022-04-18T17:15:18.465Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:31.876955"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1649261828348",
+    "chat_from": "Jake Pieczynski",
+    "channel": "Crisis Communications Channel / General",
+    "message": "What reactions or feedback have you received in response to yesterday's announcement? Please share the responses you've received in this thread so we can use them to inform our future communications. Thanks!",
+    "thread_id": null,
+    "timestamp": "2022-04-06T16:17:08.348Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:31.877239"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1649106180628",
+    "chat_from": "Jake Pieczynski",
+    "channel": "Crisis Communications Channel / General",
+    "message": "What new questions are coming up? Post any responses that have were not covered in the FAQ guide in this thread.",
+    "thread_id": null,
+    "timestamp": "2022-04-04T21:03:00.628Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:31.877541"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1649187641535",
+    "chat_from": "Jake Pieczynski",
+    "channel": "Crisis Communications Channel / General",
+    "message": "The \"LCW Staff FAQ Guide\" is now available in the files section of this channel. Please take a moment to review and post any additional questions you think other may benefit from seeing the response to in this thread. Thanks!",
+    "thread_id": null,
+    "timestamp": "2022-04-05T19:40:41.535Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:31.877916"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1649106143312",
+    "chat_from": "Jake Pieczynski",
+    "channel": "Crisis Communications Channel / General",
+    "message": "What have your clients' reactions been to the email? Post any responses you've heard that others might benefit from in this thread.",
+    "thread_id": null,
+    "timestamp": "2022-04-04T21:02:23.312Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:31.878258"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1649175324196",
+    "chat_from": "Jake Pieczynski",
+    "channel": "Crisis Communications Channel / General",
+    "message": "Hi team - a quick heads up that we are targeting a 1:30pm release of our official announcement on the website, Facebook, LinkedIn, and Twitter. Please be on the look out. I will update you when it is live.",
+    "thread_id": null,
+    "timestamp": "2022-04-05T16:15:24.196Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:31.878420"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1666898660573",
+    "chat_from": "Jake Pieczynski",
+    "channel": "2022 Website Redesign / General",
+    "message": "I added a tab at the top of this channel. Check it out!",
+    "thread_id": null,
+    "timestamp": "2022-10-27T19:24:20.573Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:31.163019"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1656712354344",
+    "chat_from": "Jake Pieczynski",
+    "channel": "2022 Website Redesign / Announcements \ud83d\udce2",
+    "message": "I added a new tab to the tracker with the website's current indexed pages... this should be a list of every page we have. I did not have time to clean it up yet - sorry. If you want to work with this before I'm back on Wednesday, I'd filter the \"Index\" column (highlighted yellow) and only look at the pages marked \"yes\" -- this should eliminate most of the pages that are logins or pdf file/media uploads. If you want to, we can start marking them as \"keep, revise, or eliminate\" and use this tab to start our own list of needed pages.",
+    "thread_id": null,
+    "timestamp": "2022-07-01T21:52:34.344Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:32.493247"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1656079474564",
+    "chat_from": "bansberg.james (Guest)",
+    "channel": "2022 Website Redesign / Announcements \ud83d\udce2",
+    "message": "Jake Pieczynski Just testing how the conversation app works. I'll let you know if I receive access to the files.",
+    "thread_id": null,
+    "timestamp": "2022-06-24T14:04:34.564Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:32.493908"
   }
 ]

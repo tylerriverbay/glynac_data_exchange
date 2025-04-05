@@ -1,0 +1,24 @@
+[
+  {
+    "platform": "Teams",
+    "chat_id": "1630511352351",
+    "chat_from": "Daniel Gough",
+    "channel": "SurveyMonkey / General",
+    "message": "Does this work?",
+    "thread_id": null,
+    "timestamp": "2021-09-01T15:49:12.351Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:08:44.457919"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1630506085787",
+    "chat_from": "Ada Vargas",
+    "channel": "SurveyMonkey / General",
+    "message": "Test for emailing the new SurveyMonkey General channel. Ada Vargas | they/them Associate Consultant LCW 100 S Saunders Rd, Suite 150 Lake Forest, IL 60045 www (https://www.languageandculture.com/) | Twitter (https://twitter.com/LCWllc) | Facebook (https://www.facebook.com/LanguageAndCultureWorldwide/) | LinkedIn (https://www.linkedin.com/company/language-&-culture-worldwide/)",
+    "thread_id": null,
+    "timestamp": "2021-09-01T14:21:25.787Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:08:44.460062"
+  }
+]

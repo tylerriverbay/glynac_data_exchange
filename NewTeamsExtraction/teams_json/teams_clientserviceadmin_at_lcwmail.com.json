@@ -1,94 +1,6 @@
 [
   {
     "platform": "Teams",
-    "chat_id": "1697057338824",
-    "chat_from": "Briza Cardenas",
-    "channel": "Exec Asst. Space / General",
-    "message": "Fireflies AI",
-    "thread_id": null,
-    "timestamp": "2023-10-11T20:48:58.824Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:45.655156"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1638995332767",
-    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
-    "channel": "LCW Podcast / General",
-    "message": "Scheduled a meeting",
-    "thread_id": null,
-    "timestamp": "2021-12-08T20:28:52.767Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.214717"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1642610610425",
-    "chat_from": "Jake Pieczynski",
-    "channel": "LCW Podcast / General",
-    "message": "Move forward with: What the Asian & Pacific Islander Community Wants You to Know - Will reach out to guests from last attempt, but will plan on posting this in May - Maybe this is two parts? - Part 1: What the Asian & Pacific Islander Community Wants You to Know - Part 2: Stop Asian Hate \u2013 What Can Your Workplace Be Doing? Demystifying and De-weaponizing Critical Race Theory - Need to research more to find guests Holistic Health - Prioritize this - seems like we have the most leads on this and we can move forward quickly Defining the George Floyd Moment/Movement - Possible mini-series exploring 3-5 of the biggest questions on this",
-    "thread_id": null,
-    "timestamp": "2022-01-19T16:43:30.425Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.218715"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1625680153633",
-    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
-    "channel": "LCW Podcast / General",
-    "message": "Scheduled a meeting",
-    "thread_id": null,
-    "timestamp": "2021-07-07T17:49:13.633Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.219058"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1624916829579",
-    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
-    "channel": "LCW Podcast / General",
-    "message": "Scheduled a meeting",
-    "thread_id": null,
-    "timestamp": "2021-06-28T21:47:09.579Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.219360"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1625679776779",
-    "chat_from": "Briza Cardenas",
-    "channel": "LCW Podcast / General",
-    "message": "Hi Team, I uploaded the word document I was taking my notes on from today's meeting (they are VERY rough notes). You can find them in the Files section. We can collaboratively update the document in teams rather than keep it in Dropbox for now to avoid creating conflicted copies.",
-    "thread_id": null,
-    "timestamp": "2021-07-07T17:42:56.779Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.219622"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1652746903757",
-    "chat_from": "Chuck Adams",
-    "channel": "CEO Space / General",
-    "message": "Added a new tab at the top of this channel. Here's a link.",
-    "thread_id": null,
-    "timestamp": "2022-05-17T00:21:43.757Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:49.718200"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1652746550395",
-    "chat_from": "Chuck Adams",
-    "channel": "CEO Space / General",
-    "message": "Added a new tab at the top of this channel. Here's a link.",
-    "thread_id": null,
-    "timestamp": "2022-05-17T00:15:50.395Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:49.718584"
-  },
-  {
-    "platform": "Teams",
     "chat_id": "1654603183428",
     "chat_from": "Alisa Kolodizner",
     "channel": "May Offsite / General",
@@ -96,7 +8,7 @@
     "thread_id": null,
     "timestamp": "2022-06-07T11:59:43.428Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:53.200445"
+    "date_extracted": "2025-04-05T21:09:09.202096"
   },
   {
     "platform": "Teams",
@@ -107,7 +19,7 @@
     "thread_id": null,
     "timestamp": "2022-06-07T03:04:40.193Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:53.200720"
+    "date_extracted": "2025-04-05T21:09:09.202308"
   },
   {
     "platform": "Teams",
@@ -118,7 +30,7 @@
     "thread_id": null,
     "timestamp": "2022-06-06T04:04:14.463Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:53.205059"
+    "date_extracted": "2025-04-05T21:09:09.204297"
   },
   {
     "platform": "Teams",
@@ -129,7 +41,7 @@
     "thread_id": null,
     "timestamp": "2022-05-16T19:02:03.376Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:53.205591"
+    "date_extracted": "2025-04-05T21:09:09.204476"
   },
   {
     "platform": "Teams",
@@ -140,7 +52,7 @@
     "thread_id": null,
     "timestamp": "2022-06-01T11:21:24.111Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:53.206501"
+    "date_extracted": "2025-04-05T21:09:09.204822"
   },
   {
     "platform": "Teams",
@@ -151,7 +63,7 @@
     "thread_id": null,
     "timestamp": "2022-05-27T16:35:58.135Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:53.208677"
+    "date_extracted": "2025-04-05T21:09:09.205688"
   },
   {
     "platform": "Teams",
@@ -162,7 +74,7 @@
     "thread_id": null,
     "timestamp": "2022-05-16T18:57:56.822Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:53.209001"
+    "date_extracted": "2025-04-05T21:09:09.205815"
   },
   {
     "platform": "Teams",
@@ -173,7 +85,7 @@
     "thread_id": null,
     "timestamp": "2022-05-25T16:48:28.16Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:53.209437"
+    "date_extracted": "2025-04-05T21:09:09.205986"
   },
   {
     "platform": "Teams",
@@ -184,7 +96,7 @@
     "thread_id": null,
     "timestamp": "2022-05-24T22:24:22.396Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:53.209942"
+    "date_extracted": "2025-04-05T21:09:09.206186"
   },
   {
     "platform": "Teams",
@@ -195,7 +107,7 @@
     "thread_id": null,
     "timestamp": "2022-05-23T21:15:41.534Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:53.212626"
+    "date_extracted": "2025-04-05T21:09:09.206629"
   },
   {
     "platform": "Teams",
@@ -206,7 +118,7 @@
     "thread_id": null,
     "timestamp": "2022-05-23T21:14:47.645Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:53.214089"
+    "date_extracted": "2025-04-05T21:09:09.207193"
   },
   {
     "platform": "Teams",
@@ -217,7 +129,7 @@
     "thread_id": null,
     "timestamp": "2022-05-19T18:08:29.658Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:53.214528"
+    "date_extracted": "2025-04-05T21:09:09.207362"
   },
   {
     "platform": "Teams",
@@ -228,7 +140,7 @@
     "thread_id": null,
     "timestamp": "2022-05-19T14:54:31.936Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:53.214765"
+    "date_extracted": "2025-04-05T21:09:09.207455"
   },
   {
     "platform": "Teams",
@@ -239,7 +151,7 @@
     "thread_id": null,
     "timestamp": "2022-05-17T12:15:08.32Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:53.217916"
+    "date_extracted": "2025-04-05T21:09:09.208624"
   },
   {
     "platform": "Teams",
@@ -250,7 +162,95 @@
     "thread_id": null,
     "timestamp": "2022-05-13T19:48:47.64Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:53.218181"
+    "date_extracted": "2025-04-05T21:09:09.208720"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1638995332767",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "LCW Podcast / General",
+    "message": "Scheduled a meeting",
+    "thread_id": null,
+    "timestamp": "2021-12-08T20:28:52.767Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.211677"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1642610610425",
+    "chat_from": "Jake Pieczynski",
+    "channel": "LCW Podcast / General",
+    "message": "Move forward with: What the Asian & Pacific Islander Community Wants You to Know - Will reach out to guests from last attempt, but will plan on posting this in May - Maybe this is two parts? - Part 1: What the Asian & Pacific Islander Community Wants You to Know - Part 2: Stop Asian Hate \u2013 What Can Your Workplace Be Doing? Demystifying and De-weaponizing Critical Race Theory - Need to research more to find guests Holistic Health - Prioritize this - seems like we have the most leads on this and we can move forward quickly Defining the George Floyd Moment/Movement - Possible mini-series exploring 3-5 of the biggest questions on this",
+    "thread_id": null,
+    "timestamp": "2022-01-19T16:43:30.425Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.213694"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1625680153633",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "LCW Podcast / General",
+    "message": "Scheduled a meeting",
+    "thread_id": null,
+    "timestamp": "2021-07-07T17:49:13.633Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.213854"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1624916829579",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "LCW Podcast / General",
+    "message": "Scheduled a meeting",
+    "thread_id": null,
+    "timestamp": "2021-06-28T21:47:09.579Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.213987"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1625679776779",
+    "chat_from": "Briza Cardenas",
+    "channel": "LCW Podcast / General",
+    "message": "Hi Team, I uploaded the word document I was taking my notes on from today's meeting (they are VERY rough notes). You can find them in the Files section. We can collaboratively update the document in teams rather than keep it in Dropbox for now to avoid creating conflicted copies.",
+    "thread_id": null,
+    "timestamp": "2021-07-07T17:42:56.779Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.214098"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1697057338824",
+    "chat_from": "Briza Cardenas",
+    "channel": "Exec Asst. Space / General",
+    "message": "Fireflies AI",
+    "thread_id": null,
+    "timestamp": "2023-10-11T20:48:58.824Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.363350"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1652746903757",
+    "chat_from": "Chuck Adams",
+    "channel": "CEO Space / General",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": null,
+    "timestamp": "2022-05-17T00:21:43.757Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.100297"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1652746550395",
+    "chat_from": "Chuck Adams",
+    "channel": "CEO Space / General",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": null,
+    "timestamp": "2022-05-17T00:15:50.395Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.100547"
   },
   {
     "platform": "Teams",
@@ -261,7 +261,7 @@
     "thread_id": null,
     "timestamp": "2022-12-16T16:26:17.934Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:54.302380"
+    "date_extracted": "2025-04-05T21:09:11.388692"
   },
   {
     "platform": "Teams",
@@ -272,7 +272,7 @@
     "thread_id": null,
     "timestamp": "2022-09-13T16:09:40.611Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:54.309435"
+    "date_extracted": "2025-04-05T21:09:11.392410"
   },
   {
     "platform": "Teams",
@@ -283,7 +283,7 @@
     "thread_id": null,
     "timestamp": "2022-09-06T17:59:46.899Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:54.311198"
+    "date_extracted": "2025-04-05T21:09:11.393189"
   },
   {
     "platform": "Teams",
@@ -294,7 +294,7 @@
     "thread_id": null,
     "timestamp": "2022-08-23T18:04:32.731Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:54.320089"
+    "date_extracted": "2025-04-05T21:09:11.396903"
   },
   {
     "platform": "Teams",
@@ -305,7 +305,7 @@
     "thread_id": null,
     "timestamp": "2022-07-26T17:55:00.202Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:54.320455"
+    "date_extracted": "2025-04-05T21:09:11.397092"
   },
   {
     "platform": "Teams",
@@ -316,7 +316,7 @@
     "thread_id": null,
     "timestamp": "2022-07-14T16:44:58.089Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:54.320843"
+    "date_extracted": "2025-04-05T21:09:11.397312"
   },
   {
     "platform": "Teams",
@@ -327,7 +327,7 @@
     "thread_id": null,
     "timestamp": "2022-06-28T14:22:59.603Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:54.321104"
+    "date_extracted": "2025-04-05T21:09:11.397468"
   },
   {
     "platform": "Teams",
@@ -338,7 +338,7 @@
     "thread_id": null,
     "timestamp": "2022-06-14T14:33:09.937Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:54.321376"
+    "date_extracted": "2025-04-05T21:09:11.397638"
   },
   {
     "platform": "Teams",
@@ -349,7 +349,7 @@
     "thread_id": null,
     "timestamp": "2022-06-14T13:46:12.049Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:54.321636"
+    "date_extracted": "2025-04-05T21:09:11.397826"
   },
   {
     "platform": "Teams",
@@ -360,7 +360,7 @@
     "thread_id": null,
     "timestamp": "2022-05-19T19:37:59.672Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:54.323250"
+    "date_extracted": "2025-04-05T21:09:11.398831"
   },
   {
     "platform": "Teams",
@@ -371,7 +371,7 @@
     "thread_id": null,
     "timestamp": "2022-05-19T19:39:23.861Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:54.323621"
+    "date_extracted": "2025-04-05T21:09:11.399049"
   },
   {
     "platform": "Teams",
@@ -382,7 +382,7 @@
     "thread_id": null,
     "timestamp": "2022-08-23T20:26:45.732Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.642496"
+    "date_extracted": "2025-04-05T21:09:16.817884"
   },
   {
     "platform": "Teams",
@@ -393,7 +393,7 @@
     "thread_id": null,
     "timestamp": "2022-05-18T21:39:41.048Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.642855"
+    "date_extracted": "2025-04-05T21:09:16.818170"
   },
   {
     "platform": "Teams",
@@ -404,7 +404,7 @@
     "thread_id": null,
     "timestamp": "2022-05-18T21:34:43.496Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.643562"
+    "date_extracted": "2025-04-05T21:09:16.818370"
   },
   {
     "platform": "Teams",
@@ -415,7 +415,7 @@
     "thread_id": null,
     "timestamp": "2022-04-19T16:32:28.155Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.644588"
+    "date_extracted": "2025-04-05T21:09:16.818753"
   },
   {
     "platform": "Teams",
@@ -426,7 +426,7 @@
     "thread_id": null,
     "timestamp": "2022-04-13T16:18:11.302Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.644946"
+    "date_extracted": "2025-04-05T21:09:16.818932"
   },
   {
     "platform": "Teams",
@@ -437,7 +437,7 @@
     "thread_id": null,
     "timestamp": "2022-03-31T19:56:13.522Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.645547"
+    "date_extracted": "2025-04-05T21:09:16.819226"
   },
   {
     "platform": "Teams",
@@ -448,7 +448,7 @@
     "thread_id": null,
     "timestamp": "2022-03-31T13:47:20.569Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.646181"
+    "date_extracted": "2025-04-05T21:09:16.819554"
   },
   {
     "platform": "Teams",
@@ -459,7 +459,7 @@
     "thread_id": null,
     "timestamp": "2022-03-08T16:49:09.075Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.647040"
+    "date_extracted": "2025-04-05T21:09:16.820065"
   },
   {
     "platform": "Teams",
@@ -470,7 +470,7 @@
     "thread_id": null,
     "timestamp": "2022-02-15T21:58:54.581Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.647688"
+    "date_extracted": "2025-04-05T21:09:16.820445"
   },
   {
     "platform": "Teams",
@@ -481,7 +481,7 @@
     "thread_id": null,
     "timestamp": "2022-02-11T14:29:23.659Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.647985"
+    "date_extracted": "2025-04-05T21:09:16.820620"
   },
   {
     "platform": "Teams",
@@ -492,7 +492,7 @@
     "thread_id": null,
     "timestamp": "2022-02-08T16:48:39.34Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.648270"
+    "date_extracted": "2025-04-05T21:09:16.820787"
   },
   {
     "platform": "Teams",
@@ -503,7 +503,7 @@
     "thread_id": null,
     "timestamp": "2022-01-18T20:54:51.957Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.648561"
+    "date_extracted": "2025-04-05T21:09:16.820957"
   },
   {
     "platform": "Teams",
@@ -514,7 +514,7 @@
     "thread_id": null,
     "timestamp": "2022-01-18T20:53:35.416Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.648855"
+    "date_extracted": "2025-04-05T21:09:16.821130"
   },
   {
     "platform": "Teams",
@@ -525,7 +525,7 @@
     "thread_id": null,
     "timestamp": "2022-01-26T17:13:37.256Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.649284"
+    "date_extracted": "2025-04-05T21:09:16.821386"
   },
   {
     "platform": "Teams",
@@ -536,7 +536,7 @@
     "thread_id": null,
     "timestamp": "2022-01-18T20:52:15.794Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.650154"
+    "date_extracted": "2025-04-05T21:09:16.821817"
   },
   {
     "platform": "Teams",
@@ -547,7 +547,7 @@
     "thread_id": null,
     "timestamp": "2022-01-11T19:49:37.396Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.651630"
+    "date_extracted": "2025-04-05T21:09:16.822661"
   },
   {
     "platform": "Teams",
@@ -558,7 +558,7 @@
     "thread_id": null,
     "timestamp": "2022-01-11T20:30:06.323Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.652017"
+    "date_extracted": "2025-04-05T21:09:16.822879"
   },
   {
     "platform": "Teams",
@@ -569,7 +569,7 @@
     "thread_id": null,
     "timestamp": "2022-01-11T20:29:06.307Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.652393"
+    "date_extracted": "2025-04-05T21:09:16.823084"
   },
   {
     "platform": "Teams",
@@ -580,238 +580,7 @@
     "thread_id": null,
     "timestamp": "2022-01-11T19:41:56.942Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.652861"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1726497622804",
-    "chat_from": "Patricia Coleman",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "HOW WILL YOU CELEBRATE? 24 Activities To Celebrate Hispanic Heritage Month (2024) (goodgoodgood.co) (https://www.goodgoodgood.co/articles/how-to-celebrate-hispanic-heritage-month)",
-    "thread_id": null,
-    "timestamp": "2024-09-16T14:40:22.804Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.827922"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1707938856829",
-    "chat_from": "Tamara Thorpe",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "Interesting article and repost by Dethra Giles on LinkedIn https://www.fastcompany.com/91025936/zoom-laid-off-its-dei-team-and-its-not-the-only-company-making-cuts (https://www.fastcompany.com/91025936/zoom-laid-off-its-dei-team-and-its-not-the-only-company-making-cuts)",
-    "thread_id": null,
-    "timestamp": "2024-02-14T19:27:36.829Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.828478"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1691620953628",
-    "chat_from": "Tamara Thorpe",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "The on site with Insight was amazing! \u2593 \u2593 \u2593",
-    "thread_id": null,
-    "timestamp": "2023-08-09T22:42:33.628Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.829020"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1690321558560",
-    "chat_from": "Tamara Thorpe",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "I'm sure many, if not most, of you are properly utilizing the many Teams features. Not me! But today, I was looking for a way to be more organized and efficient and found this video to be a revelation. For those of you who are already using the Task Planner, and have assigned me task, apologies. I'm now clued in. And if you feel competent there is still a few Bonus tips in this video that you may find helpful. #latetothe party #moreorganized #ontask https://youtu.be/vLFpWVfUfQ8 (https://youtu.be/vLFpWVfUfQ8)",
-    "thread_id": null,
-    "timestamp": "2023-07-25T21:45:58.56Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.829983"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1689618397329",
-    "chat_from": "Tamara Thorpe",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "Just came across this and thought it could be interesting especially for those working with multinational clients https://www.pewresearch.org/short-reads/2021/11/02/more-people-globally-see-racial-ethnic-discrimination-as-a-serious-problem-in-the-u-s-than-in-their-own-society/ (https://www.pewresearch.org/short-reads/2021/11/02/more-people-globally-see-racial-ethnic-discrimination-as-a-serious-problem-in-the-u-s-than-in-their-own-society/)",
-    "thread_id": null,
-    "timestamp": "2023-07-17T18:26:37.329Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.830530"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1689188305636",
-    "chat_from": "Tamara Thorpe",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "Congratulations to Sarah Nodarse and Vince Bongiovanni for a job well done on the SCI webinar! And a special pat on the back to Vince who was facilitating for the first time.",
-    "thread_id": null,
-    "timestamp": "2023-07-12T18:58:25.636Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.831356"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1689168180980",
-    "chat_from": "Tamara Thorpe",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/corporate-america-slashing-dei-workers-amid-backlash-diversity/story?id=100477952 (https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/corporate-america-slashing-dei-workers-amid-backlash-diversity/story?id=100477952)",
-    "thread_id": null,
-    "timestamp": "2023-07-12T13:23:00.98Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.832051"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1689009328426",
-    "chat_from": "Tamara Thorpe",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "Our friend and my brother Dr. Joel A Brown speaks out about Pride and his new book https://youtu.be/p02tjuW1-jI (https://youtu.be/p02tjuW1-jI)",
-    "thread_id": null,
-    "timestamp": "2023-07-10T17:15:28.426Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.832696"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1686844561461",
-    "chat_from": "Tamara Thorpe",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "REGISTRATION IS OPEN! SIETAR Europa's Virtual Institute begins next week. And we have a special offer to have 5 people attend for just 150 euros per person.",
-    "thread_id": null,
-    "timestamp": "2023-06-15T15:56:01.461Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.833113"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1685474106798",
-    "chat_from": "Tamara Thorpe",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "https://www.msn.com/en-us/lifestyle/lifestyle-buzz/black-woman-awarded-dollar366-million-over-firing-calls-fedex-racial-bias-next-level/ar-AA145KW9 (https://www.msn.com/en-us/lifestyle/lifestyle-buzz/black-woman-awarded-dollar366-million-over-firing-calls-fedex-racial-bias-next-level/ar-AA145KW9)",
-    "thread_id": null,
-    "timestamp": "2023-05-30T19:15:06.798Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.833877"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1682356146918",
-    "chat_from": "Tamara Thorpe",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "",
-    "thread_id": null,
-    "timestamp": "2023-04-24T17:09:06.918Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.868745"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1681308258930",
-    "chat_from": "Ashton Vicente",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "Recommended by Andrea: https://www.aristotlescafe.com/ (https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.aristotlescafe.com%2F&data=05%7C01%7Ca.vicente%40lcwmail.com%7C0025f92c660b4cce757708db3ad60daf%7C3ca40a42d72d43c9b92e0740101d9dd3%7C0%7C0%7C638168463259230168%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=9Z9VXcLBpYNwnJYOPsv2VCzITdjwJEXuRph%2Buqi6Jco%3D&reserved=0) Our mission is to enhance local, state, and national discourse with our unique approach to facilitation, listening, effective communication, and empathy. Our approach encourages you to reflect upon, and progress towards, the next version of your growth and development.",
-    "thread_id": null,
-    "timestamp": "2023-04-12T14:04:18.93Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.870252"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1681305804905",
-    "chat_from": "Tamara Thorpe",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "https://www-teenvogue-com.cdn.ampproject.org/c/s/www.teenvogue.com/story/angel-reese-black-women-criticized-unprofessional/amp (https://www-teenvogue-com.cdn.ampproject.org/c/s/www.teenvogue.com/story/angel-reese-black-women-criticized-unprofessional/amp)",
-    "thread_id": null,
-    "timestamp": "2023-04-12T13:23:24.905Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.870677"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1679672192166",
-    "chat_from": "Tamara Thorpe",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "Hey Gen Xers! Join me and the millennials in the Flow Friday! You need it more.",
-    "thread_id": null,
-    "timestamp": "2023-03-24T15:36:32.166Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.870929"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1679499254354",
-    "chat_from": "Tamara Thorpe",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "As a reminder, SIETAR Europa has an upcoming seminar: https://sietareu.org/events/cultural-adjustment-a-continuous-process/ (https://sietareu.org/events/cultural-adjustment-a-continuous-process/)",
-    "thread_id": null,
-    "timestamp": "2023-03-22T15:34:14.354Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.871412"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1672345262144",
-    "chat_from": "Ashton Vicente",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "LCW - Office Hi, all! No big announcement summary this week, but this is your reminder to sign up for or opt out of our new 401k plan . You should have received an email from Guideline with more info, and there are also some details listed in the \"Agenda\" tab of this channel. I hope you have a restful New Year that is all you need it to be!",
-    "thread_id": null,
-    "timestamp": "2022-12-29T20:21:02.144Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.872283"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1671121228214",
-    "chat_from": "Briza Cardenas",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "Morning LCW - Office ! 2 Reminders: - Please complete your Performance Reviews by 11:59 PM PST tonight - The extended deadline to choose your health insurance is this Sunday 12/18",
-    "thread_id": null,
-    "timestamp": "2022-12-15T16:20:28.214Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.873439"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1670595850550",
-    "chat_from": "Conner Williams",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "Hello LCW - Office ! Be sure you complete the 2023 Employee Questionnaire as soon as possible. It is in this team under the Files tab at the top. This questionnaire is to help us ensure we have the most up-to-date information and preferences for you. It is also kind of fun! If you have any questions or concerns about this questionnaire, please, let me know via email! Thanks y'all!",
-    "thread_id": null,
-    "timestamp": "2022-12-09T14:24:10.55Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.874008"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1667580961877",
-    "chat_from": "Ashton Vicente",
-    "channel": "LCW - Office / Internal Annoucements",
-    "message": "About this channel: - Please check the Agenda tab to view all the announcements. You can sort them by type or deadline. - Have something to share? Check the Files tab for a link to the announcement submission form.",
-    "thread_id": null,
-    "timestamp": "2022-11-04T16:56:01.877Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:46.875037"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1671031018184",
-    "chat_from": "Ashton Vicente",
-    "channel": "LCW - Office / Wellness Initiative",
-    "message": "The cats also appreciate the super thoughtful gift box! (no spoilers \ud83d\ude04)",
-    "thread_id": null,
-    "timestamp": "2022-12-14T15:16:58.184Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:53.109903"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1670871603729",
-    "chat_from": "Rebecca Parrilla",
-    "channel": "LCW - Office / Wellness Initiative",
-    "message": "Emani Richmond Briza Cardenas",
-    "thread_id": null,
-    "timestamp": "2022-12-12T19:00:03.729Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:53.114376"
+    "date_extracted": "2025-04-05T21:09:16.823306"
   },
   {
     "platform": "Teams",
@@ -822,7 +591,7 @@
     "thread_id": null,
     "timestamp": "2022-10-19T15:24:38.19Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:50.904635"
+    "date_extracted": "2025-04-05T21:09:08.360933"
   },
   {
     "platform": "Teams",
@@ -833,7 +602,7 @@
     "thread_id": null,
     "timestamp": "2022-10-17T15:55:45.138Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:50.904927"
+    "date_extracted": "2025-04-05T21:09:08.361125"
   },
   {
     "platform": "Teams",
@@ -844,7 +613,7 @@
     "thread_id": null,
     "timestamp": "2022-08-26T15:34:34.534Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:50.904942"
+    "date_extracted": "2025-04-05T21:09:08.361134"
   },
   {
     "platform": "Teams",
@@ -855,7 +624,7 @@
     "thread_id": null,
     "timestamp": "2022-08-26T15:38:05.872Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:50.904953"
+    "date_extracted": "2025-04-05T21:09:08.361141"
   },
   {
     "platform": "Teams",
@@ -866,7 +635,7 @@
     "thread_id": null,
     "timestamp": "2022-08-26T15:37:21.976Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:50.904963"
+    "date_extracted": "2025-04-05T21:09:08.361148"
   },
   {
     "platform": "Teams",
@@ -877,7 +646,7 @@
     "thread_id": null,
     "timestamp": "2022-08-26T15:25:25.881Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:50.904972"
+    "date_extracted": "2025-04-05T21:09:08.361155"
   },
   {
     "platform": "Teams",
@@ -888,7 +657,7 @@
     "thread_id": null,
     "timestamp": "2022-08-26T15:25:12.518Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:50.904982"
+    "date_extracted": "2025-04-05T21:09:08.361162"
   },
   {
     "platform": "Teams",
@@ -899,7 +668,7 @@
     "thread_id": null,
     "timestamp": "2022-08-26T15:24:59.768Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:50.904991"
+    "date_extracted": "2025-04-05T21:09:08.361168"
   },
   {
     "platform": "Teams",
@@ -910,425 +679,7 @@
     "thread_id": null,
     "timestamp": "2022-08-24T15:05:12.092Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:50.905403"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1587490006194",
-    "chat_from": "Tanya Stanfield",
-    "channel": "LCW - Office / SHRM",
-    "message": "GAH WE NEED TO ORGANIZE THESE FOLDERS. to Shona's point, the last Going Remote session is not in that folder...and I can't remember where that one is. I think we might have left it in the US Bank folder??",
-    "thread_id": null,
-    "timestamp": "2020-04-21T17:26:46.194Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:49.030691"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1587489675613",
-    "chat_from": "Shona Ramchandani",
-    "channel": "LCW - Office / SHRM",
-    "message": "Sarah, I don't know what exactly you are looking for from the past OE's, but the most current Open Enrollments have been run by Tanya, such as the Going Remote, Executive Presence and Town Hall. To Mallory's point, the content & Mallory's logistics documents for the 3 we did together are in. I am not sure where the attendance was saved but I know Mallory input it into Mailchimp.",
-    "thread_id": null,
-    "timestamp": "2020-04-21T17:21:15.613Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:49.031348"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1587488224216",
-    "chat_from": "Sarah Nodarse",
-    "channel": "LCW - Office / SHRM",
-    "message": "Tanya Stanfield and Jeffrey Cookson I created this channel under LCW-OFFICE to keep track of certification process. I am working on SHRM right now. You will see the organizational certification handbook in \"Files\"",
-    "thread_id": null,
-    "timestamp": "2020-04-21T16:57:04.216Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:49.031910"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1586534362811",
-    "chat_from": "Sarah Nodarse",
-    "channel": "LCW - Office / Data Security and Privacy",
-    "message": "Hi Conner! First thing to put here is a copy of Randy's deck in the files section. As you no dobut know!",
-    "thread_id": null,
-    "timestamp": "2020-04-10T15:59:22.811Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:57.705836"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1635976092420",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW - Office / Readers Club",
-    "message": "https://www.cbsnews.com/news/reverse-racism-white-male-executive-10-million/ (https://www.cbsnews.com/news/reverse-racism-white-male-executive-10-million/)",
-    "thread_id": null,
-    "timestamp": "2021-11-03T21:48:12.42Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:59.112935"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1632240226417",
-    "chat_from": "Chuck Adams",
-    "channel": "LCW - Office / Readers Club",
-    "message": "I just finished this book and wanted to recommend for anyone interested. For me it was an opportunity to continue to deepen my understanding of LGBTQ+ communities, especially those making the decision to live in seemingly hostile areas of the country outside of big, liberal bastions along the coast. I got that understanding and more. The author, Samantha Allen, also courageously weaves throughout the book her own story of being transgender in red state America. I didn't expect that, for some reason. It was revelatory. I could not recommend it enough. https://www.them.us/story/summer-book-club-real-queer-america-interview (https://www.them.us/story/summer-book-club-real-queer-america-interview)",
-    "thread_id": null,
-    "timestamp": "2021-09-21T16:03:46.417Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:59.113609"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1627412045379",
-    "chat_from": "Briza Cardenas",
-    "channel": "LCW - Office / Readers Club",
-    "message": "https://www.si.com/olympics/2021/07/27/simone-biles-injury-tokyo-olympics-mental-health-withdrawal (https://www.si.com/olympics/2021/07/27/simone-biles-injury-tokyo-olympics-mental-health-withdrawal) https://time.com/6083772/naomi-osaka-toyko-olympics-mental-health/ (https://time.com/6083772/naomi-osaka-toyko-olympics-mental-health/)",
-    "thread_id": null,
-    "timestamp": "2021-07-27T18:54:05.379Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:59.114851"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1620054457790",
-    "chat_from": "orgid:68998f41-96fd-4e36-af66-5a1480e68584",
-    "channel": "LCW - Office / Scheduling Template",
-    "message": "Scheduled a meeting",
-    "thread_id": null,
-    "timestamp": "2021-05-03T15:07:37.79Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:00.658526"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654863252509",
-    "chat_from": "Randy Pringle",
-    "channel": "LCW - Office / LCW Retreats",
-    "message": "",
-    "thread_id": null,
-    "timestamp": "2022-06-10T12:14:12.509Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:03.998809"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654862996134",
-    "chat_from": "Randy Pringle",
-    "channel": "LCW - Office / LCW Retreats",
-    "message": "",
-    "thread_id": null,
-    "timestamp": "2022-06-10T12:09:56.134Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:03.999183"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654804464017",
-    "chat_from": "Jake Pieczynski",
-    "channel": "LCW - Office / LCW Retreats",
-    "message": "I'll be sharing a recap post of our retreat for #FeatureFriday tomorrow! There's already been some great pictures shared here and I have many of my own, but I wanted to put out a last call! If you have any pictures (especially of groups) please share them here! Thank you!",
-    "thread_id": null,
-    "timestamp": "2022-06-09T19:54:24.017Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:03.999913"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654643604068",
-    "chat_from": "Rebecca Parrilla",
-    "channel": "LCW - Office / LCW Retreats",
-    "message": "",
-    "thread_id": null,
-    "timestamp": "2022-06-07T23:13:24.068Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:04.000308"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654643586191",
-    "chat_from": "Rebecca Parrilla",
-    "channel": "LCW - Office / LCW Retreats",
-    "message": "",
-    "thread_id": null,
-    "timestamp": "2022-06-07T23:13:06.191Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:04.000733"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654619436601",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW - Office / LCW Retreats",
-    "message": "Randy Pringle and LaQuanda Murray chilling with Frida",
-    "thread_id": null,
-    "timestamp": "2022-06-07T16:30:36.601Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:04.001506"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654621730588",
-    "chat_from": "Chuck Adams",
-    "channel": "LCW - Office / LCW Retreats",
-    "message": "Tahitia was busy.",
-    "thread_id": null,
-    "timestamp": "2022-06-07T17:08:50.588Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:04.002436"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654619355408",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW - Office / LCW Retreats",
-    "message": "Chuck Adams and Tahitia Timmons hanging with Frida Khalo",
-    "thread_id": null,
-    "timestamp": "2022-06-07T16:29:15.408Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:04.003088"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654616655633",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW - Office / LCW Retreats",
-    "message": "Commissioned mural. Depicting Aztec warriors.",
-    "thread_id": null,
-    "timestamp": "2022-06-07T15:44:15.633Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:04.003864"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654617711309",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW - Office / LCW Retreats",
-    "message": "Title: \"Heritage\"; Description: Xochipilli, the Aztec Prince of the Flowers; Artist: Senkoe",
-    "thread_id": null,
-    "timestamp": "2022-06-07T16:01:51.309Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:04.004469"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654616446023",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW - Office / LCW Retreats",
-    "message": "Under the Chicago \"el\" subway tracks",
-    "thread_id": null,
-    "timestamp": "2022-06-07T15:40:46.023Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:04.004999"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654616146863",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW - Office / LCW Retreats",
-    "message": "",
-    "thread_id": null,
-    "timestamp": "2022-06-07T15:35:46.863Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:04.005593"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654616118383",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW - Office / LCW Retreats",
-    "message": "",
-    "thread_id": null,
-    "timestamp": "2022-06-07T15:35:18.383Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:04.006292"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654616024663",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW - Office / LCW Retreats",
-    "message": "Wanting to include you today with some snapshots from Pilsen walking tour areanged by Briza Cardenas . Thinking of you Melonya Johnson Ada Vargas Conner Williams Tahitia Timmons Jeffrey Cookson LaQuanda Murray",
-    "thread_id": null,
-    "timestamp": "2022-06-07T15:33:44.663Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:04.007219"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1658522285283",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW - Office / LCW Journey Maps 2022",
-    "message": "The conversation about Additional Conversations in INTRO TO LCW JOURNEY MAP PROJECT has begun.",
-    "thread_id": null,
-    "timestamp": "2022-07-22T20:38:05.283Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:04.560703"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1657831625219",
-    "chat_from": "Melonya Johnson",
-    "channel": "LCW - Office / LCW Journey Maps 2022",
-    "message": "Hi Monica, originally I missed the Above for ALL AUDIENCES + I saw it after I asked the question. Maybe it needs to be bold print or moved down into the lighter grey section. Not sure. It just blended in and for me, it was easy to overlook.",
-    "thread_id": null,
-    "timestamp": "2022-07-14T20:47:05.219Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:04.561250"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1656621214840",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW - Office / LCW Journey Maps 2022",
-    "message": "The conversation about June 30, 2022 in INTRO TO LCW JOURNEY MAP PROJECT has begun.",
-    "thread_id": null,
-    "timestamp": "2022-06-30T20:33:34.84Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:04.561716"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1656678248450",
-    "chat_from": "Melonya Johnson",
-    "channel": "LCW - Office / LCW Journey Maps 2022",
-    "message": "I love the idea of a journey map. It's much needed. I'm a bit confused regarding the People Manager section. Is there only one course being offered. The Marketers section next to it confuses me. Is it a part of the Manager offering? Based on this, the manager journey does not look as robust. I could be reading this the wrong way.",
-    "thread_id": null,
-    "timestamp": "2022-07-01T12:24:08.45Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:04.562015"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1649941890184",
-    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
-    "channel": "LCW - Office / Defining Your Purpose at LCW",
-    "message": "Thursday, April 28th 9:30am-10:15am CST - Alsu - Kelly - Alisa",
-    "thread_id": null,
-    "timestamp": "2022-04-14T13:11:30.184Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:05.425184"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1651157913488",
-    "chat_from": "Alisa Kolodizner",
-    "channel": "LCW - Office / Defining Your Purpose at LCW",
-    "message": "Such a difficult time to grow up. Thank you for sharing your family story.",
-    "thread_id": null,
-    "timestamp": "2022-04-28T14:58:33.488Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:05.425484"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1649104715982",
-    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
-    "channel": "LCW - Office / Defining Your Purpose at LCW",
-    "message": "Thursday, April 14th 2pm-3:30pm CST - Joseph - Kelly - Melonya - Tahitia - Alisa",
-    "thread_id": null,
-    "timestamp": "2022-04-04T20:38:35.982Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:05.427596"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1649964799684",
-    "chat_from": "Andrea Wicks Bowles",
-    "channel": "LCW - Office / Defining Your Purpose at LCW",
-    "message": "Dustin Puehler I an see it...",
-    "thread_id": null,
-    "timestamp": "2022-04-14T19:33:19.684Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:05.428075"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1649963333347",
-    "chat_from": "Andrea Wicks Bowles",
-    "channel": "LCW - Office / Defining Your Purpose at LCW",
-    "message": "Finland is on my short list to visit.",
-    "thread_id": null,
-    "timestamp": "2022-04-14T19:08:53.347Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:05.428353"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1644252919554",
-    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
-    "channel": "LCW - Office / Defining Your Purpose at LCW",
-    "message": "Group 5 Wednesday, March 2nd 11a-12p CST - Randy P - Alsu - Chuck",
-    "thread_id": null,
-    "timestamp": "2022-02-07T16:55:19.554Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:05.431750"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1642533773316",
-    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
-    "channel": "LCW - Office / Defining Your Purpose at LCW",
-    "message": "Group 4 Thursday, February 17 th 9a-10:30a CST - LaQuanda - Maria - Nicole - Dustin - Randy P.",
-    "thread_id": null,
-    "timestamp": "2022-01-18T19:22:53.316Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:05.510057"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1642533702687",
-    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
-    "channel": "LCW - Office / Defining Your Purpose at LCW",
-    "message": "Group 3 Monday, February 7 th 9a-10:30a CST - Jeffrey - Larry - Kendall - Alsu - Keri",
-    "thread_id": null,
-    "timestamp": "2022-01-18T19:21:42.687Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:05.513900"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1642533615689",
-    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
-    "channel": "LCW - Office / Defining Your Purpose at LCW",
-    "message": "Group 2 Wednesday, February 2 nd 2:30p-3:30p CST - Sarah - Jos\u00e9 20-25 minutes each",
-    "thread_id": null,
-    "timestamp": "2022-01-18T19:20:15.689Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:05.515824"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1643384774717",
-    "chat_from": "Briza Cardenas",
-    "channel": "LCW - Office / Defining Your Purpose at LCW",
-    "message": "Good Morning Team LCW! If you missed yesterday\u2019s Defining Your Purpose Presentations or if you'd like to re-watch them, you can find the recordings in the Staff Recordings Folder.",
-    "thread_id": null,
-    "timestamp": "2022-01-28T15:46:14.717Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:05.516933"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1642118713450",
-    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
-    "channel": "LCW - Office / Defining Your Purpose at LCW",
-    "message": "Defining Your Purpose at LCW Presenters: - Briza Cardenas - Dan Gough - Tamara Thorpe - Rebecca Parrilla",
-    "thread_id": null,
-    "timestamp": "2022-01-14T00:05:13.45Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:05.517885"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1642169134593",
-    "chat_from": "Briza Cardenas",
-    "channel": "LCW - Office / Defining Your Purpose at LCW",
-    "message": "Good Morning LCW, If you havent already, please make sure to select a presenting slot in the sign-up sheet by EOD. An email will be sent out on Tuesday with everyone's presenting date. You may have noticed the first few presentations have already been scheduled. They'll be taking place on Thursday, January 27th 11a-12:30p CST. The presenters are: - Briza - Dan - Tamara - Rebecca Have a great Friday!",
-    "thread_id": null,
-    "timestamp": "2022-01-14T14:05:34.593Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:05.557667"
+    "date_extracted": "2025-04-05T21:09:08.361427"
   },
   {
     "platform": "Teams",
@@ -1339,7 +690,7 @@
     "thread_id": null,
     "timestamp": "2022-08-15T15:00:27.551Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:06.058394"
+    "date_extracted": "2025-04-05T21:09:08.905291"
   },
   {
     "platform": "Teams",
@@ -1350,7 +701,7 @@
     "thread_id": null,
     "timestamp": "2022-08-01T14:25:28.765Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:06.059293"
+    "date_extracted": "2025-04-05T21:09:08.905696"
   },
   {
     "platform": "Teams",
@@ -1361,7 +712,7 @@
     "thread_id": null,
     "timestamp": "2022-07-25T14:01:04.07Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:06.059885"
+    "date_extracted": "2025-04-05T21:09:08.906007"
   },
   {
     "platform": "Teams",
@@ -1372,7 +723,7 @@
     "thread_id": null,
     "timestamp": "2022-07-18T12:28:31.27Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:06.060502"
+    "date_extracted": "2025-04-05T21:09:08.906228"
   },
   {
     "platform": "Teams",
@@ -1383,7 +734,7 @@
     "thread_id": null,
     "timestamp": "2022-07-11T17:32:18.704Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:06.061330"
+    "date_extracted": "2025-04-05T21:09:08.906441"
   },
   {
     "platform": "Teams",
@@ -1394,7 +745,7 @@
     "thread_id": null,
     "timestamp": "2022-07-05T13:53:01.15Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:06.062345"
+    "date_extracted": "2025-04-05T21:09:08.906627"
   },
   {
     "platform": "Teams",
@@ -1405,7 +756,7 @@
     "thread_id": null,
     "timestamp": "2022-06-21T13:00:48.152Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:06.063006"
+    "date_extracted": "2025-04-05T21:09:08.906813"
   },
   {
     "platform": "Teams",
@@ -1416,7 +767,7 @@
     "thread_id": null,
     "timestamp": "2022-06-13T14:19:31.897Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:06.063903"
+    "date_extracted": "2025-04-05T21:09:08.906999"
   },
   {
     "platform": "Teams",
@@ -1427,7 +778,7 @@
     "thread_id": null,
     "timestamp": "2022-05-31T14:00:27.432Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:06.199928"
+    "date_extracted": "2025-04-05T21:09:08.910985"
   },
   {
     "platform": "Teams",
@@ -1438,7 +789,7 @@
     "thread_id": null,
     "timestamp": "2022-05-23T13:55:33.468Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:06.202222"
+    "date_extracted": "2025-04-05T21:09:08.911262"
   },
   {
     "platform": "Teams",
@@ -1449,7 +800,7 @@
     "thread_id": null,
     "timestamp": "2022-05-16T14:01:35.056Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:06.202827"
+    "date_extracted": "2025-04-05T21:09:08.911451"
   },
   {
     "platform": "Teams",
@@ -1460,7 +811,7 @@
     "thread_id": null,
     "timestamp": "2022-05-09T14:02:04.624Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:06.203541"
+    "date_extracted": "2025-04-05T21:09:08.911697"
   },
   {
     "platform": "Teams",
@@ -1471,7 +822,7 @@
     "thread_id": null,
     "timestamp": "2022-05-02T14:04:15.221Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:06.204253"
+    "date_extracted": "2025-04-05T21:09:08.911937"
   },
   {
     "platform": "Teams",
@@ -1482,7 +833,7 @@
     "thread_id": null,
     "timestamp": "2022-04-25T14:00:22.744Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:06.204931"
+    "date_extracted": "2025-04-05T21:09:08.912180"
   },
   {
     "platform": "Teams",
@@ -1493,7 +844,7 @@
     "thread_id": null,
     "timestamp": "2022-04-18T13:58:21.986Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:06.205582"
+    "date_extracted": "2025-04-05T21:09:08.912421"
   },
   {
     "platform": "Teams",
@@ -1504,7 +855,7 @@
     "thread_id": null,
     "timestamp": "2022-04-11T13:30:43.932Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:06.206250"
+    "date_extracted": "2025-04-05T21:09:08.912661"
   },
   {
     "platform": "Teams",
@@ -1515,7 +866,656 @@
     "thread_id": null,
     "timestamp": "2022-04-11T13:29:58.368Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:06.206504"
+    "date_extracted": "2025-04-05T21:09:08.912752"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1635976092420",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW - Office / Readers Club",
+    "message": "https://www.cbsnews.com/news/reverse-racism-white-male-executive-10-million/ (https://www.cbsnews.com/news/reverse-racism-white-male-executive-10-million/)",
+    "thread_id": null,
+    "timestamp": "2021-11-03T21:48:12.42Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.020177"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1632240226417",
+    "chat_from": "Chuck Adams",
+    "channel": "LCW - Office / Readers Club",
+    "message": "I just finished this book and wanted to recommend for anyone interested. For me it was an opportunity to continue to deepen my understanding of LGBTQ+ communities, especially those making the decision to live in seemingly hostile areas of the country outside of big, liberal bastions along the coast. I got that understanding and more. The author, Samantha Allen, also courageously weaves throughout the book her own story of being transgender in red state America. I didn't expect that, for some reason. It was revelatory. I could not recommend it enough. https://www.them.us/story/summer-book-club-real-queer-america-interview (https://www.them.us/story/summer-book-club-real-queer-america-interview)",
+    "thread_id": null,
+    "timestamp": "2021-09-21T16:03:46.417Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.020595"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1627412045379",
+    "chat_from": "Briza Cardenas",
+    "channel": "LCW - Office / Readers Club",
+    "message": "https://www.si.com/olympics/2021/07/27/simone-biles-injury-tokyo-olympics-mental-health-withdrawal (https://www.si.com/olympics/2021/07/27/simone-biles-injury-tokyo-olympics-mental-health-withdrawal) https://time.com/6083772/naomi-osaka-toyko-olympics-mental-health/ (https://time.com/6083772/naomi-osaka-toyko-olympics-mental-health/)",
+    "thread_id": null,
+    "timestamp": "2021-07-27T18:54:05.379Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.021336"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1587490006194",
+    "chat_from": "Tanya Stanfield",
+    "channel": "LCW - Office / SHRM",
+    "message": "GAH WE NEED TO ORGANIZE THESE FOLDERS. to Shona's point, the last Going Remote session is not in that folder...and I can't remember where that one is. I think we might have left it in the US Bank folder??",
+    "thread_id": null,
+    "timestamp": "2020-04-21T17:26:46.194Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.097783"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1587489675613",
+    "chat_from": "Shona Ramchandani",
+    "channel": "LCW - Office / SHRM",
+    "message": "Sarah, I don't know what exactly you are looking for from the past OE's, but the most current Open Enrollments have been run by Tanya, such as the Going Remote, Executive Presence and Town Hall. To Mallory's point, the content & Mallory's logistics documents for the 3 we did together are in. I am not sure where the attendance was saved but I know Mallory input it into Mailchimp.",
+    "thread_id": null,
+    "timestamp": "2020-04-21T17:21:15.613Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.098185"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1587488224216",
+    "chat_from": "Sarah Nodarse",
+    "channel": "LCW - Office / SHRM",
+    "message": "Tanya Stanfield and Jeffrey Cookson I created this channel under LCW-OFFICE to keep track of certification process. I am working on SHRM right now. You will see the organizational certification handbook in \"Files\"",
+    "thread_id": null,
+    "timestamp": "2020-04-21T16:57:04.216Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.098509"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1649941890184",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "LCW - Office / Defining Your Purpose at LCW",
+    "message": "Thursday, April 28th 9:30am-10:15am CST - Alsu - Kelly - Alisa",
+    "thread_id": null,
+    "timestamp": "2022-04-14T13:11:30.184Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.375203"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1651157913488",
+    "chat_from": "Alisa Kolodizner",
+    "channel": "LCW - Office / Defining Your Purpose at LCW",
+    "message": "Such a difficult time to grow up. Thank you for sharing your family story.",
+    "thread_id": null,
+    "timestamp": "2022-04-28T14:58:33.488Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.375334"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1649104715982",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "LCW - Office / Defining Your Purpose at LCW",
+    "message": "Thursday, April 14th 2pm-3:30pm CST - Joseph - Kelly - Melonya - Tahitia - Alisa",
+    "thread_id": null,
+    "timestamp": "2022-04-04T20:38:35.982Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.376135"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1649964799684",
+    "chat_from": "Andrea Wicks Bowles",
+    "channel": "LCW - Office / Defining Your Purpose at LCW",
+    "message": "Dustin Puehler I an see it...",
+    "thread_id": null,
+    "timestamp": "2022-04-14T19:33:19.684Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.376318"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1649963333347",
+    "chat_from": "Andrea Wicks Bowles",
+    "channel": "LCW - Office / Defining Your Purpose at LCW",
+    "message": "Finland is on my short list to visit.",
+    "thread_id": null,
+    "timestamp": "2022-04-14T19:08:53.347Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.376420"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1644252919554",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "LCW - Office / Defining Your Purpose at LCW",
+    "message": "Group 5 Wednesday, March 2nd 11a-12p CST - Randy P - Alsu - Chuck",
+    "thread_id": null,
+    "timestamp": "2022-02-07T16:55:19.554Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.378082"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1642533773316",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "LCW - Office / Defining Your Purpose at LCW",
+    "message": "Group 4 Thursday, February 17 th 9a-10:30a CST - LaQuanda - Maria - Nicole - Dustin - Randy P.",
+    "thread_id": null,
+    "timestamp": "2022-01-18T19:22:53.316Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.379034"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1642533702687",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "LCW - Office / Defining Your Purpose at LCW",
+    "message": "Group 3 Monday, February 7 th 9a-10:30a CST - Jeffrey - Larry - Kendall - Alsu - Keri",
+    "thread_id": null,
+    "timestamp": "2022-01-18T19:21:42.687Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.379966"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1642533615689",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "LCW - Office / Defining Your Purpose at LCW",
+    "message": "Group 2 Wednesday, February 2 nd 2:30p-3:30p CST - Sarah - Jos\u00e9 20-25 minutes each",
+    "thread_id": null,
+    "timestamp": "2022-01-18T19:20:15.689Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.380685"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1643384774717",
+    "chat_from": "Briza Cardenas",
+    "channel": "LCW - Office / Defining Your Purpose at LCW",
+    "message": "Good Morning Team LCW! If you missed yesterday\u2019s Defining Your Purpose Presentations or if you'd like to re-watch them, you can find the recordings in the Staff Recordings Folder.",
+    "thread_id": null,
+    "timestamp": "2022-01-28T15:46:14.717Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.381142"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1642118713450",
+    "chat_from": "orgid:9a3f4a4c-09ba-4ae3-8296-3a09315bd369",
+    "channel": "LCW - Office / Defining Your Purpose at LCW",
+    "message": "Defining Your Purpose at LCW Presenters: - Briza Cardenas - Dan Gough - Tamara Thorpe - Rebecca Parrilla",
+    "thread_id": null,
+    "timestamp": "2022-01-14T00:05:13.45Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.381481"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1642169134593",
+    "chat_from": "Briza Cardenas",
+    "channel": "LCW - Office / Defining Your Purpose at LCW",
+    "message": "Good Morning LCW, If you havent already, please make sure to select a presenting slot in the sign-up sheet by EOD. An email will be sent out on Tuesday with everyone's presenting date. You may have noticed the first few presentations have already been scheduled. They'll be taking place on Thursday, January 27th 11a-12:30p CST. The presenters are: - Briza - Dan - Tamara - Rebecca Have a great Friday!",
+    "thread_id": null,
+    "timestamp": "2022-01-14T14:05:34.593Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.382326"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1658522285283",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW - Office / LCW Journey Maps 2022",
+    "message": "The conversation about Additional Conversations in INTRO TO LCW JOURNEY MAP PROJECT has begun.",
+    "thread_id": null,
+    "timestamp": "2022-07-22T20:38:05.283Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.402285"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1657831625219",
+    "chat_from": "Melonya Johnson",
+    "channel": "LCW - Office / LCW Journey Maps 2022",
+    "message": "Hi Monica, originally I missed the Above for ALL AUDIENCES + I saw it after I asked the question. Maybe it needs to be bold print or moved down into the lighter grey section. Not sure. It just blended in and for me, it was easy to overlook.",
+    "thread_id": null,
+    "timestamp": "2022-07-14T20:47:05.219Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.402661"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1656621214840",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW - Office / LCW Journey Maps 2022",
+    "message": "The conversation about June 30, 2022 in INTRO TO LCW JOURNEY MAP PROJECT has begun.",
+    "thread_id": null,
+    "timestamp": "2022-06-30T20:33:34.84Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.402961"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1656678248450",
+    "chat_from": "Melonya Johnson",
+    "channel": "LCW - Office / LCW Journey Maps 2022",
+    "message": "I love the idea of a journey map. It's much needed. I'm a bit confused regarding the People Manager section. Is there only one course being offered. The Marketers section next to it confuses me. Is it a part of the Manager offering? Based on this, the manager journey does not look as robust. I could be reading this the wrong way.",
+    "thread_id": null,
+    "timestamp": "2022-07-01T12:24:08.45Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.403169"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1671031018184",
+    "chat_from": "Ashton Vicente",
+    "channel": "LCW - Office / Wellness Initiative",
+    "message": "The cats also appreciate the super thoughtful gift box! (no spoilers \ud83d\ude04)",
+    "thread_id": null,
+    "timestamp": "2022-12-14T15:16:58.184Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.490290"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1670871603729",
+    "chat_from": "Rebecca Parrilla",
+    "channel": "LCW - Office / Wellness Initiative",
+    "message": "Emani Richmond Briza Cardenas",
+    "thread_id": null,
+    "timestamp": "2022-12-12T19:00:03.729Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.490936"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1620054457790",
+    "chat_from": "orgid:68998f41-96fd-4e36-af66-5a1480e68584",
+    "channel": "LCW - Office / Scheduling Template",
+    "message": "Scheduled a meeting",
+    "thread_id": null,
+    "timestamp": "2021-05-03T15:07:37.79Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.546468"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1586534362811",
+    "chat_from": "Sarah Nodarse",
+    "channel": "LCW - Office / Data Security and Privacy",
+    "message": "Hi Conner! First thing to put here is a copy of Randy's deck in the files section. As you no dobut know!",
+    "thread_id": null,
+    "timestamp": "2020-04-10T15:59:22.811Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:09.802632"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1654863252509",
+    "chat_from": "Randy Pringle",
+    "channel": "LCW - Office / LCW Retreats",
+    "message": "",
+    "thread_id": null,
+    "timestamp": "2022-06-10T12:14:12.509Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.075235"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1654862996134",
+    "chat_from": "Randy Pringle",
+    "channel": "LCW - Office / LCW Retreats",
+    "message": "",
+    "thread_id": null,
+    "timestamp": "2022-06-10T12:09:56.134Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.076675"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1654804464017",
+    "chat_from": "Jake Pieczynski",
+    "channel": "LCW - Office / LCW Retreats",
+    "message": "I'll be sharing a recap post of our retreat for #FeatureFriday tomorrow! There's already been some great pictures shared here and I have many of my own, but I wanted to put out a last call! If you have any pictures (especially of groups) please share them here! Thank you!",
+    "thread_id": null,
+    "timestamp": "2022-06-09T19:54:24.017Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.076999"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1654643604068",
+    "chat_from": "Rebecca Parrilla",
+    "channel": "LCW - Office / LCW Retreats",
+    "message": "",
+    "thread_id": null,
+    "timestamp": "2022-06-07T23:13:24.068Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.077225"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1654643586191",
+    "chat_from": "Rebecca Parrilla",
+    "channel": "LCW - Office / LCW Retreats",
+    "message": "",
+    "thread_id": null,
+    "timestamp": "2022-06-07T23:13:06.191Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.077430"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1654619436601",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW - Office / LCW Retreats",
+    "message": "Randy Pringle and LaQuanda Murray chilling with Frida",
+    "thread_id": null,
+    "timestamp": "2022-06-07T16:30:36.601Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.077868"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1654621730588",
+    "chat_from": "Chuck Adams",
+    "channel": "LCW - Office / LCW Retreats",
+    "message": "Tahitia was busy.",
+    "thread_id": null,
+    "timestamp": "2022-06-07T17:08:50.588Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.078422"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1654619355408",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW - Office / LCW Retreats",
+    "message": "Chuck Adams and Tahitia Timmons hanging with Frida Khalo",
+    "thread_id": null,
+    "timestamp": "2022-06-07T16:29:15.408Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.078790"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1654616655633",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW - Office / LCW Retreats",
+    "message": "Commissioned mural. Depicting Aztec warriors.",
+    "thread_id": null,
+    "timestamp": "2022-06-07T15:44:15.633Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.079148"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1654617711309",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW - Office / LCW Retreats",
+    "message": "Title: \"Heritage\"; Description: Xochipilli, the Aztec Prince of the Flowers; Artist: Senkoe",
+    "thread_id": null,
+    "timestamp": "2022-06-07T16:01:51.309Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.079465"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1654616446023",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW - Office / LCW Retreats",
+    "message": "Under the Chicago \"el\" subway tracks",
+    "thread_id": null,
+    "timestamp": "2022-06-07T15:40:46.023Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.079772"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1654616146863",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW - Office / LCW Retreats",
+    "message": "",
+    "thread_id": null,
+    "timestamp": "2022-06-07T15:35:46.863Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.080070"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1654616118383",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW - Office / LCW Retreats",
+    "message": "",
+    "thread_id": null,
+    "timestamp": "2022-06-07T15:35:18.383Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.080386"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1654616024663",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW - Office / LCW Retreats",
+    "message": "Wanting to include you today with some snapshots from Pilsen walking tour areanged by Briza Cardenas . Thinking of you Melonya Johnson Ada Vargas Conner Williams Tahitia Timmons Jeffrey Cookson LaQuanda Murray",
+    "thread_id": null,
+    "timestamp": "2022-06-07T15:33:44.663Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.080946"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1726497622804",
+    "chat_from": "Patricia Coleman",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "HOW WILL YOU CELEBRATE? 24 Activities To Celebrate Hispanic Heritage Month (2024) (goodgoodgood.co) (https://www.goodgoodgood.co/articles/how-to-celebrate-hispanic-heritage-month)",
+    "thread_id": null,
+    "timestamp": "2024-09-16T14:40:22.804Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.456102"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1707938856829",
+    "chat_from": "Tamara Thorpe",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "Interesting article and repost by Dethra Giles on LinkedIn https://www.fastcompany.com/91025936/zoom-laid-off-its-dei-team-and-its-not-the-only-company-making-cuts (https://www.fastcompany.com/91025936/zoom-laid-off-its-dei-team-and-its-not-the-only-company-making-cuts)",
+    "thread_id": null,
+    "timestamp": "2024-02-14T19:27:36.829Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.456512"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1691620953628",
+    "chat_from": "Tamara Thorpe",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "The on site with Insight was amazing! \u2593 \u2593 \u2593",
+    "thread_id": null,
+    "timestamp": "2023-08-09T22:42:33.628Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.456858"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1690321558560",
+    "chat_from": "Tamara Thorpe",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "I'm sure many, if not most, of you are properly utilizing the many Teams features. Not me! But today, I was looking for a way to be more organized and efficient and found this video to be a revelation. For those of you who are already using the Task Planner, and have assigned me task, apologies. I'm now clued in. And if you feel competent there is still a few Bonus tips in this video that you may find helpful. #latetothe party #moreorganized #ontask https://youtu.be/vLFpWVfUfQ8 (https://youtu.be/vLFpWVfUfQ8)",
+    "thread_id": null,
+    "timestamp": "2023-07-25T21:45:58.56Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.457215"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1689618397329",
+    "chat_from": "Tamara Thorpe",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "Just came across this and thought it could be interesting especially for those working with multinational clients https://www.pewresearch.org/short-reads/2021/11/02/more-people-globally-see-racial-ethnic-discrimination-as-a-serious-problem-in-the-u-s-than-in-their-own-society/ (https://www.pewresearch.org/short-reads/2021/11/02/more-people-globally-see-racial-ethnic-discrimination-as-a-serious-problem-in-the-u-s-than-in-their-own-society/)",
+    "thread_id": null,
+    "timestamp": "2023-07-17T18:26:37.329Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.457527"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1689188305636",
+    "chat_from": "Tamara Thorpe",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "Congratulations to Sarah Nodarse and Vince Bongiovanni for a job well done on the SCI webinar! And a special pat on the back to Vince who was facilitating for the first time.",
+    "thread_id": null,
+    "timestamp": "2023-07-12T18:58:25.636Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.457842"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1689168180980",
+    "chat_from": "Tamara Thorpe",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/corporate-america-slashing-dei-workers-amid-backlash-diversity/story?id=100477952 (https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/corporate-america-slashing-dei-workers-amid-backlash-diversity/story?id=100477952)",
+    "thread_id": null,
+    "timestamp": "2023-07-12T13:23:00.98Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.458097"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1689009328426",
+    "chat_from": "Tamara Thorpe",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "Our friend and my brother Dr. Joel A Brown speaks out about Pride and his new book https://youtu.be/p02tjuW1-jI (https://youtu.be/p02tjuW1-jI)",
+    "thread_id": null,
+    "timestamp": "2023-07-10T17:15:28.426Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.458388"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1686844561461",
+    "chat_from": "Tamara Thorpe",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "REGISTRATION IS OPEN! SIETAR Europa's Virtual Institute begins next week. And we have a special offer to have 5 people attend for just 150 euros per person.",
+    "thread_id": null,
+    "timestamp": "2023-06-15T15:56:01.461Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.458545"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1685474106798",
+    "chat_from": "Tamara Thorpe",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "https://www.msn.com/en-us/lifestyle/lifestyle-buzz/black-woman-awarded-dollar366-million-over-firing-calls-fedex-racial-bias-next-level/ar-AA145KW9 (https://www.msn.com/en-us/lifestyle/lifestyle-buzz/black-woman-awarded-dollar366-million-over-firing-calls-fedex-racial-bias-next-level/ar-AA145KW9)",
+    "thread_id": null,
+    "timestamp": "2023-05-30T19:15:06.798Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.458822"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1682356146918",
+    "chat_from": "Tamara Thorpe",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "",
+    "thread_id": null,
+    "timestamp": "2023-04-24T17:09:06.918Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.459083"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1681308258930",
+    "chat_from": "Ashton Vicente",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "Recommended by Andrea: https://www.aristotlescafe.com/ (https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.aristotlescafe.com%2F&data=05%7C01%7Ca.vicente%40lcwmail.com%7C0025f92c660b4cce757708db3ad60daf%7C3ca40a42d72d43c9b92e0740101d9dd3%7C0%7C0%7C638168463259230168%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=9Z9VXcLBpYNwnJYOPsv2VCzITdjwJEXuRph%2Buqi6Jco%3D&reserved=0) Our mission is to enhance local, state, and national discourse with our unique approach to facilitation, listening, effective communication, and empathy. Our approach encourages you to reflect upon, and progress towards, the next version of your growth and development.",
+    "thread_id": null,
+    "timestamp": "2023-04-12T14:04:18.93Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.459969"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1681305804905",
+    "chat_from": "Tamara Thorpe",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "https://www-teenvogue-com.cdn.ampproject.org/c/s/www.teenvogue.com/story/angel-reese-black-women-criticized-unprofessional/amp (https://www-teenvogue-com.cdn.ampproject.org/c/s/www.teenvogue.com/story/angel-reese-black-women-criticized-unprofessional/amp)",
+    "thread_id": null,
+    "timestamp": "2023-04-12T13:23:24.905Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.460212"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1679672192166",
+    "chat_from": "Tamara Thorpe",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "Hey Gen Xers! Join me and the millennials in the Flow Friday! You need it more.",
+    "thread_id": null,
+    "timestamp": "2023-03-24T15:36:32.166Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.460359"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1679499254354",
+    "chat_from": "Tamara Thorpe",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "As a reminder, SIETAR Europa has an upcoming seminar: https://sietareu.org/events/cultural-adjustment-a-continuous-process/ (https://sietareu.org/events/cultural-adjustment-a-continuous-process/)",
+    "thread_id": null,
+    "timestamp": "2023-03-22T15:34:14.354Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.460651"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1672345262144",
+    "chat_from": "Ashton Vicente",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "LCW - Office Hi, all! No big announcement summary this week, but this is your reminder to sign up for or opt out of our new 401k plan . You should have received an email from Guideline with more info, and there are also some details listed in the \"Agenda\" tab of this channel. I hope you have a restful New Year that is all you need it to be!",
+    "thread_id": null,
+    "timestamp": "2022-12-29T20:21:02.144Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.461172"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1671121228214",
+    "chat_from": "Briza Cardenas",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "Morning LCW - Office ! 2 Reminders: - Please complete your Performance Reviews by 11:59 PM PST tonight - The extended deadline to choose your health insurance is this Sunday 12/18",
+    "thread_id": null,
+    "timestamp": "2022-12-15T16:20:28.214Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.461869"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1670595850550",
+    "chat_from": "Conner Williams",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "Hello LCW - Office ! Be sure you complete the 2023 Employee Questionnaire as soon as possible. It is in this team under the Files tab at the top. This questionnaire is to help us ensure we have the most up-to-date information and preferences for you. It is also kind of fun! If you have any questions or concerns about this questionnaire, please, let me know via email! Thanks y'all!",
+    "thread_id": null,
+    "timestamp": "2022-12-09T14:24:10.55Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.462202"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1667580961877",
+    "chat_from": "Ashton Vicente",
+    "channel": "LCW - Office / Internal Annoucements",
+    "message": "About this channel: - Please check the Agenda tab to view all the announcements. You can sort them by type or deadline. - Have something to share? Check the Files tab for a link to the announcement submission form.",
+    "thread_id": null,
+    "timestamp": "2022-11-04T16:56:01.877Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:10.462810"
   },
   {
     "platform": "Teams",
@@ -1526,7 +1526,7 @@
     "thread_id": null,
     "timestamp": "2023-06-05T17:49:37.743Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:08.689287"
+    "date_extracted": "2025-04-05T21:09:11.572894"
   },
   {
     "platform": "Teams",
@@ -1537,7 +1537,7 @@
     "thread_id": null,
     "timestamp": "2023-05-18T14:19:09.682Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:08.689311"
+    "date_extracted": "2025-04-05T21:09:11.572914"
   },
   {
     "platform": "Teams",
@@ -1548,7 +1548,7 @@
     "thread_id": null,
     "timestamp": "2024-12-17T13:20:48.311Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.754369"
+    "date_extracted": "2025-04-05T21:10:10.344381"
   },
   {
     "platform": "Teams",
@@ -1559,7 +1559,7 @@
     "thread_id": null,
     "timestamp": "2024-12-02T15:38:48.295Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.759252"
+    "date_extracted": "2025-04-05T21:10:10.346802"
   },
   {
     "platform": "Teams",
@@ -1570,7 +1570,7 @@
     "thread_id": null,
     "timestamp": "2024-11-15T14:47:07.105Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.761511"
+    "date_extracted": "2025-04-05T21:10:10.348068"
   },
   {
     "platform": "Teams",
@@ -1581,7 +1581,7 @@
     "thread_id": null,
     "timestamp": "2024-11-15T13:53:46.455Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.762785"
+    "date_extracted": "2025-04-05T21:10:10.348794"
   },
   {
     "platform": "Teams",
@@ -1592,7 +1592,7 @@
     "thread_id": null,
     "timestamp": "2024-10-12T14:44:39.449Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.764742"
+    "date_extracted": "2025-04-05T21:10:10.351298"
   },
   {
     "platform": "Teams",
@@ -1603,7 +1603,7 @@
     "thread_id": null,
     "timestamp": "2024-10-12T14:36:35.005Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.766104"
+    "date_extracted": "2025-04-05T21:10:10.352107"
   },
   {
     "platform": "Teams",
@@ -1614,7 +1614,7 @@
     "thread_id": null,
     "timestamp": "2024-06-12T15:12:00.726Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.766625"
+    "date_extracted": "2025-04-05T21:10:10.352477"
   },
   {
     "platform": "Teams",
@@ -1625,7 +1625,7 @@
     "thread_id": null,
     "timestamp": "2024-05-17T18:58:15.473Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.767088"
+    "date_extracted": "2025-04-05T21:10:10.352775"
   },
   {
     "platform": "Teams",
@@ -1636,7 +1636,7 @@
     "thread_id": null,
     "timestamp": "2024-04-22T11:53:20.45Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.768873"
+    "date_extracted": "2025-04-05T21:10:10.353349"
   },
   {
     "platform": "Teams",
@@ -1647,7 +1647,7 @@
     "thread_id": null,
     "timestamp": "2024-04-10T15:02:24.01Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.769712"
+    "date_extracted": "2025-04-05T21:10:10.353654"
   },
   {
     "platform": "Teams",
@@ -1658,7 +1658,7 @@
     "thread_id": null,
     "timestamp": "2024-04-16T14:38:39.023Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.771544"
+    "date_extracted": "2025-04-05T21:10:10.353987"
   },
   {
     "platform": "Teams",
@@ -1669,7 +1669,7 @@
     "thread_id": null,
     "timestamp": "2024-04-08T15:03:31.466Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.772439"
+    "date_extracted": "2025-04-05T21:10:10.354338"
   },
   {
     "platform": "Teams",
@@ -1680,7 +1680,7 @@
     "thread_id": null,
     "timestamp": "2024-03-20T14:16:01.418Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.772939"
+    "date_extracted": "2025-04-05T21:10:10.354578"
   },
   {
     "platform": "Teams",
@@ -1691,7 +1691,7 @@
     "thread_id": null,
     "timestamp": "2024-03-08T14:17:30.499Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.773355"
+    "date_extracted": "2025-04-05T21:10:10.354743"
   },
   {
     "platform": "Teams",
@@ -1702,7 +1702,7 @@
     "thread_id": null,
     "timestamp": "2024-03-06T16:13:01.594Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.773962"
+    "date_extracted": "2025-04-05T21:10:10.355046"
   },
   {
     "platform": "Teams",
@@ -1713,7 +1713,7 @@
     "thread_id": null,
     "timestamp": "2024-02-07T20:26:06.841Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.774428"
+    "date_extracted": "2025-04-05T21:10:10.355293"
   },
   {
     "platform": "Teams",
@@ -1724,7 +1724,7 @@
     "thread_id": null,
     "timestamp": "2024-01-05T16:17:39.194Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.774952"
+    "date_extracted": "2025-04-05T21:10:10.355548"
   },
   {
     "platform": "Teams",
@@ -1735,7 +1735,7 @@
     "thread_id": null,
     "timestamp": "2024-01-03T15:58:20.402Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.775412"
+    "date_extracted": "2025-04-05T21:10:10.355831"
   },
   {
     "platform": "Teams",
@@ -1746,7 +1746,7 @@
     "thread_id": null,
     "timestamp": "2023-11-22T20:13:59.653Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.776028"
+    "date_extracted": "2025-04-05T21:10:10.356200"
   },
   {
     "platform": "Teams",
@@ -1757,7 +1757,7 @@
     "thread_id": null,
     "timestamp": "2023-10-22T20:10:50.852Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.776395"
+    "date_extracted": "2025-04-05T21:10:10.356438"
   },
   {
     "platform": "Teams",
@@ -1768,7 +1768,7 @@
     "thread_id": null,
     "timestamp": "2023-10-18T13:32:43.42Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.776888"
+    "date_extracted": "2025-04-05T21:10:10.356755"
   },
   {
     "platform": "Teams",
@@ -1779,7 +1779,7 @@
     "thread_id": null,
     "timestamp": "2023-09-29T21:01:16.466Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.777265"
+    "date_extracted": "2025-04-05T21:10:10.356978"
   },
   {
     "platform": "Teams",
@@ -1790,7 +1790,7 @@
     "thread_id": null,
     "timestamp": "2023-09-21T16:47:40.557Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.777854"
+    "date_extracted": "2025-04-05T21:10:10.357205"
   },
   {
     "platform": "Teams",
@@ -1801,7 +1801,7 @@
     "thread_id": null,
     "timestamp": "2023-09-20T15:22:07.235Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.778347"
+    "date_extracted": "2025-04-05T21:10:10.357449"
   },
   {
     "platform": "Teams",
@@ -1812,7 +1812,7 @@
     "thread_id": null,
     "timestamp": "2023-09-13T21:17:53.915Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.779123"
+    "date_extracted": "2025-04-05T21:10:10.357742"
   },
   {
     "platform": "Teams",
@@ -1823,7 +1823,7 @@
     "thread_id": null,
     "timestamp": "2023-09-14T13:10:08.402Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.779550"
+    "date_extracted": "2025-04-05T21:10:10.357855"
   },
   {
     "platform": "Teams",
@@ -1834,7 +1834,7 @@
     "thread_id": null,
     "timestamp": "2023-08-22T01:10:31.683Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.779790"
+    "date_extracted": "2025-04-05T21:10:10.357956"
   },
   {
     "platform": "Teams",
@@ -1845,7 +1845,7 @@
     "thread_id": null,
     "timestamp": "2023-08-22T13:32:52.979Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.780217"
+    "date_extracted": "2025-04-05T21:10:10.358207"
   },
   {
     "platform": "Teams",
@@ -1856,7 +1856,7 @@
     "thread_id": null,
     "timestamp": "2023-08-17T17:53:13.518Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.780998"
+    "date_extracted": "2025-04-05T21:10:10.358551"
   },
   {
     "platform": "Teams",
@@ -1867,7 +1867,7 @@
     "thread_id": null,
     "timestamp": "2023-08-16T13:56:07.449Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.781359"
+    "date_extracted": "2025-04-05T21:10:10.358742"
   },
   {
     "platform": "Teams",
@@ -1878,7 +1878,7 @@
     "thread_id": null,
     "timestamp": "2023-08-15T13:32:32.481Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.781750"
+    "date_extracted": "2025-04-05T21:10:10.358964"
   },
   {
     "platform": "Teams",
@@ -1889,7 +1889,7 @@
     "thread_id": null,
     "timestamp": "2023-08-07T19:31:10.848Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.782135"
+    "date_extracted": "2025-04-05T21:10:10.359158"
   },
   {
     "platform": "Teams",
@@ -1900,7 +1900,7 @@
     "thread_id": null,
     "timestamp": "2023-08-03T21:02:30.064Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.782612"
+    "date_extracted": "2025-04-05T21:10:10.359458"
   },
   {
     "platform": "Teams",
@@ -1911,7 +1911,7 @@
     "thread_id": null,
     "timestamp": "2023-08-03T18:58:19.813Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.783068"
+    "date_extracted": "2025-04-05T21:10:10.359704"
   },
   {
     "platform": "Teams",
@@ -1922,7 +1922,7 @@
     "thread_id": null,
     "timestamp": "2023-07-28T20:07:16.487Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.783421"
+    "date_extracted": "2025-04-05T21:10:10.359921"
   },
   {
     "platform": "Teams",
@@ -1933,7 +1933,7 @@
     "thread_id": null,
     "timestamp": "2023-07-28T20:02:33.729Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.783876"
+    "date_extracted": "2025-04-05T21:10:10.360093"
   },
   {
     "platform": "Teams",
@@ -1944,7 +1944,7 @@
     "thread_id": null,
     "timestamp": "2023-06-23T15:33:58.704Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.784404"
+    "date_extracted": "2025-04-05T21:10:10.360312"
   },
   {
     "platform": "Teams",
@@ -1955,7 +1955,7 @@
     "thread_id": null,
     "timestamp": "2023-06-22T23:23:43.077Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.785275"
+    "date_extracted": "2025-04-05T21:10:10.360691"
   },
   {
     "platform": "Teams",
@@ -1966,7 +1966,7 @@
     "thread_id": null,
     "timestamp": "2023-05-26T14:26:47.686Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.785553"
+    "date_extracted": "2025-04-05T21:10:10.360795"
   },
   {
     "platform": "Teams",
@@ -1977,7 +1977,7 @@
     "thread_id": null,
     "timestamp": "2023-05-26T00:22:29.295Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.785985"
+    "date_extracted": "2025-04-05T21:10:10.360981"
   },
   {
     "platform": "Teams",
@@ -1988,7 +1988,7 @@
     "thread_id": null,
     "timestamp": "2023-05-17T16:01:37.15Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.786574"
+    "date_extracted": "2025-04-05T21:10:10.361242"
   },
   {
     "platform": "Teams",
@@ -1999,7 +1999,7 @@
     "thread_id": null,
     "timestamp": "2023-05-12T16:08:00.439Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.787186"
+    "date_extracted": "2025-04-05T21:10:10.361503"
   },
   {
     "platform": "Teams",
@@ -2010,7 +2010,7 @@
     "thread_id": null,
     "timestamp": "2023-04-20T20:53:52.22Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.787798"
+    "date_extracted": "2025-04-05T21:10:10.361729"
   },
   {
     "platform": "Teams",
@@ -2021,7 +2021,7 @@
     "thread_id": null,
     "timestamp": "2023-04-20T14:39:27.027Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.788546"
+    "date_extracted": "2025-04-05T21:10:10.362038"
   },
   {
     "platform": "Teams",
@@ -2032,7 +2032,7 @@
     "thread_id": null,
     "timestamp": "2023-04-20T14:55:50.692Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.789121"
+    "date_extracted": "2025-04-05T21:10:10.362280"
   },
   {
     "platform": "Teams",
@@ -2043,7 +2043,7 @@
     "thread_id": null,
     "timestamp": "2023-03-14T17:01:39.555Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.789706"
+    "date_extracted": "2025-04-05T21:10:10.362518"
   },
   {
     "platform": "Teams",
@@ -2054,7 +2054,7 @@
     "thread_id": null,
     "timestamp": "2023-03-02T14:39:58.73Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.790114"
+    "date_extracted": "2025-04-05T21:10:10.362701"
   },
   {
     "platform": "Teams",
@@ -2065,7 +2065,7 @@
     "thread_id": null,
     "timestamp": "2023-02-24T18:32:47.418Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.790701"
+    "date_extracted": "2025-04-05T21:10:10.363328"
   },
   {
     "platform": "Teams",
@@ -2076,7 +2076,7 @@
     "thread_id": null,
     "timestamp": "2023-02-16T16:15:45.894Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.791316"
+    "date_extracted": "2025-04-05T21:10:10.363598"
   },
   {
     "platform": "Teams",
@@ -2087,7 +2087,7 @@
     "thread_id": null,
     "timestamp": "2023-02-08T14:59:11.323Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.792456"
+    "date_extracted": "2025-04-05T21:10:10.364067"
   },
   {
     "platform": "Teams",
@@ -2098,7 +2098,7 @@
     "thread_id": null,
     "timestamp": "2023-02-08T17:46:12.416Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.792730"
+    "date_extracted": "2025-04-05T21:10:10.364174"
   },
   {
     "platform": "Teams",
@@ -2109,7 +2109,7 @@
     "thread_id": null,
     "timestamp": "2023-02-01T21:36:06.871Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.793305"
+    "date_extracted": "2025-04-05T21:10:10.364417"
   },
   {
     "platform": "Teams",
@@ -2120,7 +2120,7 @@
     "thread_id": null,
     "timestamp": "2023-02-01T21:27:39.09Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.793913"
+    "date_extracted": "2025-04-05T21:10:10.364686"
   },
   {
     "platform": "Teams",
@@ -2131,7 +2131,7 @@
     "thread_id": null,
     "timestamp": "2023-01-27T16:38:46.854Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.794585"
+    "date_extracted": "2025-04-05T21:10:10.364937"
   },
   {
     "platform": "Teams",
@@ -2142,7 +2142,7 @@
     "thread_id": null,
     "timestamp": "2023-01-27T17:49:14.67Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.795181"
+    "date_extracted": "2025-04-05T21:10:10.365156"
   },
   {
     "platform": "Teams",
@@ -2153,7 +2153,7 @@
     "thread_id": null,
     "timestamp": "2023-01-20T16:47:24.249Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.797824"
+    "date_extracted": "2025-04-05T21:10:10.365850"
   },
   {
     "platform": "Teams",
@@ -2164,7 +2164,7 @@
     "thread_id": null,
     "timestamp": "2023-01-20T16:32:12.726Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.799271"
+    "date_extracted": "2025-04-05T21:10:10.366424"
   },
   {
     "platform": "Teams",
@@ -2175,7 +2175,7 @@
     "thread_id": null,
     "timestamp": "2023-01-06T16:39:28.883Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.800065"
+    "date_extracted": "2025-04-05T21:10:10.366733"
   },
   {
     "platform": "Teams",
@@ -2186,7 +2186,7 @@
     "thread_id": null,
     "timestamp": "2022-12-30T16:02:33.887Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.800752"
+    "date_extracted": "2025-04-05T21:10:10.367006"
   },
   {
     "platform": "Teams",
@@ -2197,7 +2197,7 @@
     "thread_id": null,
     "timestamp": "2022-12-16T15:12:45.973Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.801310"
+    "date_extracted": "2025-04-05T21:10:10.367249"
   },
   {
     "platform": "Teams",
@@ -2208,7 +2208,7 @@
     "thread_id": null,
     "timestamp": "2022-12-16T16:00:14.716Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.801558"
+    "date_extracted": "2025-04-05T21:10:10.367351"
   },
   {
     "platform": "Teams",
@@ -2219,7 +2219,7 @@
     "thread_id": null,
     "timestamp": "2022-12-16T15:37:39.323Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.802077"
+    "date_extracted": "2025-04-05T21:10:10.367571"
   },
   {
     "platform": "Teams",
@@ -2230,7 +2230,7 @@
     "thread_id": null,
     "timestamp": "2022-12-15T19:32:08.601Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.802780"
+    "date_extracted": "2025-04-05T21:10:10.367842"
   },
   {
     "platform": "Teams",
@@ -2241,7 +2241,7 @@
     "thread_id": null,
     "timestamp": "2022-12-09T14:25:25.426Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.803393"
+    "date_extracted": "2025-04-05T21:10:10.368097"
   },
   {
     "platform": "Teams",
@@ -2252,7 +2252,7 @@
     "thread_id": null,
     "timestamp": "2022-12-08T21:04:16.796Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.803814"
+    "date_extracted": "2025-04-05T21:10:10.368264"
   },
   {
     "platform": "Teams",
@@ -2263,7 +2263,7 @@
     "thread_id": null,
     "timestamp": "2022-12-06T16:04:11.813Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.804338"
+    "date_extracted": "2025-04-05T21:10:10.368491"
   },
   {
     "platform": "Teams",
@@ -2274,7 +2274,7 @@
     "thread_id": null,
     "timestamp": "2022-12-06T19:00:54.657Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.804844"
+    "date_extracted": "2025-04-05T21:10:10.368702"
   },
   {
     "platform": "Teams",
@@ -2285,7 +2285,7 @@
     "thread_id": null,
     "timestamp": "2022-12-06T17:44:30.399Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.805365"
+    "date_extracted": "2025-04-05T21:10:10.368911"
   },
   {
     "platform": "Teams",
@@ -2296,7 +2296,7 @@
     "thread_id": null,
     "timestamp": "2022-12-06T16:23:40.956Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.805626"
+    "date_extracted": "2025-04-05T21:10:10.369012"
   },
   {
     "platform": "Teams",
@@ -2307,7 +2307,7 @@
     "thread_id": null,
     "timestamp": "2022-12-06T16:15:10.269Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.806184"
+    "date_extracted": "2025-04-05T21:10:10.369245"
   },
   {
     "platform": "Teams",
@@ -2318,7 +2318,7 @@
     "thread_id": null,
     "timestamp": "2022-11-29T21:06:48.899Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.806641"
+    "date_extracted": "2025-04-05T21:10:10.369442"
   },
   {
     "platform": "Teams",
@@ -2329,7 +2329,7 @@
     "thread_id": null,
     "timestamp": "2022-11-28T18:35:10.261Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.806900"
+    "date_extracted": "2025-04-05T21:10:10.369541"
   },
   {
     "platform": "Teams",
@@ -2340,7 +2340,7 @@
     "thread_id": null,
     "timestamp": "2022-11-28T17:29:04.394Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.807210"
+    "date_extracted": "2025-04-05T21:10:10.369857"
   },
   {
     "platform": "Teams",
@@ -2351,7 +2351,7 @@
     "thread_id": null,
     "timestamp": "2022-11-18T16:47:59.183Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.807847"
+    "date_extracted": "2025-04-05T21:10:10.370355"
   },
   {
     "platform": "Teams",
@@ -2362,7 +2362,7 @@
     "thread_id": null,
     "timestamp": "2022-11-18T20:05:01.351Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.808455"
+    "date_extracted": "2025-04-05T21:10:10.370753"
   },
   {
     "platform": "Teams",
@@ -2373,7 +2373,7 @@
     "thread_id": null,
     "timestamp": "2022-11-18T15:31:56.816Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.809056"
+    "date_extracted": "2025-04-05T21:10:10.371148"
   },
   {
     "platform": "Teams",
@@ -2384,7 +2384,7 @@
     "thread_id": null,
     "timestamp": "2022-11-16T15:47:13.736Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.809705"
+    "date_extracted": "2025-04-05T21:10:10.371537"
   },
   {
     "platform": "Teams",
@@ -2395,7 +2395,7 @@
     "thread_id": null,
     "timestamp": "2022-11-04T14:19:56.071Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.810277"
+    "date_extracted": "2025-04-05T21:10:10.371766"
   },
   {
     "platform": "Teams",
@@ -2406,7 +2406,7 @@
     "thread_id": null,
     "timestamp": "2022-11-07T14:37:20.322Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.810908"
+    "date_extracted": "2025-04-05T21:10:10.372024"
   },
   {
     "platform": "Teams",
@@ -2417,7 +2417,7 @@
     "thread_id": null,
     "timestamp": "2022-11-01T14:15:09.378Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.811378"
+    "date_extracted": "2025-04-05T21:10:10.372226"
   },
   {
     "platform": "Teams",
@@ -2428,7 +2428,7 @@
     "thread_id": null,
     "timestamp": "2022-10-28T13:15:59.058Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.812088"
+    "date_extracted": "2025-04-05T21:10:10.372459"
   },
   {
     "platform": "Teams",
@@ -2439,7 +2439,7 @@
     "thread_id": null,
     "timestamp": "2022-10-24T16:58:38.656Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.813037"
+    "date_extracted": "2025-04-05T21:10:10.372818"
   },
   {
     "platform": "Teams",
@@ -2450,7 +2450,7 @@
     "thread_id": null,
     "timestamp": "2022-10-24T14:53:27.083Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.813499"
+    "date_extracted": "2025-04-05T21:10:10.373024"
   },
   {
     "platform": "Teams",
@@ -2461,7 +2461,7 @@
     "thread_id": null,
     "timestamp": "2022-10-24T14:58:37.918Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.814054"
+    "date_extracted": "2025-04-05T21:10:10.373278"
   },
   {
     "platform": "Teams",
@@ -2472,7 +2472,7 @@
     "thread_id": null,
     "timestamp": "2022-10-18T12:51:36.3Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.814536"
+    "date_extracted": "2025-04-05T21:10:10.373494"
   },
   {
     "platform": "Teams",
@@ -2483,7 +2483,7 @@
     "thread_id": null,
     "timestamp": "2022-10-18T21:44:04.701Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.814916"
+    "date_extracted": "2025-04-05T21:10:10.373696"
   },
   {
     "platform": "Teams",
@@ -2494,7 +2494,7 @@
     "thread_id": null,
     "timestamp": "2022-10-14T14:27:42.752Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.815447"
+    "date_extracted": "2025-04-05T21:10:10.373988"
   },
   {
     "platform": "Teams",
@@ -2505,7 +2505,7 @@
     "thread_id": null,
     "timestamp": "2022-10-18T15:30:50.277Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.815859"
+    "date_extracted": "2025-04-05T21:10:10.374232"
   },
   {
     "platform": "Teams",
@@ -2516,7 +2516,7 @@
     "thread_id": null,
     "timestamp": "2022-10-14T16:37:12.615Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.816226"
+    "date_extracted": "2025-04-05T21:10:10.374470"
   },
   {
     "platform": "Teams",
@@ -2527,7 +2527,7 @@
     "thread_id": null,
     "timestamp": "2022-10-14T14:35:38.588Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.816538"
+    "date_extracted": "2025-04-05T21:10:10.374672"
   },
   {
     "platform": "Teams",
@@ -2538,7 +2538,7 @@
     "thread_id": null,
     "timestamp": "2022-10-04T13:11:48.417Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.816928"
+    "date_extracted": "2025-04-05T21:10:10.374927"
   },
   {
     "platform": "Teams",
@@ -2549,7 +2549,7 @@
     "thread_id": null,
     "timestamp": "2022-09-07T15:09:19.077Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.817487"
+    "date_extracted": "2025-04-05T21:10:10.375203"
   },
   {
     "platform": "Teams",
@@ -2560,7 +2560,7 @@
     "thread_id": null,
     "timestamp": "2022-09-22T15:34:03.941Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.818014"
+    "date_extracted": "2025-04-05T21:10:10.375812"
   },
   {
     "platform": "Teams",
@@ -2571,7 +2571,7 @@
     "thread_id": null,
     "timestamp": "2022-09-22T15:07:06.856Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.818798"
+    "date_extracted": "2025-04-05T21:10:10.376150"
   },
   {
     "platform": "Teams",
@@ -2582,7 +2582,7 @@
     "thread_id": null,
     "timestamp": "2022-09-30T14:12:14.554Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.819682"
+    "date_extracted": "2025-04-05T21:10:10.376504"
   },
   {
     "platform": "Teams",
@@ -2593,7 +2593,7 @@
     "thread_id": null,
     "timestamp": "2022-09-30T14:29:47.593Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.820103"
+    "date_extracted": "2025-04-05T21:10:10.376683"
   },
   {
     "platform": "Teams",
@@ -2604,7 +2604,7 @@
     "thread_id": null,
     "timestamp": "2022-09-30T14:13:55.812Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.820683"
+    "date_extracted": "2025-04-05T21:10:10.376919"
   },
   {
     "platform": "Teams",
@@ -2615,7 +2615,7 @@
     "thread_id": null,
     "timestamp": "2022-09-16T15:22:35.12Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.821292"
+    "date_extracted": "2025-04-05T21:10:10.377169"
   },
   {
     "platform": "Teams",
@@ -2626,7 +2626,7 @@
     "thread_id": null,
     "timestamp": "2022-09-16T17:43:44.817Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.821813"
+    "date_extracted": "2025-04-05T21:10:10.377376"
   },
   {
     "platform": "Teams",
@@ -2637,7 +2637,7 @@
     "thread_id": null,
     "timestamp": "2022-09-13T12:55:00.226Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.822391"
+    "date_extracted": "2025-04-05T21:10:10.377612"
   },
   {
     "platform": "Teams",
@@ -2648,7 +2648,7 @@
     "thread_id": null,
     "timestamp": "2022-09-14T17:13:43.085Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.822650"
+    "date_extracted": "2025-04-05T21:10:10.377713"
   },
   {
     "platform": "Teams",
@@ -2659,7 +2659,7 @@
     "thread_id": null,
     "timestamp": "2022-09-13T13:41:53.331Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.823407"
+    "date_extracted": "2025-04-05T21:10:10.378026"
   },
   {
     "platform": "Teams",
@@ -2670,7 +2670,7 @@
     "thread_id": null,
     "timestamp": "2022-09-12T18:59:48.442Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.825416"
+    "date_extracted": "2025-04-05T21:10:10.378458"
   },
   {
     "platform": "Teams",
@@ -2681,7 +2681,7 @@
     "thread_id": null,
     "timestamp": "2022-09-07T21:26:03.221Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.825725"
+    "date_extracted": "2025-04-05T21:10:10.378564"
   },
   {
     "platform": "Teams",
@@ -2692,7 +2692,7 @@
     "thread_id": null,
     "timestamp": "2022-09-07T19:22:20.523Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.825980"
+    "date_extracted": "2025-04-05T21:10:10.378663"
   },
   {
     "platform": "Teams",
@@ -2703,7 +2703,7 @@
     "thread_id": null,
     "timestamp": "2022-09-01T14:40:14.009Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.826518"
+    "date_extracted": "2025-04-05T21:10:10.378881"
   },
   {
     "platform": "Teams",
@@ -2714,7 +2714,7 @@
     "thread_id": null,
     "timestamp": "2022-08-31T19:49:32.757Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.827261"
+    "date_extracted": "2025-04-05T21:10:10.379176"
   },
   {
     "platform": "Teams",
@@ -2725,7 +2725,7 @@
     "thread_id": null,
     "timestamp": "2022-08-26T13:28:53.438Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.827815"
+    "date_extracted": "2025-04-05T21:10:10.379393"
   },
   {
     "platform": "Teams",
@@ -2736,7 +2736,7 @@
     "thread_id": null,
     "timestamp": "2022-08-24T19:01:43.694Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.828332"
+    "date_extracted": "2025-04-05T21:10:10.379598"
   },
   {
     "platform": "Teams",
@@ -2747,7 +2747,7 @@
     "thread_id": null,
     "timestamp": "2022-08-18T21:13:53.865Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.829717"
+    "date_extracted": "2025-04-05T21:10:10.379905"
   },
   {
     "platform": "Teams",
@@ -2758,7 +2758,7 @@
     "thread_id": null,
     "timestamp": "2022-08-22T16:07:12.295Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.830357"
+    "date_extracted": "2025-04-05T21:10:10.380283"
   },
   {
     "platform": "Teams",
@@ -2769,7 +2769,7 @@
     "thread_id": null,
     "timestamp": "2022-08-19T16:15:32.111Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.830941"
+    "date_extracted": "2025-04-05T21:10:10.380552"
   },
   {
     "platform": "Teams",
@@ -2780,7 +2780,7 @@
     "thread_id": null,
     "timestamp": "2022-08-17T13:19:17.524Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.831529"
+    "date_extracted": "2025-04-05T21:10:10.380814"
   },
   {
     "platform": "Teams",
@@ -2791,7 +2791,7 @@
     "thread_id": null,
     "timestamp": "2022-08-17T13:36:10.717Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.831851"
+    "date_extracted": "2025-04-05T21:10:10.381008"
   },
   {
     "platform": "Teams",
@@ -2802,7 +2802,7 @@
     "thread_id": null,
     "timestamp": "2022-08-16T16:18:40.601Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.832150"
+    "date_extracted": "2025-04-05T21:10:10.381200"
   },
   {
     "platform": "Teams",
@@ -2813,7 +2813,7 @@
     "thread_id": null,
     "timestamp": "2022-08-16T19:01:45.675Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.832526"
+    "date_extracted": "2025-04-05T21:10:10.381445"
   },
   {
     "platform": "Teams",
@@ -2824,7 +2824,7 @@
     "thread_id": null,
     "timestamp": "2022-08-02T19:11:14.139Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.832944"
+    "date_extracted": "2025-04-05T21:10:10.381694"
   },
   {
     "platform": "Teams",
@@ -2835,7 +2835,7 @@
     "thread_id": null,
     "timestamp": "2022-08-11T12:37:39.381Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.833135"
+    "date_extracted": "2025-04-05T21:10:10.381800"
   },
   {
     "platform": "Teams",
@@ -2846,7 +2846,7 @@
     "thread_id": null,
     "timestamp": "2022-08-09T16:21:41.366Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.833569"
+    "date_extracted": "2025-04-05T21:10:10.382063"
   },
   {
     "platform": "Teams",
@@ -2857,7 +2857,7 @@
     "thread_id": null,
     "timestamp": "2022-08-03T13:34:28.695Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.833913"
+    "date_extracted": "2025-04-05T21:10:10.382287"
   },
   {
     "platform": "Teams",
@@ -2868,7 +2868,7 @@
     "thread_id": null,
     "timestamp": "2022-08-03T13:14:20.916Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.834200"
+    "date_extracted": "2025-04-05T21:10:10.382467"
   },
   {
     "platform": "Teams",
@@ -2879,7 +2879,7 @@
     "thread_id": null,
     "timestamp": "2022-08-01T19:24:56.903Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.834539"
+    "date_extracted": "2025-04-05T21:10:10.382676"
   },
   {
     "platform": "Teams",
@@ -2890,7 +2890,7 @@
     "thread_id": null,
     "timestamp": "2022-08-01T15:45:12.732Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.834785"
+    "date_extracted": "2025-04-05T21:10:10.382835"
   },
   {
     "platform": "Teams",
@@ -2901,7 +2901,7 @@
     "thread_id": null,
     "timestamp": "2022-07-29T14:18:09.175Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.835243"
+    "date_extracted": "2025-04-05T21:10:10.383107"
   },
   {
     "platform": "Teams",
@@ -2912,7 +2912,7 @@
     "thread_id": null,
     "timestamp": "2022-07-28T14:48:52.853Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.835839"
+    "date_extracted": "2025-04-05T21:10:10.383488"
   },
   {
     "platform": "Teams",
@@ -2923,7 +2923,7 @@
     "thread_id": null,
     "timestamp": "2022-07-28T14:31:08.231Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.836189"
+    "date_extracted": "2025-04-05T21:10:10.383712"
   },
   {
     "platform": "Teams",
@@ -2934,7 +2934,7 @@
     "thread_id": null,
     "timestamp": "2022-07-28T15:51:32.399Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.836680"
+    "date_extracted": "2025-04-05T21:10:10.383954"
   },
   {
     "platform": "Teams",
@@ -2945,7 +2945,7 @@
     "thread_id": null,
     "timestamp": "2022-07-28T14:36:11.016Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.837207"
+    "date_extracted": "2025-04-05T21:10:10.384158"
   },
   {
     "platform": "Teams",
@@ -2956,7 +2956,7 @@
     "thread_id": null,
     "timestamp": "2022-07-28T14:33:10.395Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.837522"
+    "date_extracted": "2025-04-05T21:10:10.384331"
   },
   {
     "platform": "Teams",
@@ -2967,7 +2967,7 @@
     "thread_id": null,
     "timestamp": "2022-07-26T21:46:46.997Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.837959"
+    "date_extracted": "2025-04-05T21:10:10.384577"
   },
   {
     "platform": "Teams",
@@ -2978,7 +2978,7 @@
     "thread_id": null,
     "timestamp": "2022-07-22T18:27:37.491Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.838426"
+    "date_extracted": "2025-04-05T21:10:10.384859"
   },
   {
     "platform": "Teams",
@@ -2989,7 +2989,7 @@
     "thread_id": null,
     "timestamp": "2022-07-21T17:02:25.437Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.838803"
+    "date_extracted": "2025-04-05T21:10:10.385070"
   },
   {
     "platform": "Teams",
@@ -3000,7 +3000,7 @@
     "thread_id": null,
     "timestamp": "2022-07-21T19:34:14.656Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.839101"
+    "date_extracted": "2025-04-05T21:10:10.385252"
   },
   {
     "platform": "Teams",
@@ -3011,7 +3011,7 @@
     "thread_id": null,
     "timestamp": "2022-06-30T13:36:43.876Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.839651"
+    "date_extracted": "2025-04-05T21:10:10.385579"
   },
   {
     "platform": "Teams",
@@ -3022,7 +3022,7 @@
     "thread_id": null,
     "timestamp": "2022-06-24T13:33:34.508Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.839822"
+    "date_extracted": "2025-04-05T21:10:10.385682"
   },
   {
     "platform": "Teams",
@@ -3033,7 +3033,7 @@
     "thread_id": null,
     "timestamp": "2022-06-22T11:46:29.263Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.840098"
+    "date_extracted": "2025-04-05T21:10:10.385849"
   },
   {
     "platform": "Teams",
@@ -3044,7 +3044,7 @@
     "thread_id": null,
     "timestamp": "2022-06-22T21:10:34.514Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.840438"
+    "date_extracted": "2025-04-05T21:10:10.386050"
   },
   {
     "platform": "Teams",
@@ -3055,7 +3055,7 @@
     "thread_id": null,
     "timestamp": "2022-06-14T12:15:20.089Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.840717"
+    "date_extracted": "2025-04-05T21:10:10.386230"
   },
   {
     "platform": "Teams",
@@ -3066,7 +3066,7 @@
     "thread_id": null,
     "timestamp": "2022-06-06T16:02:19.069Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.841124"
+    "date_extracted": "2025-04-05T21:10:10.386482"
   },
   {
     "platform": "Teams",
@@ -3077,7 +3077,7 @@
     "thread_id": null,
     "timestamp": "2022-06-06T18:52:54.832Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.841405"
+    "date_extracted": "2025-04-05T21:10:10.386651"
   },
   {
     "platform": "Teams",
@@ -3088,7 +3088,7 @@
     "thread_id": null,
     "timestamp": "2022-06-02T19:00:23.021Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.841568"
+    "date_extracted": "2025-04-05T21:10:10.386751"
   },
   {
     "platform": "Teams",
@@ -3099,7 +3099,7 @@
     "thread_id": null,
     "timestamp": "2022-06-02T14:10:09.066Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.841940"
+    "date_extracted": "2025-04-05T21:10:10.386990"
   },
   {
     "platform": "Teams",
@@ -3110,7 +3110,7 @@
     "thread_id": null,
     "timestamp": "2022-06-01T13:43:21.57Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.842334"
+    "date_extracted": "2025-04-05T21:10:10.387245"
   },
   {
     "platform": "Teams",
@@ -3121,7 +3121,7 @@
     "thread_id": null,
     "timestamp": "2022-06-01T16:06:29.524Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.842618"
+    "date_extracted": "2025-04-05T21:10:10.387721"
   },
   {
     "platform": "Teams",
@@ -3132,7 +3132,7 @@
     "thread_id": null,
     "timestamp": "2022-05-20T15:44:45.657Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.843025"
+    "date_extracted": "2025-04-05T21:10:10.388001"
   },
   {
     "platform": "Teams",
@@ -3143,7 +3143,7 @@
     "thread_id": null,
     "timestamp": "2022-05-06T15:40:44.521Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.843467"
+    "date_extracted": "2025-04-05T21:10:10.388292"
   },
   {
     "platform": "Teams",
@@ -3154,7 +3154,7 @@
     "thread_id": null,
     "timestamp": "2022-05-17T15:00:14.532Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.843812"
+    "date_extracted": "2025-04-05T21:10:10.388530"
   },
   {
     "platform": "Teams",
@@ -3165,7 +3165,7 @@
     "thread_id": null,
     "timestamp": "2022-05-17T18:14:06.927Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.844188"
+    "date_extracted": "2025-04-05T21:10:10.388748"
   },
   {
     "platform": "Teams",
@@ -3176,7 +3176,7 @@
     "thread_id": null,
     "timestamp": "2022-05-17T18:05:43.089Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.845441"
+    "date_extracted": "2025-04-05T21:10:10.388952"
   },
   {
     "platform": "Teams",
@@ -3187,7 +3187,7 @@
     "thread_id": null,
     "timestamp": "2022-05-16T13:00:49.995Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.846158"
+    "date_extracted": "2025-04-05T21:10:10.389206"
   },
   {
     "platform": "Teams",
@@ -3198,7 +3198,7 @@
     "thread_id": null,
     "timestamp": "2022-05-10T13:44:19.124Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.847033"
+    "date_extracted": "2025-04-05T21:10:10.389603"
   },
   {
     "platform": "Teams",
@@ -3209,7 +3209,7 @@
     "thread_id": null,
     "timestamp": "2022-05-10T14:01:58.787Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.847499"
+    "date_extracted": "2025-04-05T21:10:10.389826"
   },
   {
     "platform": "Teams",
@@ -3220,7 +3220,7 @@
     "thread_id": null,
     "timestamp": "2022-05-06T15:52:16.965Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.847679"
+    "date_extracted": "2025-04-05T21:10:10.389948"
   },
   {
     "platform": "Teams",
@@ -3231,7 +3231,7 @@
     "thread_id": null,
     "timestamp": "2022-04-29T13:57:18.018Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.848153"
+    "date_extracted": "2025-04-05T21:10:10.390230"
   },
   {
     "platform": "Teams",
@@ -3242,7 +3242,7 @@
     "thread_id": null,
     "timestamp": "2022-04-29T13:59:46.41Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.849175"
+    "date_extracted": "2025-04-05T21:10:10.390464"
   },
   {
     "platform": "Teams",
@@ -3253,7 +3253,7 @@
     "thread_id": null,
     "timestamp": "2022-04-25T15:48:33.43Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.849627"
+    "date_extracted": "2025-04-05T21:10:10.390715"
   },
   {
     "platform": "Teams",
@@ -3264,7 +3264,7 @@
     "thread_id": null,
     "timestamp": "2022-04-25T15:29:51.31Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.850100"
+    "date_extracted": "2025-04-05T21:10:10.390998"
   },
   {
     "platform": "Teams",
@@ -3275,7 +3275,7 @@
     "thread_id": null,
     "timestamp": "2022-04-20T12:40:59.883Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.850526"
+    "date_extracted": "2025-04-05T21:10:10.391266"
   },
   {
     "platform": "Teams",
@@ -3286,7 +3286,7 @@
     "thread_id": null,
     "timestamp": "2022-04-20T15:43:57.314Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.850865"
+    "date_extracted": "2025-04-05T21:10:10.391496"
   },
   {
     "platform": "Teams",
@@ -3297,7 +3297,7 @@
     "thread_id": null,
     "timestamp": "2022-04-19T17:28:41.113Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.851145"
+    "date_extracted": "2025-04-05T21:10:10.391670"
   },
   {
     "platform": "Teams",
@@ -3308,7 +3308,7 @@
     "thread_id": null,
     "timestamp": "2022-04-19T14:08:21.174Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.851593"
+    "date_extracted": "2025-04-05T21:10:10.391972"
   },
   {
     "platform": "Teams",
@@ -3319,7 +3319,7 @@
     "thread_id": null,
     "timestamp": "2022-04-15T13:59:58.013Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.852012"
+    "date_extracted": "2025-04-05T21:10:10.392223"
   },
   {
     "platform": "Teams",
@@ -3330,7 +3330,7 @@
     "thread_id": null,
     "timestamp": "2022-04-11T19:51:20.826Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.852181"
+    "date_extracted": "2025-04-05T21:10:10.392329"
   },
   {
     "platform": "Teams",
@@ -3341,7 +3341,7 @@
     "thread_id": null,
     "timestamp": "2022-04-07T13:26:36.754Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.852604"
+    "date_extracted": "2025-04-05T21:10:10.392594"
   },
   {
     "platform": "Teams",
@@ -3352,7 +3352,7 @@
     "thread_id": null,
     "timestamp": "2022-04-05T16:21:59.927Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.854512"
+    "date_extracted": "2025-04-05T21:10:10.393372"
   },
   {
     "platform": "Teams",
@@ -3363,7 +3363,7 @@
     "thread_id": null,
     "timestamp": "2022-04-01T13:00:15.594Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.855316"
+    "date_extracted": "2025-04-05T21:10:10.393689"
   },
   {
     "platform": "Teams",
@@ -3374,7 +3374,7 @@
     "thread_id": null,
     "timestamp": "2022-03-29T12:06:05.561Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.857517"
+    "date_extracted": "2025-04-05T21:10:10.394603"
   },
   {
     "platform": "Teams",
@@ -3385,7 +3385,7 @@
     "thread_id": null,
     "timestamp": "2022-03-29T13:16:41.886Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.857796"
+    "date_extracted": "2025-04-05T21:10:10.394709"
   },
   {
     "platform": "Teams",
@@ -3396,7 +3396,7 @@
     "thread_id": null,
     "timestamp": "2022-03-23T12:30:28.76Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.858067"
+    "date_extracted": "2025-04-05T21:10:10.394824"
   },
   {
     "platform": "Teams",
@@ -3407,7 +3407,7 @@
     "thread_id": null,
     "timestamp": "2022-03-18T14:16:48.608Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.858575"
+    "date_extracted": "2025-04-05T21:10:10.395041"
   },
   {
     "platform": "Teams",
@@ -3418,7 +3418,7 @@
     "thread_id": null,
     "timestamp": "2022-03-15T14:33:41.122Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.859080"
+    "date_extracted": "2025-04-05T21:10:10.395259"
   },
   {
     "platform": "Teams",
@@ -3429,7 +3429,7 @@
     "thread_id": null,
     "timestamp": "2022-03-11T18:20:10.786Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.859312"
+    "date_extracted": "2025-04-05T21:10:10.395358"
   },
   {
     "platform": "Teams",
@@ -3440,7 +3440,7 @@
     "thread_id": null,
     "timestamp": "2022-03-11T14:33:59.967Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.860018"
+    "date_extracted": "2025-04-05T21:10:10.395987"
   },
   {
     "platform": "Teams",
@@ -3451,7 +3451,7 @@
     "thread_id": null,
     "timestamp": "2022-03-02T16:49:31.94Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.860782"
+    "date_extracted": "2025-04-05T21:10:10.396551"
   },
   {
     "platform": "Teams",
@@ -3462,7 +3462,7 @@
     "thread_id": null,
     "timestamp": "2022-03-02T13:43:53.832Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.861645"
+    "date_extracted": "2025-04-05T21:10:10.396863"
   },
   {
     "platform": "Teams",
@@ -3473,7 +3473,7 @@
     "thread_id": null,
     "timestamp": "2022-03-02T15:21:42.016Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.862344"
+    "date_extracted": "2025-04-05T21:10:10.397056"
   },
   {
     "platform": "Teams",
@@ -3484,7 +3484,7 @@
     "thread_id": null,
     "timestamp": "2022-03-02T13:42:22.706Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.862367"
+    "date_extracted": "2025-04-05T21:10:10.397063"
   },
   {
     "platform": "Teams",
@@ -3495,7 +3495,7 @@
     "thread_id": null,
     "timestamp": "2022-02-25T15:01:14.736Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.862999"
+    "date_extracted": "2025-04-05T21:10:10.397320"
   },
   {
     "platform": "Teams",
@@ -3506,7 +3506,7 @@
     "thread_id": null,
     "timestamp": "2022-02-25T15:25:48.922Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.863192"
+    "date_extracted": "2025-04-05T21:10:10.397440"
   },
   {
     "platform": "Teams",
@@ -3517,7 +3517,7 @@
     "thread_id": null,
     "timestamp": "2022-02-25T13:29:48.903Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.863638"
+    "date_extracted": "2025-04-05T21:10:10.397700"
   },
   {
     "platform": "Teams",
@@ -3528,7 +3528,7 @@
     "thread_id": null,
     "timestamp": "2022-02-16T17:58:47.196Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.864045"
+    "date_extracted": "2025-04-05T21:10:10.397946"
   },
   {
     "platform": "Teams",
@@ -3539,7 +3539,7 @@
     "thread_id": null,
     "timestamp": "2022-02-16T15:56:12.662Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.864417"
+    "date_extracted": "2025-04-05T21:10:10.398157"
   },
   {
     "platform": "Teams",
@@ -3550,7 +3550,7 @@
     "thread_id": null,
     "timestamp": "2022-02-15T15:13:06.744Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.865191"
+    "date_extracted": "2025-04-05T21:10:10.398626"
   },
   {
     "platform": "Teams",
@@ -3561,7 +3561,7 @@
     "thread_id": null,
     "timestamp": "2022-02-03T17:06:54.781Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.865422"
+    "date_extracted": "2025-04-05T21:10:10.398770"
   },
   {
     "platform": "Teams",
@@ -3572,7 +3572,7 @@
     "thread_id": null,
     "timestamp": "2022-02-02T14:26:29.262Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.865753"
+    "date_extracted": "2025-04-05T21:10:10.398979"
   },
   {
     "platform": "Teams",
@@ -3583,7 +3583,7 @@
     "thread_id": null,
     "timestamp": "2022-02-01T15:49:30.65Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.866169"
+    "date_extracted": "2025-04-05T21:10:10.399234"
   },
   {
     "platform": "Teams",
@@ -3594,7 +3594,7 @@
     "thread_id": null,
     "timestamp": "2022-01-27T13:06:22.848Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.866510"
+    "date_extracted": "2025-04-05T21:10:10.400847"
   },
   {
     "platform": "Teams",
@@ -3605,7 +3605,7 @@
     "thread_id": null,
     "timestamp": "2022-01-11T17:31:24.436Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.866908"
+    "date_extracted": "2025-04-05T21:10:10.401121"
   },
   {
     "platform": "Teams",
@@ -3616,7 +3616,7 @@
     "thread_id": null,
     "timestamp": "2021-12-17T16:02:02.023Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.867494"
+    "date_extracted": "2025-04-05T21:10:10.401407"
   },
   {
     "platform": "Teams",
@@ -3627,7 +3627,7 @@
     "thread_id": null,
     "timestamp": "2021-11-19T16:58:23.022Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.868063"
+    "date_extracted": "2025-04-05T21:10:10.401650"
   },
   {
     "platform": "Teams",
@@ -3638,7 +3638,7 @@
     "thread_id": null,
     "timestamp": "2021-11-24T20:43:28.522Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.868674"
+    "date_extracted": "2025-04-05T21:10:10.401844"
   },
   {
     "platform": "Teams",
@@ -3649,7 +3649,7 @@
     "thread_id": null,
     "timestamp": "2021-11-18T15:21:59.241Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.869174"
+    "date_extracted": "2025-04-05T21:10:10.402025"
   },
   {
     "platform": "Teams",
@@ -3660,7 +3660,7 @@
     "thread_id": null,
     "timestamp": "2021-11-05T14:17:51.139Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.869876"
+    "date_extracted": "2025-04-05T21:10:10.402300"
   },
   {
     "platform": "Teams",
@@ -3671,7 +3671,7 @@
     "thread_id": null,
     "timestamp": "2021-10-18T15:14:23.707Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.870521"
+    "date_extracted": "2025-04-05T21:10:10.402577"
   },
   {
     "platform": "Teams",
@@ -3682,7 +3682,7 @@
     "thread_id": null,
     "timestamp": "2021-10-15T16:52:19.978Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.871095"
+    "date_extracted": "2025-04-05T21:10:10.402827"
   },
   {
     "platform": "Teams",
@@ -3693,7 +3693,7 @@
     "thread_id": null,
     "timestamp": "2021-10-08T17:23:58.521Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.871640"
+    "date_extracted": "2025-04-05T21:10:10.403065"
   },
   {
     "platform": "Teams",
@@ -3704,7 +3704,7 @@
     "thread_id": null,
     "timestamp": "2021-10-05T13:23:50.628Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.872299"
+    "date_extracted": "2025-04-05T21:10:10.403347"
   },
   {
     "platform": "Teams",
@@ -3715,7 +3715,7 @@
     "thread_id": null,
     "timestamp": "2021-09-22T13:19:33.029Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.873628"
+    "date_extracted": "2025-04-05T21:10:10.403584"
   },
   {
     "platform": "Teams",
@@ -3726,7 +3726,7 @@
     "thread_id": null,
     "timestamp": "2021-09-21T14:54:01.892Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.874161"
+    "date_extracted": "2025-04-05T21:10:10.403830"
   },
   {
     "platform": "Teams",
@@ -3737,7 +3737,7 @@
     "thread_id": null,
     "timestamp": "2021-09-14T20:32:04.275Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.874746"
+    "date_extracted": "2025-04-05T21:10:10.404090"
   },
   {
     "platform": "Teams",
@@ -3748,7 +3748,7 @@
     "thread_id": null,
     "timestamp": "2021-09-16T14:01:09.825Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.875319"
+    "date_extracted": "2025-04-05T21:10:10.404322"
   },
   {
     "platform": "Teams",
@@ -3759,7 +3759,7 @@
     "thread_id": null,
     "timestamp": "2021-09-14T13:54:23.126Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.876153"
+    "date_extracted": "2025-04-05T21:10:10.404629"
   },
   {
     "platform": "Teams",
@@ -3770,7 +3770,7 @@
     "thread_id": null,
     "timestamp": "2021-09-13T12:40:01.302Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.876728"
+    "date_extracted": "2025-04-05T21:10:10.404863"
   },
   {
     "platform": "Teams",
@@ -3781,7 +3781,7 @@
     "thread_id": null,
     "timestamp": "2021-09-13T16:04:01.809Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.877313"
+    "date_extracted": "2025-04-05T21:10:10.405035"
   },
   {
     "platform": "Teams",
@@ -3792,7 +3792,7 @@
     "thread_id": null,
     "timestamp": "2021-09-07T15:18:49.594Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.878219"
+    "date_extracted": "2025-04-05T21:10:10.405436"
   },
   {
     "platform": "Teams",
@@ -3803,7 +3803,7 @@
     "thread_id": null,
     "timestamp": "2021-09-01T15:45:56.489Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.879191"
+    "date_extracted": "2025-04-05T21:10:10.405818"
   },
   {
     "platform": "Teams",
@@ -3814,7 +3814,7 @@
     "thread_id": null,
     "timestamp": "2021-08-20T13:51:12.531Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.879801"
+    "date_extracted": "2025-04-05T21:10:10.406065"
   },
   {
     "platform": "Teams",
@@ -3825,7 +3825,7 @@
     "thread_id": null,
     "timestamp": "2021-08-03T13:01:08.341Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.880303"
+    "date_extracted": "2025-04-05T21:10:10.406332"
   },
   {
     "platform": "Teams",
@@ -3836,7 +3836,7 @@
     "thread_id": null,
     "timestamp": "2021-07-22T03:46:54.113Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.881654"
+    "date_extracted": "2025-04-05T21:10:10.406957"
   },
   {
     "platform": "Teams",
@@ -3847,7 +3847,7 @@
     "thread_id": null,
     "timestamp": "2021-07-22T03:50:04.631Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.881671"
+    "date_extracted": "2025-04-05T21:10:10.406963"
   },
   {
     "platform": "Teams",
@@ -3858,7 +3858,7 @@
     "thread_id": null,
     "timestamp": "2021-07-21T13:33:42.426Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.881886"
+    "date_extracted": "2025-04-05T21:10:10.407069"
   },
   {
     "platform": "Teams",
@@ -3869,7 +3869,7 @@
     "thread_id": null,
     "timestamp": "2021-06-16T16:29:25.911Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.882474"
+    "date_extracted": "2025-04-05T21:10:10.407354"
   },
   {
     "platform": "Teams",
@@ -3880,7 +3880,7 @@
     "thread_id": null,
     "timestamp": "2021-06-11T14:38:51.99Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.883066"
+    "date_extracted": "2025-04-05T21:10:10.407547"
   },
   {
     "platform": "Teams",
@@ -3891,7 +3891,7 @@
     "thread_id": null,
     "timestamp": "2021-06-03T13:17:33.726Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.883661"
+    "date_extracted": "2025-04-05T21:10:10.407767"
   },
   {
     "platform": "Teams",
@@ -3902,7 +3902,7 @@
     "thread_id": null,
     "timestamp": "2021-05-24T16:26:44.619Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.884460"
+    "date_extracted": "2025-04-05T21:10:10.408046"
   },
   {
     "platform": "Teams",
@@ -3913,7 +3913,7 @@
     "thread_id": null,
     "timestamp": "2021-05-24T16:27:21.812Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.884997"
+    "date_extracted": "2025-04-05T21:10:10.408245"
   },
   {
     "platform": "Teams",
@@ -3924,6 +3924,6 @@
     "thread_id": null,
     "timestamp": "2021-05-24T16:25:43.972Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:20:00.885262"
+    "date_extracted": "2025-04-05T21:10:10.408343"
   }
 ]

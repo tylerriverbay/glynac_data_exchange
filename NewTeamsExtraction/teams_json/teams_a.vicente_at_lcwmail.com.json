@@ -1,58 +1,25 @@
 [
   {
     "platform": "Teams",
-    "chat_id": "1656606764029",
-    "chat_from": "Grace Vottero",
-    "channel": "Innovation and Products / General",
-    "message": "I added a tab at the top of this chat. Check it out!",
+    "chat_id": "1667927825365",
+    "chat_from": "Hannah Strack",
+    "channel": "Calendar Event Project / General",
+    "message": "- HS will create categories based on survey data in previously made excel file (complete by EOD 11/14 - follow up with Ashton for questions) -Email that describes the reason for the survey - here's our working list -Teams Channel - Training -> Articles, Tools, and Resources -We will use the Excel file that HS created to gather that data and have it in one spot (name change pending if need be)",
     "thread_id": null,
-    "timestamp": "2022-06-30T16:32:44.029Z",
+    "timestamp": "2022-11-08T17:17:05.365Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:25.841460"
+    "date_extracted": "2025-04-05T21:08:51.829138"
   },
   {
     "platform": "Teams",
-    "chat_id": "1654187663433",
-    "chat_from": "Grace Vottero",
-    "channel": "Innovation and Products / General",
-    "message": "Kelly Salek Melissa Neu the updated draft of our deck is here!!",
+    "chat_id": "1667330688653",
+    "chat_from": "Ashton Vicente",
+    "channel": "Calendar Event Project / General",
+    "message": "Task List -Survey results -Wording for what we're trying to accomplish -Email ask \"does this work for you? make sense?\" -Gather responses, make changes -Input data",
     "thread_id": null,
-    "timestamp": "2022-06-02T16:34:23.433Z",
+    "timestamp": "2022-11-01T19:24:48.653Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:25.841796"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1661554083730",
-    "chat_from": "Melissa Neu",
-    "channel": "Dormant Account Project - 2022 / General",
-    "message": "Conner Williams Grace Vottero Hi Friends! In the files section of this channel, I have uploaded a spreadsheet of clients not listed as \"Active.\" When you are able, can you please review the list and add your name to any clients that you would LOVE to work with or that you already have a relationship with. Also, if you could please, alert me if you know other consultants are working on anything here. No need to dive deep on looking at who is doing what with these; just looking for your gut reactions on the names. Let me know when you're finished. I'll assign the remainders and share instructions on next steps. HAPPY FRIDAY!",
-    "thread_id": null,
-    "timestamp": "2022-08-26T22:48:03.73Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:28.942319"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1645024377549",
-    "chat_from": "",
-    "channel": "Processes / General",
-    "message": "",
-    "thread_id": null,
-    "timestamp": "2022-02-16T15:12:57.549Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:29.643444"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1644512167716",
-    "chat_from": "Nicole Barile",
-    "channel": "Processes / General",
-    "message": "",
-    "thread_id": null,
-    "timestamp": "2022-02-10T16:56:07.716Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:29.643460"
+    "date_extracted": "2025-04-05T21:08:51.829862"
   },
   {
     "platform": "Teams",
@@ -63,7 +30,7 @@
     "thread_id": null,
     "timestamp": "2022-10-27T19:27:56.729Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:31.555806"
+    "date_extracted": "2025-04-05T21:08:55.572822"
   },
   {
     "platform": "Teams",
@@ -74,7 +41,7 @@
     "thread_id": null,
     "timestamp": "2022-10-17T13:08:11.703Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:31.555931"
+    "date_extracted": "2025-04-05T21:08:55.573058"
   },
   {
     "platform": "Teams",
@@ -85,7 +52,7 @@
     "thread_id": null,
     "timestamp": "2022-10-12T18:23:46.846Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:31.556083"
+    "date_extracted": "2025-04-05T21:08:55.573353"
   },
   {
     "platform": "Teams",
@@ -96,150 +63,7 @@
     "thread_id": null,
     "timestamp": "2022-07-13T14:30:47.436Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:31.557243"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1656090159313",
-    "chat_from": "Tamara Thorpe",
-    "channel": "June LCW Retreat / General",
-    "message": "I added a tab at the top of this channel. Check it out!",
-    "thread_id": null,
-    "timestamp": "2022-06-24T17:02:39.313Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:32.387192"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654804439690",
-    "chat_from": "Jake Pieczynski",
-    "channel": "June LCW Retreat / General",
-    "message": "I'll be sharing a recap post of our retreat for #FeatureFriday tomorrow! There's already been some great pictures shared here and I have many of my own, but I wanted to put out a last call! If you have any pictures (especially of groups) please share them here! Thank you!",
-    "thread_id": null,
-    "timestamp": "2022-06-09T19:53:59.69Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:32.387383"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654737291385",
-    "chat_from": "Monica Marcel",
-    "channel": "June LCW Retreat / General",
-    "message": "",
-    "thread_id": null,
-    "timestamp": "2022-06-09T01:14:51.385Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:32.388517"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654726123442",
-    "chat_from": "Briza Cardenas",
-    "channel": "June LCW Retreat / General",
-    "message": "Thank you for attending our 2022 June LCW Retreat! Please fill out this quick survey to help us make the next one even better https://www.surveymonkey.com/r/HYZ6QYR (https://www.surveymonkey.com/r/HYZ6QYR)",
-    "thread_id": null,
-    "timestamp": "2022-06-08T22:08:43.442Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:32.388917"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654724795071",
-    "chat_from": "Alisa Kolodizner",
-    "channel": "June LCW Retreat / General",
-    "message": "",
-    "thread_id": null,
-    "timestamp": "2022-06-08T21:46:35.071Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:32.389192"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654616885779",
-    "chat_from": "Nicole Barile",
-    "channel": "June LCW Retreat / General",
-    "message": "Pilsen art tour",
-    "thread_id": null,
-    "timestamp": "2022-06-07T15:48:05.779Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:32.389331"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654712126166",
-    "chat_from": "Nicole Barile",
-    "channel": "June LCW Retreat / General",
-    "message": "",
-    "thread_id": null,
-    "timestamp": "2022-06-08T18:15:26.166Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:32.389503"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654628542829",
-    "chat_from": "Nicole Barile",
-    "channel": "June LCW Retreat / General",
-    "message": "Hey all! We are a tiny bit behind schedule. We are starting the meditation at 2:35 CST.",
-    "thread_id": null,
-    "timestamp": "2022-06-07T19:02:22.829Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:32.389656"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654616884091",
-    "chat_from": "Nicole Barile",
-    "channel": "June LCW Retreat / General",
-    "message": "",
-    "thread_id": null,
-    "timestamp": "2022-06-07T15:48:04.091Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:32.390154"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654615982767",
-    "chat_from": "Tahitia Timmons",
-    "channel": "June LCW Retreat / General",
-    "message": "Hi Virtual Peeps, - Gonna walk the dogs real quick so that I won't be bugged by them during our lunch and movie together. See you all then",
-    "thread_id": null,
-    "timestamp": "2022-06-07T15:33:02.767Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:32.390439"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654612567568",
-    "chat_from": "Alisa Kolodizner",
-    "channel": "June LCW Retreat / General",
-    "message": "Please find the Mission and Values that were presented earlier today in the files attached.",
-    "thread_id": null,
-    "timestamp": "2022-06-07T14:36:07.568Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:32.390599"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654608943936",
-    "chat_from": "Nicole Barile",
-    "channel": "June LCW Retreat / General",
-    "message": "Getting ready for the day \ud83d\ude0a",
-    "thread_id": null,
-    "timestamp": "2022-06-07T13:35:43.936Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:32.390748"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1654608933581",
-    "chat_from": "Nicole Barile",
-    "channel": "June LCW Retreat / General",
-    "message": "We",
-    "thread_id": null,
-    "timestamp": "2022-06-07T13:35:33.581Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:32.391144"
+    "date_extracted": "2025-04-05T21:08:55.573631"
   },
   {
     "platform": "Teams",
@@ -250,7 +74,7 @@
     "thread_id": null,
     "timestamp": "2022-05-10T16:41:27.398Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:27.674488"
+    "date_extracted": "2025-04-05T21:08:50.280094"
   },
   {
     "platform": "Teams",
@@ -261,7 +85,7 @@
     "thread_id": null,
     "timestamp": "2022-05-24T15:00:23.964Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:33.928390"
+    "date_extracted": "2025-04-05T21:08:56.350149"
   },
   {
     "platform": "Teams",
@@ -272,7 +96,7 @@
     "thread_id": null,
     "timestamp": "2022-04-18T17:15:18.465Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:33.928921"
+    "date_extracted": "2025-04-05T21:08:56.350570"
   },
   {
     "platform": "Teams",
@@ -283,7 +107,7 @@
     "thread_id": null,
     "timestamp": "2022-04-06T16:17:08.348Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:33.929268"
+    "date_extracted": "2025-04-05T21:08:56.350841"
   },
   {
     "platform": "Teams",
@@ -294,7 +118,7 @@
     "thread_id": null,
     "timestamp": "2022-04-04T21:03:00.628Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:33.929621"
+    "date_extracted": "2025-04-05T21:08:56.351155"
   },
   {
     "platform": "Teams",
@@ -305,7 +129,7 @@
     "thread_id": null,
     "timestamp": "2022-04-05T19:40:41.535Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:33.930131"
+    "date_extracted": "2025-04-05T21:08:56.351527"
   },
   {
     "platform": "Teams",
@@ -316,7 +140,7 @@
     "thread_id": null,
     "timestamp": "2022-04-04T21:02:23.312Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:33.930615"
+    "date_extracted": "2025-04-05T21:08:56.351873"
   },
   {
     "platform": "Teams",
@@ -327,271 +151,40 @@
     "thread_id": null,
     "timestamp": "2022-04-05T16:15:24.196Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:33.930829"
+    "date_extracted": "2025-04-05T21:08:56.352038"
   },
   {
     "platform": "Teams",
-    "chat_id": "1650485154388",
-    "chat_from": "orgid:10b8563d-7d5e-4fbd-bdfa-3f2e63cb076e",
-    "channel": "Gates Foundation / DEI Case Studies",
-    "message": "Scheduled a meeting",
+    "chat_id": "1656712354344",
+    "chat_from": "Jake Pieczynski",
+    "channel": "2022 Website Redesign / Announcements \ud83d\udce2",
+    "message": "I added a new tab to the tracker with the website's current indexed pages... this should be a list of every page we have. I did not have time to clean it up yet - sorry. If you want to work with this before I'm back on Wednesday, I'd filter the \"Index\" column (highlighted yellow) and only look at the pages marked \"yes\" -- this should eliminate most of the pages that are logins or pdf file/media uploads. If you want to, we can start marking them as \"keep, revise, or eliminate\" and use this tab to start our own list of needed pages.",
     "thread_id": null,
-    "timestamp": "2022-04-20T20:05:54.388Z",
+    "timestamp": "2022-07-01T21:52:34.344Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:25.984151"
+    "date_extracted": "2025-04-05T21:08:52.411655"
   },
   {
     "platform": "Teams",
-    "chat_id": "1650040524702",
-    "chat_from": "orgid:10b8563d-7d5e-4fbd-bdfa-3f2e63cb076e",
-    "channel": "Gates Foundation / DEI Case Studies",
-    "message": "Scheduled a meeting",
+    "chat_id": "1656079474564",
+    "chat_from": "bansberg.james (Guest)",
+    "channel": "2022 Website Redesign / Announcements \ud83d\udce2",
+    "message": "Jake Pieczynski Just testing how the conversation app works. I'll let you know if I receive access to the files.",
     "thread_id": null,
-    "timestamp": "2022-04-15T16:35:24.702Z",
+    "timestamp": "2022-06-24T14:04:34.564Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:25.984365"
+    "date_extracted": "2025-04-05T21:08:52.411986"
   },
   {
     "platform": "Teams",
-    "chat_id": "1650315053187",
-    "chat_from": "orgid:10b8563d-7d5e-4fbd-bdfa-3f2e63cb076e",
-    "channel": "Gates Foundation / DEI Case Studies",
-    "message": "Scheduled a meeting",
+    "chat_id": "1666898660573",
+    "chat_from": "Jake Pieczynski",
+    "channel": "2022 Website Redesign / General",
+    "message": "I added a tab at the top of this channel. Check it out!",
     "thread_id": null,
-    "timestamp": "2022-04-18T20:50:53.187Z",
+    "timestamp": "2022-10-27T19:24:20.573Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:25.984555"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1650393552211",
-    "chat_from": "orgid:10b8563d-7d5e-4fbd-bdfa-3f2e63cb076e",
-    "channel": "Gates Foundation / General",
-    "message": "Hey JC, Next week on 4/26 we have a meeting scheduled with Jesse Raney Bridges from the Gates foundation to level set on the support that she will provide during your first IDI group debrief on May 5th. Prior to that call Grace and I wanted to ensure that you were set up for success with our first Gates IDI engagement. Please send any questions our way and we will try to have them answered during this meeting. Emani",
-    "thread_id": null,
-    "timestamp": "2022-04-19T18:39:12.211Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:34.072135"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1645642883096",
-    "chat_from": "Grace Vottero",
-    "channel": "Gates Foundation / General",
-    "message": "Added a new tab at the top of this channel. Here's a link.",
-    "thread_id": null,
-    "timestamp": "2022-02-23T19:01:23.096Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:34.072411"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1645640374152",
-    "chat_from": "Grace Vottero",
-    "channel": "Gates Foundation / General",
-    "message": "Overview of the Foundation's structure",
-    "thread_id": null,
-    "timestamp": "2022-02-23T18:19:34.152Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:34.072638"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1638994725301",
-    "chat_from": "Grace Vottero",
-    "channel": "Gates Foundation / General",
-    "message": "Added a new tab at the top of this channel. Here's a link.",
-    "thread_id": null,
-    "timestamp": "2021-12-08T20:18:45.301Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:34.072887"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1649275611764",
-    "chat_from": "Emani Richmond",
-    "channel": "Northwestern W.E.L.L/ LCW / General",
-    "message": "Added a new tab at the top of this channel. Here's a link.",
-    "thread_id": null,
-    "timestamp": "2022-04-06T20:06:51.764Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:36.541141"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1643317123257",
-    "chat_from": "Emani Richmond",
-    "channel": "Northwestern W.E.L.L/ LCW / General",
-    "message": "- Save an individual copy of the content map (with your name indicated) - Locate the content - Please notify LCW once your individual content map is updated and added to Box - Place links to content in the content map document you created - Place the necessary files into our shared Teams site (in a clearly labeled folder)",
-    "thread_id": null,
-    "timestamp": "2022-01-27T20:58:43.257Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:36.541952"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1629746379006",
-    "chat_from": "Emani Richmond",
-    "channel": "Northwestern W.E.L.L/ LCW / General",
-    "message": "Welcome to the Northwestern W.E.L.L. E-Learning Project Team. LCW is so thrilled to begin working with you all. Use this space to share resources, files and other materials related to the project.",
-    "thread_id": null,
-    "timestamp": "2021-08-23T19:19:39.006Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:36.542092"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1624909409313",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 3",
-    "message": "What do you mean by \"getting in line with the senior leaders\"? Jeffrey Cookson LaQuanda Briza Cardenas Tamara Thorpe Dustin Puehler Melissa Neu",
-    "thread_id": null,
-    "timestamp": "2021-06-28T19:43:29.313Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:28.628281"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1624909351638",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 3",
-    "message": "",
-    "thread_id": null,
-    "timestamp": "2021-06-28T19:42:31.638Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:28.628297"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1622574351329",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 3",
-    "message": "For convenience, here also are the links to the 4 videos (also appearing in the Lesson 3 File under \"Files\") - Formal Reviews (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=0e66025a-e78c-4a83-b083-9c22dff9cc83) (2.5 mins) - Leading Meetings (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=6d8d52a0-59df-4d52-b868-16117668c8a9) (3 mins) - Informal Feedback (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=8fa270f2-b82f-4622-99c8-c4039d88e2ef) (2.5 mins) - Mentoring and Sponsoring (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=557441cb-70ba-4f87-a00e-fda0ef36a724) (3 mins)",
-    "thread_id": null,
-    "timestamp": "2021-06-01T19:05:51.329Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:28.630279"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1622574242100",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 3",
-    "message": "Lesson 3 is also now posted in the \"Files\" tab. Special notes: Critical Background for the LCW Team: The 4 mini-videos leveraged in this lesson are brand new, and have just recently been added to the LCW solutions deck. For almost everyone at LCW, this lesson is their first opportunity to view these videos. T he idea for them came in the early days of COVID-19 and before the murder of George Floyd, when LCW was faced with a dramatic drop in contracts and revenue. As organizations responded to the epidemic by scaling back their training and spending, LCW looked inward at that moment to seize the new found \u2018down time\u2019 to innovate new product ideas, among them the \u201cmini-video rapid design\u201d concept of: (a) building bite-sized videos quickly and relatively cheaply by putting to work the operation team\u2019s skillsets for video production alongside the consulting team\u2019s content knowledge, (b) developing the content in a collaborative process where several LCW consultants would work together on script-writing and iterations to bring the videos to life in the best way for our clients. Shortly after this plan was hatched, the murder of George Floyd led to such a dramatic spike in everyone\u2019s workload that no one had time to fully execute on the multi-person, collaborative nature of these initial plans. Instead, a new \u2018proof of concept\u2019 plan emerged; these 4 mini-videos would be produced as a side project in whatever moments a couple of LCW staff members could carve out. Now that LCW\u2019s staff has grown and the team once again has sufficient bandwidth to innovate, a parallel goal of Lesson 3 is to provide a fresh look at the opportunity these 4 proof of concept mini-videos present. What can/should/will LCW do next? How can LCW build on this proof of concept with new products? What products in this category would most \u2018wow\u2019 LCW clients and deliver on LCW\u2019s value proposition? NOTE: This lesson is also designed with the shorter 4-day work week in mind, and should take you half as much time to complete as previous lessons.",
-    "thread_id": null,
-    "timestamp": "2021-06-01T19:04:02.1Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:28.631990"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1622572432161",
-    "chat_from": "Briza Cardenas",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 3",
-    "message": "Hello Everyone! Below are the (4) Surveymonkey links for this week\u2019s videos. https://www.surveymonkey.com/r/Week_3_Formal_Reviews (https://www.surveymonkey.com/r/Week_3_Formal_Reviews) https://www.surveymonkey.com/r/Week_3_Leading_Meetings (https://www.surveymonkey.com/r/Week_3_Leading_Meetings) https://www.surveymonkey.com/r/Week_3_Informal_Feedback (https://www.surveymonkey.com/r/Week_3_Informal_Feedback) https://www.surveymonkey.com/r/Week_3_Mentoring_and_Sponsoring (https://www.surveymonkey.com/r/Week_3_Mentoring_and_Sponsoring)",
-    "thread_id": null,
-    "timestamp": "2021-06-01T18:33:52.161Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:28.633389"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1650654119928",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
-    "message": "Thanks for capturing these notes. I think based on this early feedback, it will be exciting to see what you take away from modules such as \"Fostering Collaboration\".",
-    "thread_id": null,
-    "timestamp": "2022-04-22T19:01:59.928Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:29.347313"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1650311888242",
-    "chat_from": "Tahitia Timmons",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
-    "message": "Kelly Salek Grace Vottero Jake Pieczynski Is this week too soon to schedule the discussion for Culture & Identity? I scheduled the first one this Thursday per the slide calendar - hopefully this gives everyone enough time. I am also open to Friday too.",
-    "thread_id": null,
-    "timestamp": "2022-04-18T19:58:08.242Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:29.347780"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1650042380912",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
-    "message": "Hello Spring 2022 Cohort! Here is the link to your eLearning for this week: https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=a30008f9-a4cd-4601-b9a5-7a77c3f88d8d (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=a30008f9-a4cd-4601-b9a5-7a77c3f88d8d)",
-    "thread_id": null,
-    "timestamp": "2022-04-15T17:06:20.912Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:29.348105"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1621432264671",
-    "chat_from": "Briza Cardenas",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
-    "message": "Happy Wednesday! By now your captain should have scheduled your debrief for this week. Once you have completed the eLearning make sure to use the questions in the Reflect section to help you think through and prepare for your debrief. We ask you to complete the survey below after completing the eLearning and before attending your group debrief. https://www.surveymonkey.com/r/week1_buddy_program (https://www.surveymonkey.com/r/week1_buddy_program) This survey is designed to let us know from a product point of view what if anything needs to be updated or removed. If you have any questions feel free to reach out.",
-    "thread_id": null,
-    "timestamp": "2021-05-19T13:51:04.671Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:29.349186"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1620933097922",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
-    "message": "After you and your team have your first meeting to discuss \"Culture & Identity\" -- click on the \"WIKI\" tab above, to share your insights or a summary of them.",
-    "thread_id": null,
-    "timestamp": "2021-05-13T19:11:37.922Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:29.349351"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1626128625113",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Wrap-Up Weeks",
-    "message": "Hello everyone! Thank you for your sharing your ideas! We have narrowed them down into 4 New Product Teams for Innovation Lab 2021.",
-    "thread_id": null,
-    "timestamp": "2021-07-12T22:23:45.113Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:29.652052"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1626122136297",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Wrap-Up Weeks",
-    "message": "Ideas for how this could be leveraged -- a) we hearing about the need for psychological safety from clients, and this seems to align nicely in that direction; b) we have yet to build out the eLearning for J&J that is to accompany the \"Conscious Inclusion\" workshop and get rolled out to all audiences--perhaps elements of this can be packaged toward that purpose?",
-    "thread_id": null,
-    "timestamp": "2021-07-12T20:35:36.297Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:29.652337"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1625586515115",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Wrap-Up Weeks",
-    "message": "Hello Buddy Program Team Captains! Please check out the file shared here Innovation Lab 2021 - New Products .pptx (https://lcwmail.sharepoint.com/sites/LCWBuddyProgramforCross-CulturalLearning/Shared Documents/Wrap-Up Week July 6-9/Innovation Lab 2021 - New Products .pptx) for instructions for you and your team, between now and July 23rd. Please email me with any questions! Your first step is to meet in your buddy teams THIS WEEK to discuss what you all think are the greatest opportunity for new LCW products in the form of eLearning, microLearning or videos. Be sure to submit your top 1-3 ideas using the NEW PRODUCT IDEA TEMPLATE (slide 5 in the larger deck.) Tagging the captains here to make sure they share the news and expectations with their teams Ada Vargas Melissa Neu Briza Cardenas Kendall Washington Conner Williams Vince Bongiovanni Emani Richmond Amir Ghazaleh",
-    "thread_id": null,
-    "timestamp": "2021-07-06T15:48:35.115Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:29.653181"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1625574887945",
-    "chat_from": "Monica Marcel",
-    "channel": "LCW Buddy Program for Cross-Cultural Learning / Wrap-Up Weeks",
-    "message": "Hey everyone. Before July 9 , we ask you to meet in your original small group and come up with 2-3 possible ideas to submit for new LCW eLearning, microlearning or videos (e.g. using Rise and/or Storyline). You will submit those 2-3 ideas using a template provided. Those ideas will then be reconciled/consolidated down into FOUR ideas by July 12th; your group will then be assigned one of those four ideas to collaborate on with another group as part of an innovation lab, in the week leading up to and also during the All-Staff Retreat in Chicago.",
-    "thread_id": null,
-    "timestamp": "2021-07-06T12:34:47.945Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:29.653605"
+    "date_extracted": "2025-04-05T21:08:58.684401"
   },
   {
     "platform": "Teams",
@@ -602,7 +195,7 @@
     "thread_id": null,
     "timestamp": "2021-06-28T19:47:49.089Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:29.683411"
+    "date_extracted": "2025-04-05T21:08:49.773453"
   },
   {
     "platform": "Teams",
@@ -613,7 +206,7 @@
     "thread_id": null,
     "timestamp": "2021-06-28T20:00:03.155Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:29.683838"
+    "date_extracted": "2025-04-05T21:08:49.774061"
   },
   {
     "platform": "Teams",
@@ -624,7 +217,7 @@
     "thread_id": null,
     "timestamp": "2021-06-28T19:56:43.452Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:29.684199"
+    "date_extracted": "2025-04-05T21:08:49.774611"
   },
   {
     "platform": "Teams",
@@ -635,7 +228,7 @@
     "thread_id": null,
     "timestamp": "2021-06-28T19:55:36.658Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:29.684583"
+    "date_extracted": "2025-04-05T21:08:49.775264"
   },
   {
     "platform": "Teams",
@@ -646,7 +239,7 @@
     "thread_id": null,
     "timestamp": "2021-05-24T15:09:54.647Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:29.685656"
+    "date_extracted": "2025-04-05T21:08:49.777263"
   },
   {
     "platform": "Teams",
@@ -657,7 +250,62 @@
     "thread_id": null,
     "timestamp": "2021-05-25T16:59:06.858Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:29.685664"
+    "date_extracted": "2025-04-05T21:08:49.777277"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1650654119928",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
+    "message": "Thanks for capturing these notes. I think based on this early feedback, it will be exciting to see what you take away from modules such as \"Fostering Collaboration\".",
+    "thread_id": null,
+    "timestamp": "2022-04-22T19:01:59.928Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:08:49.814380"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1650311888242",
+    "chat_from": "Tahitia Timmons",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
+    "message": "Kelly Salek Grace Vottero Jake Pieczynski Is this week too soon to schedule the discussion for Culture & Identity? I scheduled the first one this Thursday per the slide calendar - hopefully this gives everyone enough time. I am also open to Friday too.",
+    "thread_id": null,
+    "timestamp": "2022-04-18T19:58:08.242Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:08:49.814793"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1650042380912",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
+    "message": "Hello Spring 2022 Cohort! Here is the link to your eLearning for this week: https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=a30008f9-a4cd-4601-b9a5-7a77c3f88d8d (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=a30008f9-a4cd-4601-b9a5-7a77c3f88d8d)",
+    "thread_id": null,
+    "timestamp": "2022-04-15T17:06:20.912Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:08:49.815098"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1621432264671",
+    "chat_from": "Briza Cardenas",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
+    "message": "Happy Wednesday! By now your captain should have scheduled your debrief for this week. Once you have completed the eLearning make sure to use the questions in the Reflect section to help you think through and prepare for your debrief. We ask you to complete the survey below after completing the eLearning and before attending your group debrief. https://www.surveymonkey.com/r/week1_buddy_program (https://www.surveymonkey.com/r/week1_buddy_program) This survey is designed to let us know from a product point of view what if anything needs to be updated or removed. If you have any questions feel free to reach out.",
+    "thread_id": null,
+    "timestamp": "2021-05-19T13:51:04.671Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:08:49.816556"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1620933097922",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 1 - Culture and Identity",
+    "message": "After you and your team have your first meeting to discuss \"Culture & Identity\" -- click on the \"WIKI\" tab above, to share your insights or a summary of them.",
+    "thread_id": null,
+    "timestamp": "2021-05-13T19:11:37.922Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:08:49.816791"
   },
   {
     "platform": "Teams",
@@ -668,7 +316,7 @@
     "thread_id": null,
     "timestamp": "2021-06-28T19:22:44.848Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:30.360391"
+    "date_extracted": "2025-04-05T21:08:50.518899"
   },
   {
     "platform": "Teams",
@@ -679,7 +327,7 @@
     "thread_id": null,
     "timestamp": "2021-06-15T23:59:10.373Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:30.361056"
+    "date_extracted": "2025-04-05T21:08:50.519607"
   },
   {
     "platform": "Teams",
@@ -690,7 +338,7 @@
     "thread_id": null,
     "timestamp": "2021-06-15T18:13:57.593Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:30.362095"
+    "date_extracted": "2025-04-05T21:08:50.520622"
   },
   {
     "platform": "Teams",
@@ -701,7 +349,62 @@
     "thread_id": null,
     "timestamp": "2021-06-14T21:11:34.76Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:30.362655"
+    "date_extracted": "2025-04-05T21:08:50.521165"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1624909409313",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 3",
+    "message": "What do you mean by \"getting in line with the senior leaders\"? Jeffrey Cookson LaQuanda Briza Cardenas Tamara Thorpe Dustin Puehler Melissa Neu",
+    "thread_id": null,
+    "timestamp": "2021-06-28T19:43:29.313Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:08:50.767333"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1624909351638",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 3",
+    "message": "",
+    "thread_id": null,
+    "timestamp": "2021-06-28T19:42:31.638Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:08:50.767349"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1622574351329",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 3",
+    "message": "For convenience, here also are the links to the 4 videos (also appearing in the Lesson 3 File under \"Files\") - Formal Reviews (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=0e66025a-e78c-4a83-b083-9c22dff9cc83) (2.5 mins) - Leading Meetings (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=6d8d52a0-59df-4d52-b868-16117668c8a9) (3 mins) - Informal Feedback (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=8fa270f2-b82f-4622-99c8-c4039d88e2ef) (2.5 mins) - Mentoring and Sponsoring (https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=557441cb-70ba-4f87-a00e-fda0ef36a724) (3 mins)",
+    "thread_id": null,
+    "timestamp": "2021-06-01T19:05:51.329Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:08:50.769103"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1622574242100",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 3",
+    "message": "Lesson 3 is also now posted in the \"Files\" tab. Special notes: Critical Background for the LCW Team: The 4 mini-videos leveraged in this lesson are brand new, and have just recently been added to the LCW solutions deck. For almost everyone at LCW, this lesson is their first opportunity to view these videos. T he idea for them came in the early days of COVID-19 and before the murder of George Floyd, when LCW was faced with a dramatic drop in contracts and revenue. As organizations responded to the epidemic by scaling back their training and spending, LCW looked inward at that moment to seize the new found \u2018down time\u2019 to innovate new product ideas, among them the \u201cmini-video rapid design\u201d concept of: (a) building bite-sized videos quickly and relatively cheaply by putting to work the operation team\u2019s skillsets for video production alongside the consulting team\u2019s content knowledge, (b) developing the content in a collaborative process where several LCW consultants would work together on script-writing and iterations to bring the videos to life in the best way for our clients. Shortly after this plan was hatched, the murder of George Floyd led to such a dramatic spike in everyone\u2019s workload that no one had time to fully execute on the multi-person, collaborative nature of these initial plans. Instead, a new \u2018proof of concept\u2019 plan emerged; these 4 mini-videos would be produced as a side project in whatever moments a couple of LCW staff members could carve out. Now that LCW\u2019s staff has grown and the team once again has sufficient bandwidth to innovate, a parallel goal of Lesson 3 is to provide a fresh look at the opportunity these 4 proof of concept mini-videos present. What can/should/will LCW do next? How can LCW build on this proof of concept with new products? What products in this category would most \u2018wow\u2019 LCW clients and deliver on LCW\u2019s value proposition? NOTE: This lesson is also designed with the shorter 4-day work week in mind, and should take you half as much time to complete as previous lessons.",
+    "thread_id": null,
+    "timestamp": "2021-06-01T19:04:02.1Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:08:50.770604"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1622572432161",
+    "chat_from": "Briza Cardenas",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Week 3",
+    "message": "Hello Everyone! Below are the (4) Surveymonkey links for this week\u2019s videos. https://www.surveymonkey.com/r/Week_3_Formal_Reviews (https://www.surveymonkey.com/r/Week_3_Formal_Reviews) https://www.surveymonkey.com/r/Week_3_Leading_Meetings (https://www.surveymonkey.com/r/Week_3_Leading_Meetings) https://www.surveymonkey.com/r/Week_3_Informal_Feedback (https://www.surveymonkey.com/r/Week_3_Informal_Feedback) https://www.surveymonkey.com/r/Week_3_Mentoring_and_Sponsoring (https://www.surveymonkey.com/r/Week_3_Mentoring_and_Sponsoring)",
+    "thread_id": null,
+    "timestamp": "2021-06-01T18:33:52.161Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:08:50.771945"
   },
   {
     "platform": "Teams",
@@ -712,7 +415,7 @@
     "thread_id": null,
     "timestamp": "2021-06-28T19:26:12.877Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:30.999349"
+    "date_extracted": "2025-04-05T21:08:51.468806"
   },
   {
     "platform": "Teams",
@@ -723,7 +426,7 @@
     "thread_id": null,
     "timestamp": "2021-06-28T19:36:32.868Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:31.000006"
+    "date_extracted": "2025-04-05T21:08:51.469479"
   },
   {
     "platform": "Teams",
@@ -734,7 +437,7 @@
     "thread_id": null,
     "timestamp": "2021-06-28T19:31:47.935Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:31.000345"
+    "date_extracted": "2025-04-05T21:08:51.469908"
   },
   {
     "platform": "Teams",
@@ -745,7 +448,7 @@
     "thread_id": null,
     "timestamp": "2021-06-09T23:33:02.707Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:31.000854"
+    "date_extracted": "2025-04-05T21:08:51.470610"
   },
   {
     "platform": "Teams",
@@ -756,7 +459,7 @@
     "thread_id": null,
     "timestamp": "2021-06-08T16:26:23.515Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:31.001414"
+    "date_extracted": "2025-04-05T21:08:51.471442"
   },
   {
     "platform": "Teams",
@@ -767,7 +470,51 @@
     "thread_id": null,
     "timestamp": "2021-06-08T15:25:48.667Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:31.002103"
+    "date_extracted": "2025-04-05T21:08:51.472383"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1626128625113",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Wrap-Up Weeks",
+    "message": "Hello everyone! Thank you for your sharing your ideas! We have narrowed them down into 4 New Product Teams for Innovation Lab 2021.",
+    "thread_id": null,
+    "timestamp": "2021-07-12T22:23:45.113Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:08:51.482736"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1626122136297",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Wrap-Up Weeks",
+    "message": "Ideas for how this could be leveraged -- a) we hearing about the need for psychological safety from clients, and this seems to align nicely in that direction; b) we have yet to build out the eLearning for J&J that is to accompany the \"Conscious Inclusion\" workshop and get rolled out to all audiences--perhaps elements of this can be packaged toward that purpose?",
+    "thread_id": null,
+    "timestamp": "2021-07-12T20:35:36.297Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:08:51.483038"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1625586515115",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Wrap-Up Weeks",
+    "message": "Hello Buddy Program Team Captains! Please check out the file shared here Innovation Lab 2021 - New Products .pptx (https://lcwmail.sharepoint.com/sites/LCWBuddyProgramforCross-CulturalLearning/Shared Documents/Wrap-Up Week July 6-9/Innovation Lab 2021 - New Products .pptx) for instructions for you and your team, between now and July 23rd. Please email me with any questions! Your first step is to meet in your buddy teams THIS WEEK to discuss what you all think are the greatest opportunity for new LCW products in the form of eLearning, microLearning or videos. Be sure to submit your top 1-3 ideas using the NEW PRODUCT IDEA TEMPLATE (slide 5 in the larger deck.) Tagging the captains here to make sure they share the news and expectations with their teams Ada Vargas Melissa Neu Briza Cardenas Kendall Washington Conner Williams Vince Bongiovanni Emani Richmond Amir Ghazaleh",
+    "thread_id": null,
+    "timestamp": "2021-07-06T15:48:35.115Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:08:51.483940"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1625574887945",
+    "chat_from": "Monica Marcel",
+    "channel": "LCW Buddy Program for Cross-Cultural Learning / Wrap-Up Weeks",
+    "message": "Hey everyone. Before July 9 , we ask you to meet in your original small group and come up with 2-3 possible ideas to submit for new LCW eLearning, microlearning or videos (e.g. using Rise and/or Storyline). You will submit those 2-3 ideas using a template provided. Those ideas will then be reconciled/consolidated down into FOUR ideas by July 12th; your group will then be assigned one of those four ideas to collaborate on with another group as part of an innovation lab, in the week leading up to and also during the All-Staff Retreat in Chicago.",
+    "thread_id": null,
+    "timestamp": "2021-07-06T12:34:47.945Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:08:51.484407"
   },
   {
     "platform": "Teams",
@@ -778,7 +525,7 @@
     "thread_id": null,
     "timestamp": "2022-04-15T17:11:04.097Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:37.779557"
+    "date_extracted": "2025-04-05T21:09:01.773257"
   },
   {
     "platform": "Teams",
@@ -789,7 +536,7 @@
     "thread_id": null,
     "timestamp": "2021-09-09T13:57:04.911Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:37.779820"
+    "date_extracted": "2025-04-05T21:09:01.773580"
   },
   {
     "platform": "Teams",
@@ -800,7 +547,7 @@
     "thread_id": null,
     "timestamp": "2022-03-16T15:18:23.601Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:28.431757"
+    "date_extracted": "2025-04-05T21:08:49.593838"
   },
   {
     "platform": "Teams",
@@ -811,7 +558,7 @@
     "thread_id": null,
     "timestamp": "2022-02-15T21:38:52.793Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:28.432059"
+    "date_extracted": "2025-04-05T21:08:49.594114"
   },
   {
     "platform": "Teams",
@@ -822,7 +569,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T20:58:14.559Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:28.432358"
+    "date_extracted": "2025-04-05T21:08:49.594399"
   },
   {
     "platform": "Teams",
@@ -833,7 +580,7 @@
     "thread_id": null,
     "timestamp": "2022-12-20T16:21:04.626Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.267188"
+    "date_extracted": "2025-04-05T21:09:17.926528"
   },
   {
     "platform": "Teams",
@@ -844,7 +591,7 @@
     "thread_id": null,
     "timestamp": "2022-11-23T18:41:35.434Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.268686"
+    "date_extracted": "2025-04-05T21:09:17.928420"
   },
   {
     "platform": "Teams",
@@ -855,7 +602,7 @@
     "thread_id": null,
     "timestamp": "2022-09-01T20:06:35.355Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.269156"
+    "date_extracted": "2025-04-05T21:09:17.929045"
   },
   {
     "platform": "Teams",
@@ -866,7 +613,7 @@
     "thread_id": null,
     "timestamp": "2022-08-08T16:08:24.261Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.269768"
+    "date_extracted": "2025-04-05T21:09:17.929884"
   },
   {
     "platform": "Teams",
@@ -877,7 +624,7 @@
     "thread_id": null,
     "timestamp": "2022-08-08T16:01:02.487Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.270360"
+    "date_extracted": "2025-04-05T21:09:17.930654"
   },
   {
     "platform": "Teams",
@@ -888,7 +635,7 @@
     "thread_id": null,
     "timestamp": "2022-08-08T15:56:59.695Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.270883"
+    "date_extracted": "2025-04-05T21:09:17.931353"
   },
   {
     "platform": "Teams",
@@ -899,7 +646,7 @@
     "thread_id": null,
     "timestamp": "2022-07-21T16:51:48.496Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.271261"
+    "date_extracted": "2025-04-05T21:09:17.931803"
   },
   {
     "platform": "Teams",
@@ -910,7 +657,7 @@
     "thread_id": null,
     "timestamp": "2022-07-21T16:46:32.466Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.271629"
+    "date_extracted": "2025-04-05T21:09:17.932243"
   },
   {
     "platform": "Teams",
@@ -921,7 +668,7 @@
     "thread_id": null,
     "timestamp": "2022-07-21T16:35:07.35Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.271966"
+    "date_extracted": "2025-04-05T21:09:17.932676"
   },
   {
     "platform": "Teams",
@@ -932,7 +679,7 @@
     "thread_id": null,
     "timestamp": "2022-09-07T19:39:03.32Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.272076"
+    "date_extracted": "2025-04-05T21:09:17.932824"
   },
   {
     "platform": "Teams",
@@ -943,7 +690,7 @@
     "thread_id": null,
     "timestamp": "2022-07-12T17:19:29.766Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.272510"
+    "date_extracted": "2025-04-05T21:09:17.933370"
   },
   {
     "platform": "Teams",
@@ -954,7 +701,7 @@
     "thread_id": null,
     "timestamp": "2022-07-12T17:15:15.379Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.272969"
+    "date_extracted": "2025-04-05T21:09:17.933944"
   },
   {
     "platform": "Teams",
@@ -965,7 +712,7 @@
     "thread_id": null,
     "timestamp": "2022-07-12T17:11:46.856Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.273421"
+    "date_extracted": "2025-04-05T21:09:17.934514"
   },
   {
     "platform": "Teams",
@@ -976,7 +723,7 @@
     "thread_id": null,
     "timestamp": "2022-07-12T17:08:49.074Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.273835"
+    "date_extracted": "2025-04-05T21:09:17.935056"
   },
   {
     "platform": "Teams",
@@ -987,7 +734,7 @@
     "thread_id": null,
     "timestamp": "2022-07-12T17:06:02.043Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.274323"
+    "date_extracted": "2025-04-05T21:09:17.935694"
   },
   {
     "platform": "Teams",
@@ -998,7 +745,7 @@
     "thread_id": null,
     "timestamp": "2022-07-12T17:00:33.694Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.274884"
+    "date_extracted": "2025-04-05T21:09:17.937084"
   },
   {
     "platform": "Teams",
@@ -1009,7 +756,7 @@
     "thread_id": null,
     "timestamp": "2022-07-25T20:39:26.035Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.275650"
+    "date_extracted": "2025-04-05T21:09:17.937246"
   },
   {
     "platform": "Teams",
@@ -1020,7 +767,7 @@
     "thread_id": null,
     "timestamp": "2022-07-25T20:38:47.96Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.275768"
+    "date_extracted": "2025-04-05T21:09:17.937382"
   },
   {
     "platform": "Teams",
@@ -1031,7 +778,7 @@
     "thread_id": null,
     "timestamp": "2022-07-25T20:36:45.084Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.276183"
+    "date_extracted": "2025-04-05T21:09:17.937660"
   },
   {
     "platform": "Teams",
@@ -1042,7 +789,7 @@
     "thread_id": null,
     "timestamp": "2022-03-17T20:28:24.702Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.278592"
+    "date_extracted": "2025-04-05T21:09:17.941333"
   },
   {
     "platform": "Teams",
@@ -1053,7 +800,7 @@
     "thread_id": null,
     "timestamp": "2022-03-17T20:25:56.905Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.280940"
+    "date_extracted": "2025-04-05T21:09:17.945015"
   },
   {
     "platform": "Teams",
@@ -1064,7 +811,7 @@
     "thread_id": null,
     "timestamp": "2022-03-18T18:43:59.287Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.280949"
+    "date_extracted": "2025-04-05T21:09:17.945028"
   },
   {
     "platform": "Teams",
@@ -1075,7 +822,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T21:20:31.295Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.281336"
+    "date_extracted": "2025-04-05T21:09:17.945545"
   },
   {
     "platform": "Teams",
@@ -1086,7 +833,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T21:08:40.511Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.281758"
+    "date_extracted": "2025-04-05T21:09:17.946111"
   },
   {
     "platform": "Teams",
@@ -1097,7 +844,7 @@
     "thread_id": null,
     "timestamp": "2022-02-11T18:07:43.866Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.281879"
+    "date_extracted": "2025-04-05T21:09:17.946285"
   },
   {
     "platform": "Teams",
@@ -1108,7 +855,7 @@
     "thread_id": null,
     "timestamp": "2022-02-11T18:07:42.544Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.281994"
+    "date_extracted": "2025-04-05T21:09:17.946445"
   },
   {
     "platform": "Teams",
@@ -1119,7 +866,7 @@
     "thread_id": null,
     "timestamp": "2022-02-11T18:07:42.052Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.282108"
+    "date_extracted": "2025-04-05T21:09:17.946602"
   },
   {
     "platform": "Teams",
@@ -1130,7 +877,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T21:03:39.729Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.282486"
+    "date_extracted": "2025-04-05T21:09:17.947112"
   },
   {
     "platform": "Teams",
@@ -1141,7 +888,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T20:59:32.108Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.282831"
+    "date_extracted": "2025-04-05T21:09:17.947598"
   },
   {
     "platform": "Teams",
@@ -1152,7 +899,7 @@
     "thread_id": null,
     "timestamp": "2022-02-07T17:42:04.491Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.282984"
+    "date_extracted": "2025-04-05T21:09:17.947805"
   },
   {
     "platform": "Teams",
@@ -1163,7 +910,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T20:51:27.921Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.283356"
+    "date_extracted": "2025-04-05T21:09:17.948313"
   },
   {
     "platform": "Teams",
@@ -1174,7 +921,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T20:46:16.678Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.284172"
+    "date_extracted": "2025-04-05T21:09:17.949410"
   },
   {
     "platform": "Teams",
@@ -1185,6 +932,6 @@
     "thread_id": null,
     "timestamp": "2022-01-24T21:16:08.96Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T21:09:52.284549"
+    "date_extracted": "2025-04-05T21:09:17.950021"
   }
 ]

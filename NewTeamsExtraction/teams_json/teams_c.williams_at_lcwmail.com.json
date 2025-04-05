@@ -1,39 +1,6 @@
 [
   {
     "platform": "Teams",
-    "chat_id": "1723568918176",
-    "chat_from": "Juri Mansour",
-    "channel": "The Project Management Hub / Solutions Development Status",
-    "message": "I added a tab at the top of this Channel. Check it out!",
-    "thread_id": null,
-    "timestamp": "2024-08-13T17:08:38.176Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:33.319360"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1723483854189",
-    "chat_from": "Juri Mansour",
-    "channel": "The Project Management Hub / Solutions Development Status",
-    "message": "I added a tab at the top of this Channel. Check it out!",
-    "thread_id": null,
-    "timestamp": "2024-08-12T17:30:54.189Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:33.319706"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1587675394651",
-    "chat_from": "orgid:d6c49d74-6b74-4912-97d9-9ba564c9e783",
-    "channel": "The Project Management Hub / 4. Resource Planning",
-    "message": "Scheduled a meeting",
-    "thread_id": null,
-    "timestamp": "2020-04-23T20:56:34.651Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:33.959073"
-  },
-  {
-    "platform": "Teams",
     "chat_id": "1723568834703",
     "chat_from": "Juri Mansour",
     "channel": "The Project Management Hub / Project Status",
@@ -41,7 +8,7 @@
     "thread_id": null,
     "timestamp": "2024-08-13T17:07:14.703Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:35.667966"
+    "date_extracted": "2025-04-05T21:09:07.196580"
   },
   {
     "platform": "Teams",
@@ -52,7 +19,7 @@
     "thread_id": null,
     "timestamp": "2024-08-12T19:13:52.327Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:35.824826"
+    "date_extracted": "2025-04-05T21:09:07.371523"
   },
   {
     "platform": "Teams",
@@ -63,7 +30,40 @@
     "thread_id": null,
     "timestamp": "2024-08-26T17:06:15.592Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:35.825852"
+    "date_extracted": "2025-04-05T21:09:07.371919"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1723568918176",
+    "chat_from": "Juri Mansour",
+    "channel": "The Project Management Hub / Solutions Development Status",
+    "message": "I added a tab at the top of this Channel. Check it out!",
+    "thread_id": null,
+    "timestamp": "2024-08-13T17:08:38.176Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:07.405894"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1723483854189",
+    "chat_from": "Juri Mansour",
+    "channel": "The Project Management Hub / Solutions Development Status",
+    "message": "I added a tab at the top of this Channel. Check it out!",
+    "thread_id": null,
+    "timestamp": "2024-08-12T17:30:54.189Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:07.406126"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1587675394651",
+    "chat_from": "orgid:d6c49d74-6b74-4912-97d9-9ba564c9e783",
+    "channel": "The Project Management Hub / 4. Resource Planning",
+    "message": "Scheduled a meeting",
+    "thread_id": null,
+    "timestamp": "2020-04-23T20:56:34.651Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:09:07.523133"
   },
   {
     "platform": "Teams",
@@ -74,7 +74,7 @@
     "thread_id": null,
     "timestamp": "2020-04-23T20:14:35.67Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:18:36.071112"
+    "date_extracted": "2025-04-05T21:09:08.356797"
   },
   {
     "platform": "Teams",
@@ -85,6 +85,6 @@
     "thread_id": null,
     "timestamp": "2020-05-21T19:40:38.147Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:19:11.933645"
+    "date_extracted": "2025-04-05T21:09:28.360499"
   }
 ]

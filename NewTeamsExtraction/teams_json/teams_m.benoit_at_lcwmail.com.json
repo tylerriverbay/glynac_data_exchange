@@ -1,6 +1,17 @@
 [
   {
     "platform": "Teams",
+    "chat_id": "1587675394651",
+    "chat_from": "orgid:d6c49d74-6b74-4912-97d9-9ba564c9e783",
+    "channel": "The Project Management Hub / 4. Resource Planning",
+    "message": "Scheduled a meeting",
+    "thread_id": null,
+    "timestamp": "2020-04-23T20:56:34.651Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:06:37.668350"
+  },
+  {
+    "platform": "Teams",
     "chat_id": "1723568918176",
     "chat_from": "Juri Mansour",
     "channel": "The Project Management Hub / Solutions Development Status",
@@ -8,7 +19,7 @@
     "thread_id": null,
     "timestamp": "2024-08-13T17:08:38.176Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-03T19:35:09.393706"
+    "date_extracted": "2025-04-05T21:06:31.233305"
   },
   {
     "platform": "Teams",
@@ -19,7 +30,7 @@
     "thread_id": null,
     "timestamp": "2024-08-12T17:30:54.189Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-03T19:35:09.393886"
+    "date_extracted": "2025-04-05T21:06:31.233508"
   },
   {
     "platform": "Teams",
@@ -30,7 +41,7 @@
     "thread_id": null,
     "timestamp": "2024-08-12T19:13:52.327Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-03T19:35:10.239672"
+    "date_extracted": "2025-04-05T21:06:34.860166"
   },
   {
     "platform": "Teams",
@@ -41,18 +52,7 @@
     "thread_id": null,
     "timestamp": "2024-08-26T17:06:15.592Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-03T19:35:10.240057"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1587675394651",
-    "chat_from": "orgid:d6c49d74-6b74-4912-97d9-9ba564c9e783",
-    "channel": "The Project Management Hub / 4. Resource Planning",
-    "message": "Scheduled a meeting",
-    "thread_id": null,
-    "timestamp": "2020-04-23T20:56:34.651Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-03T19:35:11.474113"
+    "date_extracted": "2025-04-05T21:06:34.860618"
   },
   {
     "platform": "Teams",
@@ -63,7 +63,7 @@
     "thread_id": null,
     "timestamp": "2020-04-23T20:14:35.67Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-03T19:35:14.033039"
+    "date_extracted": "2025-04-05T21:06:49.241536"
   },
   {
     "platform": "Teams",
@@ -74,6 +74,17 @@
     "thread_id": null,
     "timestamp": "2024-08-13T17:07:14.703Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-03T19:35:15.223581"
+    "date_extracted": "2025-04-05T21:07:01.345631"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1590090038147",
+    "chat_from": "orgid:d6c49d74-6b74-4912-97d9-9ba564c9e783",
+    "channel": "The Project Management Hub / General",
+    "message": "Scheduled a meeting",
+    "thread_id": null,
+    "timestamp": "2020-05-21T19:40:38.147Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T21:07:30.054626"
   }
 ]
