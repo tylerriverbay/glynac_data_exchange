@@ -358,5 +358,85 @@
     "subject": "RE: Welcome Sarah!",
     "reason": "Not to or from the user",
     "logged_at": "2025-04-05T11:04:06.260068Z"
+  },
+  {
+    "user_upn": "k.nonweiler@lcwmail.com",
+    "message_id": "AAMkADE2MzFhYThlLTIxNjAtNDZkMC1iNTc4LWE3YzM2NTE3MDA5NgBGAAAAAAAAljx4CEVFTrk0C3WecQooBwDa-wwqSlJZQqU2lBaJeIV9AAAAAAEMAADa-wwqSlJZQqU2lBaJeIV9AAKw5RJFAAA=",
+    "from": "support@idiinventory.com",
+    "to": [
+      "r.parrilla@lcwmail.com"
+    ],
+    "subject": "RE: Adding two employees to our org account",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:04.429145Z"
+  },
+  {
+    "user_upn": "k.nonweiler@lcwmail.com",
+    "message_id": "AAMkADE2MzFhYThlLTIxNjAtNDZkMC1iNTc4LWE3YzM2NTE3MDA5NgBGAAAAAAAAljx4CEVFTrk0C3WecQooBwDa-wwqSlJZQqU2lBaJeIV9AACzzRgiAADa-wwqSlJZQqU2lBaJeIV9AAKw5PrHAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:05.106619Z"
+  },
+  {
+    "user_upn": "k.nonweiler@lcwmail.com",
+    "message_id": "AAMkADE2MzFhYThlLTIxNjAtNDZkMC1iNTc4LWE3YzM2NTE3MDA5NgBGAAAAAAAAljx4CEVFTrk0C3WecQooBwDa-wwqSlJZQqU2lBaJeIV9AAAAAAEMAADa-wwqSlJZQqU2lBaJeIV9AAKw5RJEAAA=",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "support@idiinventory.com"
+    ],
+    "subject": "Adding two employees to our org account",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:05.155595Z"
+  },
+  {
+    "user_upn": "k.nonweiler@lcwmail.com",
+    "message_id": "AAMkADE2MzFhYThlLTIxNjAtNDZkMC1iNTc4LWE3YzM2NTE3MDA5NgBGAAAAAAAAljx4CEVFTrk0C3WecQooBwDa-wwqSlJZQqU2lBaJeIV9AACzzRgiAADa-wwqSlJZQqU2lBaJeIV9AAKw5PrMAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:06.066377Z"
+  },
+  {
+    "user_upn": "k.nonweiler@lcwmail.com",
+    "message_id": "AAMkADE2MzFhYThlLTIxNjAtNDZkMC1iNTc4LWE3YzM2NTE3MDA5NgBGAAAAAAAAljx4CEVFTrk0C3WecQooBwDa-wwqSlJZQqU2lBaJeIV9AAAAAAEMAADa-wwqSlJZQqU2lBaJeIV9AAKw5RJNAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "j.mansour@lcwmail.com"
+    ],
+    "subject": "Assisting with Kaitlin's tasks",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:07.528522Z"
+  },
+  {
+    "user_upn": "k.nonweiler@lcwmail.com",
+    "message_id": "AAMkADE2MzFhYThlLTIxNjAtNDZkMC1iNTc4LWE3YzM2NTE3MDA5NgBGAAAAAAAAljx4CEVFTrk0C3WecQooBwDa-wwqSlJZQqU2lBaJeIV9AACzzRgiAADa-wwqSlJZQqU2lBaJeIV9AAKw5PrKAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:08.782431Z"
+  },
+  {
+    "user_upn": "k.nonweiler@lcwmail.com",
+    "message_id": "AAMkADE2MzFhYThlLTIxNjAtNDZkMC1iNTc4LWE3YzM2NTE3MDA5NgBGAAAAAAAAljx4CEVFTrk0C3WecQooBwDa-wwqSlJZQqU2lBaJeIV9AACzzRggAADa-wwqSlJZQqU2lBaJeIV9AAKw5VrTAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:08.863634Z"
+  },
+  {
+    "user_upn": "k.nonweiler@lcwmail.com",
+    "message_id": "AAMkADE2MzFhYThlLTIxNjAtNDZkMC1iNTc4LWE3YzM2NTE3MDA5NgBGAAAAAAAAljx4CEVFTrk0C3WecQooBwDa-wwqSlJZQqU2lBaJeIV9AAAAAAEMAADa-wwqSlJZQqU2lBaJeIV9AAKw5RJGAAA=",
+    "from": "support@idiinventory.com",
+    "to": [
+      "r.parrilla@lcwmail.com"
+    ],
+    "subject": "Re: Adding two employees to our org account",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:19.788639Z"
   }
 ]

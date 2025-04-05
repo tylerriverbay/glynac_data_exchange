@@ -709,5 +709,14 @@
     "subject": null,
     "reason": "Not to or from the user",
     "logged_at": "2025-04-05T11:00:35.169344Z"
+  },
+  {
+    "user_upn": "felicia@lcwmail.com",
+    "message_id": "AAMkAGRjYjg3ZWUxLWZjNTEtNGEzNy05MTgzLWIxZDY3ZWE2Y2NhMABGAAAAAAC63xyYg2U4Q6edqRSKrNHwBwDjTcf_1E96SI8mNxbJLDuwAAH5noBxAADjTcf_1E96SI8mNxbJLDuwAAXuOYg9AAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:10.698356Z"
   }
 ]

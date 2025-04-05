@@ -275,5 +275,25 @@
     "subject": "RE: Missing links for tomorrow Ubisoft/CCMP/Checkin",
     "reason": "Not to or from the user",
     "logged_at": "2025-04-05T10:59:00.096979Z"
+  },
+  {
+    "user_upn": "a.staffahealey@lcwmail.com",
+    "message_id": "AAMkAGFhNTEyYmM4LTk0NWMtNDExZC05M2U5LWIyM2Y5ZDNkNDg5YgBGAAAAAAATzb8y8mz4R5uvMsXRTLi5BwDhyduFw1oERK26L8mmFtfWAAAAAAEKAADhyduFw1oERK26L8mmFtfWAAGOHYJrAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": "",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:16.095687Z"
+  },
+  {
+    "user_upn": "a.staffahealey@lcwmail.com",
+    "message_id": "AAMkAGFhNTEyYmM4LTk0NWMtNDExZC05M2U5LWIyM2Y5ZDNkNDg5YgBGAAAAAAATzb8y8mz4R5uvMsXRTLi5BwDhyduFw1oERK26L8mmFtfWAAAAAAEKAADhyduFw1oERK26L8mmFtfWAAGOHYJlAAA=",
+    "from": "almendra@interculturalunderstanding.eu",
+    "to": [
+      "v.bongiovanni@lcwmail.com"
+    ],
+    "subject": "Re: new client/project - June 20 availability",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:17.209252Z"
   }
 ]

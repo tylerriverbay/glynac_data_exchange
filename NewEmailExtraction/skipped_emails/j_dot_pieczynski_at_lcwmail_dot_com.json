@@ -1,382 +1,206 @@
 [
   {
     "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAefCqAAD3UuN9WTYmQJLVINt_2bJGAAHdEzB-AAA=",
-    "from": "c.williams@lcwmail.com",
-    "to": [
-      "c.adams@lcwmail.com",
-      "office@lcwmail.com"
-    ],
-    "subject": "RE: Effective collaboration examples at LCW",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAH5IwzqAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:56:29.750489Z"
+    "logged_at": "2025-04-05T11:10:39.282995Z"
   },
   {
     "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAefCqAAD3UuN9WTYmQJLVINt_2bJGAAHdEzCAAAA=",
-    "from": "b.cardenas@lcwmail.com",
-    "to": [
-      "office@lcwmail.com"
-    ],
-    "subject": "Bi-Weekly All-Staff format and upcoming deadlines",
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:56:30.136495Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAefCsAAD3UuN9WTYmQJLVINt_2bJGAAHdEyazAAA=",
-    "from": "info@action-selling.com",
-    "to": [
-      "tanya@lcwmail.com"
-    ],
-    "subject": "Don\u2019t Fool Yourself \u2013 The Price Objection Myth",
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:56:31.380104Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAefCsAAD3UuN9WTYmQJLVINt_2bJGAAHdEyayAAA=",
-    "from": "learnmore@linkageinc.com",
-    "to": [
-      "tanya@lcwmail.com"
-    ],
-    "subject": "As a Leader You Need Immediate Insights",
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:56:34.585491Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAefCqAAD3UuN9WTYmQJLVINt_2bJGAAHdEzB_AAA=",
-    "from": "a.kolodizner@lcwmail.com",
-    "to": [
-      "c.adams@lcwmail.com",
-      "office@lcwmail.com"
-    ],
-    "subject": "RE: Effective collaboration examples at LCW",
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:56:35.328225Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHcPUsAAAA=",
-    "from": "analytics-noreply@google.com",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHf-ulGAAA=",
+    "from": "notifications-noreply@linkedin.com",
     "to": [
       "Marketing@lcwmail.com"
     ],
-    "subject": "In June, you had 1.2K users visit your website (Google Analytics)",
+    "subject": "You have 8 new invitations",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:56:41.413125Z"
+    "logged_at": "2025-04-05T11:10:39.502148Z"
   },
   {
     "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAefCqAAD3UuN9WTYmQJLVINt_2bJGAAHbh9IsAAA=",
-    "from": "c.adams@lcwmail.com",
-    "to": [
-      "office@lcwmail.com"
-    ],
-    "subject": "Effective collaboration examples at LCW",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAHkwZgaAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:56:50.495316Z"
+    "logged_at": "2025-04-05T11:10:39.536011Z"
   },
   {
     "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAefCsAAD3UuN9WTYmQJLVINt_2bJGAAHancGMAAA=",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAefCsAAD3UuN9WTYmQJLVINt_2bJGAAHhbgXiAAA=",
     "from": "learnmore@linkageinc.com",
     "to": [
       "tanya@lcwmail.com"
     ],
-    "subject": "Join Anne Chow at the Women in Leadership Institute This November",
+    "subject": "Nominations Close in 2 Days!",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:56:50.496133Z"
+    "logged_at": "2025-04-05T11:10:39.947656Z"
   },
   {
     "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHc4UnHAAA=",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHhbYkoAAA=",
+    "from": "messages-noreply@linkedin.com",
+    "to": [
+      "Marketing@lcwmail.com"
+    ],
+    "subject": "Jake, you have 6 new lead suggestions",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:39.947632Z"
+  },
+  {
+    "user_upn": "j.pieczynski@lcwmail.com",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAH5IwznAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:42.142353Z"
+  },
+  {
+    "user_upn": "j.pieczynski@lcwmail.com",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAH5IwzlAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:42.811001Z"
+  },
+  {
+    "user_upn": "j.pieczynski@lcwmail.com",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHhbYkhAAA=",
     "from": "no-reply@hootsuite.com",
     "to": [
       "Marketing@lcwmail.com"
     ],
     "subject": "Your weekly Hootsuite account activity",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:56:50.505723Z"
+    "logged_at": "2025-04-05T11:10:44.026222Z"
   },
   {
     "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAefCsAAD3UuN9WTYmQJLVINt_2bJGAAHancGLAAA=",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHf-ulFAAA=",
+    "from": "messages-noreply@linkedin.com",
+    "to": [
+      "Marketing@lcwmail.com"
+    ],
+    "subject": "\ud83d\udcac Jake, add Ashton Vicente",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:45.249595Z"
+  },
+  {
+    "user_upn": "j.pieczynski@lcwmail.com",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHfPjBCAAA=",
+    "from": "no-reply@accounts.google.com",
+    "to": [
+      "Marketing@lcwmail.com"
+    ],
+    "subject": "Updating our Google Account inactivity policy",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:45.348264Z"
+  },
+  {
+    "user_upn": "j.pieczynski@lcwmail.com",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAefCsAAD3UuN9WTYmQJLVINt_2bJGAAHf-vrWAAA=",
     "from": "info@action-selling.com",
     "to": [
       "tanya@lcwmail.com"
     ],
-    "subject": "3 Answers to Price Competition",
+    "subject": "A Costly Needs Analysis Blunder",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:56:50.620352Z"
+    "logged_at": "2025-04-05T11:10:45.398351Z"
   },
   {
     "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHanR0qAAA=",
-    "from": "messages-noreply@linkedin.com",
-    "to": [
-      "Marketing@lcwmail.com"
-    ],
-    "subject": "New saved search results from Sales Navigator",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHhbYklAAA=",
+    "from": "junhuiroest3@gmail.com",
+    "to": [],
+    "subject": "Reliable Translator-On Time Delivery-Competitive Rates.",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:56:54.085153Z"
+    "logged_at": "2025-04-05T11:15:11.683702Z"
   },
   {
     "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHd-bmOAAA=",
-    "from": "messages-noreply@linkedin.com",
-    "to": [
-      "Marketing@lcwmail.com"
-    ],
-    "subject": "People are noticing you on LinkedIn",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAIeh3UPAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:56:55.346957Z"
+    "logged_at": "2025-04-05T11:15:12.091559Z"
   },
   {
     "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHafUmjAAA=",
-    "from": "Audrey.Taylor@kincentric.com",
-    "to": [
-      "Marketing@lcwmail.com"
-    ],
-    "subject": "Automatic reply: \ud83c\udf99\ufe0f Decoded: New Podcast Release",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAIZweyPAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:56:55.414895Z"
+    "logged_at": "2025-04-05T11:15:12.191374Z"
   },
   {
     "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHbh42pAAA=",
-    "from": "notifications-noreply@linkedin.com",
-    "to": [
-      "Marketing@lcwmail.com"
-    ],
-    "subject": "You appeared in 1 search",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAH9f-xAAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:56:55.426074Z"
+    "logged_at": "2025-04-05T11:15:12.192761Z"
   },
   {
     "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAefCqAAD3UuN9WTYmQJLVINt_2bJGAAHanbm7AAA=",
-    "from": "a.wicksbowles@lcwmail.com",
-    "to": [
-      "d.puehler@lcwmail.com",
-      "office@lcwmail.com"
-    ],
-    "subject": "RE: Updated Microlearnings with REBRANDING",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAH5IwzoAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:56:57.886825Z"
+    "logged_at": "2025-04-05T11:15:12.207410Z"
   },
   {
     "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHafUmgAAA=",
-    "from": "Dbrown@ftnys.org",
-    "to": [
-      "Marketing@lcwmail.com"
-    ],
-    "subject": "Automatic reply: \ud83c\udf99\ufe0f Decoded: New Podcast Release",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAH5IwzmAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:56:58.917044Z"
+    "logged_at": "2025-04-05T11:15:12.377485Z"
   },
   {
     "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHdEn7QAAA=",
-    "from": "blog@send.zapier.com",
-    "to": [
-      "Marketing@lcwmail.com"
-    ],
-    "subject": "Craft a winning CRM strategy",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAHorbohAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:57:01.460817Z"
+    "logged_at": "2025-04-05T11:15:12.475480Z"
   },
   {
     "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHanR0uAAA=",
-    "from": "analytics-noreply@google.com",
-    "to": [
-      "Marketing@lcwmail.com"
-    ],
-    "subject": "Review your updated GA4 property",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAH5IwzpAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:57:03.814349Z"
+    "logged_at": "2025-04-05T11:15:12.489011Z"
   },
   {
     "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHdEn7PAAA=",
-    "from": "messages-noreply@linkedin.com",
-    "to": [
-      "Marketing@lcwmail.com"
-    ],
-    "subject": "Jake, you have 17 new lead suggestions",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAIw6BnsAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:57:05.471359Z"
+    "logged_at": "2025-04-05T11:15:12.495811Z"
   },
   {
     "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHbh420AAA=",
-    "from": "messages-noreply@linkedin.com",
-    "to": [
-      "Marketing@lcwmail.com"
-    ],
-    "subject": "\ud83d\udcac Jake, add Kiana Lopez",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAH5IwzrAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:57:08.173394Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAefCqAAD3UuN9WTYmQJLVINt_2bJGAAHanbm6AAA=",
-    "from": "d.puehler@lcwmail.com",
-    "to": [
-      "office@lcwmail.com"
-    ],
-    "subject": "Updated Microlearnings with REBRANDING",
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:57:08.852182Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAefCqAAD3UuN9WTYmQJLVINt_2bJGAAHZZmrEAAA=",
-    "from": "b.cardenas@lcwmail.com",
-    "to": [
-      "office@lcwmail.com",
-      "tom.bondi@tcbondicpa.com"
-    ],
-    "subject": "[HOLD] LCW Equity Incentive Plan",
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:57:09.745342Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHafUmhAAA=",
-    "from": "Camille.Morgan@chicagobooth.edu",
-    "to": [
-      "Marketing@lcwmail.com"
-    ],
-    "subject": "Automatic reply: \ud83c\udf99\ufe0f Decoded: New Podcast Release",
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:57:11.381814Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAefCsAAD3UuN9WTYmQJLVINt_2bJGAAHZ9KtCAAA=",
-    "from": "phyllis+pinkconsultingllc.com@ccsend.com",
-    "to": [
-      "tanya@lcwmail.com"
-    ],
-    "subject": "YOU STILL HAVE TIME TO REGISTER! Foundations of Trauma-Informed Intercultural Practice (FTIIP) 3-Day Workshop",
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:57:14.321480Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHanR0vAAA=",
-    "from": "notifications-noreply@linkedin.com",
-    "to": [
-      "Marketing@lcwmail.com"
-    ],
-    "subject": "You have 7 new invitations",
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:57:15.047377Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHZ9JmsAAA=",
-    "from": "analytics-noreply@google.com",
-    "to": [
-      "Marketing@lcwmail.com"
-    ],
-    "subject": "In June, you had 1.2K users visit your website (Google Analytics)",
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:57:15.110417Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHanR0lAAA=",
-    "from": "messages-noreply@linkedin.com",
-    "to": [
-      "Marketing@lcwmail.com"
-    ],
-    "subject": "Jake, I\u2019m still waiting for your response",
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:57:16.855704Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEKAAD3UuN9WTYmQJLVINt_2bJGAAHZZnKiAAA=",
-    "from": "b.cardenas@lcwmail.com",
-    "to": [
-      "office@lcwmail.com",
-      "tom.bondi@tcbondicpa.com"
-    ],
-    "subject": "[HOLD] LCW Equity Incentive Plan",
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:57:19.283248Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHafUmeAAA=",
-    "from": "Margaret.Smithe@allstate.com",
-    "to": [
-      "Marketing@lcwmail.com"
-    ],
-    "subject": "Automatic reply:  \ud83c\udf99\ufe0f Decoded: New Podcast Release",
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:57:21.380921Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAefCsAAD3UuN9WTYmQJLVINt_2bJGAAHZZjOwAAA=",
-    "from": "info@action-selling.com",
-    "to": [
-      "tanya@lcwmail.com"
-    ],
-    "subject": "\"Timing is Everything\" when Prospecting",
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:57:23.311051Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAefCsAAD3UuN9WTYmQJLVINt_2bJGAAHZ9KtBAAA=",
-    "from": "info@aleria.tech",
-    "to": [
-      "tanya@lcwmail.com"
-    ],
-    "subject": "Don't get caught overestimating equity in your workplace",
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:57:24.442343Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHZZZzEAAA=",
-    "from": "messages-noreply@linkedin.com",
-    "to": [
-      "Marketing@lcwmail.com"
-    ],
-    "subject": "Jake Pieczynski\u2019s top alerts from past week",
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:57:24.450881Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAAAEMAAD3UuN9WTYmQJLVINt_2bJGAAHafUmiAAA=",
-    "from": "JEdens@aflac.com",
-    "to": [
-      "Marketing@lcwmail.com"
-    ],
-    "subject": "Automatic reply: [External] \ud83c\udf99\ufe0f Decoded: New Podcast Release",
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:57:25.868549Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAAAAefCsAAD3UuN9WTYmQJLVINt_2bJGAAHZZjOvAAA=",
-    "from": "learnmore@linkageinc.com",
-    "to": [
-      "tanya@lcwmail.com"
-    ],
-    "subject": "Reminder \u23f0 Submit a Nomination for the WIL Executive Impact Award!",
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:57:39.932110Z"
+    "logged_at": "2025-04-05T11:15:12.499605Z"
   },
   {
     "user_upn": "j.pieczynski@lcwmail.com",
@@ -385,7 +209,16 @@
     "to": [],
     "subject": null,
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T11:04:03.840440Z"
+    "logged_at": "2025-04-05T11:15:12.500058Z"
+  },
+  {
+    "user_upn": "j.pieczynski@lcwmail.com",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAIw6BntAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:15:12.525985Z"
   },
   {
     "user_upn": "j.pieczynski@lcwmail.com",
@@ -394,25 +227,7 @@
     "to": [],
     "subject": null,
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T11:04:03.991790Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAIeh3ULAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T11:04:04.730548Z"
-  },
-  {
-    "user_upn": "j.pieczynski@lcwmail.com",
-    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAIZweyQAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T11:04:05.272335Z"
+    "logged_at": "2025-04-05T11:15:12.597333Z"
   },
   {
     "user_upn": "j.pieczynski@lcwmail.com",
@@ -421,6 +236,42 @@
     "to": [],
     "subject": null,
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T11:04:05.788148Z"
+    "logged_at": "2025-04-05T11:15:12.598581Z"
+  },
+  {
+    "user_upn": "j.pieczynski@lcwmail.com",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAJACtprAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:15:12.601094Z"
+  },
+  {
+    "user_upn": "j.pieczynski@lcwmail.com",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAIeh3ULAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:15:12.601191Z"
+  },
+  {
+    "user_upn": "j.pieczynski@lcwmail.com",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAIeh3UOAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:15:12.638739Z"
+  },
+  {
+    "user_upn": "j.pieczynski@lcwmail.com",
+    "message_id": "AAMkADM3Nzc1NDIzLTM3NzAtNDJjZi04ODdjLTkwYzQ1YWJiOTFjYQBGAAAAAACjGbcLYSmhSqQgN1J7OAyRBwD3UuN9WTYmQJLVINt_2bJGAADVrP3yAAD3UuN9WTYmQJLVINt_2bJGAAIZweyQAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:15:12.892037Z"
   }
 ]

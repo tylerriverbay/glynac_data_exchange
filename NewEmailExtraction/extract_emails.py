@@ -15,15 +15,15 @@ EMAIL_JSON_FOLDER = "email_json"
 NO_MORE_EMAILS_FILE = "no_more_emails.json"
 SKIPPED_EMAILS_FOLDER = "skipped_emails"
 
-def fetch_paginated_message_ids(user_upn, skip_pages=1):
+def fetch_paginated_message_ids(user_upn, skip_pages=15):
     """Fetch all message metadata (IDs) for a user using pagination, with an option to skip initial pages."""
     access_token = get_access_token()
     headers = {"Authorization": f"Bearer {access_token}"}
-    url = f"{config.GRAPH_API_ENDPOINT}/users/{user_upn}/messages?$select=id&$top=5"
+    url = f"{config.GRAPH_API_ENDPOINT}/users/{user_upn}/messages?$select=id&$top=500"
 
     all_ids = []
     page_count = 0
-    max_pages = 2  # Increased safety cap
+    max_pages =20  # Increased safety cap
     skipped_count = 0  # Number of pages to skip
 
     while url and page_count < max_pages:

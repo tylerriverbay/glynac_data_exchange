@@ -212,5 +212,122 @@
     "subject": "Re: Welcome Arvin! LCW's New Instructional Designer",
     "reason": "Not to or from the user",
     "logged_at": "2025-04-05T10:58:46.333155Z"
+  },
+  {
+    "user_upn": "a.kaur@lcwmail.com",
+    "message_id": "AAMkADA2YWQ2NGQ4LTgzMTMtNDA3YS04MTg5LTRhODVmNjUyNjdhMwBGAAAAAABHsyuIdAdIQYWqwr4uEAmgBwBnG-jnxWAhS4VoXyqDTSuzAAAAAAEMAABnG-jnxWAhS4VoXyqDTSuzAAA1OpG-AAA=",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "c.desanctis@lcwmail.com",
+      "k.luo@lcwmail.com",
+      "a.wicksbowles@lcwmail.com",
+      "r.parrilla@lcwmail.com",
+      "s.gluckstein@lcwmail.com",
+      "j.mansour@lcwmail.com",
+      "k.nonweiler@lcwmail.com",
+      "n.barile@lcwmail.com"
+    ],
+    "subject": "Canceled: LCW All-Staff Meeting",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:58.262076Z"
+  },
+  {
+    "user_upn": "a.kaur@lcwmail.com",
+    "message_id": "AAMkADA2YWQ2NGQ4LTgzMTMtNDA3YS04MTg5LTRhODVmNjUyNjdhMwBGAAAAAABHsyuIdAdIQYWqwr4uEAmgBwBnG-jnxWAhS4VoXyqDTSuzAAAAAAEMAABnG-jnxWAhS4VoXyqDTSuzAAA1OpG_AAA=",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "c.desanctis@lcwmail.com",
+      "k.luo@lcwmail.com",
+      "a.wicksbowles@lcwmail.com",
+      "r.parrilla@lcwmail.com",
+      "s.gluckstein@lcwmail.com",
+      "j.mansour@lcwmail.com",
+      "k.nonweiler@lcwmail.com",
+      "n.barile@lcwmail.com"
+    ],
+    "subject": "Canceled: LCW All-Staff Meeting",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:01.208894Z"
+  },
+  {
+    "user_upn": "a.kaur@lcwmail.com",
+    "message_id": "AAMkADA2YWQ2NGQ4LTgzMTMtNDA3YS04MTg5LTRhODVmNjUyNjdhMwBGAAAAAABHsyuIdAdIQYWqwr4uEAmgBwBnG-jnxWAhS4VoXyqDTSuzAAAAAAEMAABnG-jnxWAhS4VoXyqDTSuzAAAdXCrpAAA=",
+    "from": "r.stieghorst@lcwmail.com",
+    "to": [
+      "c.adams@lcwmail.com",
+      "r.parrilla@lcwmail.com",
+      "n.barile@lcwmail.com"
+    ],
+    "subject": "Recordings of Spotlights?",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:05.453989Z"
+  },
+  {
+    "user_upn": "a.kaur@lcwmail.com",
+    "message_id": "AAMkADA2YWQ2NGQ4LTgzMTMtNDA3YS04MTg5LTRhODVmNjUyNjdhMwBGAAAAAABHsyuIdAdIQYWqwr4uEAmgBwBnG-jnxWAhS4VoXyqDTSuzAAAAAAEKAABnG-jnxWAhS4VoXyqDTSuzAAAdW_ByAAA=",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "c.desanctis@lcwmail.com",
+      "k.luo@lcwmail.com",
+      "a.wicksbowles@lcwmail.com",
+      "r.parrilla@lcwmail.com",
+      "s.gluckstein@lcwmail.com",
+      "j.mansour@lcwmail.com",
+      "k.nonweiler@lcwmail.com",
+      "n.barile@lcwmail.com"
+    ],
+    "subject": "LCW All-Staff Meeting",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:06.459573Z"
+  },
+  {
+    "user_upn": "a.kaur@lcwmail.com",
+    "message_id": "AAMkADA2YWQ2NGQ4LTgzMTMtNDA3YS04MTg5LTRhODVmNjUyNjdhMwBGAAAAAABHsyuIdAdIQYWqwr4uEAmgBwBnG-jnxWAhS4VoXyqDTSuzAAAAAAEMAABnG-jnxWAhS4VoXyqDTSuzAAAfvHCYAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "r.stieghorst@lcwmail.com",
+      "c.adams@lcwmail.com",
+      "r.parrilla@lcwmail.com"
+    ],
+    "subject": "Re: Recordings of Spotlights?",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:07.161991Z"
+  },
+  {
+    "user_upn": "a.kaur@lcwmail.com",
+    "message_id": "AAMkADA2YWQ2NGQ4LTgzMTMtNDA3YS04MTg5LTRhODVmNjUyNjdhMwBGAAAAAABHsyuIdAdIQYWqwr4uEAmgBwBnG-jnxWAhS4VoXyqDTSuzAAAAAAEMAABnG-jnxWAhS4VoXyqDTSuzAAAfvHCZAAA=",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "n.barile@lcwmail.com",
+      "r.stieghorst@lcwmail.com",
+      "r.parrilla@lcwmail.com"
+    ],
+    "subject": "RE: Recordings of Spotlights?",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:07.595814Z"
+  },
+  {
+    "user_upn": "a.kaur@lcwmail.com",
+    "message_id": "AAMkADA2YWQ2NGQ4LTgzMTMtNDA3YS04MTg5LTRhODVmNjUyNjdhMwBGAAAAAABHsyuIdAdIQYWqwr4uEAmgBwBnG-jnxWAhS4VoXyqDTSuzAAAAAAEMAABnG-jnxWAhS4VoXyqDTSuzAAAfyBPqAAA=",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "c.adams@lcwmail.com",
+      "n.barile@lcwmail.com",
+      "r.stieghorst@lcwmail.com"
+    ],
+    "subject": "RE: Recordings of Spotlights?",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:10.074222Z"
+  },
+  {
+    "user_upn": "a.kaur@lcwmail.com",
+    "message_id": "AAMkADA2YWQ2NGQ4LTgzMTMtNDA3YS04MTg5LTRhODVmNjUyNjdhMwBGAAAAAABHsyuIdAdIQYWqwr4uEAmgBwBnG-jnxWAhS4VoXyqDTSuzAAAAAAEMAABnG-jnxWAhS4VoXyqDTSuzAAAihB4JAAA=",
+    "from": "r.stieghorst@lcwmail.com",
+    "to": [
+      "r.parrilla@lcwmail.com"
+    ],
+    "subject": "Neurodiversity storyboard v1",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:21.336473Z"
   }
 ]

@@ -1,274 +1,1861 @@
 [
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHsoycpAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:39.945903Z"
-  },
-  {
-    "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHsoycYAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:40.281158Z"
-  },
-  {
-    "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHsoycgAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:41.982010Z"
-  },
-  {
-    "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHormbOAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
-    "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:42.169798Z"
-  },
-  {
-    "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAH9NYmPAAA=",
-    "from": "Wigberto.Clavecilla@RalphLauren.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYnAAA=",
+    "from": "m.johnson@lcwmail.com",
     "to": [
-      "Wigberto.Clavecilla@RalphLauren.com"
+      "a.wicksbowles@lcwmail.com",
+      "training@lcwmail.com"
     ],
-    "subject": "Ralph Lauren Corporation\u2019s transition to J.P. Morgan\u2019s Virtual Card Payments ",
+    "subject": "RE: MBW vs MUBW",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:42.640983Z"
+    "logged_at": "2025-04-05T13:01:48.007017Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHsoycZAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AACCNbxhAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "s.nodarse@lcwmail.com"
+    ],
+    "subject": "RE: FAST TURNAROUND: Request for ideas on Listening Session themes regarding Roe v Wade (for Boston Scientific)",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:43.070531Z"
+    "logged_at": "2025-04-05T13:01:50.173321Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHormbNAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYoAAA=",
+    "from": "t.timmons@lcwmail.com",
+    "to": [
+      "a.wicksbowles@lcwmail.com",
+      "training@lcwmail.com"
+    ],
+    "subject": "RE: Platinum, Rule",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:43.090430Z"
+    "logged_at": "2025-04-05T13:01:54.681121Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHjjwz4AAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYqAAA=",
+    "from": "k.washington@lcwmail.com",
+    "to": [
+      "a.vargas@lcwmail.com"
+    ],
+    "subject": "RE: Polls for Friday session (Autumn Communications)",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:43.244349Z"
+    "logged_at": "2025-04-05T13:02:06.463401Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHq5kLaAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYaAAA=",
+    "from": "a.vargas@lcwmail.com",
+    "to": [
+      "j.cookson@lcwmail.com",
+      "r.parrilla@lcwmail.com"
+    ],
+    "subject": "RE: RESPONSE/URGENT: Foundations of D&I for Autumn this Friday!",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:43.411314Z"
+    "logged_at": "2025-04-05T13:02:06.909762Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHsoyclAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYmAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "MBW vs MUBW",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:45.548086Z"
+    "logged_at": "2025-04-05T13:02:06.985054Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHsoycMAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYfAAA=",
+    "from": "k.salek@lcwmail.com",
+    "to": [
+      "s.nodarse@lcwmail.com",
+      "a.wicksbowles@lcwmail.com",
+      "r.parrilla@lcwmail.com",
+      "training@lcwmail.com",
+      "facilitators@lcwmail.com",
+      "bizdev@lcwmail.com"
+    ],
+    "subject": "RE: LCW competitor list-USE THIS LIST",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:45.761485Z"
+    "logged_at": "2025-04-05T13:02:12.626917Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHsoycfAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYRAAA=",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "a.vargas@lcwmail.com"
+    ],
+    "subject": "RE: RESPONSE/URGENT: Foundations of D&I for Autumn this Friday!",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:45.815174Z"
+    "logged_at": "2025-04-05T13:02:14.813699Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHsoycqAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYsAAA=",
+    "from": "a.vargas@lcwmail.com",
+    "to": [
+      "k.washington@lcwmail.com"
+    ],
+    "subject": "RE: Polls for Friday session (Autumn Communications)",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:46.204677Z"
+    "logged_at": "2025-04-05T13:02:15.574288Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHsoycLAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYeAAA=",
+    "from": "s.nodarse@lcwmail.com",
+    "to": [
+      "a.wicksbowles@lcwmail.com",
+      "training@lcwmail.com"
+    ],
+    "subject": "RE: RallyBright Inclusive Collaboration Assessment: It's Time To See Results and Give Feedback!",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:46.749223Z"
+    "logged_at": "2025-04-05T13:02:15.769308Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHq5kLkAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYSAAA=",
+    "from": "a.vargas@lcwmail.com",
+    "to": [
+      "r.parrilla@lcwmail.com"
+    ],
+    "subject": "RE: RESPONSE/URGENT: Foundations of D&I for Autumn this Friday!",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:46.792288Z"
+    "logged_at": "2025-04-05T13:02:19.946196Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHfkDERAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYlAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "Platinum, Rule",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:46.970083Z"
+    "logged_at": "2025-04-05T13:02:24.404393Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHsoycaAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYVAAA=",
+    "from": "a.vargas@lcwmail.com",
+    "to": [
+      "r.parrilla@lcwmail.com"
+    ],
+    "subject": "RE: RESPONSE/URGENT: Foundations of D&I for Autumn this Friday!",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:48.207911Z"
+    "logged_at": "2025-04-05T13:02:28.535043Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHsoychAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYWAAA=",
+    "from": "j.cookson@lcwmail.com",
+    "to": [
+      "a.vargas@lcwmail.com",
+      "r.parrilla@lcwmail.com"
+    ],
+    "subject": "Re: RESPONSE/URGENT: Foundations of D&I for Autumn this Friday!",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:48.679408Z"
+    "logged_at": "2025-04-05T13:02:32.522567Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHsoycsAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYdAAA=",
+    "from": "s.nodarse@lcwmail.com",
+    "to": [
+      "a.wicksbowles@lcwmail.com",
+      "r.parrilla@lcwmail.com",
+      "training@lcwmail.com",
+      "facilitators@lcwmail.com",
+      "bizdev@lcwmail.com"
+    ],
+    "subject": "RE: LCW competitor list-USE THIS LIST",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:48.682499Z"
+    "logged_at": "2025-04-05T13:02:34.990963Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHsoycoAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYNAAA=",
+    "from": "a.vargas@lcwmail.com",
+    "to": [
+      "r.parrilla@lcwmail.com"
+    ],
+    "subject": "RE: RESPONSE/URGENT: Foundations of D&I for Autumn this Friday!",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:48.851302Z"
+    "logged_at": "2025-04-05T13:02:36.976823Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHjjwz3AAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYHAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "r.parrilla@lcwmail.com",
+      "training@lcwmail.com",
+      "facilitators@lcwmail.com",
+      "bizdev@lcwmail.com"
+    ],
+    "subject": "RE: LCW competitor list-USE THIS LIST",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:48.912223Z"
+    "logged_at": "2025-04-05T13:02:37.202481Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHsoyciAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYEAAA=",
+    "from": "s.nodarse@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "RallyBright Inclusive Collaboration Assessment: It's Time To See Results and Give Feedback!",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:49.031603Z"
+    "logged_at": "2025-04-05T13:02:41.974426Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHsoycTAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYUAAA=",
+    "from": "a.vargas@lcwmail.com",
+    "to": [
+      "k.washington@lcwmail.com"
+    ],
+    "subject": "Polls for Friday session (Autumn Communications)",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:49.192332Z"
+    "logged_at": "2025-04-05T13:02:42.869985Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHsoycPAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYQAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "tamana.baraywal@gatesfoundation.org",
+      "Rodrigo.Salvado@gatesfoundation.org"
+    ],
+    "subject": "RE: LCW Request for IDI Debrief Meeting",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:50.898685Z"
+    "logged_at": "2025-04-05T13:02:43.347020Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHormbGAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYFAAA=",
+    "from": "tamana.baraywal@gatesfoundation.org",
+    "to": [
+      "e.richmond@lcwmail.com",
+      "Rodrigo.Salvado@gatesfoundation.org"
+    ],
+    "subject": "RE: LCW Request for IDI Debrief Meeting",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:52.010328Z"
+    "logged_at": "2025-04-05T13:02:47.174712Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHsoycOAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXX9AAA=",
+    "from": "c-flowers@northwestern.edu",
+    "to": [
+      "e.richmond@lcwmail.com",
+      "c.adams@lcwmail.com",
+      "julie-yoo@northwestern.edu"
+    ],
+    "subject": "RE: LCW Project Status meeting 4/14: Follow-up",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:53.758415Z"
+    "logged_at": "2025-04-05T13:02:48.896171Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHfkDEEAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYGAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "s.nodarse@lcwmail.com",
+      "training@lcwmail.com"
+    ],
+    "subject": "RE: RallyBright Inclusive Collaboration Assessment: It's Time To See Results and Give Feedback!",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:54.227876Z"
+    "logged_at": "2025-04-05T13:02:49.544621Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHfkDEDAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXYCAAA=",
+    "from": "j.pieczynski@lcwmail.com",
+    "to": [
+      "jessica.z.shao@gmail.com"
+    ],
+    "subject": "RE: Final 5/23 content: Public Session",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:55.250408Z"
+    "logged_at": "2025-04-05T13:02:51.701247Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHfkDDsAAA=",
-    "from": "Unknown Sender",
-    "to": [],
-    "subject": null,
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXX-AAA=",
+    "from": "jessica.z.shao@gmail.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "Re: Final 5/23 content: Public Session",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:56.231917Z"
+    "logged_at": "2025-04-05T13:02:56.725588Z"
   },
   {
     "user_upn": "g.vottero@lcwmail.com",
-    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAFr56O5AADo2DvmaqSOQ4Mhc8gMLG9-AAHfkDD2AAA=",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXX8AAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "c-flowers@northwestern.edu",
+      "c.adams@lcwmail.com",
+      "julie-yoo@northwestern.edu"
+    ],
+    "subject": "RE: LCW Project Status meeting 4/14: Follow-up",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:02:57.464279Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXX0AAA=",
+    "from": "jessica.z.shao@gmail.com",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "Re: Final 5/23 content: Public Session",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:03:06.263104Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXX4AAA=",
+    "from": "j.pieczynski@lcwmail.com",
+    "to": [
+      "jessica.z.shao@gmail.com"
+    ],
+    "subject": "RE: Final 5/23 content: Public Session",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:03:06.537611Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJI0nAAA=",
+    "from": "Unknown Sender",
+    "to": [
+      "r.parrilla@lcwmail.com",
+      "a.vargas@lcwmail.com"
+    ],
+    "subject": "RE: RESPONSE/URGENT: Foundations of D&I for Autumn this Friday!",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:03:14.160030Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXXzAAA=",
+    "from": "michelle.xu@gusto.com",
+    "to": [
+      "c.adams@lcwmail.com"
+    ],
+    "subject": "Re: Invitation to LCW Product Advisory Council",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:03:17.468101Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXXgAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "Rodrigo.Salvado@gatesfoundation.org",
+      "tamana.baraywal@gatesfoundation.org"
+    ],
+    "subject": "LCW Request for IDI Debrief Meeting",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:03:33.563874Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAADJDdeAADo2DvmaqSOQ4Mhc8gMLG9-AAB_ammcAAA=",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "bernard.coleman@gusto.com"
+    ],
+    "subject": "RE: Invitation to LCW Product Advisory Council",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:03:40.815726Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXXbAAA=",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "a.vargas@lcwmail.com"
+    ],
+    "subject": "RE: RESPONSE/URGENT: Foundations of D&I for Autumn this Friday!",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:03:41.096583Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXXRAAA=",
+    "from": "bernard.coleman@gusto.com",
+    "to": [
+      "c.adams@lcwmail.com"
+    ],
+    "subject": "Re: Invitation to LCW Product Advisory Council",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:03:44.884359Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXXUAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "jessica.z.shao@gmail.com"
+    ],
+    "subject": "Re: How to be an ally to the AAPI Community- CARTA Slide deck notes",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:03:48.277379Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJI0YAAA=",
+    "from": "Unknown Sender",
+    "to": [
+      "e.richmond@lcwmail.com",
+      "Chelsey.Geraghty@gatesfoundation.org",
+      "lisainthestates@gmail.com"
+    ],
+    "subject": "RE: update on DPAF individual debriefs?",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:03:49.584866Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJI00AAA=",
+    "from": "Unknown Sender",
+    "to": [
+      "Cheong.Anthony@bcg.com"
+    ],
+    "subject": "RE: Invitation to PAC Kick-Off Meeting",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:03:49.832034Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXXKAAA=",
+    "from": "jessica.z.shao@gmail.com",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "Re: How to be an ally to the AAPI Community- CARTA Slide deck notes",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:03:51.276941Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXXPAAA=",
+    "from": "bernard.coleman@gusto.com",
+    "to": [
+      "c.adams@lcwmail.com"
+    ],
+    "subject": "Re: Invitation to LCW Product Advisory Council",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:04.977927Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXXCAAA=",
+    "from": "a.kolodizner@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Buffalo Terrorist Attack Internal Statement ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:11.518329Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXXHAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "Chelsey.Geraghty@gatesfoundation.org",
+      "lisainthestates@gmail.com"
+    ],
+    "subject": "RE: update on DPAF individual debriefs?",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:11.974932Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAB_arCOAAA=",
+    "from": "a.kolodizner@lcwmail.com",
+    "to": [],
+    "subject": "OPTIONAL - LCW Office Hour",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:12.533211Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXXIAAA=",
+    "from": "jessica.z.shao@gmail.com",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "Re: How to be an ally to the AAPI Community- CARTA Slide deck notes",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:14.499356Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXW-AAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "jessica.z.shao@gmail.com"
+    ],
+    "subject": "RE: How to be an ally to the AAPI Community- CARTA Slide deck notes",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:14.605315Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXXBAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "jessica.z.shao@gmail.com"
+    ],
+    "subject": "RE: How to be an ally to the AAPI Community- CARTA Slide deck notes",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:15.251186Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXXEAAA=",
+    "from": "Chelsey.Geraghty@gatesfoundation.org",
+    "to": [
+      "e.richmond@lcwmail.com",
+      "lisainthestates@gmail.com"
+    ],
+    "subject": "RE: update on DPAF individual debriefs?",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:23.311717Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXWsAAA=",
+    "from": "lisainthestates@gmail.com",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "Re: update on DPAF individual debriefs?",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:27.860632Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXWvAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "karen.mathiasen@gatesfoundation.org"
+    ],
+    "subject": "IDI Individual Report for Debrief",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:29.406272Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAADJDdeAADo2DvmaqSOQ4Mhc8gMLG9-AAB_ammWAAA=",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "b.cardenas@lcwmail.com",
+      "consultants@lcwmail.com",
+      "associates@lcwmail.com",
+      "facilitators@lcwmail.com",
+      "l.murray@lcwmail.com",
+      "m.neu@lcwmail.com",
+      "j.pieczynski@lcwmail.com",
+      "s.nodarse@lcwmail.com",
+      "a.kolodizner@lcwmail.com"
+    ],
+    "subject": "RE: Keys to Successful Sales Bi-Weekly Meetings",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:30.048288Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXW6AAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "lisainthestates@gmail.com"
+    ],
+    "subject": "RE: update on DPAF individual debriefs?",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:31.703029Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXWoAAA=",
+    "from": "a.kolodizner@lcwmail.com",
+    "to": [
+      "b.cardenas@lcwmail.com",
+      "consultants@lcwmail.com",
+      "associates@lcwmail.com",
+      "facilitators@lcwmail.com",
+      "l.murray@lcwmail.com",
+      "m.neu@lcwmail.com",
+      "j.pieczynski@lcwmail.com",
+      "m.fagrelius@lcwmail.com",
+      "c.adams@lcwmail.com",
+      "s.nodarse@lcwmail.com"
+    ],
+    "subject": "Re: Keys to Successful Sales Bi-Weekly Meetings",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:34.093125Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXWzAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "adil.ababou@gatesfoundation.org"
+    ],
+    "subject": "RE: Reschedule Request: IDI Individual Debrief (5/16)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:35.330330Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXWxAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "adil.ababou@gatesfoundation.org"
+    ],
+    "subject": "RE: Reschedule Request: IDI Individual Debrief (5/16)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:37.327542Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXW1AAA=",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "ALERT: Main LCW Course Catalog has moved",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:38.013809Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXWwAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "RE: time in advance of your 1:1 debrief with Tamana",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:38.139841Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJKwPAAA=",
+    "from": "Unknown Sender",
+    "to": [
+      "k.washington@lcwmail.com"
+    ],
+    "subject": "New Projects in Clockify",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:45.303562Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJI0UAAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "associates@lcwmail.com",
+      "consultants@lcwmail.com",
+      "s.nodarse@lcwmail.com",
+      "m.fagrelius@lcwmail.com",
+      "facilitators@lcwmail.com",
+      "l.murray@lcwmail.com",
+      "m.neu@lcwmail.com",
+      "j.pieczynski@lcwmail.com",
+      "c.adams@lcwmail.com",
+      "a.kolodizner@lcwmail.com"
+    ],
+    "subject": "Keys to Successful Sales: 2 of 4",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:48.640123Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXWuAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "matthew.kennelly@gatesfoundation.org"
+    ],
+    "subject": "IDI Individual Profile for debrief",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:49.973701Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAB_arCPAAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "associates@lcwmail.com",
+      "consultants@lcwmail.com",
+      "s.nodarse@lcwmail.com",
+      "m.fagrelius@lcwmail.com",
+      "facilitators@lcwmail.com",
+      "l.murray@lcwmail.com",
+      "j.pieczynski@lcwmail.com",
+      "m.neu@lcwmail.com",
+      "c.adams@lcwmail.com",
+      "a.kolodizner@lcwmail.com"
+    ],
+    "subject": "Keys to Successful Sales 1 of 4",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:50.158782Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXWgAAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "consultants@lcwmail.com",
+      "associates@lcwmail.com",
+      "facilitators@lcwmail.com",
+      "l.murray@lcwmail.com",
+      "m.neu@lcwmail.com",
+      "j.pieczynski@lcwmail.com",
+      "m.fagrelius@lcwmail.com",
+      "c.adams@lcwmail.com",
+      "s.nodarse@lcwmail.com",
+      "a.kolodizner@lcwmail.com"
+    ],
+    "subject": "Keys to Successful Sales Bi-Weekly Meetings",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:52.357112Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXWlAAA=",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "training@lcwmail.com",
+      "facilitators@lcwmail.com",
+      "bizdev@lcwmail.com"
+    ],
+    "subject": "LCW competitor list",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:52.564204Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJI0WAAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "associates@lcwmail.com",
+      "consultants@lcwmail.com",
+      "s.nodarse@lcwmail.com",
+      "m.fagrelius@lcwmail.com",
+      "facilitators@lcwmail.com",
+      "l.murray@lcwmail.com",
+      "j.pieczynski@lcwmail.com",
+      "m.neu@lcwmail.com",
+      "c.adams@lcwmail.com",
+      "a.kolodizner@lcwmail.com"
+    ],
+    "subject": "Keys to Successful Sales: 4 of 4",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:05:02.060526Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJKwQAAA=",
     "from": "Unknown Sender",
     "to": [],
-    "subject": null,
+    "subject": "",
     "reason": "Not to or from the user",
-    "logged_at": "2025-04-05T10:59:56.978257Z"
+    "logged_at": "2025-04-05T13:05:04.082511Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJI0TAAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "associates@lcwmail.com",
+      "consultants@lcwmail.com",
+      "s.nodarse@lcwmail.com",
+      "m.fagrelius@lcwmail.com",
+      "facilitators@lcwmail.com",
+      "l.murray@lcwmail.com",
+      "j.pieczynski@lcwmail.com",
+      "m.neu@lcwmail.com",
+      "c.adams@lcwmail.com",
+      "a.kolodizner@lcwmail.com"
+    ],
+    "subject": "Keys to Successful Sales 1 of 4",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:05:13.278102Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXWmAAA=",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "training@lcwmail.com",
+      "facilitators@lcwmail.com",
+      "bizdev@lcwmail.com"
+    ],
+    "subject": "LCW competitor list-USE THIS LIST",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:05:16.119030Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJI0VAAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "associates@lcwmail.com",
+      "consultants@lcwmail.com",
+      "s.nodarse@lcwmail.com",
+      "m.fagrelius@lcwmail.com",
+      "facilitators@lcwmail.com",
+      "l.murray@lcwmail.com",
+      "m.neu@lcwmail.com",
+      "c.adams@lcwmail.com",
+      "j.pieczynski@lcwmail.com",
+      "a.kolodizner@lcwmail.com"
+    ],
+    "subject": "Keys to Successful Sales: 3 of 4",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:05:18.751197Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJKwRAAA=",
+    "from": "Unknown Sender",
+    "to": [
+      "shay.odonnell@brightcarbon.com",
+      "olivia.kippax.jones@brightcarbon.com"
+    ],
+    "subject": "Quick Updates",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:05:20.352602Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJI0RAAA=",
+    "from": "Unknown Sender",
+    "to": [
+      "Pippa.Hugill@RalphLauren.com"
+    ],
+    "subject": "RE: MicroLearning Links + Feedback Form",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:05:45.462438Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFGCAAA=",
+    "from": "lisainthestates@gmail.com",
+    "to": [
+      "j.cookson@lcwmail.com",
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "time in advance of your 1:1 debrief with Tamana",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:05:48.281950Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB_aXWOAAA=",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "Following up: REQUEST: FG/Interview quotes for LCW 'bank'",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:05:49.137778Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFF_AAA=",
+    "from": "j.pieczynski@lcwmail.com",
+    "to": [
+      "office@lcwmail.com",
+      "a.vargas@lcwmail.com"
+    ],
+    "subject": "RE: #FeatureFriday's Launch",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:05:53.235511Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJI0OAAA=",
+    "from": "Unknown Sender",
+    "to": [
+      "HHansen@allstate.com"
+    ],
+    "subject": "PAC Invitation",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:05:58.678870Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFFuAAA=",
+    "from": "l.baker@lcwmail.com",
+    "to": [
+      "e.richmond@lcwmail.com",
+      "j.cookson@lcwmail.com",
+      "c.williams@lcwmail.com"
+    ],
+    "subject": "RE: [Response Requested]: 15 min meeting request 5/16",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:06:07.831360Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFGAAAA=",
+    "from": "jessica.z.shao@gmail.com",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "Re: How to be an ally to the AAPI Community- CARTA Slide deck notes",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:06:08.028241Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFF4AAA=",
+    "from": "j.pieczynski@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "RE: Action Requested: May Invite-Only Preview Session",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:06:08.111567Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJKwSAAA=",
+    "from": "Unknown Sender",
+    "to": [
+      "Esayas.Wureta@csaa.com"
+    ],
+    "subject": "RE: DE&I Resource",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:06:15.820512Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFF3AAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "m.johnson@lcwmail.com"
+    ],
+    "subject": "Response Requested: Gates Foundation 1:1 IDI Debriefs",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:06:16.128404Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFGEAAA=",
+    "from": "m.neu@lcwmail.com",
+    "to": [
+      "ejames-decruise@adcouncil.org"
+    ],
+    "subject": "\"Being an Ally for the Asian American Community\" - Preview Session",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:06:17.894990Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFF0AAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "l.baker@lcwmail.com",
+      "j.cookson@lcwmail.com",
+      "c.williams@lcwmail.com"
+    ],
+    "subject": "RE: [Response Requested]: 15 min meeting request 5/16",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:06:18.002141Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFFwAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "l.baker@lcwmail.com",
+      "j.cookson@lcwmail.com",
+      "c.williams@lcwmail.com"
+    ],
+    "subject": "RE: [Response Requested]: 15 min meeting request 5/16",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:06:20.512132Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFF7AAA=",
+    "from": "adil.ababou@gatesfoundation.org",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "RE: Reschedule Request: IDI Individual Debrief (5/16)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:06:21.829344Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFF6AAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "adil.ababou@gatesfoundation.org"
+    ],
+    "subject": "RE: Reschedule Request: IDI Individual Debrief (5/16)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:06:22.195168Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFF1AAA=",
+    "from": "l.baker@lcwmail.com",
+    "to": [
+      "e.richmond@lcwmail.com",
+      "j.cookson@lcwmail.com",
+      "c.williams@lcwmail.com"
+    ],
+    "subject": "RE: [Response Requested]: 15 min meeting request 5/16",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:06:24.541815Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFFnAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "adil.ababou@gatesfoundation.org"
+    ],
+    "subject": "Reschedule Request: IDI Individual Debrief (5/16)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:06:29.687535Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFFoAAA=",
+    "from": "adil.ababou@gatesfoundation.org",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "RE: Reschedule Request: IDI Individual Debrief (5/16)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:06:31.026904Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFFrAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "j.cookson@lcwmail.com",
+      "c.williams@lcwmail.com",
+      "l.baker@lcwmail.com"
+    ],
+    "subject": "[Response Requested]: 15 min meeting request 5/16",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:06:31.322183Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFF8AAA=",
+    "from": "m.johnson@lcwmail.com",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "RE: Response Requested: Gates Foundation 1:1 IDI Debriefs",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:06:37.105348Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJI0NAAA=",
+    "from": "Unknown Sender",
+    "to": [
+      "Pippa.Hugill@RalphLauren.com",
+      "Naiela.Nahid@ralphlauren.com"
+    ],
+    "subject": "RE: Vendor Set Up",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:06:53.075926Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJI0SAAA=",
+    "from": "Unknown Sender",
+    "to": [
+      "d.gough@lcwmail.com"
+    ],
+    "subject": "RE: UTBE",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:07:04.467972Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFFcAAA=",
+    "from": "jessica.z.shao@gmail.com",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "Re: Carta AAPI May 25 Event- Please Read and respond",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:07:06.027762Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFFGAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "c-flowers@northwestern.edu",
+      "c.adams@lcwmail.com",
+      "julie-yoo@northwestern.edu"
+    ],
+    "subject": "RE: LCW Project Status meeting 4/14: Follow-up",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:07:08.311932Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFE5AAA=",
+    "from": "a.vargas@lcwmail.com",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "FACILITATION REQUEST - Response Required",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:07:18.896533Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFFIAAA=",
+    "from": "c-flowers@northwestern.edu",
+    "to": [
+      "e.richmond@lcwmail.com",
+      "c.adams@lcwmail.com",
+      "julie-yoo@northwestern.edu"
+    ],
+    "subject": "RE: LCW Project Status meeting 4/14: Follow-up",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:07:28.025417Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFFHAAA=",
+    "from": "c-flowers@northwestern.edu",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "RE: LCW// NU Weekly Meetings Cancelled: 4/28, 5/5",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:07:28.943516Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFE_AAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "c-flowers@northwestern.edu"
+    ],
+    "subject": "RE: LCW// NU Weekly Meetings Cancelled: 4/28, 5/5",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:07:29.257525Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFE0AAA=",
+    "from": "c-flowers@northwestern.edu",
+    "to": [
+      "e.richmond@lcwmail.com",
+      "c.adams@lcwmail.com",
+      "julie-yoo@northwestern.edu"
+    ],
+    "subject": "RE: LCW Project Status meeting 4/14: Follow-up",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:07:34.830949Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFFAAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "jessica.z.shao@gmail.com"
+    ],
+    "subject": "RE: Carta AAPI May 25 Event- Please Read and respond",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:07:36.064984Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFFJAAA=",
+    "from": "lisainthestates@gmail.com",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "Re: 2 DPAF individual debriefs- Inje Oueslati, Vishal Gujadhur",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:07:43.061589Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFE7AAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "lisainthestates@gmail.com",
+      "chelsey.geraghty@gatesfoundation.org"
+    ],
+    "subject": "RE: 2 DPAF individual debriefs- Inje Oueslati, Vishal Gujadhur",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:07:45.128918Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFE8AAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "lisainthestates@gmail.com",
+      "chelsey.geraghty@gatesfoundation.org"
+    ],
+    "subject": "RE: 2 DPAF individual debriefs- Inje Oueslati, Vishal Gujadhur",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:07:50.700448Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8ZFEiAAA=",
+    "from": "lspoto@autumncommunications.com",
+    "to": [
+      "lauren@autumncommunications.com"
+    ],
+    "subject": "Re: LCW_ SOW and Questions/Scenarios",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:07:53.378040Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gDXZAAA=",
+    "from": "j.pieczynski@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "For immediate use: FL Stop Woke Act Communications Toolkit",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:08:11.188156Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB8OcrZAAA=",
+    "from": "jessica.z.shao@gmail.com",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "Re: Carta AAPI May 25 Event- Please Read and respond",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:08:14.142576Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gDXNAAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Andrea Out of Office",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:08:16.881860Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gDXPAAA=",
+    "from": "d.gough@lcwmail.com",
+    "to": [
+      "kmahaja3@its.jnj.com"
+    ],
+    "subject": "RE: Black Cultural Immersion",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:08:27.653519Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gDXGAAA=",
+    "from": "j.pieczynski@lcwmail.com",
+    "to": [
+      "jessica.z.shao@gmail.com"
+    ],
+    "subject": "RE: Additional Facilitation Request: 5/24 & 5/26 AAPI Session",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:08:32.761855Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gDW-AAA=",
+    "from": "j.pieczynski@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "Action Requested: May Invite-Only Preview Session",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:08:34.488573Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gDXAAAA=",
+    "from": "jessica.z.shao@gmail.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "Re: Additional Facilitation Request: 5/24 & 5/26 AAPI Session",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:08:35.101701Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gDW9AAA=",
+    "from": "j.pieczynski@lcwmail.com",
+    "to": [
+      "jessica.z.shao@gmail.com"
+    ],
+    "subject": "RE: Additional Facilitation Request: 5/24 & 5/26 AAPI Session",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:08:39.758193Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gDXJAAA=",
+    "from": "j.pieczynski@lcwmail.com",
+    "to": [
+      "jessica.z.shao@gmail.com"
+    ],
+    "subject": "RE: Additional Facilitation Request: 5/24 & 5/26 AAPI Session",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:08:39.890204Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gDW_AAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "tamana.baraywal@gatesfoundation.org"
+    ],
+    "subject": "RE: Response Requested: Individual IDI Debrief Scheduling",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:08:40.795845Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gDXIAAA=",
+    "from": "jessica.z.shao@gmail.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "Re: Additional Facilitation Request: 5/24 & 5/26 AAPI Session",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:08:42.621008Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gDXHAAA=",
+    "from": "jessica.z.shao@gmail.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "Re: Additional Facilitation Request: 5/24 & 5/26 AAPI Session",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:08:45.859087Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gDW5AAA=",
+    "from": "jessica.z.shao@gmail.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "Re: Additional Facilitation Request: 5/24 & 5/26 AAPI Session",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:08:46.709107Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gDW2AAA=",
+    "from": "m.marcel@lcwmail.com",
+    "to": [
+      "a.wicksbowles@lcwmail.com"
+    ],
+    "subject": "RE: Demo of \"Where Did You Grow Up?\" activity from LCW curriculum",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:08:48.770366Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gDW0AAA=",
+    "from": "j.cookson@lcwmail.com",
+    "to": [
+      "Peter.Hurst@gatesfoundation.org"
+    ],
+    "subject": "Re: IDI intro at DPAF monthly",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:08:55.945114Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gDWzAAA=",
+    "from": "m.marcel@lcwmail.com",
+    "to": [
+      "a.wicksbowles@lcwmail.com"
+    ],
+    "subject": "RE: Demo of \"Where Did You Grow Up?\" activity from LCW curriculum",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:01.589278Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAADJDdeAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gIuRAAA=",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Chuck\u2019s Internet Connection",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:02.684104Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gDWtAAA=",
+    "from": "d.gough@lcwmail.com",
+    "to": [
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "Revised J&J Case Study",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:03.452948Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gDW3AAA=",
+    "from": "j.pieczynski@lcwmail.com",
+    "to": [
+      "jessica.z.shao@gmail.com"
+    ],
+    "subject": "RE: Additional Facilitation Request: 5/24 & 5/26 AAPI Session",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:07.757732Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJI0EAAA=",
+    "from": "Unknown Sender",
+    "to": [
+      "r.parrilla@lcwmail.com"
+    ],
+    "subject": "RE: Foundations of D&I for Autumn on May 20",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:10.248713Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3UBAAA=",
+    "from": "j.pieczynski@lcwmail.com",
+    "to": [
+      "jessica.z.shao@gmail.com"
+    ],
+    "subject": "RE: Additional Facilitation Request: 5/24 & 5/26 AAPI Session",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:23.816898Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAADJDdeAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M4iLAAA=",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "SCI Documents for Monday ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:33.309582Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3UFAAA=",
+    "from": "j.pieczynski@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: #FeatureFriday's Launch",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:33.415914Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJIz0AAA=",
+    "from": "Unknown Sender",
+    "to": [
+      "c.adams@lcwmail.com"
+    ],
+    "subject": "RE: Process Mapping request",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:35.161171Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3T_AAA=",
+    "from": "s.nodarse@lcwmail.com",
+    "to": [
+      "e.richmond@lcwmail.com",
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: Wellness Initative: Follow-up - and Culture Update",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:35.867022Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAADJDdeAADo2DvmaqSOQ4Mhc8gMLG9-AAB6gIuQAAA=",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "Shadowing Expectations",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:36.039190Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3T0AAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Wellness Initative: Follow-up",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:42.288242Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3T4AAA=",
+    "from": "m.marcel@lcwmail.com",
+    "to": [
+      "training@lcwmail.com",
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "Quick Q (2 minutes): raise your hand if...",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:43.834134Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3T1AAA=",
+    "from": "jessica.z.shao@gmail.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "Re: Additional Facilitation Request: 5/24 & 5/26 AAPI Session",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:45.701943Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJIz1AAA=",
+    "from": "Unknown Sender",
+    "to": [
+      "Jesse.RaneyBridges@gatesfoundation.org",
+      "Kristina.Thorne@gatesfoundation.org",
+      "Chelsey.Geraghty@gatesfoundation.org"
+    ],
+    "subject": "LCW Listening Sessions",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:48.036377Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3TyAAA=",
+    "from": "j.pieczynski@lcwmail.com",
+    "to": [
+      "jshaosan80@yahoo.com"
+    ],
+    "subject": "RE: Additional Facilitation Request: 5/24 & 5/26 AAPI Session",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:48.853683Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJIzxAAA=",
+    "from": "Unknown Sender",
+    "to": [
+      "MeShawn.Green@csaa.com"
+    ],
+    "subject": "RE: [EXTERNAL] LCW Content & Pricing - CSAA IG Leadership series",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:50.344481Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJKwTAAA=",
+    "from": "Unknown Sender",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "RE: Public Session - Revised Plan",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:50.501094Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJKwUAAA=",
+    "from": "Unknown Sender",
+    "to": [
+      "n.barile@lcwmail.com"
+    ],
+    "subject": "RE: Our meeting today",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:09:59.090217Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAADJDdeAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M4iJAAA=",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "LaTonya.Woodson@cbre.com",
+      "Tim.Dismond@cbre.com",
+      "m.marcel@lcwmail.com",
+      "Gail.Austin@cbre.com",
+      "Sherry.Borucki@cbre.com"
+    ],
+    "subject": "RE: LCW Listening Sessions + PAC Follow Up",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:01.789598Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEKAADo2DvmaqSOQ4Mhc8gMLG9-AAADJIzrAAA=",
+    "from": "m.marcel@lcwmail.com",
+    "to": [
+      "a.wicksbowles@lcwmail.com"
+    ],
+    "subject": "Demo of \"Where Did You Grow Up?\" activity from LCW curriculum",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:10.371808Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3TiAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "tamana.baraywal@gatesfoundation.org"
+    ],
+    "subject": "RE: Response Requested: Individual IDI Debrief Scheduling",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:19.548114Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3TkAAA=",
+    "from": "Gail.Austin@cbre.com",
+    "to": [
+      "LaTonya.Woodson@cbre.com",
+      "Tim.Dismond@cbre.com",
+      "c.adams@lcwmail.com",
+      "m.marcel@lcwmail.com",
+      "Sherry.Borucki@cbre.com"
+    ],
+    "subject": "RE: LCW Listening Sessions + PAC Follow Up",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:20.005985Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3TUAAA=",
+    "from": "lisainthestates@gmail.com",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "Re: FW: IDI intro at DPAF monthly",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:23.395359Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3TcAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "Jesse.RaneyBridges@gatesfoundation.org"
+    ],
+    "subject": "IDI Debrief Content Update",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:28.932155Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3TgAAA=",
+    "from": "Jesse.RaneyBridges@gatesfoundation.org",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "RE: IDI Debrief Content Update",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:35.766051Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3TZAAA=",
+    "from": "LaTonya.Woodson@cbre.com",
+    "to": [
+      "Tim.Dismond@cbre.com",
+      "c.adams@lcwmail.com",
+      "m.marcel@lcwmail.com",
+      "Gail.Austin@cbre.com",
+      "Sherry.Borucki@cbre.com"
+    ],
+    "subject": "RE: LCW Listening Sessions + PAC Follow Up",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:35.904814Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3TMAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "Chelsey.Geraghty@gatesfoundation.org",
+      "Jesse.RaneyBridges@gatesfoundation.org",
+      "lisainthestates@gmail.com"
+    ],
+    "subject": "FW: IDI intro at DPAF monthly",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:37.695345Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3TTAAA=",
+    "from": "Gail.Austin@cbre.com",
+    "to": [
+      "Tim.Dismond@cbre.com",
+      "c.adams@lcwmail.com",
+      "m.marcel@lcwmail.com",
+      "LaTonya.Woodson@cbre.com",
+      "Sherry.Borucki@cbre.com"
+    ],
+    "subject": "RE: LCW Listening Sessions + PAC Follow Up",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:37.993880Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAADJDdeAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M4iHAAA=",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "c-flowers@northwestern.edu"
+    ],
+    "subject": "Re: LCW Project Status meeting 4/14: Follow-up",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:39.681377Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4MtZQAAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "Sherry.Borucki@cbre.com"
+    ],
+    "subject": "RE: LCW Listening Sessions + PAC Follow Up",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:41.703402Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3TQAAA=",
+    "from": "j.pieczynski@lcwmail.com",
+    "to": [
+      "a.vargas@lcwmail.com",
+      "d.gough@lcwmail.com"
+    ],
+    "subject": "RE: Follow-up on this afternoon's presentation",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:45.057393Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3TNAAA=",
+    "from": "Tim.Dismond@cbre.com",
+    "to": [
+      "c.adams@lcwmail.com",
+      "m.marcel@lcwmail.com",
+      "Gail.Austin@cbre.com",
+      "LaTonya.Woodson@cbre.com",
+      "Sherry.Borucki@cbre.com"
+    ],
+    "subject": "RE: LCW Listening Sessions + PAC Follow Up",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:45.948135Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4MtZNAAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "m.marcel@lcwmail.com"
+    ],
+    "subject": "RE: LCW Listening Sessions + PAC Follow Up",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:49.093180Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4MtZPAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "c.adams@lcwmail.com",
+      "c-flowers@northwestern.edu",
+      "julie-yoo@northwestern.edu"
+    ],
+    "subject": "RE: LCW Project Status meeting 4/14: Follow-up",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:50.471281Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3TJAAA=",
+    "from": "c-flowers@northwestern.edu",
+    "to": [
+      "c.adams@lcwmail.com"
+    ],
+    "subject": "RE: LCW Project Status meeting 4/14: Follow-up",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:52.535841Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4MtZLAAA=",
+    "from": "Kristina.Thorne@gatesfoundation.org",
+    "to": [
+      "Chelsey.Geraghty@gatesfoundation.org"
+    ],
+    "subject": "RE: LCW Case Study Update & Questions",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:55.021789Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3TWAAA=",
+    "from": "a.kolodizner@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "A message for LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:10:56.364923Z"
+  },
+  {
+    "user_upn": "g.vottero@lcwmail.com",
+    "message_id": "AAMkADAxY2M0NDEyLTZmNGQtNGNjZS05NjZkLWEyZjgwYTQ2YjUyYwBGAAAAAADtFODS5cM5QIdCX0kNoDhWBwDo2DvmaqSOQ4Mhc8gMLG9-AAAAAAEMAADo2DvmaqSOQ4Mhc8gMLG9-AAB4M3TRAAA=",
+    "from": "Chelsey.Geraghty@gatesfoundation.org",
+    "to": [
+      "e.richmond@lcwmail.com",
+      "Jesse.RaneyBridges@gatesfoundation.org",
+      "lisainthestates@gmail.com"
+    ],
+    "subject": "RE: IDI intro at DPAF monthly",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:11:03.749641Z"
   }
 ]

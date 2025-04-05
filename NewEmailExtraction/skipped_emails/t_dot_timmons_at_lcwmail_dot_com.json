@@ -238,5 +238,105 @@
     "subject": "Q3 LCW Town Hall Meeting",
     "reason": "Not to or from the user",
     "logged_at": "2025-04-05T11:04:11.153855Z"
+  },
+  {
+    "user_upn": "t.timmons@lcwmail.com",
+    "message_id": "AAMkAGFmMTdiYjBhLWQ2NzktNDQ5ZS05ZGJlLWE0MTQ1ZGU4OTQ5OQBGAAAAAABRImGcw3h4S5ZcsmZYnWkUBwCgMkWCUGRoRIySb9SqPt_RAAAAAAEKAACgMkWCUGRoRIySb9SqPt_RAABlAQFDAAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Q3 LCW Town Hall Meeting",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:50.861172Z"
+  },
+  {
+    "user_upn": "t.timmons@lcwmail.com",
+    "message_id": "AAMkAGFmMTdiYjBhLWQ2NzktNDQ5ZS05ZGJlLWE0MTQ1ZGU4OTQ5OQBGAAAAAABRImGcw3h4S5ZcsmZYnWkUBwCgMkWCUGRoRIySb9SqPt_RAAAAAAEKAACgMkWCUGRoRIySb9SqPt_RAABlAQFFAAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Q3 LCW Town Hall Meeting",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:52.239596Z"
+  },
+  {
+    "user_upn": "t.timmons@lcwmail.com",
+    "message_id": "AAMkAGFmMTdiYjBhLWQ2NzktNDQ5ZS05ZGJlLWE0MTQ1ZGU4OTQ5OQBGAAAAAABRImGcw3h4S5ZcsmZYnWkUBwCgMkWCUGRoRIySb9SqPt_RAAAAAAEMAACgMkWCUGRoRIySb9SqPt_RAABlAFRhAAA=",
+    "from": "h.strack@lcwmail.com",
+    "to": [
+      "a.wicksbowles@lcwmail.com",
+      "training@lcwmail.com"
+    ],
+    "subject": "RE: Diversity in the Workplace- EU Perspective",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:52.230316Z"
+  },
+  {
+    "user_upn": "t.timmons@lcwmail.com",
+    "message_id": "AAMkAGFmMTdiYjBhLWQ2NzktNDQ5ZS05ZGJlLWE0MTQ1ZGU4OTQ5OQBGAAAAAABRImGcw3h4S5ZcsmZYnWkUBwCgMkWCUGRoRIySb9SqPt_RAAAAAAEMAACgMkWCUGRoRIySb9SqPt_RAABjVZK0AAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "TTruong2@teamlogicit.com"
+    ],
+    "subject": "RE: Wiping Tahitia's computer",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:52.728042Z"
+  },
+  {
+    "user_upn": "t.timmons@lcwmail.com",
+    "message_id": "AAMkAGFmMTdiYjBhLWQ2NzktNDQ5ZS05ZGJlLWE0MTQ1ZGU4OTQ5OQBGAAAAAABRImGcw3h4S5ZcsmZYnWkUBwCgMkWCUGRoRIySb9SqPt_RAAAAAAEMAACgMkWCUGRoRIySb9SqPt_RAABlAFRgAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "Diversity in the Workplace- EU Perspective",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:52.768990Z"
+  },
+  {
+    "user_upn": "t.timmons@lcwmail.com",
+    "message_id": "AAMkAGFmMTdiYjBhLWQ2NzktNDQ5ZS05ZGJlLWE0MTQ1ZGU4OTQ5OQBGAAAAAABRImGcw3h4S5ZcsmZYnWkUBwCgMkWCUGRoRIySb9SqPt_RAAAAAAEMAACgMkWCUGRoRIySb9SqPt_RAABjVZKoAAA=",
+    "from": "Edward.Hernandez@jti.com",
+    "to": [
+      "c.williams@lcwmail.com"
+    ],
+    "subject": "RE: Last day this Friday",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:53.415225Z"
+  },
+  {
+    "user_upn": "t.timmons@lcwmail.com",
+    "message_id": "AAMkAGFmMTdiYjBhLWQ2NzktNDQ5ZS05ZGJlLWE0MTQ1ZGU4OTQ5OQBGAAAAAABRImGcw3h4S5ZcsmZYnWkUBwCgMkWCUGRoRIySb9SqPt_RAAAAAAEMAACgMkWCUGRoRIySb9SqPt_RAABjVZK2AAA=",
+    "from": "TTruong2@teamlogicit.com",
+    "to": [
+      "n.barile@lcwmail.com"
+    ],
+    "subject": "RE: Wiping Tahitia's computer",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:53.776260Z"
+  },
+  {
+    "user_upn": "t.timmons@lcwmail.com",
+    "message_id": "AAMkAGFmMTdiYjBhLWQ2NzktNDQ5ZS05ZGJlLWE0MTQ1ZGU4OTQ5OQBGAAAAAABRImGcw3h4S5ZcsmZYnWkUBwCgMkWCUGRoRIySb9SqPt_RAAAAAAEMAACgMkWCUGRoRIySb9SqPt_RAABjVZKnAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "m.johnson@lcwmail.com"
+    ],
+    "subject": "RE: New LCW consultant assigned - Meet Melonya",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:54.574261Z"
+  },
+  {
+    "user_upn": "t.timmons@lcwmail.com",
+    "message_id": "AAMkAGFmMTdiYjBhLWQ2NzktNDQ5ZS05ZGJlLWE0MTQ1ZGU4OTQ5OQBGAAAAAABRImGcw3h4S5ZcsmZYnWkUBwCgMkWCUGRoRIySb9SqPt_RAAAAAAEMAACgMkWCUGRoRIySb9SqPt_RAABlAFRTAAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Canceled: Q3 LCW Town Hall Meeting",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:02.511794Z"
   }
 ]

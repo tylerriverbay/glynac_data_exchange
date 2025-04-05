@@ -35,5 +35,384 @@
     "subject": "RE: RSVP 11/06/2024 Timothy-We sent you your complimentary IDI assessment credentials",
     "reason": "Not to or from the user",
     "logged_at": "2025-04-05T10:48:10.746892Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AARU3ZZoAAA=",
+    "from": "MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@lcwmail.onmicrosoft.com",
+    "to": [
+      "austin.lindsay@pgimqs.com"
+    ],
+    "subject": "Undeliverable: Your Invitation to take the IDI- Password",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:30:16.349996Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AARU3ZZkAAA=",
+    "from": "MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@lcwmail.onmicrosoft.com",
+    "to": [
+      "laurene.williams@pgimqs.com"
+    ],
+    "subject": "Undeliverable: Your Invitation to take the Intercultural Development Inventory (IDI) ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:30:43.366502Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AARU3ZZlAAA=",
+    "from": "MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@lcwmail.onmicrosoft.com",
+    "to": [
+      "austin.lindsay@pgimqs.com"
+    ],
+    "subject": "Undeliverable: Your Invitation to take the Intercultural Development Inventory (IDI) ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:30:45.507635Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AARU3ZZnAAA=",
+    "from": "MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@lcwmail.onmicrosoft.com",
+    "to": [
+      "laurene.williams@pgimqs.com"
+    ],
+    "subject": "Undeliverable: Your Invitation to take the IDI- Password",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:30:47.397499Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AAROxe-wAAA=",
+    "from": "mailer-daemon@googlemail.com",
+    "to": [
+      "eddie.santillan@gusto.com"
+    ],
+    "subject": "Undeliverable: Delivery Status Notification (Failure)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:37:32.338053Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AAROxe-sAAA=",
+    "from": "MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@lcwmail.onmicrosoft.com",
+    "to": [
+      "Patti.Snyder@gusto.comn"
+    ],
+    "subject": "Undeliverable: Action Required: Your Invitation to the Intercultural Development Inventory (IDI) ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:38:36.222258Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AAROxe-tAAA=",
+    "from": "mailer-daemon@googlemail.com",
+    "to": [
+      "Alaine.McKenzie@gusto.com"
+    ],
+    "subject": "Undeliverable: Delivery Status Notification (Failure)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:38:45.515867Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AARNadJpAAA=",
+    "from": "christopher.yue@prudential.com",
+    "to": [
+      "n.geleta@lcwmail.com"
+    ],
+    "subject": "Three date switches that might impact IDI",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:41:36.113713Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AARNadJoAAA=",
+    "from": "christopher.yue@prudential.com",
+    "to": [
+      "n.geleta@lcwmail.com"
+    ],
+    "subject": "Three date switches that might impact IDI",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:41:38.305679Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AARNadJhAAA=",
+    "from": "pcoleman@azworldconnections.com",
+    "to": [
+      "n.geleta@lcwmail.com"
+    ],
+    "subject": "Re: Prudential IDI debriefs-Patricia\u2019s availability beginning 9/14/22",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:42:01.893716Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AARNadJjAAA=",
+    "from": "n.geleta@lcwmail.com",
+    "to": [
+      "pcoleman@azworldconnections.com"
+    ],
+    "subject": "RE: Prudential IDI debriefs-Patricia\u2019s availability beginning 9/14/22",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:42:03.836954Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AARNadJdAAA=",
+    "from": "postmaster@prudentialus.onmicrosoft.com",
+    "to": [
+      "sarah.mannix@prudential.com"
+    ],
+    "subject": "Undeliverable: Password for IDI Invitation ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:42:04.281248Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AARNadJcAAA=",
+    "from": "postmaster@prudentialus.onmicrosoft.com",
+    "to": [
+      "sarah.mannix@prudential.com"
+    ],
+    "subject": "Undeliverable: Your Invitation to the Intercultural Development Inventory (IDI) ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:43:02.745366Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AARNadJZAAA=",
+    "from": "m.neu@lcwmail.com",
+    "to": [
+      "j.cookson@lcwmail.com"
+    ],
+    "subject": "RE: ck-in on interpreting my OL calendar",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:43:26.012187Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AARNadJYAAA=",
+    "from": "j.cookson@lcwmail.com",
+    "to": [
+      "m.neu@lcwmail.com"
+    ],
+    "subject": "ck-in on interpreting my OL calendar",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:43:43.807876Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEKAAAOZ4q_idT3S7U7Jq5mZcC8AARONmzpAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": "Your Invitation to the Intercultural Development Inventory (IDI) ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:45:32.709010Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AARJEWcvAAA=",
+    "from": "christopher.yue@prudential.com",
+    "to": [
+      "n.geleta@lcwmail.com"
+    ],
+    "subject": "September 27 attendee list.  ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:46:53.022208Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEKAAAOZ4q_idT3S7U7Jq5mZcC8AARILlZrAAA=",
+    "from": "postmaster@gwire.onmicrosoft.com",
+    "to": [
+      "loconnell@guidewire.com"
+    ],
+    "subject": "Undeliverable: {EXT} Your Invitation to the Intercultural Development Inventory (IDI)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:47:43.616331Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEKAAAOZ4q_idT3S7U7Jq5mZcC8AARE6j0FAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": "",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:48:47.165084Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AARDzXGCAAA=",
+    "from": "christopher.yue@prudential.com",
+    "to": [
+      "n.geleta@lcwmail.com"
+    ],
+    "subject": "Re: Sept 15 BCI Registrants",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:48:58.785858Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AARAcCbkAAA=",
+    "from": "n.geleta@lcwmail.com",
+    "to": [
+      "christopher.yue@prudential.com"
+    ],
+    "subject": "RE: Sept 15 BCI Registrants",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:51:20.691672Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AARB8WxnAAA=",
+    "from": "Maria.Johnson2@bsci.com",
+    "to": [
+      "Kari.Bahr@bsci.com"
+    ],
+    "subject": "Re: Conflict for tomorrows course ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:51:23.363127Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AARAcCbiAAA=",
+    "from": "christopher.yue@prudential.com",
+    "to": [
+      "n.geleta@lcwmail.com"
+    ],
+    "subject": "Sept 15 BCI Registrants",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:51:30.220780Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AARB8WxmAAA=",
+    "from": "Kari.Bahr@bsci.com",
+    "to": [
+      "Maria.Johnson2@bsci.com"
+    ],
+    "subject": "RE: Conflict for tomorrows course ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:51:40.607260Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEKAAAOZ4q_idT3S7U7Jq5mZcC8AARAcFn_AAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": "Your IDI Profile and Plan ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:52:16.820128Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AAQ6doTeAAA=",
+    "from": "MAILER-DAEMON@bsci.com",
+    "to": [
+      "Tim.McLean2@bsci.com"
+    ],
+    "subject": "Undeliverable: {External} Your IDI Group Profile (Results)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:53:01.836505Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AAQ6doS-AAA=",
+    "from": "a.vargas@lcwmail.com",
+    "to": [
+      "pcoleman@azworldconnections.com",
+      "k.nonweiler@lcwmail.com"
+    ],
+    "subject": "RE: URGENT - Patricia Coleman\u2019s availability Aug 17 & 22  Ubisoft IDI ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:54:51.623517Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AAQ6doS3AAA=",
+    "from": "pcoleman@azworldconnections.com",
+    "to": [
+      "a.vargas@lcwmail.com"
+    ],
+    "subject": "URGENT - Patricia Coleman\u2019s availability Aug 17 & 22  Ubisoft IDI ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:55:04.303817Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AAQ44ZetAAA=",
+    "from": "pcoleman@azworldconnections.com",
+    "to": [
+      "brid.gasparotto@ubisoft.com"
+    ],
+    "subject": "Reminder-Brid Gasparotto (Ubisoft) - IDI Debrief Aug 8 9am UK/ 10am  CET",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T12:59:51.130860Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AAQ49OvzAAA=",
+    "from": "pcoleman@azworldconnections.com",
+    "to": [
+      "t.thorpe@lcwmail.com"
+    ],
+    "subject": "Need IDI reports/ Brid Gasparotto (Ubisoft) - IDI Debrief Aug 8 3am cdt ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:00:12.641058Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AAQ1tsWWAAA=",
+    "from": "n.geleta@lcwmail.com",
+    "to": [
+      "christopher.yue@prudential.com"
+    ],
+    "subject": "RE: September 13 BCI registrants ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:00:42.126199Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AAQ1tsWVAAA=",
+    "from": "christopher.yue@prudential.com",
+    "to": [
+      "n.geleta@lcwmail.com"
+    ],
+    "subject": "September 13 BCI registrants ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:00:59.915266Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEKAAAOZ4q_idT3S7U7Jq5mZcC8AAQ0qVOVAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": "",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:02:07.018959Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AAQ0qPhdAAA=",
+    "from": "postmaster@BostonScientific.onmicrosoft.com",
+    "to": [
+      "Matthew.Graveen@bsci.com"
+    ],
+    "subject": "Undeliverable: {External} Your Group IDI Profile (Results) ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:03:53.335567Z"
+  },
+  {
+    "user_upn": "idi@lcwmail.com",
+    "message_id": "AAMkADg1ZTRlMGQ2LTNkOTgtNDQ5YS04ZTQ2LWMxZTNmN2U1MTQ1ZgBGAAAAAADh-ZxpbdO3SoEjhPtrnxWOBwAOZ4q_idT3S7U7Jq5mZcC8AAAAAAEMAAAOZ4q_idT3S7U7Jq5mZcC8AAQwhYlCAAA=",
+    "from": "c.williams@lcwmail.com",
+    "to": [
+      "heidi.pearsall@prudential.com",
+      "jessica.vanscavish@prudential.com"
+    ],
+    "subject": "RE: Jessica Vanscavish (Prudential)- IDI Debrief",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T13:04:41.894439Z"
   }
 ]

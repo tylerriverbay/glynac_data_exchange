@@ -31,5 +31,27 @@
     "subject": "{ACTION REQUIRED} - WeWork Bridgeview Bank Key Fobs/Keycards",
     "reason": "Not to or from the user",
     "logged_at": "2025-04-05T11:04:12.863574Z"
+  },
+  {
+    "user_upn": "a.jones@lcwmail.com",
+    "message_id": "AAMkAGZhNjlmY2YyLTAwNzktNDM4NC1iNTM1LTFmMDJhZTUwZWVmZABGAAAAAAB4F4Aa_UfFRYOoE7E4PpYtBwAHHUqeuAeuSZYG8qTx5Q1wAAAAAAEMAAAHHUqeuAeuSZYG8qTx5Q1wAAF9tCkyAAA=",
+    "from": "ranana.gordon2@wework.com",
+    "to": [
+      "bridgeviewbank@wework.com"
+    ],
+    "subject": "WeWork Office Radiators",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:55.663248Z"
+  },
+  {
+    "user_upn": "a.jones@lcwmail.com",
+    "message_id": "AAMkAGZhNjlmY2YyLTAwNzktNDM4NC1iNTM1LTFmMDJhZTUwZWVmZABGAAAAAAB4F4Aa_UfFRYOoE7E4PpYtBwAHHUqeuAeuSZYG8qTx5Q1wAAAAAAEMAAAHHUqeuAeuSZYG8qTx5Q1wAAF-56rbAAA=",
+    "from": "ranana.gordon2@wework.com",
+    "to": [
+      "bridgeviewbank@wework.com"
+    ],
+    "subject": "Re: {ACTION REQUIRED} - WeWork Bridgeview Bank Key Fobs/Keycards",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:07.596623Z"
   }
 ]

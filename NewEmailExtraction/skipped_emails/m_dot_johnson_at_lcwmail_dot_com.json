@@ -1178,5 +1178,353 @@
     "subject": "Q2 Learner's Lounge",
     "reason": "Not to or from the user",
     "logged_at": "2025-04-05T11:02:53.207847Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFaCZZNAAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "r.parrilla@lcwmail.com",
+      "training@lcwmail.com",
+      "c.adams@lcwmail.com",
+      "a.kolodizner@lcwmail.com"
+    ],
+    "subject": "RE: SIETAR USA 2024 Conference Call for Proposals is NOW OPEN!",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:38.754870Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFhBd_DAAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "s.nodarse@lcwmail.com",
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Canceled: LCW Learner's Lounge",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:39.350626Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFd_023AAA=",
+    "from": "a.vicente@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Hispanic Heritage Month Background",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:41.026782Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFd_02zAAA=",
+    "from": "P.seminario@lcwmail.com",
+    "to": [
+      "b.cardenas@lcwmail.com",
+      "r.parrilla@lcwmail.com",
+      "training@lcwmail.com",
+      "c.adams@lcwmail.com",
+      "a.kolodizner@lcwmail.com"
+    ],
+    "subject": "RE: SIETAR USA 2024 Conference Call for Proposals is NOW OPEN!",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:41.034630Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFS1vGjAAA=",
+    "from": "t.thorpe@lcwmail.com",
+    "to": [
+      "r.parrilla@lcwmail.com",
+      "training@lcwmail.com"
+    ],
+    "subject": "RE: Example of recent customization or tailoring of BCI or MUBW or similar?",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:41.683804Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFZCqkPAAA=",
+    "from": "a.vicente@lcwmail.com",
+    "to": [
+      "consultants@lcwmail.com"
+    ],
+    "subject": "Talent Review Bundles (Action Required)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:41.878083Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFd_021AAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "Something old something new...",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:42.391814Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFhBd_EAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "heather.price@symmetra.com.au"
+    ],
+    "subject": "RE: Let's Chat About Inclusive Hiring in Chicago!",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:42.465358Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFd_022AAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "a.wicksbowles@lcwmail.com",
+      "training@lcwmail.com"
+    ],
+    "subject": "RE: Something old something new...",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:42.652379Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFd_024AAA=",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "MSA/SOW legal reviews",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:43.183198Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFWx23NAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Excel Help",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:43.866454Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFZCqkQAAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "s.nodarse@lcwmail.com",
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Canceled: LCW Learner's Lounge",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:44.032109Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFWx23KAAA=",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "a.vicente@lcwmail.com",
+      "consultants@lcwmail.com"
+    ],
+    "subject": "RE: Talent Review Bundles (Next Week)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:44.143545Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFVeuSpAAA=",
+    "from": "d.puehler@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "FW: Updated Microlearnings with REBRANDING",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:44.187481Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFWx23LAAA=",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "r.parrilla@lcwmail.com",
+      "a.vicente@lcwmail.com",
+      "consultants@lcwmail.com"
+    ],
+    "subject": "RE: Talent Review Bundles (Next Week)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:44.893962Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFVwm3QAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "a.vicente@lcwmail.com"
+    ],
+    "subject": "RE: Talent Review Bundles (Next Week)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:44.949081Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFZCqkOAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com",
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: Excel Help",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:44.990791Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFcp0ixAAA=",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "consultants@lcwmail.com",
+      "k.salek@lcwmail.com"
+    ],
+    "subject": "Foundational DEI course for C-suite or senior leaders?",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:45.350300Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFS1vGhAAA=",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "Example of recent customization or tailoring of BCI or MUBW or similar?",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:45.375165Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFVwm3PAAA=",
+    "from": "a.vicente@lcwmail.com",
+    "to": [
+      "consultants@lcwmail.com"
+    ],
+    "subject": "Talent Review Bundles (Next Week)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:45.479564Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFWx23MAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "c.adams@lcwmail.com",
+      "r.parrilla@lcwmail.com",
+      "a.vicente@lcwmail.com",
+      "consultants@lcwmail.com"
+    ],
+    "subject": "RE: Talent Review Bundles (Next Week)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:45.500719Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFhBd_CAAA=",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "training@lcwmail.com",
+      "b.cardenas@lcwmail.com",
+      "a.kolodizner@lcwmail.com",
+      "c.adams@lcwmail.com"
+    ],
+    "subject": "What you need to submit for speaking at SIETAR USA 2024 Virtual Conference (Feb 22-24)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:45.523111Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFS1vGiAAA=",
+    "from": "t.thorpe@lcwmail.com",
+    "to": [
+      "c.adams@lcwmail.com",
+      "r.parrilla@lcwmail.com",
+      "training@lcwmail.com"
+    ],
+    "subject": "RE: SCI Approach slide you can use with clients",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:45.627093Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFS1vGgAAA=",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "r.parrilla@lcwmail.com",
+      "training@lcwmail.com"
+    ],
+    "subject": "RE: SCI Approach slide you can use with clients",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:45.759338Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFS1vGfAAA=",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "SCI Approach slide you can use with clients",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:45.993224Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFWx23JAAA=",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "d.puehler@lcwmail.com",
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: Updated Microlearnings with REBRANDING",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:46.058152Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFRaiMOAAA=",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "training@lcwmail.com",
+      "c.adams@lcwmail.com",
+      "a.kolodizner@lcwmail.com"
+    ],
+    "subject": "SIETAR USA 2024 Conference Call for Proposals is NOW OPEN!",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:46.232946Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFd_020AAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "a.vicente@lcwmail.com"
+    ],
+    "subject": "Do you have LinkedIn premium..?",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:15:12.078463Z"
+  },
+  {
+    "user_upn": "m.johnson@lcwmail.com",
+    "message_id": "AAMkADQxNDAwZWQ5LTg1ZmYtNGE2Ny05YmZkLTYwMDg1OGMyODA2NABGAAAAAABJx2zrZmcmSr_Pgu4EN5EVBwCSVYZbkD6mTqmbxqjcL3zJAAAAAAEMAACSVYZbkD6mTqmbxqjcL3zJAAFWx23OAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "a.wicksbowles@lcwmail.com",
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: Excel Help",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:15:12.096687Z"
   }
 ]

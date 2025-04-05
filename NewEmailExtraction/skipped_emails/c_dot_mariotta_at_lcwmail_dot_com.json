@@ -238,5 +238,64 @@
     "subject": "RE: Boston Scientific: Turnaround times + quote documents",
     "reason": "Not to or from the user",
     "logged_at": "2025-04-05T11:04:14.320931Z"
+  },
+  {
+    "user_upn": "c.mariotta@lcwmail.com",
+    "message_id": "AAMkADg0NTVkZjY2LTQyMTQtNDljOC04ZGRhLWFiYmZiMjkzYTg0YQBGAAAAAAB1YAEKnu4fRYpID_d5bSDcBwDNiJdz1lWcQrlvjD8ApiHtAAAAAAEKAADNiJdz1lWcQrlvjD8ApiHtAAAAAwDfAAA=",
+    "from": "subscriptions@corporatecompliance.org",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Webinars: Data Privacy in Higher Education, Supporting Privacy + AI, and more!",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:15.151160Z"
+  },
+  {
+    "user_upn": "c.mariotta@lcwmail.com",
+    "message_id": "AAMkADg0NTVkZjY2LTQyMTQtNDljOC04ZGRhLWFiYmZiMjkzYTg0YQBGAAAAAAB1YAEKnu4fRYpID_d5bSDcBwDNiJdz1lWcQrlvjD8ApiHtAAAAAAEKAADNiJdz1lWcQrlvjD8ApiHtAAASXBTvAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "accounting@lcwmail.com"
+    ],
+    "subject": "Fw: LCW invoice #25049",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:15.192523Z"
+  },
+  {
+    "user_upn": "c.mariotta@lcwmail.com",
+    "message_id": "AAMkADg0NTVkZjY2LTQyMTQtNDljOC04ZGRhLWFiYmZiMjkzYTg0YQBGAAAAAAB1YAEKnu4fRYpID_d5bSDcBwDNiJdz1lWcQrlvjD8ApiHtAAAAAAEPAADNiJdz1lWcQrlvjD8ApiHtAAAAAx3mAAA=",
+    "from": "Unknown Sender",
+    "to": [
+      "klai@diligent.com",
+      "n.barile@lcwmail.com",
+      "accounting@lcwmail.com",
+      "gls@lcwmail.com",
+      "Invoices+AMERICAS@diligent.coupahost.com"
+    ],
+    "subject": "RE: LCW invoice #25049",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:17.078774Z"
+  },
+  {
+    "user_upn": "c.mariotta@lcwmail.com",
+    "message_id": "AAMkADg0NTVkZjY2LTQyMTQtNDljOC04ZGRhLWFiYmZiMjkzYTg0YQBGAAAAAAB1YAEKnu4fRYpID_d5bSDcBwDNiJdz1lWcQrlvjD8ApiHtAAAAAAEKAADNiJdz1lWcQrlvjD8ApiHtAAAAAwDkAAA=",
+    "from": "jfossey@trad-anglais.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Translator, French to English, Ready for your FR>EN projects",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:19.468643Z"
+  },
+  {
+    "user_upn": "c.mariotta@lcwmail.com",
+    "message_id": "AAMkADg0NTVkZjY2LTQyMTQtNDljOC04ZGRhLWFiYmZiMjkzYTg0YQBGAAAAAAB1YAEKnu4fRYpID_d5bSDcBwDNiJdz1lWcQrlvjD8ApiHtAAAAAAEKAADNiJdz1lWcQrlvjD8ApiHtAAAAAwDjAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "gls@lcwmail.com"
+    ],
+    "subject": "Fwd: Translator, French to English, Ready for your FR>EN projects",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:22.377050Z"
   }
 ]

@@ -125,5 +125,45 @@
     "subject": "Re: Invitation from LANGUAGE & CULTURE WORLDWIDE, LLC is waiting for your response",
     "reason": "Not to or from the user",
     "logged_at": "2025-04-05T10:58:04.019589Z"
+  },
+  {
+    "user_upn": "p.coulter@lcwmail.com",
+    "message_id": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAEKAAARNaNds68XQpUWYT8kHgRXAABjKfZyAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": "",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:11.352304Z"
+  },
+  {
+    "user_upn": "p.coulter@lcwmail.com",
+    "message_id": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAEMAAARNaNds68XQpUWYT8kHgRXAABqkjFdAAA=",
+    "from": "m.murcia@lcwmail.com",
+    "to": [
+      "a.jones@lcwmail.com"
+    ],
+    "subject": "April Close / Q1 Adjustments",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:11.418688Z"
+  },
+  {
+    "user_upn": "p.coulter@lcwmail.com",
+    "message_id": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAACJ7QyAAARNaNds68XQpUWYT8kHgRXAAEblKjvAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:15.445899Z"
+  },
+  {
+    "user_upn": "p.coulter@lcwmail.com",
+    "message_id": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAEMAAARNaNds68XQpUWYT8kHgRXAABqkjFcAAA=",
+    "from": "m.murcia@lcwmail.com",
+    "to": [
+      "a.jones@lcwmail.com"
+    ],
+    "subject": "2303.1 Accrued Payroll Liabilities - Salaries, PTO + Taxes",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:15.579609Z"
   }
 ]

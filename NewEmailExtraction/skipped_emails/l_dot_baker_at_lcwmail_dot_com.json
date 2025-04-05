@@ -245,5 +245,86 @@
     "subject": null,
     "reason": "Not to or from the user",
     "logged_at": "2025-04-05T10:57:21.748428Z"
+  },
+  {
+    "user_upn": "l.baker@lcwmail.com",
+    "message_id": "AAMkAGI2MjM1NmEwLTQ3MDUtNDExMy1hMTIyLTk3YmQzNWY0MWVhZABGAAAAAABeNzZjrrwVSbYdigYaF_L9BwAqur5AFaY8TaE7XjQQGGIUAAKl239vAAAqur5AFaY8TaE7XjQQGGIUAAYSl0cwAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:18.562952Z"
+  },
+  {
+    "user_upn": "l.baker@lcwmail.com",
+    "message_id": "AAMkAGI2MjM1NmEwLTQ3MDUtNDExMy1hMTIyLTk3YmQzNWY0MWVhZABGAAAAAABeNzZjrrwVSbYdigYaF_L9BwAqur5AFaY8TaE7XjQQGGIUAAKl239uAAAqur5AFaY8TaE7XjQQGGIUAAYSl7z3AAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:22.285659Z"
+  },
+  {
+    "user_upn": "l.baker@lcwmail.com",
+    "message_id": "AAMkAGI2MjM1NmEwLTQ3MDUtNDExMy1hMTIyLTk3YmQzNWY0MWVhZABGAAAAAABeNzZjrrwVSbYdigYaF_L9BwAqur5AFaY8TaE7XjQQGGIUAAKl239vAAAqur5AFaY8TaE7XjQQGGIUAAYUX23OAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:23.470238Z"
+  },
+  {
+    "user_upn": "l.baker@lcwmail.com",
+    "message_id": "AAMkAGI2MjM1NmEwLTQ3MDUtNDExMy1hMTIyLTk3YmQzNWY0MWVhZABGAAAAAABeNzZjrrwVSbYdigYaF_L9BwAqur5AFaY8TaE7XjQQGGIUAAKl239vAAAqur5AFaY8TaE7XjQQGGIUAAYSl0csAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:25.915512Z"
+  },
+  {
+    "user_upn": "l.baker@lcwmail.com",
+    "message_id": "AAMkAGI2MjM1NmEwLTQ3MDUtNDExMy1hMTIyLTk3YmQzNWY0MWVhZABGAAAAAABeNzZjrrwVSbYdigYaF_L9BwAqur5AFaY8TaE7XjQQGGIUAAKl239vAAAqur5AFaY8TaE7XjQQGGIUAAYSl0czAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:26.399383Z"
+  },
+  {
+    "user_upn": "l.baker@lcwmail.com",
+    "message_id": "AAMkAGI2MjM1NmEwLTQ3MDUtNDExMy1hMTIyLTk3YmQzNWY0MWVhZABGAAAAAABeNzZjrrwVSbYdigYaF_L9BwAqur5AFaY8TaE7XjQQGGIUAAKl239vAAAqur5AFaY8TaE7XjQQGGIUAAYSl0c1AAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:29.014898Z"
+  },
+  {
+    "user_upn": "l.baker@lcwmail.com",
+    "message_id": "AAMkAGI2MjM1NmEwLTQ3MDUtNDExMy1hMTIyLTk3YmQzNWY0MWVhZABGAAAAAABeNzZjrrwVSbYdigYaF_L9BwAqur5AFaY8TaE7XjQQGGIUAAKl239vAAAqur5AFaY8TaE7XjQQGGIUAAYSl0cqAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:29.620689Z"
+  },
+  {
+    "user_upn": "l.baker@lcwmail.com",
+    "message_id": "AAMkAGI2MjM1NmEwLTQ3MDUtNDExMy1hMTIyLTk3YmQzNWY0MWVhZABGAAAAAABeNzZjrrwVSbYdigYaF_L9BwAqur5AFaY8TaE7XjQQGGIUAAKl239vAAAqur5AFaY8TaE7XjQQGGIUAAYSl0cuAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:32.867807Z"
+  },
+  {
+    "user_upn": "l.baker@lcwmail.com",
+    "message_id": "AAMkAGI2MjM1NmEwLTQ3MDUtNDExMy1hMTIyLTk3YmQzNWY0MWVhZABGAAAAAABeNzZjrrwVSbYdigYaF_L9BwAqur5AFaY8TaE7XjQQGGIUAAKl239vAAAqur5AFaY8TaE7XjQQGGIUAAYSl0cmAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:37.610316Z"
   }
 ]

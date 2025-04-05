@@ -199,5 +199,81 @@
     "subject": "Canceled: [OPTIONAL] Friday Thinkathon",
     "reason": "Not to or from the user",
     "logged_at": "2025-04-05T10:58:46.118259Z"
+  },
+  {
+    "user_upn": "v.bongiovanni@lcwmail.com",
+    "message_id": "AAMkADAyMTgzODQwLTEyNTItNDliMi04NzYyLTI2MzAwYjdjNGNhYwBGAAAAAAA5WwaEmRztR756C--FfGj9BwAgpOCDGeJfRIwoKwb_SZ_8AAAAAAEMAAAgpOCDGeJfRIwoKwb_SZ_8AAOs9FjPAAA=",
+    "from": "treasurer@youngsietar.org",
+    "to": [
+      "community@youngsietar.org"
+    ],
+    "subject": "Important: membership adjustment; please renew your membership",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:55.568138Z"
+  },
+  {
+    "user_upn": "v.bongiovanni@lcwmail.com",
+    "message_id": "AAMkADAyMTgzODQwLTEyNTItNDliMi04NzYyLTI2MzAwYjdjNGNhYwBGAAAAAAA5WwaEmRztR756C--FfGj9BwAgpOCDGeJfRIwoKwb_SZ_8AAAAAAEMAAAgpOCDGeJfRIwoKwb_SZ_8AAOWrE8CAAA=",
+    "from": "treasurer@youngsietar.org",
+    "to": [
+      "community@youngsietar.org"
+    ],
+    "subject": "important information about Young Sietar, and GA March 2",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:55.920386Z"
+  },
+  {
+    "user_upn": "v.bongiovanni@lcwmail.com",
+    "message_id": "AAMkADAyMTgzODQwLTEyNTItNDliMi04NzYyLTI2MzAwYjdjNGNhYwBGAAAAAAA5WwaEmRztR756C--FfGj9BwAgpOCDGeJfRIwoKwb_SZ_8AAAAAAEMAAAgpOCDGeJfRIwoKwb_SZ_8AANtJyHQAAA=",
+    "from": "info@2daysmood.nl",
+    "to": [],
+    "subject": "\ud83c\udf84 End of years greetings 2DAYSMOOD \ud83c\udf84 ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:56.639840Z"
+  },
+  {
+    "user_upn": "v.bongiovanni@lcwmail.com",
+    "message_id": "AAMkADAyMTgzODQwLTEyNTItNDliMi04NzYyLTI2MzAwYjdjNGNhYwBGAAAAAAA5WwaEmRztR756C--FfGj9BwAgpOCDGeJfRIwoKwb_SZ_8AAAAAAEMAAAgpOCDGeJfRIwoKwb_SZ_8AAMxHVmGAAA=",
+    "from": "a.kolodizner@lcwmail.com",
+    "to": [],
+    "subject": "[OPTIONAL] Friday Thinkathon",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:59.052030Z"
+  },
+  {
+    "user_upn": "v.bongiovanni@lcwmail.com",
+    "message_id": "AAMkADAyMTgzODQwLTEyNTItNDliMi04NzYyLTI2MzAwYjdjNGNhYwBGAAAAAAA5WwaEmRztR756C--FfGj9BwAgpOCDGeJfRIwoKwb_SZ_8AAAAAAEMAAAgpOCDGeJfRIwoKwb_SZ_8AAM5G4LbAAA=",
+    "from": "a.kolodizner@lcwmail.com",
+    "to": [],
+    "subject": "Canceled: [OPTIONAL] Friday Thinkathon",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:00.075998Z"
+  },
+  {
+    "user_upn": "v.bongiovanni@lcwmail.com",
+    "message_id": "AAMkADAyMTgzODQwLTEyNTItNDliMi04NzYyLTI2MzAwYjdjNGNhYwBGAAAAAAA5WwaEmRztR756C--FfGj9BwAgpOCDGeJfRIwoKwb_SZ_8AAAAAAEKAAAgpOCDGeJfRIwoKwb_SZ_8AAMxHWFkAAA=",
+    "from": "a.kolodizner@lcwmail.com",
+    "to": [],
+    "subject": "[OPTIONAL] Friday Thinkathon",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:00.586863Z"
+  },
+  {
+    "user_upn": "v.bongiovanni@lcwmail.com",
+    "message_id": "AAMkADAyMTgzODQwLTEyNTItNDliMi04NzYyLTI2MzAwYjdjNGNhYwBGAAAAAAA5WwaEmRztR756C--FfGj9BwAgpOCDGeJfRIwoKwb_SZ_8AAAAAAEMAAAgpOCDGeJfRIwoKwb_SZ_8AAMmlvRbAAA=",
+    "from": "a.kolodizner@lcwmail.com",
+    "to": [],
+    "subject": "Canceled: [OPTIONAL] Friday Thinkathon",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:00.954936Z"
+  },
+  {
+    "user_upn": "v.bongiovanni@lcwmail.com",
+    "message_id": "AAMkADAyMTgzODQwLTEyNTItNDliMi04NzYyLTI2MzAwYjdjNGNhYwBGAAAAAAA5WwaEmRztR756C--FfGj9BwAgpOCDGeJfRIwoKwb_SZ_8AAAAAAEKAAAgpOCDGeJfRIwoKwb_SZ_8AAMxHWFlAAA=",
+    "from": "a.kolodizner@lcwmail.com",
+    "to": [],
+    "subject": "[OPTIONAL] Friday Thinkathon",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:11:01.386202Z"
   }
 ]

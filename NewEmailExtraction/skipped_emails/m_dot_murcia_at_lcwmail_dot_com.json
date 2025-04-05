@@ -218,5 +218,250 @@
     "subject": null,
     "reason": "Not to or from the user",
     "logged_at": "2025-04-05T11:04:06.075656Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAACspD5AAC-hY9V5nR6SKtMg2sTJeS7AAGb8W69AAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:33.735720Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAEMAAC-hY9V5nR6SKtMg2sTJeS7AABxOyDPAAA=",
+    "from": "a.jones@lcwmail.com",
+    "to": [
+      "nkaralis@wintrust.com",
+      "a.kolodizner@lcwmail.com",
+      "bkarpeles@wintrust.com",
+      "asamsky@sutkermoran.com"
+    ],
+    "subject": "RE: LCW- Updated",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:37.479975Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAACspD5AAC-hY9V5nR6SKtMg2sTJeS7AAG_9MOXAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:38.250282Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAEMAAC-hY9V5nR6SKtMg2sTJeS7AAByIG28AAA=",
+    "from": "asamsky@sutkermoran.com",
+    "to": [
+      "a.jones@lcwmail.com"
+    ],
+    "subject": "RE: LCW - Questions re: Financial Statements",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:38.259905Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAEMAAC-hY9V5nR6SKtMg2sTJeS7AABxOyDKAAA=",
+    "from": "nkaralis@wintrust.com",
+    "to": [
+      "a.kolodizner@lcwmail.com",
+      "bkarpeles@wintrust.com",
+      "asamsky@sutkermoran.com"
+    ],
+    "subject": "RE: LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:38.892358Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAEMAAC-hY9V5nR6SKtMg2sTJeS7AAByIG3AAAA=",
+    "from": "asamsky@sutkermoran.com",
+    "to": [
+      "a.jones@lcwmail.com"
+    ],
+    "subject": "RE: LCW - Questions re: Financial Statements",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:39.247339Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAEMAAC-hY9V5nR6SKtMg2sTJeS7AABxOyDIAAA=",
+    "from": "a.kolodizner@lcwmail.com",
+    "to": [
+      "asamsky@sutkermoran.com",
+      "a.jones@lcwmail.com"
+    ],
+    "subject": "Re: LCW Projections",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:39.729403Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAEMAAC-hY9V5nR6SKtMg2sTJeS7AABs-i-5AAA=",
+    "from": "a.kolodizner@lcwmail.com",
+    "to": [
+      "r.stieghorst@lcwmail.com"
+    ],
+    "subject": "RE: tax refunds deposited",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:40.224228Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAEMAAC-hY9V5nR6SKtMg2sTJeS7AAByIG26AAA=",
+    "from": "asamsky@sutkermoran.com",
+    "to": [
+      "a.jones@lcwmail.com"
+    ],
+    "subject": "FW: LCW - Questions re: Financial Statements",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:41.199489Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAEMAAC-hY9V5nR6SKtMg2sTJeS7AABs-i-4AAA=",
+    "from": "r.stieghorst@lcwmail.com",
+    "to": [
+      "a.kolodizner@lcwmail.com"
+    ],
+    "subject": "tax refunds deposited",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:42.096399Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAEMAAC-hY9V5nR6SKtMg2sTJeS7AAByIG3BAAA=",
+    "from": "asamsky@sutkermoran.com",
+    "to": [
+      "a.jones@lcwmail.com"
+    ],
+    "subject": "RE: LCW - Questions re: Financial Statements",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:42.649944Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAEMAAC-hY9V5nR6SKtMg2sTJeS7AABxOyDLAAA=",
+    "from": "a.kolodizner@lcwmail.com",
+    "to": [
+      "nkaralis@wintrust.com",
+      "bkarpeles@wintrust.com",
+      "asamsky@sutkermoran.com"
+    ],
+    "subject": "Re: LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:42.893565Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAACspD5AAC-hY9V5nR6SKtMg2sTJeS7AAHOeShSAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:43.566714Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAACspD5AAC-hY9V5nR6SKtMg2sTJeS7AAHShuw_AAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:43.646484Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAEMAAC-hY9V5nR6SKtMg2sTJeS7AAByIG27AAA=",
+    "from": "a.jones@lcwmail.com",
+    "to": [
+      "asamsky@sutkermoran.com"
+    ],
+    "subject": "RE: LCW - Questions re: Financial Statements",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:43.906126Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAEMAAC-hY9V5nR6SKtMg2sTJeS7AABxOyDNAAA=",
+    "from": "a.kolodizner@lcwmail.com",
+    "to": [
+      "nkaralis@wintrust.com",
+      "bkarpeles@wintrust.com",
+      "asamsky@sutkermoran.com"
+    ],
+    "subject": "RE: LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:44.446093Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAEMAAC-hY9V5nR6SKtMg2sTJeS7AABs-i-vAAA=",
+    "from": "a.jones@lcwmail.com",
+    "to": [
+      "a.kolodizner@lcwmail.com",
+      "c.adams@lcwmail.com"
+    ],
+    "subject": "RE: Payroll Summary for July 1-15th Payroll Paid on July 31st",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:44.498631Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAEMAAC-hY9V5nR6SKtMg2sTJeS7AAByIG2-AAA=",
+    "from": "a.jones@lcwmail.com",
+    "to": [
+      "asamsky@sutkermoran.com"
+    ],
+    "subject": "RE: LCW - Questions re: Financial Statements",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:44.623422Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAEMAAC-hY9V5nR6SKtMg2sTJeS7AABs-i-xAAA=",
+    "from": "a.jones@lcwmail.com",
+    "to": [
+      "a.kolodizner@lcwmail.com"
+    ],
+    "subject": "Payables Processing Form 7.30.23",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:44.864851Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAEMAAC-hY9V5nR6SKtMg2sTJeS7AAByIG2_AAA=",
+    "from": "a.jones@lcwmail.com",
+    "to": [
+      "asamsky@sutkermoran.com"
+    ],
+    "subject": "RE: LCW - Questions re: Financial Statements",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:45.398389Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAEMAAC-hY9V5nR6SKtMg2sTJeS7AABxOyDMAAA=",
+    "from": "nkaralis@wintrust.com",
+    "to": [
+      "a.kolodizner@lcwmail.com",
+      "bkarpeles@wintrust.com",
+      "asamsky@sutkermoran.com"
+    ],
+    "subject": "RE: LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:10:45.403506Z"
+  },
+  {
+    "user_upn": "m.murcia@lcwmail.com",
+    "message_id": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAACspD5AAC-hY9V5nR6SKtMg2sTJeS7AAGuyi0HAAA=",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": null,
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T11:15:12.256263Z"
   }
 ]
