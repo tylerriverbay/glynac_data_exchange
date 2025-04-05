@@ -100,7 +100,7 @@ def main():
         print(f"Thread: {main_thread_name} - No new users to process.")
         return
 
-    with concurrent.futures.ThreadPoolExecutor(max_workers=24) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
         # Pass the processed_users set to the save_emails_to_json function
         futures = [executor.submit(save_emails_to_json, user, processed_users_set) for user in users_to_process]
         concurrent.futures.wait(futures)

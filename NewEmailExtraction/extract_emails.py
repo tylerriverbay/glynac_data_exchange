@@ -345,7 +345,7 @@ def extract_emails(user_upn):
             "date_extracted": datetime.utcnow().isoformat(),
         }
 
-    with ThreadPoolExecutor(max_workers=24) as executor:
+    with ThreadPoolExecutor(max_workers=8) as executor:
         results = executor.map(process_message, new_message_ids_to_process)
 
     processed_emails = [email for email in results if email is not None]
