@@ -234,9 +234,6 @@ def extract_emails(user_upn):
         for mid in all_message_ids_fetched
         if mid not in existing_message_ids and mid not in skipped_message_ids
     ]
-
-    print(new_message_ids_to_process)
-
     print(
         f"Thread: {threading.current_thread().name} - Fetched {len(all_message_ids_fetched)} message IDs from API."
     )
