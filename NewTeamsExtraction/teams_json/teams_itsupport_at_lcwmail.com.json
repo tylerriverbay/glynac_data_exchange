@@ -1,6 +1,28 @@
 [
   {
     "platform": "Teams",
+    "chat_id": "1646698929038",
+    "chat_from": "Nicole Barile",
+    "channel": "HR-Hiring & Onboarding / General",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": null,
+    "timestamp": "2022-03-08T00:22:09.038Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T20:19:07.828998"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1652200887398",
+    "chat_from": "Jake Pieczynski",
+    "channel": "Crisis Communications Channel / FL Stop Woke Act",
+    "message": "What responses, questions, or new problems are you encountering in your conversations with clients? (please respond in this thread)",
+    "thread_id": null,
+    "timestamp": "2022-05-10T16:41:27.398Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T20:19:05.000502"
+  },
+  {
+    "platform": "Teams",
     "chat_id": "1653404423964",
     "chat_from": "Tahitia Timmons",
     "channel": "Crisis Communications Channel / General",
@@ -8,7 +30,7 @@
     "thread_id": null,
     "timestamp": "2022-05-24T15:00:23.964Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:04.125851"
+    "date_extracted": "2025-04-05T20:19:14.085310"
   },
   {
     "platform": "Teams",
@@ -19,7 +41,7 @@
     "thread_id": null,
     "timestamp": "2022-04-18T17:15:18.465Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:04.128790"
+    "date_extracted": "2025-04-05T20:19:14.085992"
   },
   {
     "platform": "Teams",
@@ -30,7 +52,7 @@
     "thread_id": null,
     "timestamp": "2022-04-06T16:17:08.348Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:04.129387"
+    "date_extracted": "2025-04-05T20:19:14.086546"
   },
   {
     "platform": "Teams",
@@ -41,7 +63,7 @@
     "thread_id": null,
     "timestamp": "2022-04-04T21:03:00.628Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:04.129976"
+    "date_extracted": "2025-04-05T20:19:14.087149"
   },
   {
     "platform": "Teams",
@@ -52,7 +74,7 @@
     "thread_id": null,
     "timestamp": "2022-04-05T19:40:41.535Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:04.130703"
+    "date_extracted": "2025-04-05T20:19:14.087847"
   },
   {
     "platform": "Teams",
@@ -63,7 +85,7 @@
     "thread_id": null,
     "timestamp": "2022-04-04T21:02:23.312Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:04.134028"
+    "date_extracted": "2025-04-05T20:19:14.088511"
   },
   {
     "platform": "Teams",
@@ -74,62 +96,7 @@
     "thread_id": null,
     "timestamp": "2022-04-05T16:15:24.196Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:04.134369"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1652382905296",
-    "chat_from": "Tamara Thorpe",
-    "channel": "Associate Onboarding 2021 / AC Learners Journey",
-    "message": "Added a new tab at the top of this channel. Here's a link.",
-    "thread_id": null,
-    "timestamp": "2022-05-12T19:15:05.296Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:48.732385"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1652381147290",
-    "chat_from": "Tamara Thorpe",
-    "channel": "Associate Onboarding 2021 / AC Learners Journey",
-    "message": "Added a new tab at the top of this channel. Here's a link.",
-    "thread_id": null,
-    "timestamp": "2022-05-12T18:45:47.29Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:48.732787"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1621268421396",
-    "chat_from": "Monica Marcel",
-    "channel": "Associate Onboarding 2021 / Announcements \ud83d\udce2",
-    "message": "",
-    "thread_id": null,
-    "timestamp": "2021-05-17T16:20:21.396Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:04.973709"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1620932984237",
-    "chat_from": "Monica Marcel",
-    "channel": "Associate Onboarding 2021 / Announcements \ud83d\udce2",
-    "message": "Hey everyone! Notice in the \"files\" section I have been posting the materials shared with the onboarding sessions this week -- so that they are all in one place.",
-    "thread_id": null,
-    "timestamp": "2021-05-13T19:09:44.237Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:04.974412"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1620826877437",
-    "chat_from": "Tamara Thorpe",
-    "channel": "Associate Onboarding 2021 / Training",
-    "message": "Hello everyone! Super excited to have this space to chat.",
-    "thread_id": null,
-    "timestamp": "2021-05-12T13:41:17.437Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:17.932812"
+    "date_extracted": "2025-04-05T20:19:14.088820"
   },
   {
     "platform": "Teams",
@@ -140,7 +107,7 @@
     "thread_id": null,
     "timestamp": "2022-03-16T15:18:23.601Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:48.447979"
+    "date_extracted": "2025-04-05T20:19:03.867685"
   },
   {
     "platform": "Teams",
@@ -151,7 +118,7 @@
     "thread_id": null,
     "timestamp": "2022-02-15T21:38:52.793Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:48.448416"
+    "date_extracted": "2025-04-05T20:19:03.868107"
   },
   {
     "platform": "Teams",
@@ -162,7 +129,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T20:58:14.559Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:48.448900"
+    "date_extracted": "2025-04-05T20:19:03.868574"
   },
   {
     "platform": "Teams",
@@ -173,7 +140,7 @@
     "thread_id": null,
     "timestamp": "2022-12-20T16:21:04.626Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.491734"
+    "date_extracted": "2025-04-05T20:19:36.292272"
   },
   {
     "platform": "Teams",
@@ -184,7 +151,7 @@
     "thread_id": null,
     "timestamp": "2022-11-23T18:41:35.434Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.495038"
+    "date_extracted": "2025-04-05T20:19:36.294523"
   },
   {
     "platform": "Teams",
@@ -195,7 +162,7 @@
     "thread_id": null,
     "timestamp": "2022-09-01T20:06:35.355Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.496144"
+    "date_extracted": "2025-04-05T20:19:36.295390"
   },
   {
     "platform": "Teams",
@@ -206,7 +173,7 @@
     "thread_id": null,
     "timestamp": "2022-08-08T16:08:24.261Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.497657"
+    "date_extracted": "2025-04-05T20:19:36.296341"
   },
   {
     "platform": "Teams",
@@ -217,7 +184,7 @@
     "thread_id": null,
     "timestamp": "2022-08-08T16:01:02.487Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.499069"
+    "date_extracted": "2025-04-05T20:19:36.297216"
   },
   {
     "platform": "Teams",
@@ -228,7 +195,7 @@
     "thread_id": null,
     "timestamp": "2022-08-08T15:56:59.695Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.500333"
+    "date_extracted": "2025-04-05T20:19:36.298005"
   },
   {
     "platform": "Teams",
@@ -239,7 +206,7 @@
     "thread_id": null,
     "timestamp": "2022-07-21T16:51:48.496Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.501182"
+    "date_extracted": "2025-04-05T20:19:36.298519"
   },
   {
     "platform": "Teams",
@@ -250,7 +217,7 @@
     "thread_id": null,
     "timestamp": "2022-07-21T16:46:32.466Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.502013"
+    "date_extracted": "2025-04-05T20:19:36.300998"
   },
   {
     "platform": "Teams",
@@ -261,7 +228,7 @@
     "thread_id": null,
     "timestamp": "2022-07-21T16:35:07.35Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.502804"
+    "date_extracted": "2025-04-05T20:19:36.301621"
   },
   {
     "platform": "Teams",
@@ -272,7 +239,7 @@
     "thread_id": null,
     "timestamp": "2022-09-07T19:39:03.32Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.503946"
+    "date_extracted": "2025-04-05T20:19:36.301804"
   },
   {
     "platform": "Teams",
@@ -283,7 +250,7 @@
     "thread_id": null,
     "timestamp": "2022-07-12T17:19:29.766Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.505029"
+    "date_extracted": "2025-04-05T20:19:36.302456"
   },
   {
     "platform": "Teams",
@@ -294,7 +261,7 @@
     "thread_id": null,
     "timestamp": "2022-07-12T17:15:15.379Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.506127"
+    "date_extracted": "2025-04-05T20:19:36.303142"
   },
   {
     "platform": "Teams",
@@ -305,7 +272,7 @@
     "thread_id": null,
     "timestamp": "2022-07-12T17:11:46.856Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.507490"
+    "date_extracted": "2025-04-05T20:19:36.303816"
   },
   {
     "platform": "Teams",
@@ -316,7 +283,7 @@
     "thread_id": null,
     "timestamp": "2022-07-12T17:08:49.074Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.508608"
+    "date_extracted": "2025-04-05T20:19:36.304434"
   },
   {
     "platform": "Teams",
@@ -327,7 +294,7 @@
     "thread_id": null,
     "timestamp": "2022-07-12T17:06:02.043Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.509672"
+    "date_extracted": "2025-04-05T20:19:36.305160"
   },
   {
     "platform": "Teams",
@@ -338,7 +305,7 @@
     "thread_id": null,
     "timestamp": "2022-07-12T17:00:33.694Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.511257"
+    "date_extracted": "2025-04-05T20:19:36.305971"
   },
   {
     "platform": "Teams",
@@ -349,7 +316,7 @@
     "thread_id": null,
     "timestamp": "2022-07-25T20:39:26.035Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.511602"
+    "date_extracted": "2025-04-05T20:19:36.306145"
   },
   {
     "platform": "Teams",
@@ -360,7 +327,7 @@
     "thread_id": null,
     "timestamp": "2022-07-25T20:38:47.96Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.511921"
+    "date_extracted": "2025-04-05T20:19:36.306323"
   },
   {
     "platform": "Teams",
@@ -371,7 +338,7 @@
     "thread_id": null,
     "timestamp": "2022-07-25T20:36:45.084Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.512498"
+    "date_extracted": "2025-04-05T20:19:36.306667"
   },
   {
     "platform": "Teams",
@@ -382,7 +349,7 @@
     "thread_id": null,
     "timestamp": "2022-03-17T20:28:24.702Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.517243"
+    "date_extracted": "2025-04-05T20:19:36.310496"
   },
   {
     "platform": "Teams",
@@ -393,7 +360,7 @@
     "thread_id": null,
     "timestamp": "2022-03-17T20:25:56.905Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.520898"
+    "date_extracted": "2025-04-05T20:19:36.314256"
   },
   {
     "platform": "Teams",
@@ -404,7 +371,7 @@
     "thread_id": null,
     "timestamp": "2022-03-18T18:43:59.287Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.520915"
+    "date_extracted": "2025-04-05T20:19:36.314271"
   },
   {
     "platform": "Teams",
@@ -415,7 +382,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T21:20:31.295Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.522018"
+    "date_extracted": "2025-04-05T20:19:36.314868"
   },
   {
     "platform": "Teams",
@@ -426,7 +393,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T21:08:40.511Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.523043"
+    "date_extracted": "2025-04-05T20:19:36.315924"
   },
   {
     "platform": "Teams",
@@ -437,7 +404,7 @@
     "thread_id": null,
     "timestamp": "2022-02-11T18:07:43.866Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.523251"
+    "date_extracted": "2025-04-05T20:19:36.316154"
   },
   {
     "platform": "Teams",
@@ -448,7 +415,7 @@
     "thread_id": null,
     "timestamp": "2022-02-11T18:07:42.544Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.523449"
+    "date_extracted": "2025-04-05T20:19:36.316353"
   },
   {
     "platform": "Teams",
@@ -459,7 +426,7 @@
     "thread_id": null,
     "timestamp": "2022-02-11T18:07:42.052Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.523632"
+    "date_extracted": "2025-04-05T20:19:36.317540"
   },
   {
     "platform": "Teams",
@@ -470,7 +437,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T21:03:39.729Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.524633"
+    "date_extracted": "2025-04-05T20:19:36.318200"
   },
   {
     "platform": "Teams",
@@ -481,7 +448,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T20:59:32.108Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.525181"
+    "date_extracted": "2025-04-05T20:19:36.318777"
   },
   {
     "platform": "Teams",
@@ -492,7 +459,7 @@
     "thread_id": null,
     "timestamp": "2022-02-07T17:42:04.491Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.525409"
+    "date_extracted": "2025-04-05T20:19:36.319021"
   },
   {
     "platform": "Teams",
@@ -503,7 +470,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T20:51:27.921Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.525961"
+    "date_extracted": "2025-04-05T20:19:36.319590"
   },
   {
     "platform": "Teams",
@@ -514,7 +481,7 @@
     "thread_id": null,
     "timestamp": "2022-01-24T20:46:16.678Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.527508"
+    "date_extracted": "2025-04-05T20:19:36.320815"
   },
   {
     "platform": "Teams",
@@ -525,61 +492,6 @@
     "thread_id": null,
     "timestamp": "2022-01-24T21:16:08.96Z",
     "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:49.528364"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1723568918176",
-    "chat_from": "Juri Mansour",
-    "channel": "The Project Management Hub / Solutions Development Status",
-    "message": "I added a tab at the top of this Channel. Check it out!",
-    "thread_id": null,
-    "timestamp": "2024-08-13T17:08:38.176Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:48.733385"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1723483854189",
-    "chat_from": "Juri Mansour",
-    "channel": "The Project Management Hub / Solutions Development Status",
-    "message": "I added a tab at the top of this Channel. Check it out!",
-    "thread_id": null,
-    "timestamp": "2024-08-12T17:30:54.189Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:14:48.733701"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1587672875670",
-    "chat_from": "Lisa-Ann Barnes",
-    "channel": "The Project Management Hub / 3. Project Inventory",
-    "message": "Added a new tab at the top of this channel. Here's a link.",
-    "thread_id": null,
-    "timestamp": "2020-04-23T20:14:35.67Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:18.679253"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1723568834703",
-    "chat_from": "Juri Mansour",
-    "channel": "The Project Management Hub / Project Status",
-    "message": "I added a tab at the top of this Channel. Check it out!",
-    "thread_id": null,
-    "timestamp": "2024-08-13T17:07:14.703Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:15:19.726676"
-  },
-  {
-    "platform": "Teams",
-    "chat_id": "1590090038147",
-    "chat_from": "orgid:d6c49d74-6b74-4912-97d9-9ba564c9e783",
-    "channel": "The Project Management Hub / General",
-    "message": "Scheduled a meeting",
-    "thread_id": null,
-    "timestamp": "2020-05-21T19:40:38.147Z",
-    "mentioned_users": null,
-    "date_extracted": "2025-04-05T20:16:13.346444"
+    "date_extracted": "2025-04-05T20:19:36.321387"
   }
 ]

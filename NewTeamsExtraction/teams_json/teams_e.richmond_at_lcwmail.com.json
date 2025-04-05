@@ -1,0 +1,123 @@
+[
+  {
+    "platform": "Teams",
+    "chat_id": "1650485154388",
+    "chat_from": "orgid:10b8563d-7d5e-4fbd-bdfa-3f2e63cb076e",
+    "channel": "Gates Foundation / DEI Case Studies",
+    "message": "Scheduled a meeting",
+    "thread_id": null,
+    "timestamp": "2022-04-20T20:05:54.388Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T20:18:55.093865"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1650040524702",
+    "chat_from": "orgid:10b8563d-7d5e-4fbd-bdfa-3f2e63cb076e",
+    "channel": "Gates Foundation / DEI Case Studies",
+    "message": "Scheduled a meeting",
+    "thread_id": null,
+    "timestamp": "2022-04-15T16:35:24.702Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T20:18:55.094231"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1650315053187",
+    "chat_from": "orgid:10b8563d-7d5e-4fbd-bdfa-3f2e63cb076e",
+    "channel": "Gates Foundation / DEI Case Studies",
+    "message": "Scheduled a meeting",
+    "thread_id": null,
+    "timestamp": "2022-04-18T20:50:53.187Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T20:18:55.094558"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1650393552211",
+    "chat_from": "orgid:10b8563d-7d5e-4fbd-bdfa-3f2e63cb076e",
+    "channel": "Gates Foundation / General",
+    "message": "Hey JC, Next week on 4/26 we have a meeting scheduled with Jesse Raney Bridges from the Gates foundation to level set on the support that she will provide during your first IDI group debrief on May 5th. Prior to that call Grace and I wanted to ensure that you were set up for success with our first Gates IDI engagement. Please send any questions our way and we will try to have them answered during this meeting. Emani",
+    "thread_id": null,
+    "timestamp": "2022-04-19T18:39:12.211Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T20:19:02.033747"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1645642883096",
+    "chat_from": "Grace Vottero",
+    "channel": "Gates Foundation / General",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": null,
+    "timestamp": "2022-02-23T19:01:23.096Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T20:19:02.034128"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1645640374152",
+    "chat_from": "Grace Vottero",
+    "channel": "Gates Foundation / General",
+    "message": "Overview of the Foundation's structure",
+    "thread_id": null,
+    "timestamp": "2022-02-23T18:19:34.152Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T20:19:02.034422"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1638994725301",
+    "chat_from": "Grace Vottero",
+    "channel": "Gates Foundation / General",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": null,
+    "timestamp": "2021-12-08T20:18:45.301Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T20:19:02.034757"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1657297467927",
+    "chat_from": "Emani Richmond",
+    "channel": "Children's Heart Link / General",
+    "message": "I added a tab at the top of this channel. Check it out!",
+    "thread_id": null,
+    "timestamp": "2022-07-08T16:24:27.927Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T20:19:03.513981"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1649275611764",
+    "chat_from": "Emani Richmond",
+    "channel": "Northwestern W.E.L.L/ LCW / General",
+    "message": "Added a new tab at the top of this channel. Here's a link.",
+    "thread_id": null,
+    "timestamp": "2022-04-06T20:06:51.764Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T20:19:09.322260"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1643317123257",
+    "chat_from": "Emani Richmond",
+    "channel": "Northwestern W.E.L.L/ LCW / General",
+    "message": "- Save an individual copy of the content map (with your name indicated) - Locate the content - Please notify LCW once your individual content map is updated and added to Box - Place links to content in the content map document you created - Place the necessary files into our shared Teams site (in a clearly labeled folder)",
+    "thread_id": null,
+    "timestamp": "2022-01-27T20:58:43.257Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T20:19:09.324208"
+  },
+  {
+    "platform": "Teams",
+    "chat_id": "1629746379006",
+    "chat_from": "Emani Richmond",
+    "channel": "Northwestern W.E.L.L/ LCW / General",
+    "message": "Welcome to the Northwestern W.E.L.L. E-Learning Project Team. LCW is so thrilled to begin working with you all. Use this space to share resources, files and other materials related to the project.",
+    "thread_id": null,
+    "timestamp": "2021-08-23T19:19:39.006Z",
+    "mentioned_users": null,
+    "date_extracted": "2025-04-05T20:19:09.324514"
+  }
+]
