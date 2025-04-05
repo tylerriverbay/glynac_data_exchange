@@ -4697,5 +4697,834 @@
     "subject": "Finding SOW from Compass Calendar Event",
     "reason": "Not to or from the user",
     "logged_at": "2025-04-05T13:10:35.861512Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH65AACo2mfEAVyUSoBsjvn-RlndAAAAAPCYAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "Kappy.Pauna@saludamedical.com"
+    ],
+    "subject": "Considering Next Steps",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:27.732458Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6lAACo2mfEAVyUSoBsjvn-RlndAAAAAL6PAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Email lists/groups",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:30.817241Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH68AACo2mfEAVyUSoBsjvn-RlndAAAAAPSZAAA=",
+    "from": "erica.lovett@cartier.com",
+    "to": [
+      "yang.liu@richemont.com",
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "RE: [EXT] LCW// Cartier: Power of Allyship (Content Walk Through)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:34.650095Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH68AACo2mfEAVyUSoBsjvn-RlndAAAAAPSaAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "erica.lovett@cartier.com",
+      "elizabeth.rutledge@cartier.com"
+    ],
+    "subject": "RE: [EXT] LCW// Cartier: Power of Allyship (Content Walk Through)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:34.676198Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH68AACo2mfEAVyUSoBsjvn-RlndAAAAAPSXAAA=",
+    "from": "yang.liu@richemont.com",
+    "to": [
+      "e.richmond@lcwmail.com",
+      "erica.lovett@cartier.com"
+    ],
+    "subject": "RE: [EXT] LCW// Cartier: Power of Allyship (Content Walk Through)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:39.497931Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH68AACo2mfEAVyUSoBsjvn-RlndAAAAAPSeAAA=",
+    "from": "elizabeth.rutledge@cartier.com",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "RE: [EXT] LCW Brand Sample Request",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:48.532691Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6lAACo2mfEAVyUSoBsjvn-RlndAAAAAL6OAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: Email lists/groups",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:51.745185Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH68AACo2mfEAVyUSoBsjvn-RlndAAAAAPSYAAA=",
+    "from": "elizabeth.rutledge@cartier.com",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "RE: [EXT] LCW Tentative Fall training Dates",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:59.138936Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6kAACo2mfEAVyUSoBsjvn-RlndAAAAALyYAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "New field in Compass that indicates if client has agreed to new invoicing policy",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:43:10.562242Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH68AACo2mfEAVyUSoBsjvn-RlndAAAAAPScAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "elizabeth.rutledge@cartier.com"
+    ],
+    "subject": "LCW Tentative Fall training Dates",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:43:12.183042Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH68AACo2mfEAVyUSoBsjvn-RlndAAAAAPSUAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "yang.liu@richemont.com"
+    ],
+    "subject": "RE: [EXT] LCW// Cartier: Power of Allyship (Content Walk Through)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:43:19.330824Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6vAACo2mfEAVyUSoBsjvn-RlndAAAAANyUAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "d.gough@lcwmail.com",
+      "clt@lcwmail.com",
+      "consultants@lcwmail.com",
+      "associates@lcwmail.com"
+    ],
+    "subject": "RE: [DEI Trends] New McKinsey Report--Race in the workplace: The frontline experience",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:43:24.029077Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH68AACo2mfEAVyUSoBsjvn-RlndAAAAAPSbAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "elizabeth.rutledge@cartier.com"
+    ],
+    "subject": "LCW Brand Sample Request",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:43:26.146927Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6vAACo2mfEAVyUSoBsjvn-RlndAAAAANyVAAA=",
+    "from": "d.gough@lcwmail.com",
+    "to": [
+      "clt@lcwmail.com",
+      "consultants@lcwmail.com",
+      "associates@lcwmail.com"
+    ],
+    "subject": "[DEI Trends] New McKinsey Report--Race in the workplace: The frontline experience",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:43:27.747478Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6vAACo2mfEAVyUSoBsjvn-RlndAAAAANyTAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "FW: WSJ Article   POC Frontline Workers DEI",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:43:28.206083Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6_AACo2mfEAVyUSoBsjvn-RlndAAAAAPqNAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "sharon.junor@richemont.com"
+    ],
+    "subject": "RE: [EXT] RE: LCW Meeting Request: Fall Next Steps",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:43:49.932507Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6uAACo2mfEAVyUSoBsjvn-RlndAAAAANqRAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "New Pricing starts now",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:43:50.802849Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6kAACo2mfEAVyUSoBsjvn-RlndAAAAALyWAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "New SOW in effect",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:09.775324Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH68AACo2mfEAVyUSoBsjvn-RlndAAAAAPSWAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "t.thorpe@lcwmail.com"
+    ],
+    "subject": "[Response Requested] Cartier: Decision Points",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:12.759523Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6vAACo2mfEAVyUSoBsjvn-RlndAAAAANyXAAA=",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "a.wicksbowles@lcwmail.com",
+      "training@lcwmail.com"
+    ],
+    "subject": "RE: Trust and the role of the employer",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:13.489268Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6uAACo2mfEAVyUSoBsjvn-RlndAAAAANqSAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "25% Prepayment Process: Aug.1 start",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:15.023022Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6uAACo2mfEAVyUSoBsjvn-RlndAAAAANqQAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "RE: New LCW MSA",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:15.750591Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH69AACo2mfEAVyUSoBsjvn-RlndAAAAAPiMAAA=",
+    "from": "a.schondelmayer@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "LCW Sales information ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:15.768298Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6-AACo2mfEAVyUSoBsjvn-RlndAAAAAQKMAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Wellness @ LCW: July Newsletter - Wellness Month",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:20.007057Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH68AACo2mfEAVyUSoBsjvn-RlndAAAAAPSQAAA=",
+    "from": "elizabeth.rutledge@cartier.com",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "RE: [EXT] LCW Content Walkthrough: Meeting Change Request",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:20.442804Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6vAACo2mfEAVyUSoBsjvn-RlndAAAAANyRAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "c.adams@lcwmail.com",
+      "training@lcwmail.com"
+    ],
+    "subject": "RE: Trust and the role of the employer",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:39.332356Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6kAACo2mfEAVyUSoBsjvn-RlndAAAAALyXAAA=",
+    "from": "t.timmons@lcwmail.com",
+    "to": [
+      "n.barile@lcwmail.com",
+      "training@lcwmail.com"
+    ],
+    "subject": "RE: New SOW in effect",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:39.366236Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH65AACo2mfEAVyUSoBsjvn-RlndAAAAAPCTAAA=",
+    "from": "Kappy.Pauna@saludamedical.com",
+    "to": [
+      "e.richmond@lcwmail.com",
+      "a.wicksbowles@lcwmail.com"
+    ],
+    "subject": "RE: LCW Meeting Request: Next week",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:41.313412Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH65AACo2mfEAVyUSoBsjvn-RlndAAAAAPCUAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "Kappy.Pauna@saludamedical.com"
+    ],
+    "subject": "MBML",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:46.532400Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH65AACo2mfEAVyUSoBsjvn-RlndAAAAAPCVAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "Kappy.Pauna@saludamedical.com",
+      "a.wicksbowles@lcwmail.com"
+    ],
+    "subject": "LCW Meeting Request: Next week",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:54.259696Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH65AACo2mfEAVyUSoBsjvn-RlndAAAAAPCSAAA=",
+    "from": "k.washington@lcwmail.com",
+    "to": [
+      "a.wicksbowles@lcwmail.com"
+    ],
+    "subject": "RE: [Action Requested] Saluda Medical Survey Results",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:57.444262Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH65AACo2mfEAVyUSoBsjvn-RlndAAAAAPCPAAA=",
+    "from": "k.washington@lcwmail.com",
+    "to": [
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "RE: [Action Requested] Saluda Medical Survey Results",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:59.448342Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH65AACo2mfEAVyUSoBsjvn-RlndAAAAAPCNAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "k.washington@lcwmail.com",
+      "e.richmond@lcwmail.com"
+    ],
+    "subject": "RE: [Action Requested] Saluda Medical Survey Results",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:03.378676Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6kAACo2mfEAVyUSoBsjvn-RlndAAAAALyVAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "COMPASS UPDATE: Prepayment Invoices",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:06.470179Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH65AACo2mfEAVyUSoBsjvn-RlndAAAAAPCOAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "k.washington@lcwmail.com",
+      "a.wicksbowles@lcwmail.com"
+    ],
+    "subject": "RE: [Action Requested] Saluda Medical Survey Results",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:11.242911Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH65AACo2mfEAVyUSoBsjvn-RlndAAAAAPCMAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "e.richmond@lcwmail.com",
+      "k.washington@lcwmail.com"
+    ],
+    "subject": "RE: [Action Requested] Saluda Medical Survey Results",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:13.482774Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6vAACo2mfEAVyUSoBsjvn-RlndAAAAANyOAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "Trust and the role of the employer",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:20.620425Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH68AACo2mfEAVyUSoBsjvn-RlndAAAAAPSMAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "donna.dean@richemont.com",
+      "rashida.peters@richemont.com",
+      "bryan.canady@richemont.com",
+      "sharon.junor@richemont.com"
+    ],
+    "subject": "RE: LCW Meeting Request: Fall Next Steps",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:28.091333Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6xAACo2mfEAVyUSoBsjvn-RlndAAAAAOCZAAA=",
+    "from": "m.johnson@lcwmail.com",
+    "to": [
+      "priscilla.guasso@cdw.com",
+      "erikwei@cdw.com"
+    ],
+    "subject": "LCW Introduction: Hannah Strack",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:29.560751Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6_AACo2mfEAVyUSoBsjvn-RlndAAAAAPqMAAA=",
+    "from": "e.richmond@lcwmail.com",
+    "to": [
+      "donna.dean@richemont.com",
+      "rashida.peters@richemont.com",
+      "bryan.canady@richemont.com"
+    ],
+    "subject": "LCW Meeting Request: Fall Next Steps",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:33.064346Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6yAACo2mfEAVyUSoBsjvn-RlndAAAAAOKSAAA=",
+    "from": "s.nodarse@lcwmail.com",
+    "to": [
+      "k.nonweiler@lcwmail.com"
+    ],
+    "subject": "RE: SOW for EC IDI work",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:46.373251Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6yAACo2mfEAVyUSoBsjvn-RlndAAAAAOKNAAA=",
+    "from": "s.nodarse@lcwmail.com",
+    "to": [
+      "kwight@breckinridge.com"
+    ],
+    "subject": "RE: SOW for EC IDI work",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:50.430241Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6yAACo2mfEAVyUSoBsjvn-RlndAAAAAOKQAAA=",
+    "from": "k.nonweiler@lcwmail.com",
+    "to": [
+      "s.nodarse@lcwmail.com"
+    ],
+    "subject": "Re: SOW for EC IDI work",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:50.450858Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6yAACo2mfEAVyUSoBsjvn-RlndAAAAAOKOAAA=",
+    "from": "s.nodarse@lcwmail.com",
+    "to": [
+      "k.nonweiler@lcwmail.com"
+    ],
+    "subject": "FW: SOW for EC IDI work",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:58.643091Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6kAACo2mfEAVyUSoBsjvn-RlndAAAAALyUAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "Compass update - COGS - PLEASE READ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:59.170118Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6yAACo2mfEAVyUSoBsjvn-RlndAAAAAOKPAAA=",
+    "from": "s.nodarse@lcwmail.com",
+    "to": [
+      "j.pieczynski@lcwmail.com"
+    ],
+    "subject": "FW: Our New Sustainable Culture of Inclusion Model - and a proposal",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:01.012441Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6uAACo2mfEAVyUSoBsjvn-RlndAAAAANqPAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "a.kolodizner@lcwmail.com",
+      "c.adams@lcwmail.com"
+    ],
+    "subject": "Pricing",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:05.657561Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6vAACo2mfEAVyUSoBsjvn-RlndAAAAANyPAAA=",
+    "from": "t.timmons@lcwmail.com",
+    "to": [
+      "m.johnson@lcwmail.com",
+      "training@lcwmail.com"
+    ],
+    "subject": "Re: LCW: Response to Florida's HB7",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:06.427520Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6vAACo2mfEAVyUSoBsjvn-RlndAAAAANyNAAA=",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "midyear employer trends",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:08.046149Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6vAACo2mfEAVyUSoBsjvn-RlndAAAAANyQAAA=",
+    "from": "s.nodarse@lcwmail.com",
+    "to": [
+      "m.johnson@lcwmail.com"
+    ],
+    "subject": "RE: LCW: Response to Florida's HB7",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:10.555943Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6xAACo2mfEAVyUSoBsjvn-RlndAAAAAOCNAAA=",
+    "from": "m.johnson@lcwmail.com",
+    "to": [
+      "d.puehler@lcwmail.com",
+      "k.salek@lcwmail.com"
+    ],
+    "subject": "RE: Response Required: LCW Managing Bias in Performance Reviews",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:25.809231Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6uAACo2mfEAVyUSoBsjvn-RlndAAAAANqOAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "a.wicksbowles@lcwmail.com",
+      "a.kolodizner@lcwmail.com",
+      "c.adams@lcwmail.com"
+    ],
+    "subject": "RE: Pricing",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:26.632198Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6xAACo2mfEAVyUSoBsjvn-RlndAAAAAOCUAAA=",
+    "from": "m.johnson@lcwmail.com",
+    "to": [
+      "d.puehler@lcwmail.com",
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Response Required: LCW Managing Bias in Performance Reviews",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:31.446247Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6xAACo2mfEAVyUSoBsjvn-RlndAAAAAOCRAAA=",
+    "from": "m.johnson@lcwmail.com",
+    "to": [
+      "d.puehler@lcwmail.com",
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Response Required: LCW Managing Bias in Performance Reviews",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:35.765371Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6xAACo2mfEAVyUSoBsjvn-RlndAAAAAOCSAAA=",
+    "from": "d.puehler@lcwmail.com",
+    "to": [
+      "m.johnson@lcwmail.com",
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Response Required: LCW Managing Bias in Performance Reviews",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:37.058478Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6xAACo2mfEAVyUSoBsjvn-RlndAAAAAOCQAAA=",
+    "from": "m.johnson@lcwmail.com",
+    "to": [
+      "k.salek@lcwmail.com",
+      "d.puehler@lcwmail.com",
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Response Required: LCW Managing Bias in Performance Reviews",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:53.916890Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6xAACo2mfEAVyUSoBsjvn-RlndAAAAAOCVAAA=",
+    "from": "m.johnson@lcwmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com",
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "FW: Response Required: LCW Managing Bias in Performance Reviews",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:58.835516Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6xAACo2mfEAVyUSoBsjvn-RlndAAAAAOCTAAA=",
+    "from": "d.puehler@lcwmail.com",
+    "to": [
+      "m.johnson@lcwmail.com",
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Response Required: LCW Managing Bias in Performance Reviews",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:59.356994Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6ZAACo2mfEAVyUSoBsjvn-RlndAAAAAMyPAAA=",
+    "from": "m.johnson@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "Client Question: Video eLearning Launch",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:02.792790Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6ZAACo2mfEAVyUSoBsjvn-RlndAAAAAMyQAAA=",
+    "from": "d.gough@lcwmail.com",
+    "to": [
+      "m.johnson@lcwmail.com",
+      "training@lcwmail.com"
+    ],
+    "subject": "RE: Client Question: Video eLearning Launch",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:12.992173Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6rAACo2mfEAVyUSoBsjvn-RlndAAAAAMqMAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Birthday as option in Zenefits",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:26.080155Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6hAACo2mfEAVyUSoBsjvn-RlndAAAAALaNAAA=",
+    "from": "k.washington@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "Transcription in Teams",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:27.674150Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6lAACo2mfEAVyUSoBsjvn-RlndAAAAAL6NAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "Email templates",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:31.096603Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6rAACo2mfEAVyUSoBsjvn-RlndAAAAAMqNAAA=",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Profit sharing and Hiring",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:34.463645Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6oAACo2mfEAVyUSoBsjvn-RlndAAAAAMSMAAA=",
+    "from": "t.thorpe@lcwmail.com",
+    "to": [
+      "b.cardenas@lcwmail.com",
+      "training@lcwmail.com"
+    ],
+    "subject": "RE: REMINDER: 2023 Forum on Workplace Inclusion Proposal deadline July 15th",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:37.329402Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6vAACo2mfEAVyUSoBsjvn-RlndAAAAANyMAAA=",
+    "from": "t.timmons@lcwmail.com",
+    "to": [
+      "consultants@lcwmail.com"
+    ],
+    "subject": "2 of the Top 5 Forbes 2022 America's Best Employers for Diversity are LCW Clients :) ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:39.798311Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6lAACo2mfEAVyUSoBsjvn-RlndAAAAAL6MAAA=",
+    "from": "m.johnson@lcwmail.com",
+    "to": [
+      "n.barile@lcwmail.com",
+      "training@lcwmail.com"
+    ],
+    "subject": "RE: Email templates",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:45.571857Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6kAACo2mfEAVyUSoBsjvn-RlndAAAAALyTAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "Proposal Template PDF in Compass updated",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:50.190387Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6kAACo2mfEAVyUSoBsjvn-RlndAAAAALyQAAA=",
+    "from": "a.schondelmayer@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "FW: Sending Email Notifications in Compass",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:02.478338Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6sAACo2mfEAVyUSoBsjvn-RlndAAAAAM6OAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Sharing Teams with external users - PLEASE REPLY!",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:09.948998Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6uAACo2mfEAVyUSoBsjvn-RlndAAAAANqNAAA=",
+    "from": "n.barile@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Pricing & Invoicing changes",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:12.738972Z"
+  },
+  {
+    "user_upn": "h.strack@lcwmail.com",
+    "message_id": "AAMkAGM5ZmNhNDA3LTRiOGItNGI2Ni05MzMwLTcwNzljOWJjYzE3YwBGAAAAAABl0bLH8fzqTLbBKv0UF3DyBwCo2mfEAVyUSoBsjvn-RlndAAAAAH6kAACo2mfEAVyUSoBsjvn-RlndAAAAALyRAAA=",
+    "from": "k.washington@lcwmail.com",
+    "to": [
+      "training@lcwmail.com"
+    ],
+    "subject": "Compass Scheduling Update",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:29.814306Z"
   }
 ]

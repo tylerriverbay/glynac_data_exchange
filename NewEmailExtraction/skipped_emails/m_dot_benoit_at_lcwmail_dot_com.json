@@ -1744,5 +1744,3319 @@
     "subject": "RE: Spanish Translation Quote",
     "reason": "Not to or from the user",
     "logged_at": "2025-04-05T13:10:48.463052Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAAAEKAADzWwXr6eVLR4QYpybukCkHAAA5to1aAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "a.jones@lcwmail.com"
+    ],
+    "subject": "RE: Invoice 17250429 Catalent 2023213",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:39:17.281264Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AmAADzWwXr6eVLR4QYpybukCkHAAA5toNIAAA=",
+    "from": "a.jones@lcwmail.com",
+    "to": [
+      "Fareeha.Casto@alliant.com",
+      "kellers@alliant.com"
+    ],
+    "subject": "Invoice 17250431 Alliant Insurance 2023236",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:39:21.327569Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr07iAADzWwXr6eVLR4QYpybukCkHAAAAr2egAAA=",
+    "from": "a.jones@lcwmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Invoice 17250429 Catalent 2023213",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:39:22.158484Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAAAEKAADzWwXr6eVLR4QYpybukCkHAAA5to1SAAA=",
+    "from": "Georgina.Pineda@alliant.com",
+    "to": [
+      "m.fagrelius@lcwmail.com",
+      "Tracy.Graham@alliant.com"
+    ],
+    "subject": "RE: Spanish Translation Quote",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:39:28.676839Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAAAEKAADzWwXr6eVLR4QYpybukCkHAAA5to1WAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "a.jones@lcwmail.com"
+    ],
+    "subject": "RE: Invoice 17250429 Catalent 2023213",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:39:31.356440Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmhAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "a.jones@lcwmail.com"
+    ],
+    "subject": "RE: Invoice 17250429 Catalent 2023213",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:39:32.345717Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAAAEKAADzWwXr6eVLR4QYpybukCkHAAA5to1UAAA=",
+    "from": "bounce-handler@proz.com",
+    "to": [
+      "gls@lcwmail.com"
+    ],
+    "subject": "ProZ.com Mobile: the right provider at the right time",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:39:32.564726Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAAAEKAADzWwXr6eVLR4QYpybukCkHAAA5to1QAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Georgina.Pineda@alliant.com"
+    ],
+    "subject": "RE: Spanish Translation Quote",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:39:34.612276Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAAAEKAADzWwXr6eVLR4QYpybukCkHAAA5to1RAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "RE: Invoice 17250427 Diligent Corporation 2023209",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:39:35.675333Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAAAEKAADzWwXr6eVLR4QYpybukCkHAAA5to1OAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Tracy.Graham@alliant.com",
+      "Georgina.Pineda@alliant.com"
+    ],
+    "subject": "RE: Spanish Translation Quote",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:39:36.155114Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAAAEKAADzWwXr6eVLR4QYpybukCkHAAA5to1PAAA=",
+    "from": "Tracy.Graham@alliant.com",
+    "to": [
+      "m.fagrelius@lcwmail.com",
+      "Georgina.Pineda@alliant.com"
+    ],
+    "subject": "RE: Spanish Translation Quote",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:39:36.412957Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAAAEKAADzWwXr6eVLR4QYpybukCkHAAA5to1LAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "FW: Invoice 17250427 Diligent Corporation 2023209",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:39:38.652380Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAAAEKAADzWwXr6eVLR4QYpybukCkHAAA5to1NAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Tracy.Graham@alliant.com",
+      "Georgina.Pineda@alliant.com"
+    ],
+    "subject": "RE: Spanish Translation Quote",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:39:41.516150Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAAAEKAADzWwXr6eVLR4QYpybukCkHAAA5to1MAAA=",
+    "from": "d.puehler@lcwmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Invoice 17250427 Diligent Corporation 2023209",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:39:49.172970Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIxgAAAA==",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "s.nodarse@lcwmail.com",
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Canceled: LCW Learner's Lounge",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:40:14.119415Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIwwAAAA==",
+    "from": "Megan.Carpenter@alliant.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: ESCO Construction",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:40:16.878421Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmfAAA=",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: PO. 2023213 ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:40:29.405708Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmeAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@socal.rr.com"
+    ],
+    "subject": "RE: PO. 2023213 ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:40:38.866142Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmgAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "RE: PO 2023213: Thank you!",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:40:39.421213Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmdAAA=",
+    "from": "shibukyoto@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: PO 2023213: Thank you!",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:40:39.600142Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBItwAAAA==",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com",
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: Excel Help",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:40:45.144852Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmcAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "RE: PO 2023213: Thank you!",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:41:04.184967Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIpQAAAA==",
+    "from": "v.mattalia.dtp@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: Transferencia",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:41:23.366749Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIqAAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "a.wicksbowles@lcwmail.com",
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: Excel Help",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:41:23.860861Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIowAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@socal.rr.com"
+    ],
+    "subject": "RE: PO. 2023213 invoice.   $6,211.30",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:41:28.654936Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmYAAA=",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "PO. 2023213 invoice.   $6,211.30",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:41:29.061646Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmaAAA=",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: PO. 2023213 invoice.   $6,211.30",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:41:29.226245Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBInwAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Megan.Carpenter@alliant.com"
+    ],
+    "subject": "RE: ESCO Construction",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:41:31.802908Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AjAADzWwXr6eVLR4QYpybukCkHAAA5toE-AAA=",
+    "from": "Megan.Carpenter@alliant.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: ESCO Construction",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:41:33.444332Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIpgAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Megan.Carpenter@alliant.com"
+    ],
+    "subject": "RE: ESCO Construction",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:41:34.550275Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmbAAA=",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: PO. 2023213 ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:41:36.640513Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIpwAAAA==",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Excel Help",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:41:36.852393Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIpAAAAA==",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: PO. 2023213 invoice.   $6,211.30",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:41:37.784331Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIogAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@socal.rr.com"
+    ],
+    "subject": "RE: PO. 2023213 invoice.   $6,211.30",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:41:38.765284Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmZAAA=",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "PO 2023213     4 Cab receipts ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:41:46.361809Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIlwAAAA==",
+    "from": "a.jones@lcwmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com",
+      "accounting@lcwmail.com"
+    ],
+    "subject": "RE: Transferencia",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:41:51.146227Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmXAAA=",
+    "from": "shizuyosan@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: PO 2023213 Invoice",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:41:58.352083Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBImQAAAA==",
+    "from": "a.jones@lcwmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Diligent Invoice 17250418",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:41:59.583102Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmWAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@gmail.com"
+    ],
+    "subject": "RE: PO 2023213 Invoice",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:09.199132Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIjgAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "PO 2023213: Thank you!",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:14.515370Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIkQAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@gmail.com"
+    ],
+    "subject": "RE: PO 2023213 Invoice",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:23.321062Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmUAAA=",
+    "from": "shizuyosan@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "PO 2023213 day 2 report back",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:26.089804Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIiQAAAA==",
+    "from": "bounce-handler@proz.com",
+    "to": [
+      "gls@lcwmail.com"
+    ],
+    "subject": "ProZ.com Mobile for jobs: find providers on the go",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:33.401458Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AjAADzWwXr6eVLR4QYpybukCkHAAA5toE7AAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Megan.Carpenter@alliant.com"
+    ],
+    "subject": "RE: ESCO Construction",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:42.065290Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AXAADzWwXr6eVLR4QYpybukCkHAAA5tndDAAA=",
+    "from": "v.mattalia.dtp@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: FW: 2023225 - Alliant - Novolex 2024 HRA+HSA Enrollment Guide",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:44.561711Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIiwAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@gmail.com"
+    ],
+    "subject": "RE: Shivani/Susie pix",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:44.733094Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AXAADzWwXr6eVLR4QYpybukCkHAAA5tndEAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "v.mattalia.dtp@gmail.com"
+    ],
+    "subject": "FW: 2023225 - Alliant - Novolex 2024 HRA+HSA Enrollment Guide",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:50.841036Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AjAADzWwXr6eVLR4QYpybukCkHAAA5toE9AAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Megan.Carpenter@alliant.com"
+    ],
+    "subject": "RE: ESCO Construction",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:57.494462Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIfQAAAA==",
+    "from": "d.puehler@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "FW: Updated Microlearnings with REBRANDING",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:42:58.534187Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AjAADzWwXr6eVLR4QYpybukCkHAAA5toE_AAA=",
+    "from": "Megan.Carpenter@alliant.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: ESCO Construction",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:43:00.573038Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AjAADzWwXr6eVLR4QYpybukCkHAAA5toE8AAA=",
+    "from": "Megan.Carpenter@alliant.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: ESCO Construction",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:43:07.296904Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIfgAAAA==",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": "",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:43:10.527701Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AjAADzWwXr6eVLR4QYpybukCkHAAA5toE6AAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Megan.Carpenter@alliant.com"
+    ],
+    "subject": "RE: ESCO Construction",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:43:33.811297Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmTAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@gmail.com"
+    ],
+    "subject": "Re: PO 2023213  report back  day 1",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:43:37.126244Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr07kAADzWwXr6eVLR4QYpybukCkHAAAAr2nuAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "accounting@lcwmail.com"
+    ],
+    "subject": "FW: Transferencia",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:43:46.982646Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIcAAAAA==",
+    "from": "d.puehler@lcwmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com",
+      "r.pringle@lcwmail.com"
+    ],
+    "subject": "RE: LCW Weekly Work Status Call",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:43:56.302282Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIbQAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "r.pringle@lcwmail.com",
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "FW: LCW Weekly Work Status Call",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:11.529679Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIcgAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "r.pringle@lcwmail.com",
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "RE: LCW Weekly Work Status Call",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:16.890083Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIbwAAAA==",
+    "from": "r.pringle@lcwmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com",
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "RE: LCW Weekly Work Status Call",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:32.722494Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIYwAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "a.jones@lcwmail.com"
+    ],
+    "subject": "RE: Alliant Invoices",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:44:53.937058Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBITgAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "m.mercado@lcwmail.com"
+    ],
+    "subject": "RE: External contractor requirements",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:13.392732Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmRAAA=",
+    "from": "shibukyoto@gmail.com",
+    "to": [
+      "shizuyosan@gmail.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:15.991130Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBISwAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@gmail.com"
+    ],
+    "subject": "RE: PO 2023213: Catalent ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:19.278807Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBISQAAAA==",
+    "from": "shibukyoto@gmail.com",
+    "to": [
+      "shizuyosan@gmail.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:23.819469Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBITQAAAA==",
+    "from": "shizuyosan@gmail.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:28.716576Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmOAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@socal.rr.com"
+    ],
+    "subject": "RE: PO 2023213: Catalent ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:28.893433Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmQAAA=",
+    "from": "shizuyosan@gmail.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:29.295281Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBISgAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@gmail.com"
+    ],
+    "subject": "RE: PO 2023213: Catalent ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:30.848754Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIRwAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "k.luo@lcwmail.com"
+    ],
+    "subject": "RE: Branding - Translation Rates and Terms + Diligent",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:36.042495Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBITAAAAA==",
+    "from": "shizuyosan@gmail.com",
+    "to": [
+      "shizuyosan@gmail.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:42.289822Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmPAAA=",
+    "from": "shizuyosan@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent ",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:42.789903Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIPwAAAA==",
+    "from": "k.luo@lcwmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Branding - Translation Rates and Terms + Diligent",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:48.071783Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIPgAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Jessica.Pershing@alliant.com"
+    ],
+    "subject": "RE: Jessica Pershing (jessica.pershing@alliant.com) requested to join the LCW team",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:50.430455Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIOgAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "c.adams@lcwmail.com",
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "RE: Jessica Pershing (jessica.pershing@alliant.com) requested to join the LCW team",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:56.620119Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIPAAAAA==",
+    "from": "Jessica.Pershing@alliant.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Jessica Pershing (jessica.pershing@alliant.com) requested to join the LCW team",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:57.370539Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBINgAAAA==",
+    "from": "k.luo@lcwmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Branding - Translation Rates and Terms + Diligent",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:45:58.555948Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIOQAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "c.adams@lcwmail.com",
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "RE: Jessica Pershing (jessica.pershing@alliant.com) requested to join the LCW team",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:06.535058Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIMwAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "k.luo@lcwmail.com"
+    ],
+    "subject": "RE: Branding - Translation Rates and Terms + Diligent",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:11.065919Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr07qAADzWwXr6eVLR4QYpybukCkHAAAAr4b3AAA=",
+    "from": "k.washington@lcwmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Scoro Invoices Second Email (cc)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:14.019935Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIPQAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Jessica.Pershing@alliant.com"
+    ],
+    "subject": "FW: Jessica Pershing (jessica.pershing@alliant.com) requested to join the LCW team",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:17.901557Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBINQAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "k.luo@lcwmail.com"
+    ],
+    "subject": "RE: Branding - Translation Rates and Terms + Diligent",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:29.967319Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBILwAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "k.washington@lcwmail.com"
+    ],
+    "subject": "Scoro Invoices Second Email (cc)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:32.717503Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIOAAAAA==",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com",
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "RE: Jessica Pershing (jessica.pershing@alliant.com) requested to join the LCW team",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:33.578931Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr07qAADzWwXr6eVLR4QYpybukCkHAAAAr4b2AAA=",
+    "from": "a.jones@lcwmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Alliant Invoices",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:37.416600Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr08LAADzWwXr6eVLR4QYpybukCkHAAAAr5koAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "support@sdl.com"
+    ],
+    "subject": "RE: 00813692 - Karen Language: New Case Comment ref:_00D30NkM._5004X1tGyPX:ref",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:42.506132Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmIAAA=",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent (Materials from May's Inspection)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:46:57.525563Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr07qAADzWwXr6eVLR4QYpybukCkHAAAAr4b1AAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "a.jones@lcwmail.com"
+    ],
+    "subject": "FW: Alliant Invoices",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:00.533229Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIJwAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "RE: PO 2023213: Catalent (Agenda and Presentation)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:03.144921Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmJAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@socal.rr.com",
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "RE: PO 2023213: Catalent (Agenda and Presentation)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:08.765350Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIIgAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@socal.rr.com",
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "RE: PO 2023213: Catalent (Materials from May's Inspection)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:09.146618Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmGAAA=",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent (Materials from May's Inspection)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:19.347066Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmFAAA=",
+    "from": "shibukyoto@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent (Materials from May's Inspection)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:24.004800Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmMAAA=",
+    "from": "shibukyoto@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent (Agenda and Presentation)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:24.469556Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmLAAA=",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent (Agenda and Presentation)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:27.889168Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIHAAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "RE: About Aug 29th",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:31.374391Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmDAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com",
+      "shizuyosan@socal.rr.com"
+    ],
+    "subject": "PO 2023213: Catalent (Materials from May's Inspection)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:35.349476Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmCAAA=",
+    "from": "shibukyoto@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: About Aug 29th",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:46.653507Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-9AADzWwXr6eVLR4QYpybukCkHAAA5tltdAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Jessica.Pershing@alliant.com"
+    ],
+    "subject": "RE: Iconex - OE Kit Translation",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:47:53.713525Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-9AADzWwXr6eVLR4QYpybukCkHAAA5tlteAAA=",
+    "from": "Jessica.Pershing@alliant.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Iconex - OE Kit Translation",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:02.737782Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIEwAAAA==",
+    "from": "jared@proz.com",
+    "to": [
+      "gls@lcwmail.com"
+    ],
+    "subject": "[ProZ.com news] CAT tool report, upcoming International Translation Day event",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:05.550312Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tml-AAA=",
+    "from": "shibukyoto@gmail.com",
+    "to": [
+      "shizuyosan@socal.rr.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent (Introduction and Logistics for Upcoming Assignment)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:06.403797Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tml9AAA=",
+    "from": "shibukyoto@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent (Introduction and Logistics for Upcoming Assignment)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:08.596622Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmmAAAA=",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent (Introduction and Logistics for Upcoming Assignment)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:12.508465Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AbAADzWwXr6eVLR4QYpybukCkHAAA5tn0_AAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "RE: Diligent - WO_MICHELIN_T_082223 - Translations Project",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:13.201379Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIEgAAAA==",
+    "from": "jared@proz.com",
+    "to": [
+      "gls@lcwmail.com"
+    ],
+    "subject": "[ProZ.com news] CAT tool report, upcoming International Translation Day event",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:14.428867Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tml_AAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com",
+      "shizuyosan@socal.rr.com"
+    ],
+    "subject": "RE: PO 2023213: Catalent (Introduction and Logistics for Upcoming Assignment)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:16.791801Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIDwAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "info@carasmatic.com"
+    ],
+    "subject": "RE: QUOTE: Estimate: Fraud 90 second video SPLA",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:23.200551Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AbAADzWwXr6eVLR4QYpybukCkHAAA5tn07AAA=",
+    "from": "d.puehler@lcwmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "FW: Diligent - WO_MICHELIN_T_082223 - Translations Project",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:28.300154Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIEAAAAA==",
+    "from": "info@carasmatic.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "QUOTE: Estimate: Fraud 90 second video SPLA",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:32.186732Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIEQAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "chalupova.m@gmail.com"
+    ],
+    "subject": "RE: 2023112 - Diligent - Wolters Kluwer CoC 2023",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:33.502865Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBICAAAAA==",
+    "from": "sray@diligent.com",
+    "to": [
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "RE: Small Update to Quanta's Code of Conduct Training",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:36.243443Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIBgAAAA==",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "What is our culture?",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:37.046020Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-9AADzWwXr6eVLR4QYpybukCkHAAA5tltcAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Jessica.Pershing@alliant.com"
+    ],
+    "subject": "RE: Iconex - OE Kit Translation",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:38.048684Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBICwAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "m.mercado@lcwmail.com"
+    ],
+    "subject": "FW: External contractor requirements",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:38.397169Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AbAADzWwXr6eVLR4QYpybukCkHAAA5tn06AAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "RE: Diligent - WO_MICHELIN_T_082223 - Translations Project",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:38.433997Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AbAADzWwXr6eVLR4QYpybukCkHAAA5tn09AAA=",
+    "from": "d.puehler@lcwmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Diligent - WO_MICHELIN_T_082223 - Translations Project",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:39.056811Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-qAADzWwXr6eVLR4QYpybukCkHAAAAsEDmAAA=",
+    "from": "P.seminario@lcwmail.com",
+    "to": [
+      "karen.lippman@jensenhughes.com",
+      "mmcginley@jensenhughes.com",
+      "utyson@jensenhughes.com",
+      "CRandolph@jensenhughes.com",
+      "CRaecker@jensenhughes.com",
+      "DHugue@jensenhughes.com"
+    ],
+    "subject": "RE: Follow-up from LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:40.070411Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AbAADzWwXr6eVLR4QYpybukCkHAAA5tn08AAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "info@carasmatic.com"
+    ],
+    "subject": "Estimate: Fraud 90 second video SPLA",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:42.337672Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-qAADzWwXr6eVLR4QYpybukCkHAAAAsEDnAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "P.seminario@lcwmail.com",
+      "karen.lippman@jensenhughes.com",
+      "mmcginley@jensenhughes.com",
+      "utyson@jensenhughes.com",
+      "CRandolph@jensenhughes.com",
+      "CRaecker@jensenhughes.com",
+      "DHugue@jensenhughes.com"
+    ],
+    "subject": "RE: Follow-up from LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:46.123852Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAFVJlh9AADzWwXr6eVLR4QYpybukCkHAAFVJ-vdAAA=",
+    "from": "P.seminario@lcwmail.com",
+    "to": [
+      "karen.lippman@jensenhughes.com",
+      "mmcginley@jensenhughes.com",
+      "utyson@jensenhughes.com",
+      "CRandolph@jensenhughes.com",
+      "CRaecker@jensenhughes.com",
+      "DHugue@jensenhughes.com"
+    ],
+    "subject": "RE: Follow-up from LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:49.667600Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIAgAAAA==",
+    "from": "d.puehler@lcwmail.com",
+    "to": [
+      "sray@diligent.com"
+    ],
+    "subject": "RE: Small Update to Quanta's Code of Conduct Training",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:48:58.940398Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBH-gAAAA==",
+    "from": "Unknown Sender",
+    "to": [
+      "mariobaruzzo@gmail.com"
+    ],
+    "subject": "RE: 2023207 - Alliant - Greif 2024 OE Guides Office and NUH",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:49:04.914353Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAFVJlh9AADzWwXr6eVLR4QYpybukCkHAAFVJ-vcAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "P.seminario@lcwmail.com",
+      "karen.lippman@jensenhughes.com",
+      "mmcginley@jensenhughes.com",
+      "utyson@jensenhughes.com",
+      "CRandolph@jensenhughes.com",
+      "CRaecker@jensenhughes.com",
+      "DHugue@jensenhughes.com"
+    ],
+    "subject": "RE: Follow-up from LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:49:08.927474Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBH9gAAAA==",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "s.nodarse@lcwmail.com",
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Canceled: LCW Learner's Lounge",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:49:09.096425Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBH_wAAAA==",
+    "from": "sray@diligent.com",
+    "to": [
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "RE: Small Update to Quanta's Code of Conduct Training",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:49:20.664602Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIAAAB",
+    "from": "hirokokoyama@hotmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: External contractor requirements",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:49:21.965638Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBH4wAAAA==",
+    "from": "hugdess@gmail.com",
+    "to": [
+      "m.mercado@lcwmail.com"
+    ],
+    "subject": "Re: External contractor requirements",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:50:16.011926Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-9AADzWwXr6eVLR4QYpybukCkHAAA5tltQAAA=",
+    "from": "Jessica.Pershing@alliant.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Iconex - Poster and Postcard Translation",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:50:19.250485Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-9AADzWwXr6eVLR4QYpybukCkHAAA5tltRAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Jessica.Pershing@alliant.com"
+    ],
+    "subject": "RE: Iconex - Poster and Postcard Translation",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:50:26.973869Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-9AADzWwXr6eVLR4QYpybukCkHAAA5tltPAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Jessica.Pershing@alliant.com"
+    ],
+    "subject": "RE: Iconex - Poster and Postcard Translation",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:50:34.253924Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tml7AAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "hirokokoyama@hotmail.com"
+    ],
+    "subject": "RE: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:50:38.228009Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBH2QAAAA==",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": "2023219 - Alliant - Iconex Poster and Postcard",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:50:40.780042Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBH3wAAAA==",
+    "from": "hirokokoyama@hotmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:50:44.828053Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBH2gAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Caitlind.Gynther@alliant.com"
+    ],
+    "subject": "RE: PMMP | Quote for Spanish Translation",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:50:56.834135Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-9AADzWwXr6eVLR4QYpybukCkHAAA5tltLAAA=",
+    "from": "Jessica.Pershing@alliant.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Iconex - Benefit Guide Translation",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:51:15.268393Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tml5AAA=",
+    "from": "k.salek@lcwmail.com",
+    "to": [
+      "a.jones@lcwmail.com"
+    ],
+    "subject": "FW: possible flight information Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023) yes available !",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:51:21.341525Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tml3AAA=",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent (Introduction and Logistics for Upcoming Assignment)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:51:25.087739Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tml6AAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "k.salek@lcwmail.com",
+      "a.jones@lcwmail.com"
+    ],
+    "subject": "RE: possible flight information Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023) yes available !",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:51:35.324365Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmltAAA=",
+    "from": "shibukyoto@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:51:41.351926Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlwAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "RE: PO 2023213: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:51:47.518624Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tml1AAA=",
+    "from": "shibukyoto@gmail.com",
+    "to": [
+      "shizuyosan@socal.rr.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent (Introduction and Logistics for Upcoming Assignment)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:51:55.709125Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHzQAAAA==",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "office@lcwmail.com",
+      "tom.bondi@tcbondicpa.com"
+    ],
+    "subject": "Canceled: LCW Equity Incentive Plan",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:51:57.404138Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlrAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "RE: PO 2023213: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:51:57.743007Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tml0AAA=",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent (Introduction and Logistics for Upcoming Assignment)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:52:04.540870Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlqAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Marichu.Purdy@catalent.com"
+    ],
+    "subject": "RE: Purchase Order 456760-OC-11701",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:52:11.850875Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-9AADzWwXr6eVLR4QYpybukCkHAAA5tltKAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Jessica.Pershing@alliant.com"
+    ],
+    "subject": "RE: Iconex - Benefit Guide Translation",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:52:19.587432Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlsAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com",
+      "shizuyosan@socal.rr.com"
+    ],
+    "subject": "PO 2023213: Catalent (Introduction and Logistics for Upcoming Assignment)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:52:19.853279Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-9AADzWwXr6eVLR4QYpybukCkHAAA5tltJAAA=",
+    "from": "info@linguamyanmar.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Estimate Iconex Benefit Guide - Karen",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:52:20.499971Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHuwAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "osama@ocean2gulf.com"
+    ],
+    "subject": "RE: Estimate Iconex Benefit Guide - Arabic",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:52:22.679860Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHvAAAAA==",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "a.vicente@lcwmail.com",
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: \ud83d\udcf0 August 2023: Culture-First Newsletter",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:52:25.341207Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-9AADzWwXr6eVLR4QYpybukCkHAAA5tltIAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "violet@linguamyanmar.com"
+    ],
+    "subject": "RE: Estimate Iconex Benefit Guide - Karen",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:52:27.378800Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-9AADzWwXr6eVLR4QYpybukCkHAAA5tltHAAA=",
+    "from": "violet@linguamyanmar.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: Estimate Iconex Benefit Guide - Karen",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:52:41.215721Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBH_AAAAA==",
+    "from": "Unknown Sender",
+    "to": [],
+    "subject": "",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:52:44.268284Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlkAAA=",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023). CONFIRMATION OF ASSIGMENT",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:52:44.899182Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmllAAA=",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: PO 2023213: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023). CONFIRMATION OF ASSIGMENT",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:52:44.846661Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-9AADzWwXr6eVLR4QYpybukCkHAAA5tltFAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "violet@linguamyanmar.com"
+    ],
+    "subject": "RE: Estimate Iconex Benefit Guide - Karen",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:52:50.082133Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-9AADzWwXr6eVLR4QYpybukCkHAAA5tltEAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "osama@ocean2gulf.com"
+    ],
+    "subject": "Estimate Iconex Benefit Guide - Arabic",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:52:52.908145Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-9AADzWwXr6eVLR4QYpybukCkHAAA5tltDAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Jessica.Pershing@alliant.com"
+    ],
+    "subject": "RE: Iconex - Benefit Guide Translation",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:52:53.376748Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-9AADzWwXr6eVLR4QYpybukCkHAAA5tltGAAA=",
+    "from": "osama@ocean2gulf.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Estimate Iconex Benefit Guide - Arabic",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:52:55.998277Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAAAEKAADzWwXr6eVLR4QYpybukCkHAACy_G3-AAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "office@lcwmail.com",
+      "tom.bondi@tcbondicpa.com"
+    ],
+    "subject": "LCW Equity Incentive Plan",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:52:58.801216Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlnAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "PO 2023213: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:01.170726Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHswAAAA==",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Clockify - UPDATE",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:01.783594Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-9AADzWwXr6eVLR4QYpybukCkHAAA5tltAAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "Jessica.Pershing@alliant.com"
+    ],
+    "subject": "RE: Iconex - Poster and Postcard Translation",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:05.309674Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAALL4bgAAAQ==",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "office@lcwmail.com",
+      "tom.bondi@tcbondicpa.com"
+    ],
+    "subject": "LCW Equity Incentive Plan",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:07.284246Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHsAAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "RE: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:12.238822Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-9AADzWwXr6eVLR4QYpybukCkHAAA5tltBAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "violet@linguamyanmar.com"
+    ],
+    "subject": "Estimate Please (Karen): Iconex - Poster and Postcard",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:12.279550Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmljAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@socal.rr.com"
+    ],
+    "subject": "PO 2023213: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023). CONFIRMATION OF ASSIGMENT",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:12.312784Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHrwAAAA==",
+    "from": "shibukyoto@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:13.434444Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHrgAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "RE: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:14.019235Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmloAAA=",
+    "from": "shibukyoto@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:18.432026Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-9AADzWwXr6eVLR4QYpybukCkHAAA5tltCAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "violet@linguamyanmar.com"
+    ],
+    "subject": "Estimate Iconex Benefit Guide - Karen",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:22.985332Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHqQAAAA==",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023) yes available !",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:25.869030Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlgAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@socal.rr.com"
+    ],
+    "subject": "RE: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023) yes available !",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:27.971672Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHqgAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@socal.rr.com"
+    ],
+    "subject": "RE: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023) yes available !",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:30.668258Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHqwAAAA==",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023) yes available !",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:31.337980Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlmAAA=",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: possible flight information Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023) yes available !",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:31.823102Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHrAAAAA==",
+    "from": "shibukyoto@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:34.222883Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlfAAA=",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023) yes available !",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:45.852168Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmleAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@socal.rr.com"
+    ],
+    "subject": "Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023) yes available !",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:47.969963Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmldAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:50.646833Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHqAAAAA==",
+    "from": "a.vicente@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "FW: \ud83d\udcf0 August 2023: Culture-First Newsletter",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:53:51.306623Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlUAAA=",
+    "from": "shibukyoto@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:55:33.582422Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlWAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "RE: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:55:43.389276Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlVAAA=",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023) yes available !",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:55:44.408149Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlRAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "RE: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:55:48.985622Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlSAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@socal.rr.com"
+    ],
+    "subject": "RE: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023) yes available !",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:55:49.123888Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlTAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@socal.rr.com"
+    ],
+    "subject": "RE: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023) yes available !",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:55:55.593060Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlNAAA=",
+    "from": "shibukyoto@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:56:12.016904Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlOAAA=",
+    "from": "yyy@earthlink.net",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:56:12.841315Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHdwAAAA==",
+    "from": "shibukyoto@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:56:18.533990Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlQAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "yyy@earthlink.net"
+    ],
+    "subject": "RE: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:56:20.643035Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlPAAA=",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023) yes available !",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:56:23.185315Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlMAAA=",
+    "from": "yyy@earthlink.net",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:56:27.720385Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlLAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "hirokokoyama@hotmail.com"
+    ],
+    "subject": "RE: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:56:33.770712Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlHAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "RE: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:56:51.278004Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlCAAA=",
+    "from": "kayo.wood@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:56:52.817354Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlIAAA=",
+    "from": "shibukyoto@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:56:52.744069Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmk-AAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "hirokokoyama@hotmail.com"
+    ],
+    "subject": "URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:56:53.464421Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlKAAA=",
+    "from": "hirokokoyama@hotmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:56:55.890736Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlEAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@socal.rr.com"
+    ],
+    "subject": "RE: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023) yes available !",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:56:58.005483Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlAAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "kayo.wood@gmail.com"
+    ],
+    "subject": "URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:56:59.857599Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlDAAA=",
+    "from": "shizuyosan@socal.rr.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023) yes available !",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:57:02.454660Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHZwAAAA==",
+    "from": "mariobaruzzo@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Novolex Poster Review",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:57:04.551861Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlFAAA=",
+    "from": "shibukyoto@gmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "Re: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:57:06.287811Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmk_AAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:57:08.931613Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHZgAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "mariobaruzzo@gmail.com"
+    ],
+    "subject": "Novolex Poster Review",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:57:11.524912Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlBAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "kayo.wood@gmail.com"
+    ],
+    "subject": "RE: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:57:13.764779Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmlGAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "RE: URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:57:20.905217Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmk8AAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shizuyosan@socal.rr.com"
+    ],
+    "subject": "URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:57:22.128358Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AMAADzWwXr6eVLR4QYpybukCkHAAA5tmk6AAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "yyy@earthlink.net"
+    ],
+    "subject": "URGENT Quote: Catalent (Winchester, KY) On-Site Inspection (August 29-30, 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:57:38.617912Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-5AADzWwXr6eVLR4QYpybukCkHAAA5tldBAAA=",
+    "from": "hugdess@gmail.com",
+    "to": [
+      "isabelle@louis.cc"
+    ],
+    "subject": "Re: 2023209 - Diligent - INEOS CoC 2023",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:57:43.480665Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AKAADzWwXr6eVLR4QYpybukCkHAAA5tmc7AAA=",
+    "from": "shelby.jones@alliant.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Spanish Translation Quote - Westmont Preventive Care Electronic Flyer",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:57:48.669346Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr07hAADzWwXr6eVLR4QYpybukCkHAAAAr4LjAAA=",
+    "from": "k.luo@lcwmail.com",
+    "to": [
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Design Assets",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:57:57.314062Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHWgAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "k.luo@lcwmail.com"
+    ],
+    "subject": "FW: Design Assets",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:58:07.273921Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHWwAAAA==",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "k.luo@lcwmail.com"
+    ],
+    "subject": "RE: Design Assets",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:58:10.286243Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr1AKAADzWwXr6eVLR4QYpybukCkHAAA5tmc6AAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "shelby.jones@alliant.com"
+    ],
+    "subject": "RE: Spanish Translation Quote - Westmont Preventive Care Electronic Flyer",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:58:12.128855Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAFVJlh9AADzWwXr6eVLR4QYpybukCkHAAFVJ-veAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "r.parrilla@lcwmail.com"
+    ],
+    "subject": "RE: Translation Services",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:58:19.793018Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-qAADzWwXr6eVLR4QYpybukCkHAAAAsEDlAAA=",
+    "from": "m.fagrelius@lcwmail.com",
+    "to": [
+      "r.parrilla@lcwmail.com"
+    ],
+    "subject": "RE: Translation Services",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:58:31.791749Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBIhQAAAA==",
+    "from": "k.salek@lcwmail.com",
+    "to": [
+      "payablelcw@bill.com",
+      "p.coulter@lcwmail.com"
+    ],
+    "subject": "Maya's hours to be paid: 8/04-8/11",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:58:49.556036Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHNgAAAA==",
+    "from": "P.seminario@lcwmail.com",
+    "to": [
+      "karen.lippman@jensenhughes.com",
+      "mmcginley@jensenhughes.com",
+      "utyson@jensenhughes.com",
+      "CRandolph@jensenhughes.com",
+      "CRaecker@jensenhughes.com",
+      "DHugue@jensenhughes.com"
+    ],
+    "subject": "RE: Follow-up from LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:59:13.390845Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHLgAAAA==",
+    "from": "s.nodarse@lcwmail.com",
+    "to": [
+      "b.cardenas@lcwmail.com",
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: [ZOOM LINK INSIDE] LCW Learner's Lounge / Meeting Agenda for Tomorrow",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:59:40.385465Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHKwAAAA==",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "s.nodarse@lcwmail.com",
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "[ZOOM LINK INSIDE] LCW Learner's Lounge",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T17:59:51.402624Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAFVJlh9AADzWwXr6eVLR4QYpybukCkHAAFVJ-vfAAA=",
+    "from": "karen.lippman@jensenhughes.com",
+    "to": [
+      "P.seminario@lcwmail.com",
+      "mmcginley@jensenhughes.com",
+      "utyson@jensenhughes.com",
+      "CRandolph@jensenhughes.com",
+      "CRaecker@jensenhughes.com",
+      "DHugue@jensenhughes.com"
+    ],
+    "subject": "RE: Follow-up from LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:00:05.305986Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-qAADzWwXr6eVLR4QYpybukCkHAAAAsEDkAAA=",
+    "from": "karen.lippman@jensenhughes.com",
+    "to": [
+      "P.seminario@lcwmail.com",
+      "mmcginley@jensenhughes.com",
+      "utyson@jensenhughes.com",
+      "CRandolph@jensenhughes.com",
+      "CRaecker@jensenhughes.com",
+      "DHugue@jensenhughes.com"
+    ],
+    "subject": "RE: Follow-up from LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:00:06.122728Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-qAADzWwXr6eVLR4QYpybukCkHAAAAsEDjAAA=",
+    "from": "P.seminario@lcwmail.com",
+    "to": [
+      "mmcginley@jensenhughes.com",
+      "utyson@jensenhughes.com",
+      "CRandolph@jensenhughes.com",
+      "CRaecker@jensenhughes.com",
+      "DHugue@jensenhughes.com",
+      "karen.lippman@jensenhughes.com"
+    ],
+    "subject": "RE: Follow-up from LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:00:19.129104Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAFVJlh9AADzWwXr6eVLR4QYpybukCkHAAFVJ-vgAAA=",
+    "from": "P.seminario@lcwmail.com",
+    "to": [
+      "mmcginley@jensenhughes.com",
+      "utyson@jensenhughes.com",
+      "CRandolph@jensenhughes.com",
+      "CRaecker@jensenhughes.com",
+      "DHugue@jensenhughes.com",
+      "karen.lippman@jensenhughes.com"
+    ],
+    "subject": "RE: Follow-up from LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:00:31.616625Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHHgAAAA==",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Bi-Weekly All-Staff format and upcoming deadlines",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:00:45.191524Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHJAAAAA==",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "b.cardenas@lcwmail.com",
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: Bi-Weekly All-Staff format and upcoming deadlines",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:01:00.327872Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHFQAAAA==",
+    "from": "c.williams@lcwmail.com",
+    "to": [
+      "c.adams@lcwmail.com",
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: Effective collaboration examples at LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:01:27.169773Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHFgAAAA==",
+    "from": "a.kolodizner@lcwmail.com",
+    "to": [
+      "c.adams@lcwmail.com",
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: Effective collaboration examples at LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:01:34.630666Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHAQAAAA==",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Effective collaboration examples at LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:01:57.042887Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBG_wAAAA==",
+    "from": "Unknown Sender",
+    "to": [
+      "mariobaruzzo@gmail.com"
+    ],
+    "subject": "RE: Baruzzo - Invoice",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:02:18.085055Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBG9AAAAA==",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "d.puehler@lcwmail.com",
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: Updated Microlearnings with REBRANDING",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:02:38.445706Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-5AADzWwXr6eVLR4QYpybukCkHAAA5tlc6AAA=",
+    "from": "d.puehler@lcwmail.com",
+    "to": [
+      "r.pringle@lcwmail.com"
+    ],
+    "subject": "FW: Ineos - Code of Conduct 2023",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:02:50.641227Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAAAEMAADzWwXr6eVLR4QYpybukCkHAAClh9TLAAA=",
+    "from": "d.puehler@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Updated Microlearnings with REBRANDING",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:02:52.835300Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAFVJlh9AADzWwXr6eVLR4QYpybukCkHAAFVJ-vhAAA=",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "mmcginley@jensenhughes.com",
+      "utyson@jensenhughes.com",
+      "CRandolph@jensenhughes.com",
+      "CRaecker@jensenhughes.com",
+      "DHugue@jensenhughes.com",
+      "karen.lippman@jensenhughes.com"
+    ],
+    "subject": "Follow-up from LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:03:05.592764Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBG5wAAAA==",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "office@lcwmail.com",
+      "tom.bondi@tcbondicpa.com"
+    ],
+    "subject": "[HOLD] LCW Equity Incentive Plan",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:03:27.867756Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAAAEKAADzWwXr6eVLR4QYpybukCkHAAClihvgAAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "office@lcwmail.com",
+      "tom.bondi@tcbondicpa.com"
+    ],
+    "subject": "[HOLD] LCW Equity Incentive Plan",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:03:30.058485Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-qAADzWwXr6eVLR4QYpybukCkHAAAAsEDiAAA=",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "mmcginley@jensenhughes.com",
+      "utyson@jensenhughes.com",
+      "CRandolph@jensenhughes.com",
+      "CRaecker@jensenhughes.com",
+      "DHugue@jensenhughes.com",
+      "karen.lippman@jensenhughes.com"
+    ],
+    "subject": "Follow-up from LCW",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:03:35.872608Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBG4wAAAA==",
+    "from": "Unknown Sender",
+    "to": [
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "RE: Prysmian Group - Russian translation for Code of Conduct 2022",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:04:10.575063Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr07dAADzWwXr6eVLR4QYpybukCkHAAAAr2E1AAA=",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "LCW SWOT Analysis - Comments Due EOD Aug 4",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:05:13.920743Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBHSAAAAA==",
+    "from": "k.salek@lcwmail.com",
+    "to": [
+      "payablelcw@bill.com",
+      "p.coulter@lcwmail.com"
+    ],
+    "subject": "Maya's hours to be paid: 7/21-7/28",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:05:29.229247Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBG1QAAAA==",
+    "from": "postmaster@Catalent.onmicrosoft.com",
+    "to": [
+      "Emily.Rhodus@catalent.com"
+    ],
+    "subject": "Undeliverable: RE: Catalent Winchester - Quote Request (Russian Inspection, October 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:05:33.141949Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASvAAAAA==",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "t.thorpe@lcwmail.com",
+      "k.luo@lcwmail.com",
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: Design Assets",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:06:07.236848Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASwAAAAA==",
+    "from": "r.parrilla@lcwmail.com",
+    "to": [
+      "k.luo@lcwmail.com",
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: Design Assets",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:06:07.973592Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASwQAAAA==",
+    "from": "d.puehler@lcwmail.com",
+    "to": [
+      "sray@diligent.com"
+    ],
+    "subject": "RE: Small Update to Quanta's Code of Conduct Training",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:06:08.175435Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASxgAAAA==",
+    "from": "sray@diligent.com",
+    "to": [
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "RE: Small Update to Quanta's Code of Conduct Training",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:06:10.715038Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASvgAAAA==",
+    "from": "k.luo@lcwmail.com",
+    "to": [
+      "s.nodarse@lcwmail.com",
+      "c.adams@lcwmail.com",
+      "t.thorpe@lcwmail.com",
+      "m.neu@lcwmail.com",
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: Design Assets",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:06:19.682989Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASwgAAAA==",
+    "from": "a.kolodizner@lcwmail.com",
+    "to": [
+      "k.luo@lcwmail.com",
+      "s.nodarse@lcwmail.com",
+      "c.adams@lcwmail.com",
+      "t.thorpe@lcwmail.com",
+      "m.neu@lcwmail.com",
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: Design Assets",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:06:20.424736Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASxQAAAA==",
+    "from": "s.nodarse@lcwmail.com",
+    "to": [
+      "b.cardenas@lcwmail.com",
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: LCW Learner's Lounge",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:06:21.621225Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASuQAAAA==",
+    "from": "t.thorpe@lcwmail.com",
+    "to": [
+      "k.luo@lcwmail.com",
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: Design Assets",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:06:25.417702Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASuwAAAA==",
+    "from": "s.nodarse@lcwmail.com",
+    "to": [
+      "b.cardenas@lcwmail.com",
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: LCW Learner's Lounge",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:06:34.624993Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASxAAAAA==",
+    "from": "d.puehler@lcwmail.com",
+    "to": [
+      "sray@diligent.com"
+    ],
+    "subject": "RE: Small Update to Quanta's Code of Conduct Training",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:06:36.487121Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASwwAAAA==",
+    "from": "sray@diligent.com",
+    "to": [
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "RE: Small Update to Quanta's Code of Conduct Training",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:06:41.889532Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASxwAAAA==",
+    "from": "Unknown Sender",
+    "to": [
+      "Julie.Weldon@mercyoneiowa.org"
+    ],
+    "subject": "RE: FW: Translation Services",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:06:44.111768Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr07dAADzWwXr6eVLR4QYpybukCkHAAAAr2E0AAA=",
+    "from": "k.luo@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Design Assets",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:06:49.333324Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASvQAAAA==",
+    "from": "s.nodarse@lcwmail.com",
+    "to": [
+      "c.adams@lcwmail.com",
+      "t.thorpe@lcwmail.com",
+      "k.luo@lcwmail.com",
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: Design Assets",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:06:51.843130Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAAAEKAADzWwXr6eVLR4QYpybukCkHAAChjEJrAAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "s.nodarse@lcwmail.com",
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "LCW Learner's Lounge",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:07:05.263632Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASsAAAAA==",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "s.nodarse@lcwmail.com",
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "LCW Learner's Lounge",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:07:12.191821Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASqwAAAA==",
+    "from": "sray@diligent.com",
+    "to": [
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "Small Update to Quanta's Code of Conduct Training",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:07:28.339216Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASqgAAAA==",
+    "from": "sray@diligent.com",
+    "to": [
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "RE: Small Update to Quanta's Code of Conduct Training",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:07:40.528578Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBH_QAAAA==",
+    "from": "Unknown Sender",
+    "to": [
+      "support@rev.com"
+    ],
+    "subject": "2023112 - WK CoC 2023 - captions",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:07:55.269601Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASmgAAAA==",
+    "from": "postmaster@Catalent.onmicrosoft.com",
+    "to": [
+      "Emily.Rhodus@catalent.com"
+    ],
+    "subject": "Undeliverable: RE: Catalent Winchester - Quote Request (Russian Inspection, October 2023)",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:08:32.854380Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASlgAAAA==",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Canceled: Monthly All Staff Meeting",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:08:55.012171Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASlwAAAA==",
+    "from": "c.adams@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Some quick updates",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:08:59.965597Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASigAAAA==",
+    "from": "a.vicente@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "FW: \ud83d\udcf0 July 2023: Culture-First Newsletter",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:10:27.126216Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0-HAADzWwXr6eVLR4QYpybukCkHAAAAsCTbAAA=",
+    "from": "sray@diligent.com",
+    "to": [
+      "r.pringle@lcwmail.com"
+    ],
+    "subject": "RE: UCF",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:10:30.790530Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASiwAAAA==",
+    "from": "a.wicksbowles@lcwmail.com",
+    "to": [
+      "a.vicente@lcwmail.com",
+      "office@lcwmail.com"
+    ],
+    "subject": "RE: \ud83d\udcf0 July 2023: Culture-First Newsletter",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:10:31.778166Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbAShQAAAA==",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "office@lcwmail.com",
+      "j.barbieri@lcwmail.com"
+    ],
+    "subject": "Canceled: Monthly Chit Chat Series",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:10:44.200152Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASgAAAAA==",
+    "from": "Unknown Sender",
+    "to": [
+      "Hannah.Burke@alliant.com",
+      "Kressie.Kornis@alliant.com",
+      "Kennedy.Campbell@alliant.com",
+      "adixon@alliant.com"
+    ],
+    "subject": "RE: Motrex BAAG Translation",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:11:16.893215Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0_2AADzWwXr6eVLR4QYpybukCkHAAAAsBz2AAA=",
+    "from": "leillo61@gmail.com",
+    "to": [
+      "caroline@lumatdavid.nl"
+    ],
+    "subject": "Re: Urgent task - 2023174 - Diligent - Lennox 2023 CoC",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:11:57.447112Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0_2AADzWwXr6eVLR4QYpybukCkHAAAAsBzrAAA=",
+    "from": "caroline@lumatdavid.nl",
+    "to": [
+      "leillo61@gmail.com"
+    ],
+    "subject": "RE: Urgent task - 2023174 - Diligent - Lennox 2023 CoC",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:12:14.863875Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbBG1AAAAA==",
+    "from": "k.salek@lcwmail.com",
+    "to": [
+      "payablelcw@bill.com",
+      "p.coulter@lcwmail.com"
+    ],
+    "subject": "Maya's hours to be paid: 7/3-7/14",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:12:15.421842Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0_2AADzWwXr6eVLR4QYpybukCkHAAAAsBzqAAA=",
+    "from": "leillo61@gmail.com",
+    "to": [
+      "caroline@lumatdavid.nl"
+    ],
+    "subject": "Re: Urgent task - 2023174 - Diligent - Lennox 2023 CoC",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:12:25.613274Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0_2AADzWwXr6eVLR4QYpybukCkHAAAAsBzwAAA=",
+    "from": "slawomirakaczmarek@gmail.com",
+    "to": [
+      "joterenator@gmail.com"
+    ],
+    "subject": "RE: Urgent task - 2023174 - Diligent - Lennox 2023 CoC",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:12:25.881584Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0_2AADzWwXr6eVLR4QYpybukCkHAAAAsBzoAAA=",
+    "from": "caroline@lumatdavid.nl",
+    "to": [
+      "leillo61@gmail.com"
+    ],
+    "subject": "RE: Urgent task - 2023174 - Diligent - Lennox 2023 CoC",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:12:26.903385Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASaQAAAA==",
+    "from": "Unknown Sender",
+    "to": [
+      "shibukyoto@gmail.com"
+    ],
+    "subject": "RE: English-Japanese interpreting for GMP Inspections",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:12:39.956676Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASaAAAAA==",
+    "from": "slawomirakaczmarek@gmail.com",
+    "to": [
+      "joterenator@gmail.com"
+    ],
+    "subject": "RE: Urgent task - 2023174 - Diligent - Lennox 2023 CoC",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:12:45.161958Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0_2AADzWwXr6eVLR4QYpybukCkHAAAAsBzeAAA=",
+    "from": "hugdess@gmail.com",
+    "to": [
+      "isabelle@louis.cc"
+    ],
+    "subject": "Re: Urgent task - 2023174 - Diligent - Lennox 2023 CoC",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:12:55.840555Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASZwAAAA==",
+    "from": "hugdess@gmail.com",
+    "to": [
+      "isabelle@louis.cc"
+    ],
+    "subject": "Re: Urgent task - 2023174 - Diligent - Lennox 2023 CoC",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:12:58.529177Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0_2AADzWwXr6eVLR4QYpybukCkHAAAAsBzgAAA=",
+    "from": "isabelle@louis.cc",
+    "to": [
+      "hugdess@gmail.com"
+    ],
+    "subject": "Re: Urgent task - 2023174 - Diligent - Lennox 2023 CoC",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:13:01.581801Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASZgAAAA==",
+    "from": "isabelle@louis.cc",
+    "to": [
+      "hugdess@gmail.com"
+    ],
+    "subject": "Re: Urgent task - 2023174 - Diligent - Lennox 2023 CoC",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:13:08.634729Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAr0_2AADzWwXr6eVLR4QYpybukCkHAAAAsBzfAAA=",
+    "from": "joterenator@gmail.com",
+    "to": [
+      "slawomirakaczmarek@gmail.com"
+    ],
+    "subject": "Re: Urgent task - 2023174 - Diligent - Lennox 2023 CoC",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:13:16.337083Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASZAAAAA==",
+    "from": "Unknown Sender",
+    "to": [
+      "info@sl-translations.de"
+    ],
+    "subject": "Urgent task - 2023174 - Diligent - Lennox 2023 CoC",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:13:19.773525Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASWQAAAA==",
+    "from": "sray@diligent.com",
+    "to": [
+      "r.pringle@lcwmail.com",
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "RE: Standard Industries - Code of Conduct - 2023",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:14:07.487944Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASUgAAAA==",
+    "from": "s.nodarse@lcwmail.com",
+    "to": [
+      "b.cardenas@lcwmail.com",
+      "m.fagrelius@lcwmail.com"
+    ],
+    "subject": "RE: Q2 Learner's Lounge",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:14:45.948167Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASTwAAAA==",
+    "from": "a.vicente@lcwmail.com",
+    "to": [
+      "office@lcwmail.com"
+    ],
+    "subject": "Weekly Announcement Summary",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:14:50.355734Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASSgAAAA==",
+    "from": "Unknown Sender",
+    "to": [
+      "Hannah.Burke@alliant.com",
+      "Kressie.Kornis@alliant.com",
+      "Kennedy.Campbell@alliant.com",
+      "adixon@alliant.com"
+    ],
+    "subject": "RE: Motrex BAAG Translation",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:15:36.642941Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AAMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAAAAABBFJEctNnHSqzK6ygTWzjVBwDzWwXr6eVLR4QYpybukCkHAAAAAAEKAADzWwXr6eVLR4QYpybukCkHAACZkrK2AAA=",
+    "from": "b.cardenas@lcwmail.com",
+    "to": [
+      "office@lcwmail.com",
+      "P.seminario@lcwmail.com",
+      "m.mercado@lcwmail.com",
+      "a.jones@lcwmail.com",
+      "r.stieghorst@lcwmail.com"
+    ],
+    "subject": "[ZOOM LINK INSIDE] Monthly All Staff Meeting",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:16:02.656976Z"
+  },
+  {
+    "user_upn": "m.benoit@lcwmail.com",
+    "message_id": "AQMkADI0NWMwNTMyLWI2MDctNGFiNC05Y2FiLTcwOWIzY2ZkODkwYQBGAAADQRSRHLTZx0qsyusoE1s41QcA81sF6_nlS0eEGKcm7pApBwAAAgEKAAAA81sF6_nlS0eEGKcm7pApBwAAAbASQwAAAA==",
+    "from": "Unknown Sender",
+    "to": [
+      "k.salek@lcwmail.com",
+      "d.puehler@lcwmail.com"
+    ],
+    "subject": "German Final QA - 2023117 - LCW - JNJ Conscious Inclusion for Leaders",
+    "reason": "Not to or from the user",
+    "logged_at": "2025-04-05T18:16:09.194536Z"
   }
 ]
