@@ -1,4 +1,5 @@
 import psycopg2
+import psycopg2.extras
 import config
 import json
 import os
@@ -6,11 +7,11 @@ import threading
 from queue import Queue
 
 # --- Configuration ---
-NUM_THREADS = 16          # Control how many threads to use
-BATCH_SIZE = 100          # Control how many events per DB insert
-EVENTS_DIR = "calendar_json"
+NUM_THREADS = 5           # Number of worker threads
+BATCH_SIZE = 100          # Number of events per DB insert
+EVENTS_DIR = "calendar_json"  # Folder containing JSON files
 
-# --- DB Setup ---
+# --- DB Connection ---
 def connect_db():
     try:
         conn = psycopg2.connect(
@@ -23,33 +24,12 @@ def connect_db():
         )
         return conn
     except Exception as e:
-        print(f"Database connection error: {e}")
+        print(f"[DB] ❌ Connection error: {e}")
         return None
 
-def create_calendar_events_table(conn):
-    try:
-        with conn.cursor() as cursor:
-            cursor.execute("""
-            CREATE TABLE IF NOT EXISTS calendar_events (
-                event_id TEXT PRIMARY KEY,
-                tenant_id UUID,
-                organizer_name TEXT,
-                title TEXT,
-                description TEXT,
-                location TEXT,
-                attendees JSONB,
-                virtual BOOLEAN,
-                start_time TIMESTAMP,
-                end_time TIMESTAMP,
-                date_extracted TIMESTAMP
-            );
-            """)
-            conn.commit()
-            print("✅ Table 'calendar_events' ensured.")
-    except Exception as e:
-        print(f"❌ Error creating table: {e}")
-
+# --- Insert Batch of Events ---
 def batch_insert_events(conn, events):
+    inserted_count = 0
     try:
         with conn.cursor() as cursor:
             insert_query = """
@@ -57,44 +37,61 @@ def batch_insert_events(conn, events):
                 event_id, tenant_id, organizer_name, title, description, location, attendees,
                 virtual, start_time, end_time, date_extracted
             ) VALUES %s
-            ON CONFLICT (event_id) DO NOTHING;
+            ON CONFLICT (event_id) DO NOTHING
+            RETURNING event_id;
             """
-            args_str = ','.join(cursor.mogrify("(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)", (
-                event["Event ID"],
-                event["Tenant ID"],
-                event["Organizer"],
-                event["Title"],
-                event["Description"],
-                event["Location"],
-                json.dumps(event["Attendees"]),
-                event["Virtual"],
-                event["Start"],
-                event["End"],
-                event["Date Extracted"]
-            )).decode("utf-8") for event in events)
 
-            cursor.execute(insert_query % args_str)
+            args = [
+                (
+                    event["Event ID"],
+                    event["Tenant ID"],
+                    event["Organizer"],
+                    event["Title"],
+                    event["Description"],
+                    event["Location"],
+                    json.dumps(event["Attendees"]),
+                    event["Virtual"],
+                    event["Start"],
+                    event["End"],
+                    event["Date Extracted"]
+                )
+                for event in events
+            ]
+
+            psycopg2.extras.execute_values(cursor, insert_query, args)
+            returned = cursor.fetchall()
+            inserted_count = len(returned)
             conn.commit()
-            print(f"[Thread-{threading.current_thread().name}] Inserted batch of {len(events)} events.")
-    except Exception as e:
-        print(f"[Thread-{threading.current_thread().name}] Error inserting batch: {e}")
 
-# --- Worker Thread ---
+            organizer_names = {event["Organizer"] for event in events}
+            print(f"[Thread-{threading.current_thread().name}] Processed {len(events)} events. Inserted {inserted_count}. Organizers: {', '.join(organizer_names)}")
+
+    except Exception as e:
+        print(f"[Thread-{threading.current_thread().name}] ❌ Error inserting batch: {e}")
+    return inserted_count
+
+# --- Worker Thread Function ---
 def worker(event_queue):
     conn = connect_db()
     if not conn:
         return
 
+    processed = 0
+    inserted = 0
+    thread_name = threading.current_thread().name
+
     while True:
         events = event_queue.get()
         if events is None:
             break
-        batch_insert_events(conn, events)
+        processed += len(events)
+        inserted += batch_insert_events(conn, events)
         event_queue.task_done()
 
+    print(f"[Thread-{thread_name}] ✅ Done. Total Processed: {processed}, Inserted: {inserted}")
     conn.close()
 
-# --- Load Events from Files ---
+# --- Load JSON Events ---
 def load_all_events_from_folder():
     all_events = []
     for file in os.listdir(EVENTS_DIR):
@@ -106,45 +103,38 @@ def load_all_events_from_folder():
                     if isinstance(data, list):
                         all_events.extend(data)
                     else:
-                        print(f"Skipping non-list JSON in file: {file}")
+                        print(f"[File] Skipping non-list JSON in: {file}")
                 except json.JSONDecodeError as e:
-                    print(f"Failed to parse {file}: {e}")
+                    print(f"[File] ❌ Failed to parse {file}: {e}")
     return all_events
 
-# --- Main Execution ---
+# --- Main Runner ---
 def main():
-    conn = connect_db()
-    if not conn:
-        print("❌ Cannot proceed without DB connection.")
-        return
-
-    create_calendar_events_table(conn)
-    conn.close()
-
     all_events = load_all_events_from_folder()
-    print(f"Total events loaded: {len(all_events)}")
+    print(f"[Main] 📦 Total events loaded: {len(all_events)}")
 
     event_queue = Queue()
     threads = []
 
-    # Start worker threads
+    # Spawn worker threads
     for i in range(NUM_THREADS):
         thread = threading.Thread(target=worker, args=(event_queue,), name=f"{i+1}")
         thread.start()
         threads.append(thread)
 
-    # Divide into batches
+    # Enqueue batches
     for i in range(0, len(all_events), BATCH_SIZE):
-        event_queue.put(all_events[i:i+BATCH_SIZE])
+        event_queue.put(all_events[i:i + BATCH_SIZE])
 
-    # Stop workers
+    # Wait and signal termination
     event_queue.join()
     for _ in threads:
         event_queue.put(None)
     for t in threads:
         t.join()
 
-    print("✅ All events inserted successfully.")
+    print("[Main] ✅ All events processed and inserted.")
 
+# --- Entry Point ---
 if __name__ == "__main__":
     main()
