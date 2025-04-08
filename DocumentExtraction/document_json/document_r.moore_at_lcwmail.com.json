@@ -1,0 +1,24 @@
+[
+  {
+    "userPrincipalName": "r.moore@lcwmail.com",
+    "fileName": "Microsoft Teams Chat Files",
+    "itemId": "01EOLE5XGQYAT6CGFR3JFKPTWS7NLFA3ZZ",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-06-24T17:04:47Z",
+    "lastModifiedBy": "Robert Moore",
+    "extractedAt": "2025-04-08T21:39:03.897481",
+    "activityCount": 1,
+    "activities": [
+      {
+        "activityId": "wL+2NTdv2kjreaMJAAAAAA==",
+        "actionType": "delete",
+        "performedBy": "Robert Moore",
+        "userPrincipalName": "r.moore@lcwmail.com",
+        "email": "r.moore@lcwmail.com",
+        "timestamp": "2022-07-26T18:46:54Z"
+      }
+    ]
+  }
+]

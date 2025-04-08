@@ -1,0 +1,28 @@
+[
+  {
+    "userPrincipalName": "forwards@lcwmail.com",
+    "fileName": "Apps",
+    "itemId": "016KU3PF2NFVIDC665MBGL6NHTYB74RH2E",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-05-15T18:32:56Z",
+    "lastModifiedBy": "Forwards",
+    "extractedAt": "2025-04-08T21:38:42.984777",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "forwards@lcwmail.com",
+    "fileName": "Attachments",
+    "itemId": "016KU3PF3CJDQ54BD5ZBEKTMM7XWZ5QSLT",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-07-05T16:16:57Z",
+    "lastModifiedBy": "Forwards",
+    "extractedAt": "2025-04-08T21:38:44.093517",
+    "activityCount": 0,
+    "activities": []
+  }
+]

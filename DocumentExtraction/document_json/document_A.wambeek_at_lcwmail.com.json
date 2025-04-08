@@ -1,0 +1,24 @@
+[
+  {
+    "userPrincipalName": "A.wambeek@lcwmail.com",
+    "fileName": "Microsoft Teams Chat Files",
+    "itemId": "01KXNSWOV5ESM6XBZ3UJBKUMJJYSTX353F",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-10-13T06:42:17Z",
+    "lastModifiedBy": "Annelie Wambeek",
+    "extractedAt": "2025-04-08T21:39:23.342839",
+    "activityCount": 1,
+    "activities": [
+      {
+        "activityId": "UAnKW58v20jbDBoLAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Annelie Wambeek",
+        "userPrincipalName": "a.wambeek@lcwmail.com",
+        "email": "A.wambeek@lcwmail.com",
+        "timestamp": "2023-03-28T15:16:08Z"
+      }
+    ]
+  }
+]

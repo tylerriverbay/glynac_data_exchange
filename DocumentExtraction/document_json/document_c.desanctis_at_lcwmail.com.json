@@ -1,0 +1,41 @@
+[
+  {
+    "userPrincipalName": "c.desanctis@lcwmail.com",
+    "fileName": "Apps",
+    "itemId": "01MLZ4AVB4KLT67ZXFTBHZWNLFUPY7QQ2J",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-05-30T17:19:38Z",
+    "lastModifiedBy": "Catalina De Sanctis",
+    "extractedAt": "2025-04-08T21:39:31.390872",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "c.desanctis@lcwmail.com",
+    "fileName": "Attachments",
+    "itemId": "01MLZ4AVG7CX5NA6TUVBDZSQNLUV3GPZZV",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-10-12T14:53:36Z",
+    "lastModifiedBy": "Catalina De Sanctis",
+    "extractedAt": "2025-04-08T21:39:32.289130",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "c.desanctis@lcwmail.com",
+    "fileName": "Recordings",
+    "itemId": "01MLZ4AVGNHGYY6YU6MZAKY6FT4HVX4JI4",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-06-05T18:01:23Z",
+    "lastModifiedBy": "Catalina De Sanctis",
+    "extractedAt": "2025-04-08T21:39:33.156659",
+    "activityCount": 0,
+    "activities": []
+  }
+]

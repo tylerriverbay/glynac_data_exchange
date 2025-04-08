@@ -1,0 +1,108 @@
+[
+  {
+    "userPrincipalName": "j.venturi@lcwmail.com",
+    "fileName": "Attachments",
+    "itemId": "01H5RYBMMBH4RALQEKHFEYLAWIOMMHSU5Z",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2025-02-18T16:00:21Z",
+    "lastModifiedBy": "Jorgelina Venturi",
+    "extractedAt": "2025-04-08T21:38:43.128123",
+    "activityCount": 1,
+    "activities": [
+      {
+        "activityId": "AHEfWTVQ3UgnLfkOAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Jorgelina Venturi",
+        "userPrincipalName": "j.venturi@lcwmail.com",
+        "email": "j.venturi@lcwmail.com",
+        "timestamp": "2025-02-18T16:00:21Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "j.venturi@lcwmail.com",
+    "fileName": "Microsoft Teams Chat Files",
+    "itemId": "01H5RYBMOZ6KERFAAZLFFYUWJNQMVAUWTW",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2025-03-11T13:04:36Z",
+    "lastModifiedBy": "Jorgelina Venturi",
+    "extractedAt": "2025-04-08T21:38:44.874040",
+    "activityCount": 3,
+    "activities": [
+      {
+        "activityId": "0EIxS51g3UiQ+RQPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Jorgelina Venturi",
+        "userPrincipalName": "j.venturi@lcwmail.com",
+        "email": "j.venturi@lcwmail.com",
+        "timestamp": "2025-03-11T13:04:44Z"
+      },
+      {
+        "activityId": "cB6rRp1g3UiM+RQPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Jorgelina Venturi",
+        "userPrincipalName": "j.venturi@lcwmail.com",
+        "email": "j.venturi@lcwmail.com",
+        "timestamp": "2025-03-11T13:04:36Z"
+      },
+      {
+        "activityId": "IGl+Rp1g3UiL+RQPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Jorgelina Venturi",
+        "userPrincipalName": "j.venturi@lcwmail.com",
+        "email": "j.venturi@lcwmail.com",
+        "timestamp": "2025-03-11T13:04:36Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "j.venturi@lcwmail.com",
+    "fileName": "Recordings",
+    "itemId": "01H5RYBMKB7KPZXP6KFFCLKW6LBR3P2SZD",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2025-03-10T14:04:02Z",
+    "lastModifiedBy": "SharePoint App",
+    "extractedAt": "2025-04-08T21:38:46.014204",
+    "activityCount": 4,
+    "activities": [
+      {
+        "activityId": "8G5HU6Fg3UhK/hQPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "SharePoint App",
+        "userPrincipalName": "app@sharepoint",
+        "email": "Unknown",
+        "timestamp": "2025-03-11T13:33:35Z"
+      },
+      {
+        "activityId": "MBDfUqFg3UhJ/hQPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "SharePoint App",
+        "userPrincipalName": "app@sharepoint",
+        "email": "Unknown",
+        "timestamp": "2025-03-11T13:33:35Z"
+      },
+      {
+        "activityId": "4NKGj9xf3Ujf4xMPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "SharePoint App",
+        "userPrincipalName": "app@sharepoint",
+        "email": "Unknown",
+        "timestamp": "2025-03-10T14:05:06Z"
+      },
+      {
+        "activityId": "gD7Rjtxf3Ujc4xMPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "SharePoint App",
+        "userPrincipalName": "app@sharepoint",
+        "email": "Unknown",
+        "timestamp": "2025-03-10T14:05:05Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "userPrincipalName": "j.mansour@lcwmail.com",
+    "fileName": "Apps",
+    "itemId": "01564LL5PFS57SSXZ2ARF3GTUHLHFGAZSF",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-07-24T14:25:35Z",
+    "lastModifiedBy": "Juri Mansour",
+    "extractedAt": "2025-04-08T21:38:42.384137",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "j.mansour@lcwmail.com",
+    "fileName": "Attachments",
+    "itemId": "01564LL5JX4FAPETEOVRCKCIN5J33CRO6A",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-08-02T16:56:33Z",
+    "lastModifiedBy": "Juri Mansour",
+    "extractedAt": "2025-04-08T21:38:43.531273",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "j.mansour@lcwmail.com",
+    "fileName": "Microsoft Teams Chat Files",
+    "itemId": "01564LL5OYA4IMPVB4GJDIHTNDUDOEVIOI",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-08-05T19:47:44Z",
+    "lastModifiedBy": "Juri Mansour",
+    "extractedAt": "2025-04-08T21:38:45.331480",
+    "activityCount": 2,
+    "activities": [
+      {
+        "activityId": "4OYSABFN3Ugx4/EOAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Juri Mansour",
+        "userPrincipalName": "j.mansour@lcwmail.com",
+        "email": "j.mansour@lcwmail.com",
+        "timestamp": "2025-02-14T16:02:36Z"
+      },
+      {
+        "activityId": "QOD2+RBN3Ugp4/EOAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Juri Mansour",
+        "userPrincipalName": "j.mansour@lcwmail.com",
+        "email": "j.mansour@lcwmail.com",
+        "timestamp": "2025-02-14T16:02:26Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "j.mansour@lcwmail.com",
+    "fileName": "Notebooks",
+    "itemId": "01564LL5LSUOWBRYHV3RBY3M4VHH7BZSIC",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-07-31T15:16:38Z",
+    "lastModifiedBy": "Juri Mansour",
+    "extractedAt": "2025-04-08T21:38:46.367180",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "j.mansour@lcwmail.com",
+    "fileName": "Recordings",
+    "itemId": "01564LL5KDIMI4UFUISJAKE5OZWQIPXFZI",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-08-09T18:16:36Z",
+    "lastModifiedBy": "SharePoint App",
+    "extractedAt": "2025-04-08T21:38:47.588916",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "j.mansour@lcwmail.com",
+    "fileName": "Development Status_Solutions Content.xlsx",
+    "itemId": "01564LL5L5PCA6ZSG5WFAIBQFK5TF6YR63",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "fileSizeBytes": 14062,
+    "lastModified": "2024-09-03T21:23:51Z",
+    "lastModifiedBy": "Juri Mansour",
+    "extractedAt": "2025-04-08T21:38:48.663350",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "j.mansour@lcwmail.com",
+    "fileName": "Valuing Diversity Slide Screenshots.docx",
+    "itemId": "01564LL5LYZQLN6XVN7BALAUFZJ54SUN6A",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "fileSizeBytes": 3165974,
+    "lastModified": "2024-08-20T18:13:12Z",
+    "lastModifiedBy": "Juri Mansour",
+    "extractedAt": "2025-04-08T21:38:49.829998",
+    "activityCount": 0,
+    "activities": []
+  }
+]

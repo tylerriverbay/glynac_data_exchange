@@ -1,0 +1,89 @@
+[
+  {
+    "userPrincipalName": "d.trincado@lcwmail.com",
+    "fileName": "Desktop",
+    "itemId": "01J4ZZJJU5HY4QIHU6VFG3HVQRFEJKPJ7A",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-11-14T18:33:37Z",
+    "lastModifiedBy": "David Trincado",
+    "extractedAt": "2025-04-08T21:39:34.270206",
+    "activityCount": 1,
+    "activities": [
+      {
+        "activityId": "8GBHlKr02kgSuqUKAAAAAA==",
+        "actionType": "delete",
+        "performedBy": "David Trincado",
+        "userPrincipalName": "d.trincado@lcwmail.com",
+        "email": "d.trincado@lcwmail.com",
+        "timestamp": "2023-01-12T14:37:49Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "d.trincado@lcwmail.com",
+    "fileName": "Documents",
+    "itemId": "01J4ZZJJQBBQBIWINO5RHLHHNJ7XTY6PAS",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-11-14T18:33:37Z",
+    "lastModifiedBy": "David Trincado",
+    "extractedAt": "2025-04-08T21:39:35.327686",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "d.trincado@lcwmail.com",
+    "fileName": "Microsoft Teams Chat Files",
+    "itemId": "01J4ZZJJSFA7G7FIDZ4VBZHHXLFDTPGR73",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-12-02T21:37:55Z",
+    "lastModifiedBy": "David Trincado",
+    "extractedAt": "2025-04-08T21:39:36.341596",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "d.trincado@lcwmail.com",
+    "fileName": "Pictures",
+    "itemId": "01J4ZZJJSA7FSA3H5F5NBKNUN67X2EAGHY",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-11-14T18:33:37Z",
+    "lastModifiedBy": "David Trincado",
+    "extractedAt": "2025-04-08T21:39:37.287362",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "d.trincado@lcwmail.com",
+    "fileName": "Bill.docx",
+    "itemId": "01J4ZZJJW2C6OLN3464ZFY5MDWAID7VQMO",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "fileSizeBytes": 13067,
+    "lastModified": "2023-01-03T14:27:05Z",
+    "lastModifiedBy": "David Trincado",
+    "extractedAt": "2025-04-08T21:39:38.161636",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "d.trincado@lcwmail.com",
+    "fileName": "David @ LCW",
+    "itemId": "01J4ZZJJSVVARYK4M23JC2RNC7MB3YHJRC",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-11-15T21:11:30Z",
+    "lastModifiedBy": "David Trincado",
+    "extractedAt": "2025-04-08T21:39:39.047485",
+    "activityCount": 0,
+    "activities": []
+  }
+]

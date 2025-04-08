@@ -1,0 +1,102 @@
+[
+  {
+    "userPrincipalName": "d.munster@lcwmail.com",
+    "fileName": "Attachments",
+    "itemId": "01NXDQ4NG6WAWTQEYSWNFY5EJYBM5MKHAT",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-04-20T02:39:47Z",
+    "lastModifiedBy": "Deb Munster",
+    "extractedAt": "2025-04-08T21:39:32.717254",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "d.munster@lcwmail.com",
+    "fileName": "Recordings",
+    "itemId": "01NXDQ4NFYJTMH2UCTNRGKCMTGI5G3GUIM",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-06-05T15:45:41Z",
+    "lastModifiedBy": "Deb Munster",
+    "extractedAt": "2025-04-08T21:39:33.670456",
+    "activityCount": 1,
+    "activities": [
+      {
+        "activityId": "0MSgFy7120gynb8MAAAAAA==",
+        "actionType": "delete",
+        "performedBy": "Deb Munster",
+        "userPrincipalName": "d.munster@lcwmail.com",
+        "email": "d.munster@lcwmail.com",
+        "timestamp": "2023-12-05T01:04:11Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "d.munster@lcwmail.com",
+    "fileName": "ALS website recommendations.pptx",
+    "itemId": "01NXDQ4NCRFGHGYTXSLVBJUDIVOLHL7HUL",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "fileSizeBytes": 26476737,
+    "lastModified": "2023-06-13T17:15:22Z",
+    "lastModifiedBy": "Deb Munster",
+    "extractedAt": "2025-04-08T21:39:34.642164",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "d.munster@lcwmail.com",
+    "fileName": "Chart in Microsoft PowerPoint.xlsx",
+    "itemId": "01NXDQ4NEPMC2E43L4EJDYRAWUGMNC6BSD",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "fileSizeBytes": 9797,
+    "lastModified": "2023-11-02T23:12:03Z",
+    "lastModifiedBy": "Deb Munster",
+    "extractedAt": "2025-04-08T21:39:35.649209",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "d.munster@lcwmail.com",
+    "fileName": "JBC audience profile.xlsx",
+    "itemId": "01NXDQ4NDF2FWR7RF2YNBLCHQZOXHRN7D4",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "fileSizeBytes": 12735,
+    "lastModified": "2023-09-06T14:46:34Z",
+    "lastModifiedBy": "Deb Munster",
+    "extractedAt": "2025-04-08T21:39:36.709938",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "d.munster@lcwmail.com",
+    "fileName": "Orveon Proposal draft 2.pptx",
+    "itemId": "01NXDQ4NAOGXV2353XBJA2NUMZPYSEOJLM",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "fileSizeBytes": 52860876,
+    "lastModified": "2023-08-23T19:29:11Z",
+    "lastModifiedBy": "Deb Munster",
+    "extractedAt": "2025-04-08T21:39:37.759890",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "d.munster@lcwmail.com",
+    "fileName": "WLH-LCW Proposal_V4.pptx",
+    "itemId": "01NXDQ4NDSL3LEE3NEQRGIACGKSFEEMNB4",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "fileSizeBytes": 19589400,
+    "lastModified": "2023-05-17T21:00:03Z",
+    "lastModifiedBy": "Deb Munster",
+    "extractedAt": "2025-04-08T21:39:38.797841",
+    "activityCount": 0,
+    "activities": []
+  }
+]

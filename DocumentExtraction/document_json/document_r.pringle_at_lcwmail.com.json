@@ -1,0 +1,28 @@
+[
+  {
+    "userPrincipalName": "r.pringle@lcwmail.com",
+    "fileName": "Attachments",
+    "itemId": "01Y65GALNZWH7DMM7V5ZCZKBITM7W4C5SA",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-03-27T12:32:06Z",
+    "lastModifiedBy": "Randy Pringle",
+    "extractedAt": "2025-04-08T21:39:04.949141",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "r.pringle@lcwmail.com",
+    "fileName": "Microsoft Teams Chat Files",
+    "itemId": "01Y65GALJEA7G7ZZWLX5D3THQMC3E3SMVM",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2021-05-24T14:47:10Z",
+    "lastModifiedBy": "Randy Pringle",
+    "extractedAt": "2025-04-08T21:39:05.749697",
+    "activityCount": 0,
+    "activities": []
+  }
+]

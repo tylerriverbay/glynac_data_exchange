@@ -1,0 +1,128 @@
+[
+  {
+    "userPrincipalName": "m.mercado@lcwmail.com",
+    "fileName": "Apps",
+    "itemId": "01ZGLCY34IRJ3ZK5HVJZAKQV6S7BOF23LD",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-08-18T17:16:47Z",
+    "lastModifiedBy": "Maria Mercado",
+    "extractedAt": "2025-04-08T21:38:50.856434",
+    "activityCount": 1,
+    "activities": [
+      {
+        "activityId": "kAsb6A6g20gtShIMAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Maria Mercado",
+        "userPrincipalName": "m.mercado@lcwmail.com",
+        "email": "m.mercado@lcwmail.com",
+        "timestamp": "2023-08-18T17:16:48Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "m.mercado@lcwmail.com",
+    "fileName": "Attachments",
+    "itemId": "01ZGLCY35C6FCVWBLCZZC2M7VSPY357BKU",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-03-31T18:00:48Z",
+    "lastModifiedBy": "Maria Mercado",
+    "extractedAt": "2025-04-08T21:38:52.013422",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "m.mercado@lcwmail.com",
+    "fileName": "Microsoft Teams Chat Files",
+    "itemId": "01ZGLCY33R5COLTFMKMRCLUPR3FQE5233W",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-04-07T18:35:34Z",
+    "lastModifiedBy": "Maria Mercado",
+    "extractedAt": "2025-04-08T21:38:53.160072",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "m.mercado@lcwmail.com",
+    "fileName": "Recordings",
+    "itemId": "01ZGLCY3455BCDIQJ27ZG2JDD6HQSPS7PJ",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-03-20T16:42:51Z",
+    "lastModifiedBy": "Maria Mercado",
+    "extractedAt": "2025-04-08T21:38:54.308710",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "m.mercado@lcwmail.com",
+    "fileName": "BCBS RX premium reporting for 2022.xlsx",
+    "itemId": "01ZGLCY36FAYUO5VZCM5BJECFBFOIKH4JB",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "fileSizeBytes": 17866,
+    "lastModified": "2023-04-26T19:29:30Z",
+    "lastModifiedBy": "Maria Mercado",
+    "extractedAt": "2025-04-08T21:38:55.450011",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "m.mercado@lcwmail.com",
+    "fileName": "LCW Employee Handbook 2023_final draft 5.2023.docx",
+    "itemId": "01ZGLCY36U4GUWVUWC6VD3525UO5ONF54M",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "fileSizeBytes": 106553,
+    "lastModified": "2023-05-16T18:37:06Z",
+    "lastModifiedBy": "Maria Mercado",
+    "extractedAt": "2025-04-08T21:38:56.534715",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "m.mercado@lcwmail.com",
+    "fileName": "LCW Employee Handbook 2023_final draft 5.2023_CMA.docx",
+    "itemId": "01ZGLCY35AYB4X4MDXMZAYY7YREAOTYV37",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "fileSizeBytes": 106780,
+    "lastModified": "2023-05-16T19:20:56Z",
+    "lastModifiedBy": "Maria Mercado",
+    "extractedAt": "2025-04-08T21:38:57.440031",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "m.mercado@lcwmail.com",
+    "fileName": "LCW Employee Handbook final draft 5.16.2023.docx",
+    "itemId": "01ZGLCY3ZU4X3TFHGLFJF3WXEGLPQDN5KQ",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "fileSizeBytes": 106414,
+    "lastModified": "2023-05-16T17:49:50Z",
+    "lastModifiedBy": "Maria Mercado",
+    "extractedAt": "2025-04-08T21:38:58.531735",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "m.mercado@lcwmail.com",
+    "fileName": "LCW Employee Handbook.docx",
+    "itemId": "01ZGLCY33SBPOUEKYTT5EIZVPB3BJ7ZCM5",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "fileSizeBytes": 105835,
+    "lastModified": "2023-05-16T17:46:49Z",
+    "lastModifiedBy": "Maria Mercado",
+    "extractedAt": "2025-04-08T21:38:59.572834",
+    "activityCount": 0,
+    "activities": []
+  }
+]

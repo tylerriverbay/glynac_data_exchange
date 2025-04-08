@@ -1,0 +1,78 @@
+[
+  {
+    "userPrincipalName": "c.mariotta@lcwmail.com",
+    "fileName": "Archivos de chat de Microsoft Teams",
+    "itemId": "01S3E46242JI52EVHQLRCZIHYFRLIU2IT5",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2025-03-11T13:06:31Z",
+    "lastModifiedBy": "Cecilia Mariotta",
+    "extractedAt": "2025-04-08T21:39:31.337836",
+    "activityCount": 5,
+    "activities": [
+      {
+        "activityId": "kNID8Z1g3UgN+hQPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Cecilia Mariotta",
+        "userPrincipalName": "c.mariotta@lcwmail.com",
+        "email": "c.mariotta@lcwmail.com",
+        "timestamp": "2025-03-11T13:09:22Z"
+      },
+      {
+        "activityId": "UPmq751g3UgL+hQPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Cecilia Mariotta",
+        "userPrincipalName": "c.mariotta@lcwmail.com",
+        "email": "c.mariotta@lcwmail.com",
+        "timestamp": "2025-03-11T13:09:20Z"
+      },
+      {
+        "activityId": "kJV0kJ1g3UjN+RQPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Cecilia Mariotta",
+        "userPrincipalName": "c.mariotta@lcwmail.com",
+        "email": "c.mariotta@lcwmail.com",
+        "timestamp": "2025-03-11T13:06:40Z"
+      },
+      {
+        "activityId": "QPUji51g3UjH+RQPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Cecilia Mariotta",
+        "userPrincipalName": "c.mariotta@lcwmail.com",
+        "email": "c.mariotta@lcwmail.com",
+        "timestamp": "2025-03-11T13:06:31Z"
+      },
+      {
+        "activityId": "8LD5ip1g3UjG+RQPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Cecilia Mariotta",
+        "userPrincipalName": "c.mariotta@lcwmail.com",
+        "email": "c.mariotta@lcwmail.com",
+        "timestamp": "2025-03-11T13:06:31Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "c.mariotta@lcwmail.com",
+    "fileName": "Attachments",
+    "itemId": "01S3E4624KEUFK5XEV5NBZ3JOTDLFGWVK7",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2025-04-02T02:53:22Z",
+    "lastModifiedBy": "Cecilia Mariotta",
+    "extractedAt": "2025-04-08T21:39:32.238723",
+    "activityCount": 1,
+    "activities": [
+      {
+        "activityId": "sE41iJFx3UjhVD4PAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Cecilia Mariotta",
+        "userPrincipalName": "c.mariotta@lcwmail.com",
+        "email": "c.mariotta@lcwmail.com",
+        "timestamp": "2025-04-02T02:53:22Z"
+      }
+    ]
+  }
+]

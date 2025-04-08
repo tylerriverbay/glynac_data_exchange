@@ -1,0 +1,128 @@
+[
+  {
+    "userPrincipalName": "a.vicente@lcwmail.com",
+    "fileName": "Apps",
+    "itemId": "01ZW6BKBVBRDJBZD7EWFDZO33LE44VHR7F",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-11-03T20:32:15Z",
+    "lastModifiedBy": "Ashton Vicente",
+    "extractedAt": "2025-04-08T21:39:23.825079",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.vicente@lcwmail.com",
+    "fileName": "Attachments",
+    "itemId": "01ZW6BKBUSMXBUVZC2ARF2SHU5O223DDOB",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-03-23T20:52:34Z",
+    "lastModifiedBy": "Ashton Vicente",
+    "extractedAt": "2025-04-08T21:39:24.794443",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.vicente@lcwmail.com",
+    "fileName": "Desktop",
+    "itemId": "01ZW6BKBREKRE5PJHDBFBYFWNOVY6GLVC5",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-07-19T20:56:18Z",
+    "lastModifiedBy": "Ashton Vicente",
+    "extractedAt": "2025-04-08T21:39:25.745678",
+    "activityCount": 1,
+    "activities": [
+      {
+        "activityId": "YLkpB+i220i+WlQMAAAAAA==",
+        "actionType": "delete",
+        "performedBy": "Ashton Vicente",
+        "userPrincipalName": "a.vicente@lcwmail.com",
+        "email": "a.vicente@lcwmail.com",
+        "timestamp": "2023-09-16T19:06:27Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "a.vicente@lcwmail.com",
+    "fileName": "Documents",
+    "itemId": "01ZW6BKBUQLLCYHE7UNZC2REQKINRRUARE",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-07-19T20:56:19Z",
+    "lastModifiedBy": "Ashton Vicente",
+    "extractedAt": "2025-04-08T21:39:26.728361",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.vicente@lcwmail.com",
+    "fileName": "Microsoft Teams Chat Files",
+    "itemId": "01ZW6BKBSIEDNCYWR7EJALU6WQGDOF3JDZ",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-08-23T21:45:05Z",
+    "lastModifiedBy": "Ashton Vicente",
+    "extractedAt": "2025-04-08T21:39:27.604570",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.vicente@lcwmail.com",
+    "fileName": "Pictures",
+    "itemId": "01ZW6BKBVSZCT56OY4AVD2NGC4YQCHAPKY",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-07-19T20:56:19Z",
+    "lastModifiedBy": "Ashton Vicente",
+    "extractedAt": "2025-04-08T21:39:28.488329",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.vicente@lcwmail.com",
+    "fileName": "Recordings",
+    "itemId": "01ZW6BKBVQPM4JDRRPLBELFME7LVGD6K6O",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-10-12T17:04:18Z",
+    "lastModifiedBy": "Ashton Vicente",
+    "extractedAt": "2025-04-08T21:39:29.964251",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.vicente@lcwmail.com",
+    "fileName": "Ashton @ LCW",
+    "itemId": "01ZW6BKBTUTQQIBELLVFCIDM6ASAVKZJ6M",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-08-11T15:09:44Z",
+    "lastModifiedBy": "Ashton Vicente",
+    "extractedAt": "2025-04-08T21:39:30.859965",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.vicente@lcwmail.com",
+    "fileName": "Guest_Episode Premiere Email.docx",
+    "itemId": "01ZW6BKBU7ZH6B2U4BXJD2NHWD7DTBCWM2",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "fileSizeBytes": 15340,
+    "lastModified": "2023-03-27T15:20:55Z",
+    "lastModifiedBy": "Ashton Vicente",
+    "extractedAt": "2025-04-08T21:39:32.364428",
+    "activityCount": 0,
+    "activities": []
+  }
+]

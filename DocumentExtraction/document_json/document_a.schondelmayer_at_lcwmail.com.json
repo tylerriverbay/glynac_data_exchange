@@ -1,0 +1,50 @@
+[
+  {
+    "userPrincipalName": "a.schondelmayer@lcwmail.com",
+    "fileName": "Analysis of LCW LLC Purchase Price for Accounting rev 5-12-2022 (1).xlsx",
+    "itemId": "01BD7IUA44YZB6WFAYHFEIDTO56RJXSQTE",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "fileSizeBytes": 11747,
+    "lastModified": "2022-07-01T20:30:00Z",
+    "lastModifiedBy": "Alsu Schondelmayer",
+    "extractedAt": "2025-04-08T21:39:20.807142",
+    "activityCount": 1,
+    "activities": [
+      {
+        "activityId": "UD6reKBb2kj3GYIJAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Alsu Schondelmayer",
+        "userPrincipalName": "a.schondelmayer@lcwmail.com",
+        "email": "a.schondelmayer@lcwmail.com",
+        "timestamp": "2022-07-01T20:30:00Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "a.schondelmayer@lcwmail.com",
+    "fileName": "Analysis of LCW LLC Purchase Price for Accounting rev 5-12-2022.xlsx",
+    "itemId": "01BD7IUA4AXWN7PNSMWNB343EFXJQ4GLXM",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "fileSizeBytes": 11747,
+    "lastModified": "2022-07-01T20:29:40Z",
+    "lastModifiedBy": "Alsu Schondelmayer",
+    "extractedAt": "2025-04-08T21:39:21.689979",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.schondelmayer@lcwmail.com",
+    "fileName": "Presentation1.pptx",
+    "itemId": "01BD7IUA55IMJDVOZJ3FDIISEFF365LTWJ",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "fileSizeBytes": 115840,
+    "lastModified": "2019-11-12T17:06:29Z",
+    "lastModifiedBy": "Alsu Schondelmayer",
+    "extractedAt": "2025-04-08T21:39:22.589970",
+    "activityCount": 0,
+    "activities": []
+  }
+]

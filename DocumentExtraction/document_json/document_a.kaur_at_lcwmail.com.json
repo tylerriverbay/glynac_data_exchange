@@ -1,0 +1,61 @@
+[
+  {
+    "userPrincipalName": "a.kaur@lcwmail.com",
+    "fileName": "Apps",
+    "itemId": "01R7WJ7S5SPNXCYRTVBZD33LPGS4B3UZWF",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-12-23T03:37:27Z",
+    "lastModifiedBy": "Arvinder Kaur",
+    "extractedAt": "2025-04-08T21:39:18.482215",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kaur@lcwmail.com",
+    "fileName": "Microsoft Teams Chat Files",
+    "itemId": "01R7WJ7S2PHC6WIEAPBZHYDWL6TMVBDSRP",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2025-01-14T12:35:24Z",
+    "lastModifiedBy": "Arvinder Kaur",
+    "extractedAt": "2025-04-08T21:39:19.482874",
+    "activityCount": 4,
+    "activities": [
+      {
+        "activityId": "oEz521pX3Uie/gQPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Arvinder Kaur",
+        "userPrincipalName": "a.kaur@lcwmail.com",
+        "email": "a.kaur@lcwmail.com",
+        "timestamp": "2025-02-27T18:16:30Z"
+      },
+      {
+        "activityId": "YJ8osg9T3Ug2EP8OAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Arvinder Kaur",
+        "userPrincipalName": "a.kaur@lcwmail.com",
+        "email": "a.kaur@lcwmail.com",
+        "timestamp": "2025-02-22T07:08:23Z"
+      },
+      {
+        "activityId": "AIr2qQ9T3UgvEP8OAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Arvinder Kaur",
+        "userPrincipalName": "a.kaur@lcwmail.com",
+        "email": "a.kaur@lcwmail.com",
+        "timestamp": "2025-02-22T07:08:09Z"
+      },
+      {
+        "activityId": "IExieKM03UhEk8AOAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Arvinder Kaur",
+        "userPrincipalName": "a.kaur@lcwmail.com",
+        "email": "a.kaur@lcwmail.com",
+        "timestamp": "2025-01-14T13:58:06Z"
+      }
+    ]
+  }
+]

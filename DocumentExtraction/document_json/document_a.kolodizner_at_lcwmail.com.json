@@ -1,0 +1,613 @@
+[
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Apps",
+    "itemId": "017YRNCTNHBFIYWARKHBBIB2KDIQBPVJGA",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-07-28T22:27:27Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:17.206679",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Attachments",
+    "itemId": "017YRNCTMLN7EMP3BHHZCLKRHECR7ODZZ4",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-03-24T21:22:09Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:18.277346",
+    "activityCount": 2,
+    "activities": [
+      {
+        "activityId": "IEp9D5pW3UjB2AMPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-02-26T19:16:24Z"
+      },
+      {
+        "activityId": "MJD4C5pW3Ui12AMPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-02-26T19:16:18Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Desktop",
+    "itemId": "017YRNCTLNR55MWU2BU5HJ5Q3OYUPDAPLH",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-11-09T23:13:57Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:19.238504",
+    "activityCount": 11,
+    "activities": [
+      {
+        "activityId": "0Odn0OR23UgZdU4PAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-04-08T21:32:07Z"
+      },
+      {
+        "activityId": "sKWM1Xlq3UjDLS8PAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-03-24T02:16:06Z"
+      },
+      {
+        "activityId": "MH0QWp5o3UhwyicPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-03-21T17:32:28Z"
+      },
+      {
+        "activityId": "gPAOLKBk3Ug5rB0PAAAAAA==",
+        "actionType": "delete",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-03-16T15:35:25Z"
+      },
+      {
+        "activityId": "UAKpGaBk3UgyrB0PAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-03-16T15:34:54Z"
+      },
+      {
+        "activityId": "UFewEqBk3UgvrB0PAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-03-16T15:34:42Z"
+      },
+      {
+        "activityId": "8B+/DqBk3UgsrB0PAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-03-16T15:34:36Z"
+      },
+      {
+        "activityId": "0HnikgRg3Uj6LBQPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-03-10T18:51:31Z"
+      },
+      {
+        "activityId": "sOoE2jFf3UjY7RIPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-03-09T17:43:07Z"
+      },
+      {
+        "activityId": "UNMJSNFL3UicK+8OAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-02-13T01:53:58Z"
+      },
+      {
+        "activityId": "kFKPRNFL3UiVK+8OAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-02-13T01:53:52Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Documents",
+    "itemId": "017YRNCTN5LZTDD75HK5DKZCAGR4EMY7W6",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-11-09T23:13:58Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:20.211374",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Microsoft Copilot Chat Files",
+    "itemId": "017YRNCTK6ZCMZE7MSORHYTCELJ7BYHDOG",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-11-09T21:53:32Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:21.132132",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Microsoft Teams Chat Files",
+    "itemId": "017YRNCTOXN4N77LUFLRFIUWABZYRDE4WG",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-04-14T00:35:50Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:21.986719",
+    "activityCount": 6,
+    "activities": [
+      {
+        "activityId": "kNrh7Vpm3UjbjSMPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-03-18T20:24:48Z"
+      },
+      {
+        "activityId": "EOrm6lpm3UjZjSMPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-03-18T20:24:43Z"
+      },
+      {
+        "activityId": "cP/j5lpm3UjVjSMPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-03-18T20:24:36Z"
+      },
+      {
+        "activityId": "8Lqd3Vpm3UjPjSMPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-03-18T20:24:20Z"
+      },
+      {
+        "activityId": "oPnJ0Zpd3UjatRAPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-03-07T17:09:28Z"
+      },
+      {
+        "activityId": "cINn0Jpd3UjTtRAPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-03-07T17:09:25Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "NDA",
+    "itemId": "017YRNCTPQ2PEBSM4LPNDYT4XEJKHP2347",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-10-13T18:58:05Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:22.843637",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Pictures",
+    "itemId": "017YRNCTJH33AKVN7VDRFYCVAQOLMCVHYZ",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-11-09T23:13:58Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:23.793354",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Recordings",
+    "itemId": "017YRNCTMOLDFSI5UODNBICHPDLXBJV5RC",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-04-12T22:53:22Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:24.761557",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Scans",
+    "itemId": "017YRNCTJO6L3TKSWVZVF2LNJCUJKUMS4D",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-11-01T01:34:41Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:25.672835",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "surface laptop",
+    "itemId": "017YRNCTJ4DMINRTXXORCJ7ZCL3YPJDVEH",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-08-15T15:43:50Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:26.581508",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Alisa @ LCW",
+    "itemId": "017YRNCTMU55HLNVIT6ZGIULVZBDWMLBB3",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-12-23T02:56:04Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:27.398155",
+    "activityCount": 13,
+    "activities": [
+      {
+        "activityId": "8H3lXL1W3UhsDgQPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-02-26T23:29:06Z"
+      },
+      {
+        "activityId": "cAImjbtW3UgRDQQPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-02-26T23:16:08Z"
+      },
+      {
+        "activityId": "sHCZobdW3Uj1BQQPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-02-26T22:48:04Z"
+      },
+      {
+        "activityId": "kJ9czLVW3UigAgQPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-02-26T22:34:57Z"
+      },
+      {
+        "activityId": "8GeIwz1R3UinmvwOAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-02-19T23:33:07Z"
+      },
+      {
+        "activityId": "UNpdGDxR3UgBmPwOAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-02-19T23:21:10Z"
+      },
+      {
+        "activityId": "0EeOyDZR3UhKkPwOAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-02-19T22:43:09Z"
+      },
+      {
+        "activityId": "ELDhFDVR3UhujvwOAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-02-19T22:30:58Z"
+      },
+      {
+        "activityId": "gOidM7xL3UgBD+8OAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-02-12T23:23:04Z"
+      },
+      {
+        "activityId": "MNeP8LlL3UhhDO8OAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-02-12T23:06:53Z"
+      },
+      {
+        "activityId": "cI94qrVL3Ui2CO8OAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-02-12T22:36:17Z"
+      },
+      {
+        "activityId": "ABxGWPVG3Uj10OcOAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-02-06T21:29:31Z"
+      },
+      {
+        "activityId": "UEp7U/FG3Uh7y+cOAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Alisa Kolodizner",
+        "userPrincipalName": "a.kolodizner@lcwmail.com",
+        "email": "a.kolodizner@lcwmail.com",
+        "timestamp": "2025-02-06T21:00:45Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Alisa role and meeting attendance.docx",
+    "itemId": "017YRNCTNVEO2V72T46NCIH42MFCPMROU2",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "fileSizeBytes": 17666,
+    "lastModified": "2024-11-19T23:25:47Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:28.301232",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Alisa Why Note for Handbook.docx",
+    "itemId": "017YRNCTI34TIEI4QXWNHZWRUJKHSY3TKM",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "fileSizeBytes": 14397,
+    "lastModified": "2023-04-26T12:40:01Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:29.171280",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Board Meeting Q22022.pptx",
+    "itemId": "017YRNCTOYU4CH7JLSZJBIIOGUJLRM3M3U",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "fileSizeBytes": 1491668,
+    "lastModified": "2022-07-29T16:55:22Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:30.166508",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Copy of COGS_colgate.xlsx",
+    "itemId": "017YRNCTOOC2NQY2DETZAZ5L2ASL3PFJON",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "fileSizeBytes": 20658,
+    "lastModified": "2024-07-02T18:29:17Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:31.071394",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "LCW and PHH Hours.xlsx",
+    "itemId": "017YRNCTJMAUYI3AQBO5GYIM4BDW524QKY",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "fileSizeBytes": 10677,
+    "lastModified": "2025-01-10T16:25:02Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:31.995968",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "LCW Tasks for AK Sales and Marketing.docx",
+    "itemId": "017YRNCTIB2PHP5QAQZ5FYFNVY7BJILFRU",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "fileSizeBytes": 17166,
+    "lastModified": "2025-01-15T16:33:35Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:32.871254",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Loan Deferral Doc LCW_Post bank review_August.pptx",
+    "itemId": "017YRNCTIXRCGPND7XMFH3G6IG5NVNNBII",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "fileSizeBytes": 756334,
+    "lastModified": "2024-08-30T01:09:00Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:33.833438",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "management meeting 1.docx",
+    "itemId": "017YRNCTJN3LZYW2TC6NGLYXXFEJRXYFSC",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "fileSizeBytes": 281483,
+    "lastModified": "2024-08-04T20:36:59Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:34.782482",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "measurement metrics.xlsx",
+    "itemId": "017YRNCTJ4NY7EC2WVCZHZUBUVBC3AXTGO",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "fileSizeBytes": 10554,
+    "lastModified": "2024-08-30T20:36:05Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:35.729414",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Neuroplasticity Hype and Hope.pptx",
+    "itemId": "017YRNCTIL2WLKMSN6HFH33Z5LN35LRFKS",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "fileSizeBytes": 1750017,
+    "lastModified": "2022-11-18T16:28:16Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:36.764427",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "OpenSesame (Mutual) Nondisclosure Agreement.docx",
+    "itemId": "017YRNCTJPVFULOVKK4ZE3CUK45GNWDSQW",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "fileSizeBytes": 24707,
+    "lastModified": "2022-10-13T18:58:10Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:37.758212",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Oregon power of attorney.pdf",
+    "itemId": "017YRNCTKHJ4EGJPRBMVC3QWUX3DTMTNTM",
+    "isFolder": false,
+    "fileType": "application/pdf",
+    "fileSizeBytes": 598024,
+    "lastModified": "2022-05-03T03:45:57Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:38.821914",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Oregon tax authorization form.pdf",
+    "itemId": "017YRNCTNY57DOGPW2WRHKWQAE4KQP3KGP",
+    "isFolder": false,
+    "fileType": "application/pdf",
+    "fileSizeBytes": 660855,
+    "lastModified": "2022-05-03T03:46:10Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:39.894459",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "Pedro Goals.xlsx",
+    "itemId": "017YRNCTPYN7CB62X4YNALKEGT2BF4N3D5",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "fileSizeBytes": 11766,
+    "lastModified": "2024-08-05T19:26:10Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:40.757793",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "a.kolodizner@lcwmail.com",
+    "fileName": "unsiloing 1.0.docx",
+    "itemId": "017YRNCTL5INHFQG3LA5CZX2UEL7MMOTT2",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "fileSizeBytes": 21671,
+    "lastModified": "2025-01-16T00:31:53Z",
+    "lastModifiedBy": "Alisa Kolodizner",
+    "extractedAt": "2025-04-08T21:39:41.880597",
+    "activityCount": 0,
+    "activities": []
+  }
+]

@@ -1,0 +1,641 @@
+[
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "AppData",
+    "itemId": "01PFANDRLZTLWU7NQ3DVEKKX5PHBDGKWWX",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-08-28T19:38:57Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:38:44.360634",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "Attachments",
+    "itemId": "01PFANDRIZA7SC5OIHA5DYCBNAVEXVMKWR",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-03-21T11:19:34Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:38:45.492931",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "Creative Cloud Files",
+    "itemId": "01PFANDRJ6H46MOSKGVBE3EZ4GFPIV5TN6",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-12-13T18:10:33Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:38:46.550579",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "Desktop",
+    "itemId": "01PFANDRM67H5GKOLGTJGZ4UUX2NIGCXWG",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-03-28T15:42:26Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:38:47.738734",
+    "activityCount": 44,
+    "activities": [
+      {
+        "activityId": "QLtOnj903Uj9CEsPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-04-05T12:44:34Z"
+      },
+      {
+        "activityId": "MIyRmj903Uj8CEsPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-04-05T12:44:28Z"
+      },
+      {
+        "activityId": "sK0QmD903Uj6CEsPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-04-05T12:44:23Z"
+      },
+      {
+        "activityId": "INyrFjx03UjlzUoPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-04-05T12:19:18Z"
+      },
+      {
+        "activityId": "IHKTFjx03UjjzUoPAAAAAA==",
+        "actionType": "rename",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-04-05T12:19:18Z"
+      },
+      {
+        "activityId": "YF9qfbdv3UirwzkPAAAAAA==",
+        "actionType": "delete",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:20:03Z"
+      },
+      {
+        "activityId": "wDW8d7dv3UipwzkPAAAAAA==",
+        "actionType": "rename",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:53Z"
+      },
+      {
+        "activityId": "ANetaLdv3UilwzkPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:28Z"
+      },
+      {
+        "activityId": "cCSlaLdv3UikwzkPAAAAAA==",
+        "actionType": "rename",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:28Z"
+      },
+      {
+        "activityId": "kJlsZrdv3UiiwzkPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:24Z"
+      },
+      {
+        "activityId": "0NI+Zrdv3UihwzkPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:24Z"
+      },
+      {
+        "activityId": "AHQOZrdv3UigwzkPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:23Z"
+      },
+      {
+        "activityId": "MODRZbdv3UifwzkPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:23Z"
+      },
+      {
+        "activityId": "MKG1Ybdv3UidwzkPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:16Z"
+      },
+      {
+        "activityId": "UN+OYbdv3UicwzkPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:16Z"
+      },
+      {
+        "activityId": "QCXrYLdv3UibwzkPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:15Z"
+      },
+      {
+        "activityId": "cB5ZYLdv3UiawzkPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:14Z"
+      },
+      {
+        "activityId": "8M5GYLdv3UiZwzkPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:14Z"
+      },
+      {
+        "activityId": "0C0/YLdv3UiYwzkPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:14Z"
+      },
+      {
+        "activityId": "0O/1X7dv3UiXwzkPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:13Z"
+      },
+      {
+        "activityId": "wBLAX7dv3UiWwzkPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:13Z"
+      },
+      {
+        "activityId": "0Oa4X7dv3UiVwzkPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:13Z"
+      },
+      {
+        "activityId": "cJmJX7dv3UiUwzkPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:12Z"
+      },
+      {
+        "activityId": "8KNoX7dv3UiTwzkPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:12Z"
+      },
+      {
+        "activityId": "EIFmX7dv3UiSwzkPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:12Z"
+      },
+      {
+        "activityId": "8N9eX7dv3UiRwzkPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:12Z"
+      },
+      {
+        "activityId": "sFgcX7dv3UiQwzkPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:12Z"
+      },
+      {
+        "activityId": "sO4DX7dv3UiPwzkPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:12Z"
+      },
+      {
+        "activityId": "wE+nXrdv3UiNwzkPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:11Z"
+      },
+      {
+        "activityId": "oNpuXrdv3UiMwzkPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:11Z"
+      },
+      {
+        "activityId": "YM1rXrdv3UiLwzkPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:11Z"
+      },
+      {
+        "activityId": "EDvRXbdv3UiKwzkPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:10Z"
+      },
+      {
+        "activityId": "wJXLXbdv3UiJwzkPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:09Z"
+      },
+      {
+        "activityId": "cPDFXbdv3UiIwzkPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:09Z"
+      },
+      {
+        "activityId": "8OgqXbdv3UiGwzkPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:19:08Z"
+      },
+      {
+        "activityId": "UISVUbdv3Uh6wzkPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:18:49Z"
+      },
+      {
+        "activityId": "wO00Ubdv3Uh5wzkPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:18:48Z"
+      },
+      {
+        "activityId": "oDqzULdv3Uh4wzkPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:18:48Z"
+      },
+      {
+        "activityId": "UMdmG7Zv3Uj0wTkPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:10:09Z"
+      },
+      {
+        "activityId": "QG6eGrZv3UjxwTkPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T18:10:07Z"
+      },
+      {
+        "activityId": "8Jvh57Nv3UjPujkPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T17:54:23Z"
+      },
+      {
+        "activityId": "YL8MJbNv3UglujkPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T17:48:56Z"
+      },
+      {
+        "activityId": "sCMUI7Nv3UgkujkPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-03-30T17:48:53Z"
+      },
+      {
+        "activityId": "ALYmcZxD3Uh/Pt4OAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kelly Salek",
+        "userPrincipalName": "k.salek@lcwmail.com",
+        "email": "k.salek@lcwmail.com",
+        "timestamp": "2025-02-02T15:15:34Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "Documents",
+    "itemId": "01PFANDRKYEGIZ657WNVBKRS7CT6MABIO4",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-03-28T15:42:26Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:38:48.843267",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "Meetings",
+    "itemId": "01PFANDRII2BSKRFSFUBC2XZAZKLY3VSAH",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-07-25T16:01:55Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:38:50.012514",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "Microsoft Teams Chat Files",
+    "itemId": "01PFANDROTDWBHJ6YLWZFKFMO4N4P3HQM4",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-04-20T14:07:35Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:38:51.178329",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "Misc",
+    "itemId": "01PFANDRJKTJ3NULFOXFE3G3GTEJSUWUOQ",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-04-20T14:41:37Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:38:52.339698",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "Pictures",
+    "itemId": "01PFANDRINJPDBXP52V5B2VKOBNQS4NQB2",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-03-28T15:42:26Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:38:53.366596",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "Recordings",
+    "itemId": "01PFANDRPUIFZFSDNC2VD2CPFV2MYB3IC3",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-09-09T18:09:37Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:38:54.498469",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "Whiteboards",
+    "itemId": "01PFANDRPB34TS4W7FI5BKI2NJ653NECMU",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-05-19T17:14:11Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:38:55.696392",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "CCLP_Gender_ReflectandApply.pptx",
+    "itemId": "01PFANDRIO3GOHGQJIOZC2RVHA4NQXKLDK",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "fileSizeBytes": 403265,
+    "lastModified": "2024-05-09T22:56:00Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:38:56.765203",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "CCLP_ULSDisabilityInclusion_ReflectandApply.pdf",
+    "itemId": "01PFANDRJCVMS6AESIGFGJ4E5OGJ3DPAFA",
+    "isFolder": false,
+    "fileType": "application/pdf",
+    "fileSizeBytes": 150270,
+    "lastModified": "2024-03-15T04:16:18Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:38:57.653135",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "CCLP-Application-CI.03142024.pdf",
+    "itemId": "01PFANDRNEGZCVMWCP4ZB3PZSLPQNJXEWG",
+    "isFolder": false,
+    "fileType": "application/pdf",
+    "fileSizeBytes": 92994,
+    "lastModified": "2024-03-15T03:26:36Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:38:58.713406",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "CCLP-Application-CI.03142024.pptx",
+    "itemId": "01PFANDRK56TDMUUTNRRDJL5IEBD7LPCMB",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "fileSizeBytes": 182239,
+    "lastModified": "2024-03-15T03:26:30Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:38:59.680533",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "CCLP-ULSApplication-CI.03142024.pdf",
+    "itemId": "01PFANDRL7OOBQYRU6LVEJT3OQBSMM3KWV",
+    "isFolder": false,
+    "fileType": "application/pdf",
+    "fileSizeBytes": 101121,
+    "lastModified": "2024-03-15T04:17:38Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:39:00.642773",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "CCLP-ULSApplication-CI.03142024.pptx",
+    "itemId": "01PFANDRKMVTHINO3OLJAKFCKBIUFSIO5N",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "fileSizeBytes": 176627,
+    "lastModified": "2024-03-15T04:17:31Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:39:01.565395",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "CCMP-Application-CI.03142024.pdf",
+    "itemId": "01PFANDRI2WONBGX2DBFGIBPNXUZQUV7LE",
+    "isFolder": false,
+    "fileType": "application/pdf",
+    "fileSizeBytes": 92990,
+    "lastModified": "2024-03-15T03:26:15Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:39:02.535155",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "HVHA-Invoices-2024-saleksale-HVHOA-Paid.pdf",
+    "itemId": "01PFANDRO2H7XBZPMDYNAJ5OOKYCDMKF65",
+    "isFolder": false,
+    "fileType": "application/pdf",
+    "fileSizeBytes": 75139,
+    "lastModified": "2024-09-18T16:52:19Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:39:03.540821",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "INVOICE_02_LCW2024_April.pdf",
+    "itemId": "01PFANDRKQYEPPUCRIDRALCJDNKQSQ3J7R",
+    "isFolder": false,
+    "fileType": "application/pdf",
+    "fileSizeBytes": 221632,
+    "lastModified": "2024-04-18T02:41:23Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:39:05.094883",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "Lessons Learned Consulting- Bookkeeping_2023.xlsx",
+    "itemId": "01PFANDRPBURV22637KRC3NSF2EK33IXQU",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "fileSizeBytes": 334268,
+    "lastModified": "2024-02-18T23:18:50Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:39:05.944099",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.salek@lcwmail.com",
+    "fileName": "My Notebook @ LCW",
+    "itemId": "01PFANDRPCPOUECUXV7REK7TYCH2W6L3BA",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-02-16T22:15:13Z",
+    "lastModifiedBy": "Kelly Salek",
+    "extractedAt": "2025-04-08T21:39:07.375300",
+    "activityCount": 0,
+    "activities": []
+  }
+]

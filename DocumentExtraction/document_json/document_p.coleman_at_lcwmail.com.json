@@ -1,0 +1,54 @@
+[
+  {
+    "userPrincipalName": "p.coleman@lcwmail.com",
+    "fileName": "Apps",
+    "itemId": "01ZUQOE5UABJYZWROYGFAJGXC4GAXQPLZU",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-01-23T20:18:27Z",
+    "lastModifiedBy": "Patricia Coleman",
+    "extractedAt": "2025-04-08T21:38:59.360625",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "p.coleman@lcwmail.com",
+    "fileName": "Meetings",
+    "itemId": "01ZUQOE5Q3DZJY3EUIBBDZ4C5VL7YJV3L4",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-02-21T16:25:16Z",
+    "lastModifiedBy": "Patricia Coleman",
+    "extractedAt": "2025-04-08T21:39:00.189365",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "p.coleman@lcwmail.com",
+    "fileName": "Microsoft Teams Chat Files",
+    "itemId": "01ZUQOE5QMFSD6XEYQY5FKM6RNIOAUGM5F",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-02-15T17:54:01Z",
+    "lastModifiedBy": "Patricia Coleman",
+    "extractedAt": "2025-04-08T21:39:01.091424",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "p.coleman@lcwmail.com",
+    "fileName": "Recordings",
+    "itemId": "01ZUQOE5UDLA2J2PUF5VCLMCXT7IBV3FY4",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2025-01-08T17:04:10Z",
+    "lastModifiedBy": "SharePoint App",
+    "extractedAt": "2025-04-08T21:39:02.051270",
+    "activityCount": 0,
+    "activities": []
+  }
+]

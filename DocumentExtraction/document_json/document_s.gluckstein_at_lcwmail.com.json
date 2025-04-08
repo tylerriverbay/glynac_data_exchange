@@ -1,0 +1,191 @@
+[
+  {
+    "userPrincipalName": "s.gluckstein@lcwmail.com",
+    "fileName": "Apps",
+    "itemId": "01XOKECZLBHLJW4GMYMJE2PJJD5QH3ITJW",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-12-18T19:27:56Z",
+    "lastModifiedBy": "Sarah Gluckstein",
+    "extractedAt": "2025-04-08T21:39:08.740257",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "s.gluckstein@lcwmail.com",
+    "fileName": "Attachments",
+    "itemId": "01XOKECZPTFWLUUWFWT5FKLFBTLHWVB3XS",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-11-12T18:25:38Z",
+    "lastModifiedBy": "Sarah Gluckstein",
+    "extractedAt": "2025-04-08T21:39:09.839720",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "s.gluckstein@lcwmail.com",
+    "fileName": "Microsoft Teams Chat Files",
+    "itemId": "01XOKECZMH4LORWKPH6VEJKT7I4A6KWM4P",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-04-15T14:05:26Z",
+    "lastModifiedBy": "Sarah Gluckstein",
+    "extractedAt": "2025-04-08T21:39:10.801924",
+    "activityCount": 17,
+    "activities": [
+      {
+        "activityId": "kJSskQpr3UjJMDAPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Sarah Gluckstein",
+        "userPrincipalName": "s.gluckstein@lcwmail.com",
+        "email": "s.gluckstein@lcwmail.com",
+        "timestamp": "2025-03-24T19:32:09Z"
+      },
+      {
+        "activityId": "4PHJjwpr3UjGMDAPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Sarah Gluckstein",
+        "userPrincipalName": "s.gluckstein@lcwmail.com",
+        "email": "s.gluckstein@lcwmail.com",
+        "timestamp": "2025-03-24T19:32:06Z"
+      },
+      {
+        "activityId": "kGdg2Qlr3UjhLzAPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Sarah Gluckstein",
+        "userPrincipalName": "s.gluckstein@lcwmail.com",
+        "email": "s.gluckstein@lcwmail.com",
+        "timestamp": "2025-03-24T19:27:00Z"
+      },
+      {
+        "activityId": "sB410wlr3UjcLzAPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Sarah Gluckstein",
+        "userPrincipalName": "s.gluckstein@lcwmail.com",
+        "email": "s.gluckstein@lcwmail.com",
+        "timestamp": "2025-03-24T19:26:49Z"
+      },
+      {
+        "activityId": "gPVM9Oxc3UgYUg8PAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Sarah Gluckstein",
+        "userPrincipalName": "s.gluckstein@lcwmail.com",
+        "email": "s.gluckstein@lcwmail.com",
+        "timestamp": "2025-03-06T20:24:53Z"
+      },
+      {
+        "activityId": "4C4+8exc3UgRUg8PAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Sarah Gluckstein",
+        "userPrincipalName": "s.gluckstein@lcwmail.com",
+        "email": "s.gluckstein@lcwmail.com",
+        "timestamp": "2025-03-06T20:24:48Z"
+      },
+      {
+        "activityId": "kDn6CF1F3UiwgOUOAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Sarah Gluckstein",
+        "userPrincipalName": "s.gluckstein@lcwmail.com",
+        "email": "s.gluckstein@lcwmail.com",
+        "timestamp": "2025-02-04T20:46:44Z"
+      },
+      {
+        "activityId": "sAj9X1pF3UgoeeUOAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Sarah Gluckstein",
+        "userPrincipalName": "s.gluckstein@lcwmail.com",
+        "email": "s.gluckstein@lcwmail.com",
+        "timestamp": "2025-02-04T20:27:41Z"
+      },
+      {
+        "activityId": "0Cr/U0VF3UjbSeUOAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Sarah Gluckstein",
+        "userPrincipalName": "s.gluckstein@lcwmail.com",
+        "email": "s.gluckstein@lcwmail.com",
+        "timestamp": "2025-02-04T17:57:02Z"
+      },
+      {
+        "activityId": "gBKkU0VF3UjVSeUOAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Sarah Gluckstein",
+        "userPrincipalName": "s.gluckstein@lcwmail.com",
+        "email": "s.gluckstein@lcwmail.com",
+        "timestamp": "2025-02-04T17:57:01Z"
+      },
+      {
+        "activityId": "IOekUUVF3UjLSeUOAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Sarah Gluckstein",
+        "userPrincipalName": "s.gluckstein@lcwmail.com",
+        "email": "s.gluckstein@lcwmail.com",
+        "timestamp": "2025-02-04T17:56:58Z"
+      },
+      {
+        "activityId": "cFeeUUVF3UjKSeUOAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Sarah Gluckstein",
+        "userPrincipalName": "s.gluckstein@lcwmail.com",
+        "email": "s.gluckstein@lcwmail.com",
+        "timestamp": "2025-02-04T17:56:58Z"
+      },
+      {
+        "activityId": "0EgPEkVF3UjISOUOAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Sarah Gluckstein",
+        "userPrincipalName": "s.gluckstein@lcwmail.com",
+        "email": "s.gluckstein@lcwmail.com",
+        "timestamp": "2025-02-04T17:55:11Z"
+      },
+      {
+        "activityId": "gP36EUVF3UjGSOUOAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Sarah Gluckstein",
+        "userPrincipalName": "s.gluckstein@lcwmail.com",
+        "email": "s.gluckstein@lcwmail.com",
+        "timestamp": "2025-02-04T17:55:11Z"
+      },
+      {
+        "activityId": "QOX2DkVF3Ui4SOUOAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Sarah Gluckstein",
+        "userPrincipalName": "s.gluckstein@lcwmail.com",
+        "email": "s.gluckstein@lcwmail.com",
+        "timestamp": "2025-02-04T17:55:06Z"
+      },
+      {
+        "activityId": "kMbyDkVF3Ui3SOUOAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Sarah Gluckstein",
+        "userPrincipalName": "s.gluckstein@lcwmail.com",
+        "email": "s.gluckstein@lcwmail.com",
+        "timestamp": "2025-02-04T17:55:06Z"
+      },
+      {
+        "activityId": "wJIEqnRE3Ug9UuEOAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Sarah Gluckstein",
+        "userPrincipalName": "s.gluckstein@lcwmail.com",
+        "email": "s.gluckstein@lcwmail.com",
+        "timestamp": "2025-02-03T17:03:21Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "s.gluckstein@lcwmail.com",
+    "fileName": "Recordings",
+    "itemId": "01XOKECZI2FBH7UP2U6FBIYMYQLJL35OFR",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-09-23T23:01:38Z",
+    "lastModifiedBy": "SharePoint App",
+    "extractedAt": "2025-04-08T21:39:11.682168",
+    "activityCount": 0,
+    "activities": []
+  }
+]

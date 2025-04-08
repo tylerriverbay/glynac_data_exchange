@@ -1,0 +1,89 @@
+[
+  {
+    "userPrincipalName": "k.washington@lcwmail.com",
+    "fileName": "Attachments",
+    "itemId": "01LP6IDCNOJ6TAZHPSBNDYG5M3NOQSFA2I",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-04-11T14:34:24Z",
+    "lastModifiedBy": "Kendall Washington",
+    "extractedAt": "2025-04-08T21:38:44.795727",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.washington@lcwmail.com",
+    "fileName": "Microsoft Teams Chat Files",
+    "itemId": "01LP6IDCKVKYHH3DY5AFC3WQF34AJDJUZO",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2020-11-02T17:59:31Z",
+    "lastModifiedBy": "Kendall Washington",
+    "extractedAt": "2025-04-08T21:38:45.982206",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.washington@lcwmail.com",
+    "fileName": "Recordings",
+    "itemId": "01LP6IDCJPCIRLERJ4EFHIEP2JVTLXBENI",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-03-20T18:19:16Z",
+    "lastModifiedBy": "Kendall Washington",
+    "extractedAt": "2025-04-08T21:38:47.037119",
+    "activityCount": 1,
+    "activities": [
+      {
+        "activityId": "MKoef6zO20h644AMAAAAAA==",
+        "actionType": "delete",
+        "performedBy": "Kendall Washington",
+        "userPrincipalName": "k.washington@lcwmail.com",
+        "email": "k.washington@lcwmail.com",
+        "timestamp": "2023-10-17T01:00:46Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "k.washington@lcwmail.com",
+    "fileName": "Teams Meeting Recordings",
+    "itemId": "01LP6IDCLZREXTECPPKZBZXTXLCMPACFPY",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2021-12-16T18:24:18Z",
+    "lastModifiedBy": "Kendall Washington",
+    "extractedAt": "2025-04-08T21:38:48.166515",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.washington@lcwmail.com",
+    "fileName": "Whiteboards",
+    "itemId": "01LP6IDCJ7OZRIWMDXRVA23HLMBHHNLZOJ",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-06-21T17:45:42Z",
+    "lastModifiedBy": "Kendall Washington",
+    "extractedAt": "2025-04-08T21:38:49.317498",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.washington@lcwmail.com",
+    "fileName": "Kendall @ LCW",
+    "itemId": "01LP6IDCOQEQL6SYINCZBZQJ5LNBYRE2KE",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-07-14T18:08:44Z",
+    "lastModifiedBy": "Kendall Washington",
+    "extractedAt": "2025-04-08T21:38:50.498236",
+    "activityCount": 0,
+    "activities": []
+  }
+]

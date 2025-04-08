@@ -1,0 +1,272 @@
+[
+  {
+    "userPrincipalName": "k.luo@lcwmail.com",
+    "fileName": "Attachments",
+    "itemId": "01LP4GKFAYVLLQ4MBFCJGI3KU6CFW26WFP",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2025-01-10T15:10:13Z",
+    "lastModifiedBy": "Keri Luo",
+    "extractedAt": "2025-04-08T21:38:42.989786",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.luo@lcwmail.com",
+    "fileName": "Microsoft Copilot Chat Files",
+    "itemId": "01LP4GKFBAEM2VQHIRKVHZRIKPQQEJQ3V5",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2025-03-10T17:55:40Z",
+    "lastModifiedBy": "Keri Luo",
+    "extractedAt": "2025-04-08T21:38:44.531065",
+    "activityCount": 1,
+    "activities": [
+      {
+        "activityId": "wNTqxPxf3Uj2GxQPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-10T17:55:39Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "k.luo@lcwmail.com",
+    "fileName": "Microsoft Teams Chat Files",
+    "itemId": "01LP4GKFAQBZ5YCMDRN5BLPWI2M3ZYCXTU",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2025-01-21T16:11:50Z",
+    "lastModifiedBy": "Keri Luo",
+    "extractedAt": "2025-04-08T21:38:45.713842",
+    "activityCount": 26,
+    "activities": [
+      {
+        "activityId": "UGrcnRR23UgbNU0PAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-04-07T20:41:47Z"
+      },
+      {
+        "activityId": "EAGqWxR23UjNNE0PAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-04-07T20:39:56Z"
+      },
+      {
+        "activityId": "0LOgRKNs3UhnljQPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-26T20:17:44Z"
+      },
+      {
+        "activityId": "UM+Ms6Js3UielTQPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-26T20:13:40Z"
+      },
+      {
+        "activityId": "ECgarqJs3UiSlTQPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-26T20:13:31Z"
+      },
+      {
+        "activityId": "cGcRZlRi3UgF0BgPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-13T17:27:58Z"
+      },
+      {
+        "activityId": "AG9kP1Ri3UjpzxgPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-13T17:26:53Z"
+      },
+      {
+        "activityId": "oOWSXDhi3UhurxgPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-13T14:07:16Z"
+      },
+      {
+        "activityId": "cHhYe5dh3UgyYhcPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-12T18:55:39Z"
+      },
+      {
+        "activityId": "IFaDXpdh3UgQYhcPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-12T18:54:51Z"
+      },
+      {
+        "activityId": "UKa+Y75g3UgdShUPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-11T17:01:38Z"
+      },
+      {
+        "activityId": "QExmP75g3Uh7SBUPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-11T17:00:38Z"
+      },
+      {
+        "activityId": "0DSoNL5g3UhdSBUPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-11T17:00:19Z"
+      },
+      {
+        "activityId": "oHjDnwFg3UipJxQPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-10T18:30:24Z"
+      },
+      {
+        "activityId": "UHytcAFg3UhiJxQPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-10T18:29:05Z"
+      },
+      {
+        "activityId": "UAyq0v5f3UjKIBQPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-10T18:10:21Z"
+      },
+      {
+        "activityId": "MEsBy/5f3Ui2IBQPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-10T18:10:08Z"
+      },
+      {
+        "activityId": "APfJOVpb3UghqQsPAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-04T20:22:03Z"
+      },
+      {
+        "activityId": "ABN5I1pb3UjqqAsPAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-04T20:21:25Z"
+      },
+      {
+        "activityId": "IKe7HVpb3UjiqAsPAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-03-04T20:21:16Z"
+      },
+      {
+        "activityId": "oPKUos1K3Ugqdu0OAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-02-11T18:55:21Z"
+      },
+      {
+        "activityId": "wCeLk81K3UgXdu0OAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-02-11T18:54:56Z"
+      },
+      {
+        "activityId": "AO+BcQVG3UgseuYOAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-02-05T16:52:14Z"
+      },
+      {
+        "activityId": "AO+BcQVG3UgreuYOAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-02-05T16:52:14Z"
+      },
+      {
+        "activityId": "wGQXGgVG3Ui5eeYOAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-02-05T16:49:48Z"
+      },
+      {
+        "activityId": "sMwUGgVG3Ui4eeYOAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Keri Luo",
+        "userPrincipalName": "k.luo@lcwmail.com",
+        "email": "k.luo@lcwmail.com",
+        "timestamp": "2025-02-05T16:49:48Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "k.luo@lcwmail.com",
+    "fileName": "Keri @ LCW",
+    "itemId": "01LP4GKFCXZPHG5HZPXBFYXE6MC32VVHRK",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2018-06-04T13:56:27Z",
+    "lastModifiedBy": "Keri Luo",
+    "extractedAt": "2025-04-08T21:38:46.895088",
+    "activityCount": 0,
+    "activities": []
+  }
+]

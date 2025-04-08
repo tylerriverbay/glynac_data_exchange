@@ -1,0 +1,80 @@
+[
+  {
+    "userPrincipalName": "felicia@lcwmail.com",
+    "fileName": "Notebooks",
+    "itemId": "01SFDRWFNNBVO5RCXK7REIW7COMCGGJJAC",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2018-05-24T13:39:38Z",
+    "lastModifiedBy": "Felicia Scott",
+    "extractedAt": "2025-04-08T21:38:42.972410",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "felicia@lcwmail.com",
+    "fileName": "Chase Amazon 2019 Detail.CSV",
+    "itemId": "01SFDRWFOJL2K7AMYSEFALFBUKPI6PECIK",
+    "isFolder": false,
+    "fileType": "application/vnd.ms-excel",
+    "fileSizeBytes": 41627,
+    "lastModified": "2020-03-29T15:52:14Z",
+    "lastModifiedBy": "Felicia Scott",
+    "extractedAt": "2025-04-08T21:38:44.088025",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "felicia@lcwmail.com",
+    "fileName": "Chase Amazon 2019 Detail.xlsx",
+    "itemId": "01SFDRWFKD5G5XVTIOLNFZE6AJEDEYLLAU",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "fileSizeBytes": 41600,
+    "lastModified": "2020-03-29T18:58:52Z",
+    "lastModifiedBy": "Felicia Scott",
+    "extractedAt": "2025-04-08T21:38:45.362989",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "felicia@lcwmail.com",
+    "fileName": "DEI Committee (2) 3.3.2020V2.pptx",
+    "itemId": "01SFDRWFP2JWKJIXELB5HK3X6SOBBJ74IG",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "fileSizeBytes": 10670295,
+    "lastModified": "2020-03-05T11:23:06Z",
+    "lastModifiedBy": "Felicia Scott",
+    "extractedAt": "2025-04-08T21:38:46.425372",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "felicia@lcwmail.com",
+    "fileName": "March 20 Internal Audit Findings v.7.pptx",
+    "itemId": "01SFDRWFOQXGRN74TOSZBZ5HYVAMCSGYGJ",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "fileSizeBytes": 16129243,
+    "lastModified": "2020-03-20T05:10:47Z",
+    "lastModifiedBy": "Felicia Scott",
+    "extractedAt": "2025-04-08T21:38:47.553542",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "felicia@lcwmail.com",
+    "fileName": "UpLift Group - 2019 Profit and Loss Detail.xlsx",
+    "itemId": "01SFDRWFNDBQXRYX4E7FH224T7U54L4VJW",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "fileSizeBytes": 91238,
+    "lastModified": "2020-05-18T17:27:59Z",
+    "lastModifiedBy": "Felicia Scott",
+    "extractedAt": "2025-04-08T21:38:48.655112",
+    "activityCount": 0,
+    "activities": []
+  }
+]

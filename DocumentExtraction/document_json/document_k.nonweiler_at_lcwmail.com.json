@@ -1,0 +1,196 @@
+[
+  {
+    "userPrincipalName": "k.nonweiler@lcwmail.com",
+    "fileName": "Apps",
+    "itemId": "014OK7LE2ASETNVUN2R5E3EWHJWW4XTJTK",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-11-10T16:08:41Z",
+    "lastModifiedBy": "Kaitlin Nonweiler",
+    "extractedAt": "2025-04-08T21:38:43.432640",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.nonweiler@lcwmail.com",
+    "fileName": "Attachments",
+    "itemId": "014OK7LE73LK4PRTY4UJE26BW4UMZJCPSE",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-04-11T17:05:50Z",
+    "lastModifiedBy": "Kaitlin Nonweiler",
+    "extractedAt": "2025-04-08T21:38:44.605492",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.nonweiler@lcwmail.com",
+    "fileName": "Desktop",
+    "itemId": "014OK7LEYKTODZIUAOGZA33DMAZIZ7BZKB",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-12-27T22:46:52Z",
+    "lastModifiedBy": "Kaitlin Nonweiler",
+    "extractedAt": "2025-04-08T21:38:45.757120",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.nonweiler@lcwmail.com",
+    "fileName": "Documents",
+    "itemId": "014OK7LE7GBSA7POAJO5AYUAX5XUOOE7ST",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-12-27T22:46:52Z",
+    "lastModifiedBy": "Kaitlin Nonweiler",
+    "extractedAt": "2025-04-08T21:38:47.120507",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.nonweiler@lcwmail.com",
+    "fileName": "Microsoft Teams Chat Files",
+    "itemId": "014OK7LE2AH2B7PQTGV5DZ5KZ4YSST5IYF",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-10-20T16:29:45Z",
+    "lastModifiedBy": "Kaitlin Nonweiler",
+    "extractedAt": "2025-04-08T21:38:48.253541",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.nonweiler@lcwmail.com",
+    "fileName": "Pictures",
+    "itemId": "014OK7LE3NHPOIWP36TVFJ3ERAK3R7A5UG",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-12-27T22:46:52Z",
+    "lastModifiedBy": "Kaitlin Nonweiler",
+    "extractedAt": "2025-04-08T21:38:49.432338",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.nonweiler@lcwmail.com",
+    "fileName": "Recordings",
+    "itemId": "014OK7LE2LZUKUBTPKXNFKYGKAONNTQCKA",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-04-18T20:25:01Z",
+    "lastModifiedBy": "Kaitlin Nonweiler",
+    "extractedAt": "2025-04-08T21:38:50.635065",
+    "activityCount": 2,
+    "activities": [
+      {
+        "activityId": "sPn9iEBx3Uhe5D0PAAAAAA==",
+        "actionType": "share",
+        "performedBy": "SharePoint App",
+        "userPrincipalName": "app@sharepoint",
+        "email": "Unknown",
+        "timestamp": "2025-04-01T17:13:34Z"
+      },
+      {
+        "activityId": "gNpIiEBx3Uhc5D0PAAAAAA==",
+        "actionType": "share",
+        "performedBy": "SharePoint App",
+        "userPrincipalName": "app@sharepoint",
+        "email": "Unknown",
+        "timestamp": "2025-04-01T17:13:33Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "k.nonweiler@lcwmail.com",
+    "fileName": "Disability_Spotlight_LegalAidAWB 1.pptx",
+    "itemId": "014OK7LEYORQAC6UAFJBA2W3CJC2Y2TUGG",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "fileSizeBytes": 100686497,
+    "lastModified": "2024-04-18T03:17:28Z",
+    "lastModifiedBy": "Kaitlin Nonweiler",
+    "extractedAt": "2025-04-08T21:38:51.773644",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.nonweiler@lcwmail.com",
+    "fileName": "Disability_Spotlight_LegalAidAWB.pptx",
+    "itemId": "014OK7LE2AOWEEN66ORFGYNJ2GHP6JPOOV",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "fileSizeBytes": 100686497,
+    "lastModified": "2024-04-18T03:16:16Z",
+    "lastModifiedBy": "Kaitlin Nonweiler",
+    "extractedAt": "2025-04-08T21:38:52.990039",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "k.nonweiler@lcwmail.com",
+    "fileName": "Intercultural Development Inventory (IDI) Takeaways.xlsx",
+    "itemId": "014OK7LE7XDKSFU4TSJ5AYAEHY47R5656Y",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "fileSizeBytes": 13100,
+    "lastModified": "2024-07-31T20:24:25Z",
+    "lastModifiedBy": "Kaitlin Nonweiler",
+    "extractedAt": "2025-04-08T21:38:54.102120",
+    "activityCount": 1,
+    "activities": [
+      {
+        "activityId": "oGuKxZ6x3EgOy/ENAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kaitlin Nonweiler",
+        "userPrincipalName": "k.nonweiler@lcwmail.com",
+        "email": "k.nonweiler@lcwmail.com",
+        "timestamp": "2024-07-31T20:24:25Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "k.nonweiler@lcwmail.com",
+    "fileName": "Spencer Stuart_ Interrupting Unconscious Bias.xlsx",
+    "itemId": "014OK7LEZZBU4AIX7C6VBKO5K6EF6E5LAF",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "fileSizeBytes": 13678,
+    "lastModified": "2025-02-06T22:34:09Z",
+    "lastModifiedBy": "Kaitlin Nonweiler",
+    "extractedAt": "2025-04-08T21:38:55.263122",
+    "activityCount": 3,
+    "activities": [
+      {
+        "activityId": "UIZJX/5G3UjN3ucOAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kaitlin Nonweiler",
+        "userPrincipalName": "k.nonweiler@lcwmail.com",
+        "email": "k.nonweiler@lcwmail.com",
+        "timestamp": "2025-02-06T22:34:09Z"
+      },
+      {
+        "activityId": "IPcvVv5G3Ui93ucOAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Kaitlin Nonweiler",
+        "userPrincipalName": "k.nonweiler@lcwmail.com",
+        "email": "k.nonweiler@lcwmail.com",
+        "timestamp": "2025-02-06T22:33:53Z"
+      },
+      {
+        "activityId": "cDDKVf5G3Ui73ucOAAAAAA==",
+        "actionType": "create",
+        "performedBy": "Kaitlin Nonweiler",
+        "userPrincipalName": "k.nonweiler@lcwmail.com",
+        "email": "k.nonweiler@lcwmail.com",
+        "timestamp": "2025-02-06T22:33:53Z"
+      }
+    ]
+  }
+]

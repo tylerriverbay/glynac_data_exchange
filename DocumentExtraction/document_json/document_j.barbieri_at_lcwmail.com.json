@@ -1,0 +1,37 @@
+[
+  {
+    "userPrincipalName": "j.barbieri@lcwmail.com",
+    "fileName": "Microsoft Teams Chat Files",
+    "itemId": "01ROI67DPJ6R5P7A7UTNE2BNTNHFE4WJYD",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2022-11-16T06:57:22Z",
+    "lastModifiedBy": "Jennifer Barbieri",
+    "extractedAt": "2025-04-08T21:39:42.771122",
+    "activityCount": 1,
+    "activities": [
+      {
+        "activityId": "sNkmeWKe20hXlAwMAAAAAA==",
+        "actionType": "share",
+        "performedBy": "Jennifer Barbieri",
+        "userPrincipalName": "j.barbieri@lcwmail.com",
+        "email": "j.barbieri@lcwmail.com",
+        "timestamp": "2023-08-16T14:09:57Z"
+      }
+    ]
+  },
+  {
+    "userPrincipalName": "j.barbieri@lcwmail.com",
+    "fileName": "Revenue by Client 2017-Sept 2022.xlsx",
+    "itemId": "01ROI67DLG6NZWVLP3XRFLMYJZTKCKPJTE",
+    "isFolder": false,
+    "fileType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "fileSizeBytes": 911794,
+    "lastModified": "2022-10-24T05:42:15Z",
+    "lastModifiedBy": "Jennifer Barbieri",
+    "extractedAt": "2025-04-08T21:39:43.691792",
+    "activityCount": 0,
+    "activities": []
+  }
+]

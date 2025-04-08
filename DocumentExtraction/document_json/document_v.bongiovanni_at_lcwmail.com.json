@@ -1,0 +1,76 @@
+[
+  {
+    "userPrincipalName": "v.bongiovanni@lcwmail.com",
+    "fileName": "Apps",
+    "itemId": "01F66VQ6H2TFK4VY4VXNF2QNBBT5NOYL25",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-04-07T22:08:40Z",
+    "lastModifiedBy": "Vince Bongiovanni",
+    "extractedAt": "2025-04-08T21:39:14.166315",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "v.bongiovanni@lcwmail.com",
+    "fileName": "Attachments",
+    "itemId": "01F66VQ6C3EZEEMSWGR5FLY4BNZWATDNNP",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2023-03-30T13:58:31Z",
+    "lastModifiedBy": "Vince Bongiovanni",
+    "extractedAt": "2025-04-08T21:39:15.087457",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "v.bongiovanni@lcwmail.com",
+    "fileName": "Microsoft Teams Chat Files",
+    "itemId": "01F66VQ6A2ZY7ZSL4T6ZDLKJ3JG2VXVRJB",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2021-05-14T16:56:46Z",
+    "lastModifiedBy": "Vince Bongiovanni",
+    "extractedAt": "2025-04-08T21:39:16.018913",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "v.bongiovanni@lcwmail.com",
+    "fileName": "Recordings",
+    "itemId": "01F66VQ6E2BSQMPECNXZEJF22UONW6MIFQ",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-07-10T19:56:30Z",
+    "lastModifiedBy": "SharePoint App",
+    "extractedAt": "2025-04-08T21:39:16.898874",
+    "activityCount": 0,
+    "activities": []
+  },
+  {
+    "userPrincipalName": "v.bongiovanni@lcwmail.com",
+    "fileName": "Vince @ LCW",
+    "itemId": "01F66VQ6DAJYSKMS2UTBGJA2UF3CQKHG53",
+    "isFolder": true,
+    "fileType": "folder",
+    "fileSizeBytes": "N/A",
+    "lastModified": "2024-04-16T17:46:01Z",
+    "lastModifiedBy": "Vince Bongiovanni",
+    "extractedAt": "2025-04-08T21:39:17.740867",
+    "activityCount": 1,
+    "activities": [
+      {
+        "activityId": "8KNXpxa33Eie+vYNAAAAAA==",
+        "actionType": "edit",
+        "performedBy": "Vince Bongiovanni",
+        "userPrincipalName": "v.bongiovanni@lcwmail.com",
+        "email": "v.bongiovanni@lcwmail.com",
+        "timestamp": "2024-08-07T19:25:10Z"
+      }
+    ]
+  }
+]
