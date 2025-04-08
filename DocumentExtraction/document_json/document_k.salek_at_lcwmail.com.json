@@ -1,0 +1,178 @@
+[
+  {
+    "Activity ID": "01PFANDRLZTLWU7NQ3DVEKKX5PHBDGKWWX",
+    "File Name": "AppData",
+    "File Type": "Unknown",
+    "User": "Kelly Salek",
+    "Timestamp": "2023-08-28T19:38:57Z",
+    "Date Extracted": "2025-04-08T17:21:37.492076"
+  },
+  {
+    "Activity ID": "01PFANDRIZA7SC5OIHA5DYCBNAVEXVMKWR",
+    "File Name": "Attachments",
+    "File Type": "Unknown",
+    "User": "Kelly Salek",
+    "Timestamp": "2023-03-21T11:19:34Z",
+    "Date Extracted": "2025-04-08T17:21:37.492098"
+  },
+  {
+    "Activity ID": "01PFANDRJ6H46MOSKGVBE3EZ4GFPIV5TN6",
+    "File Name": "Creative Cloud Files",
+    "File Type": "Unknown",
+    "User": "Kelly Salek",
+    "Timestamp": "2023-12-13T18:10:33Z",
+    "Date Extracted": "2025-04-08T17:21:37.492103"
+  },
+  {
+    "Activity ID": "01PFANDRM67H5GKOLGTJGZ4UUX2NIGCXWG",
+    "File Name": "Desktop",
+    "File Type": "Unknown",
+    "User": "Kelly Salek",
+    "Timestamp": "2022-03-28T15:42:26Z",
+    "Date Extracted": "2025-04-08T17:21:37.492107"
+  },
+  {
+    "Activity ID": "01PFANDRKYEGIZ657WNVBKRS7CT6MABIO4",
+    "File Name": "Documents",
+    "File Type": "Unknown",
+    "User": "Kelly Salek",
+    "Timestamp": "2022-03-28T15:42:26Z",
+    "Date Extracted": "2025-04-08T17:21:37.492111"
+  },
+  {
+    "Activity ID": "01PFANDRII2BSKRFSFUBC2XZAZKLY3VSAH",
+    "File Name": "Meetings",
+    "File Type": "Unknown",
+    "User": "Kelly Salek",
+    "Timestamp": "2023-07-25T16:01:55Z",
+    "Date Extracted": "2025-04-08T17:21:37.492115"
+  },
+  {
+    "Activity ID": "01PFANDROTDWBHJ6YLWZFKFMO4N4P3HQM4",
+    "File Name": "Microsoft Teams Chat Files",
+    "File Type": "Unknown",
+    "User": "Kelly Salek",
+    "Timestamp": "2022-04-20T14:07:35Z",
+    "Date Extracted": "2025-04-08T17:21:37.492118"
+  },
+  {
+    "Activity ID": "01PFANDRJKTJ3NULFOXFE3G3GTEJSUWUOQ",
+    "File Name": "Misc",
+    "File Type": "Unknown",
+    "User": "Kelly Salek",
+    "Timestamp": "2022-04-20T14:41:37Z",
+    "Date Extracted": "2025-04-08T17:21:37.492123"
+  },
+  {
+    "Activity ID": "01PFANDRINJPDBXP52V5B2VKOBNQS4NQB2",
+    "File Name": "Pictures",
+    "File Type": "Unknown",
+    "User": "Kelly Salek",
+    "Timestamp": "2022-03-28T15:42:26Z",
+    "Date Extracted": "2025-04-08T17:21:37.492127"
+  },
+  {
+    "Activity ID": "01PFANDRPUIFZFSDNC2VD2CPFV2MYB3IC3",
+    "File Name": "Recordings",
+    "File Type": "Unknown",
+    "User": "Kelly Salek",
+    "Timestamp": "2022-09-09T18:09:37Z",
+    "Date Extracted": "2025-04-08T17:21:37.492130"
+  },
+  {
+    "Activity ID": "01PFANDRPB34TS4W7FI5BKI2NJ653NECMU",
+    "File Name": "Whiteboards",
+    "File Type": "Unknown",
+    "User": "Kelly Salek",
+    "Timestamp": "2022-05-19T17:14:11Z",
+    "Date Extracted": "2025-04-08T17:21:37.492134"
+  },
+  {
+    "Activity ID": "01PFANDRIO3GOHGQJIOZC2RVHA4NQXKLDK",
+    "File Name": "CCLP_Gender_ReflectandApply.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Kelly Salek",
+    "Timestamp": "2024-05-09T22:56:00Z",
+    "Date Extracted": "2025-04-08T17:21:37.492139"
+  },
+  {
+    "Activity ID": "01PFANDRJCVMS6AESIGFGJ4E5OGJ3DPAFA",
+    "File Name": "CCLP_ULSDisabilityInclusion_ReflectandApply.pdf",
+    "File Type": "application/pdf",
+    "User": "Kelly Salek",
+    "Timestamp": "2024-03-15T04:16:18Z",
+    "Date Extracted": "2025-04-08T17:21:37.492143"
+  },
+  {
+    "Activity ID": "01PFANDRNEGZCVMWCP4ZB3PZSLPQNJXEWG",
+    "File Name": "CCLP-Application-CI.03142024.pdf",
+    "File Type": "application/pdf",
+    "User": "Kelly Salek",
+    "Timestamp": "2024-03-15T03:26:36Z",
+    "Date Extracted": "2025-04-08T17:21:37.492147"
+  },
+  {
+    "Activity ID": "01PFANDRK56TDMUUTNRRDJL5IEBD7LPCMB",
+    "File Name": "CCLP-Application-CI.03142024.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Kelly Salek",
+    "Timestamp": "2024-03-15T03:26:30Z",
+    "Date Extracted": "2025-04-08T17:21:37.492152"
+  },
+  {
+    "Activity ID": "01PFANDRL7OOBQYRU6LVEJT3OQBSMM3KWV",
+    "File Name": "CCLP-ULSApplication-CI.03142024.pdf",
+    "File Type": "application/pdf",
+    "User": "Kelly Salek",
+    "Timestamp": "2024-03-15T04:17:38Z",
+    "Date Extracted": "2025-04-08T17:21:37.492156"
+  },
+  {
+    "Activity ID": "01PFANDRKMVTHINO3OLJAKFCKBIUFSIO5N",
+    "File Name": "CCLP-ULSApplication-CI.03142024.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Kelly Salek",
+    "Timestamp": "2024-03-15T04:17:31Z",
+    "Date Extracted": "2025-04-08T17:21:37.492159"
+  },
+  {
+    "Activity ID": "01PFANDRI2WONBGX2DBFGIBPNXUZQUV7LE",
+    "File Name": "CCMP-Application-CI.03142024.pdf",
+    "File Type": "application/pdf",
+    "User": "Kelly Salek",
+    "Timestamp": "2024-03-15T03:26:15Z",
+    "Date Extracted": "2025-04-08T17:21:37.492163"
+  },
+  {
+    "Activity ID": "01PFANDRO2H7XBZPMDYNAJ5OOKYCDMKF65",
+    "File Name": "HVHA-Invoices-2024-saleksale-HVHOA-Paid.pdf",
+    "File Type": "application/pdf",
+    "User": "Kelly Salek",
+    "Timestamp": "2024-09-18T16:52:19Z",
+    "Date Extracted": "2025-04-08T17:21:37.492167"
+  },
+  {
+    "Activity ID": "01PFANDRKQYEPPUCRIDRALCJDNKQSQ3J7R",
+    "File Name": "INVOICE_02_LCW2024_April.pdf",
+    "File Type": "application/pdf",
+    "User": "Kelly Salek",
+    "Timestamp": "2024-04-18T02:41:23Z",
+    "Date Extracted": "2025-04-08T17:21:37.492171"
+  },
+  {
+    "Activity ID": "01PFANDRPBURV22637KRC3NSF2EK33IXQU",
+    "File Name": "Lessons Learned Consulting- Bookkeeping_2023.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Kelly Salek",
+    "Timestamp": "2024-02-18T23:18:50Z",
+    "Date Extracted": "2025-04-08T17:21:37.492174"
+  },
+  {
+    "Activity ID": "01PFANDRPCPOUECUXV7REK7TYCH2W6L3BA",
+    "File Name": "My Notebook @ LCW",
+    "File Type": "Unknown",
+    "User": "Kelly Salek",
+    "Timestamp": "2024-02-16T22:15:13Z",
+    "Date Extracted": "2025-04-08T17:21:37.492178"
+  }
+]

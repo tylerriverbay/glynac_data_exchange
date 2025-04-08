@@ -1,0 +1,74 @@
+[
+  {
+    "Activity ID": "01ZGLCY34IRJ3ZK5HVJZAKQV6S7BOF23LD",
+    "File Name": "Apps",
+    "File Type": "Unknown",
+    "User": "Maria Mercado",
+    "Timestamp": "2023-08-18T17:16:47Z",
+    "Date Extracted": "2025-04-08T17:21:43.539022"
+  },
+  {
+    "Activity ID": "01ZGLCY35C6FCVWBLCZZC2M7VSPY357BKU",
+    "File Name": "Attachments",
+    "File Type": "Unknown",
+    "User": "Maria Mercado",
+    "Timestamp": "2023-03-31T18:00:48Z",
+    "Date Extracted": "2025-04-08T17:21:43.539028"
+  },
+  {
+    "Activity ID": "01ZGLCY33R5COLTFMKMRCLUPR3FQE5233W",
+    "File Name": "Microsoft Teams Chat Files",
+    "File Type": "Unknown",
+    "User": "Maria Mercado",
+    "Timestamp": "2023-04-07T18:35:34Z",
+    "Date Extracted": "2025-04-08T17:21:43.539029"
+  },
+  {
+    "Activity ID": "01ZGLCY3455BCDIQJ27ZG2JDD6HQSPS7PJ",
+    "File Name": "Recordings",
+    "File Type": "Unknown",
+    "User": "Maria Mercado",
+    "Timestamp": "2023-03-20T16:42:51Z",
+    "Date Extracted": "2025-04-08T17:21:43.539031"
+  },
+  {
+    "Activity ID": "01ZGLCY36FAYUO5VZCM5BJECFBFOIKH4JB",
+    "File Name": "BCBS RX premium reporting for 2022.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Maria Mercado",
+    "Timestamp": "2023-04-26T19:29:30Z",
+    "Date Extracted": "2025-04-08T17:21:43.539032"
+  },
+  {
+    "Activity ID": "01ZGLCY36U4GUWVUWC6VD3525UO5ONF54M",
+    "File Name": "LCW Employee Handbook 2023_final draft 5.2023.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Maria Mercado",
+    "Timestamp": "2023-05-16T18:37:06Z",
+    "Date Extracted": "2025-04-08T17:21:43.539033"
+  },
+  {
+    "Activity ID": "01ZGLCY35AYB4X4MDXMZAYY7YREAOTYV37",
+    "File Name": "LCW Employee Handbook 2023_final draft 5.2023_CMA.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Maria Mercado",
+    "Timestamp": "2023-05-16T19:20:56Z",
+    "Date Extracted": "2025-04-08T17:21:43.539035"
+  },
+  {
+    "Activity ID": "01ZGLCY3ZU4X3TFHGLFJF3WXEGLPQDN5KQ",
+    "File Name": "LCW Employee Handbook final draft 5.16.2023.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Maria Mercado",
+    "Timestamp": "2023-05-16T17:49:50Z",
+    "Date Extracted": "2025-04-08T17:21:43.539036"
+  },
+  {
+    "Activity ID": "01ZGLCY33SBPOUEKYTT5EIZVPB3BJ7ZCM5",
+    "File Name": "LCW Employee Handbook.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Maria Mercado",
+    "Timestamp": "2023-05-16T17:46:49Z",
+    "Date Extracted": "2025-04-08T17:21:43.539037"
+  }
+]

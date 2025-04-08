@@ -1,0 +1,354 @@
+[
+  {
+    "Activity ID": "01OTLZPECNPGAUB3S7A5GJ5OYGQ3H3P5MQ",
+    "File Name": "Attachments",
+    "File Type": "Unknown",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-05-23T14:06:43Z",
+    "Date Extracted": "2025-04-08T17:21:45.550771"
+  },
+  {
+    "Activity ID": "01OTLZPEEQYCK7WVYMSNE2EUUKVF7NYZUC",
+    "File Name": "Desktop",
+    "File Type": "Unknown",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-06-28T22:59:26Z",
+    "Date Extracted": "2025-04-08T17:21:45.550785"
+  },
+  {
+    "Activity ID": "01OTLZPEHW4A3RTAEZYJHIL2OUOWEK5WUT",
+    "File Name": "Documents",
+    "File Type": "Unknown",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-06-28T22:59:27Z",
+    "Date Extracted": "2025-04-08T17:21:45.550789"
+  },
+  {
+    "Activity ID": "01OTLZPEAPWVCYYCWHBFCY6YGDO25RMGK5",
+    "File Name": "Microsoft Teams Chat Files",
+    "File Type": "Unknown",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-11-15T16:30:51Z",
+    "Date Extracted": "2025-04-08T17:21:45.550793"
+  },
+  {
+    "Activity ID": "01OTLZPEDET65OWY46PJH3E5OANNNIQPF4",
+    "File Name": "Pictures",
+    "File Type": "Unknown",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-06-28T22:59:27Z",
+    "Date Extracted": "2025-04-08T17:21:45.550797"
+  },
+  {
+    "Activity ID": "01OTLZPEAEGQ47NOQR2ZFZUD444BTP246C",
+    "File Name": "Recordings",
+    "File Type": "Unknown",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-05-01T14:56:37Z",
+    "Date Extracted": "2025-04-08T17:21:45.550801"
+  },
+  {
+    "Activity ID": "01OTLZPEB54RXCSHA3E5EYDVA7E6LUBSZN",
+    "File Name": "030823_ VoiceoverScripts-carasmatic_NGedits.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-03-08T21:41:49Z",
+    "Date Extracted": "2025-04-08T17:21:45.550805"
+  },
+  {
+    "Activity ID": "01OTLZPEAKSPRABPEWDNCLVFBIUHVGEKIO",
+    "File Name": "0901LIchat.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-09-07T19:04:42Z",
+    "Date Extracted": "2025-04-08T17:21:45.550809"
+  },
+  {
+    "Activity ID": "01OTLZPEEFOWK44KZ5YVD26JAH5M6SHTJ4",
+    "File Name": "A 4.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-08-25T19:19:25Z",
+    "Date Extracted": "2025-04-08T17:21:45.550812"
+  },
+  {
+    "Activity ID": "01OTLZPEAW6G2WFTYEDRAZXNHRFWDK5HFM",
+    "File Name": "AAPI_Allyship.pdf",
+    "File Type": "application/pdf",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-05-12T17:16:33Z",
+    "Date Extracted": "2025-04-08T17:21:45.550816"
+  },
+  {
+    "Activity ID": "01OTLZPEEWQUBGD2YMHJB3CG3ZRK4K3ZHJ",
+    "File Name": "Alpharetta notes.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-03-07T21:58:10Z",
+    "Date Extracted": "2025-04-08T17:21:45.550820"
+  },
+  {
+    "Activity ID": "01OTLZPEAYKTD5526ROJEJLTUQZI7GWCFH",
+    "File Name": "APPI_Timeline_Voya.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-04-24T17:51:57Z",
+    "Date Extracted": "2025-04-08T17:21:45.550823"
+  },
+  {
+    "Activity ID": "01OTLZPEHSKUSYNJCTSFDJYX4L2XOHHR7F",
+    "File Name": "bio_CW.pdf",
+    "File Type": "application/pdf",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-05-17T20:09:06Z",
+    "Date Extracted": "2025-04-08T17:21:45.550827"
+  },
+  {
+    "Activity ID": "01OTLZPEG6FIQWRBM325BJ7PJMWH736QFF",
+    "File Name": "BSC CHECK IN.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-07-21T19:11:17Z",
+    "Date Extracted": "2025-04-08T17:21:45.550830"
+  },
+  {
+    "Activity ID": "01OTLZPEFNDMFVYDKEDFAIYNFY3JODW6T6",
+    "File Name": "BSCtracker2023.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-02-14T18:28:31Z",
+    "Date Extracted": "2025-04-08T17:21:45.550834"
+  },
+  {
+    "Activity ID": "01OTLZPEEVTDQL6HWJHNF2I3UNXIE63Y4A",
+    "File Name": "Chemtrade Feedback.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-09-29T23:29:41Z",
+    "Date Extracted": "2025-04-08T17:21:45.550838"
+  },
+  {
+    "Activity ID": "01OTLZPEB25IGQQIP2KZBIR7OGGZJUZGJT",
+    "File Name": "CI80Session.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-02-23T18:19:35Z",
+    "Date Extracted": "2025-04-08T17:21:45.550841"
+  },
+  {
+    "Activity ID": "01OTLZPEFFX6V3QFPFQNCZNO6UCEDM2WOM",
+    "File Name": "Codeswitching, research.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-07-28T16:01:40Z",
+    "Date Extracted": "2025-04-08T17:21:45.550845"
+  },
+  {
+    "Activity ID": "01OTLZPEFLB7C7SF6TFNC2UIEPAE37ZI7C",
+    "File Name": "data.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-08-29T20:59:54Z",
+    "Date Extracted": "2025-04-08T17:21:45.550849"
+  },
+  {
+    "Activity ID": "01OTLZPEDZDIOIH45F3VEYFBNXVUWS3ZQF",
+    "File Name": "DEI notes and trends prepared for Chemtrade.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-02-16T23:03:04Z",
+    "Date Extracted": "2025-04-08T17:21:45.550853"
+  },
+  {
+    "Activity ID": "01OTLZPEB7BNP27CLNB5G2J65O6MNIQT7H",
+    "File Name": "Germany Resources.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-11-18T18:56:20Z",
+    "Date Extracted": "2025-04-08T17:21:45.550857"
+  },
+  {
+    "Activity ID": "01OTLZPEA5P7ZFM6LRSJBIR5CX7AWJ2M6P",
+    "File Name": "GroupMAnalysisNGv1.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-09-08T17:58:25Z",
+    "Date Extracted": "2025-04-08T17:21:45.550860"
+  },
+  {
+    "Activity ID": "01OTLZPEGIJGN3ZUBFHRELCJCWKAD2QGCB",
+    "File Name": "Headlines.brazil.canada.AAPI.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-04-18T19:07:17Z",
+    "Date Extracted": "2025-04-08T17:21:45.550864"
+  },
+  {
+    "Activity ID": "01OTLZPEFEGHTSSJAYPVFLWKVDX77R4VLL",
+    "File Name": "JTI POlls.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-11-29T19:03:15Z",
+    "Date Extracted": "2025-04-08T17:21:45.550868"
+  },
+  {
+    "Activity ID": "01OTLZPEBK5JALKBWSCJCZWNERM7AGMFNI",
+    "File Name": "LGBTQ+_tittleslide.pdf",
+    "File Type": "application/pdf",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-05-23T14:10:31Z",
+    "Date Extracted": "2025-04-08T17:21:45.550871"
+  },
+  {
+    "Activity ID": "01OTLZPEBUUXKPTRXW7NEZWKRAFPCDQV4V",
+    "File Name": "LGBTQ+_tittleslide.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-05-23T14:09:42Z",
+    "Date Extracted": "2025-04-08T17:21:45.550875"
+  },
+  {
+    "Activity ID": "01OTLZPEGIULFRUYM6NNAYH4XJJEILUCF4",
+    "File Name": "LGBTQSpotlight.pdf",
+    "File Type": "application/pdf",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-04-26T14:49:39Z",
+    "Date Extracted": "2025-04-08T17:21:45.550879"
+  },
+  {
+    "Activity ID": "01OTLZPECV2LGF2JKLUJC2NJFYYXADSEVB",
+    "File Name": "MidYearCoaching Tracker_20230606.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-06-06T20:01:53Z",
+    "Date Extracted": "2025-04-08T17:21:45.550883"
+  },
+  {
+    "Activity ID": "01OTLZPEGK7DC6DHUEWBDJC2BPLFYYKHYC",
+    "File Name": "Nassise @ LCW",
+    "File Type": "Unknown",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-07-13T16:21:48Z",
+    "Date Extracted": "2025-04-08T17:21:45.550886"
+  },
+  {
+    "Activity ID": "01OTLZPEB7VRHC7L655VCKBNGMSHETXVJP",
+    "File Name": "PA - Brian Schroeder.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-08-12T13:42:03Z",
+    "Date Extracted": "2025-04-08T17:21:45.550890"
+  },
+  {
+    "Activity ID": "01OTLZPECZKPKQIE7O35BIJTH3HZSWS7X7",
+    "File Name": "PA - Brian Schroeder.pdf",
+    "File Type": "application/pdf",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-08-12T13:46:06Z",
+    "Date Extracted": "2025-04-08T17:21:45.550894"
+  },
+  {
+    "Activity ID": "01OTLZPEAKLP2SEJJTHJFLS2DS3S5V4WXS",
+    "File Name": "PA_A.Vargas_NBCU_TT.pdf",
+    "File Type": "application/pdf",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-02-21T18:57:18Z",
+    "Date Extracted": "2025-04-08T17:21:45.550897"
+  },
+  {
+    "Activity ID": "01OTLZPECH5O5L4JQ52JC3TMPGXB2DHJJL",
+    "File Name": "PING_Execsession .pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-02-24T17:05:33Z",
+    "Date Extracted": "2025-04-08T17:21:45.550901"
+  },
+  {
+    "Activity ID": "01OTLZPEBT5SDIW7K4SFBIOBCULN2EHTDQ",
+    "File Name": "Prudential BCI and Spotlight Attendance 10.11 - 19.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-10-20T17:49:22Z",
+    "Date Extracted": "2025-04-08T17:21:45.550905"
+  },
+  {
+    "Activity ID": "01OTLZPEHHIJ7GRZTUHFDZLTHJGVRV23AC",
+    "File Name": "Prudential Detailed Schedule.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-07-27T22:48:01Z",
+    "Date Extracted": "2025-04-08T17:21:45.550908"
+  },
+  {
+    "Activity ID": "01OTLZPECIKBRARW7VTBHJUTUV4LXYOG4F",
+    "File Name": "PrudentialBCI&SpotlightSchedule.v2.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-08-16T21:11:37Z",
+    "Date Extracted": "2025-04-08T17:21:45.550912"
+  },
+  {
+    "Activity ID": "01OTLZPEB4PXM4BUFQOBDZKVV75QBMMEF6",
+    "File Name": "PrudentialBCI&SpotlightSchedule.v8.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-12-07T15:26:00Z",
+    "Date Extracted": "2025-04-08T17:21:45.550916"
+  },
+  {
+    "Activity ID": "01OTLZPEDO4QGTIPBXTZALNVLYJADGRYN6",
+    "File Name": "research.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-09-29T16:26:39Z",
+    "Date Extracted": "2025-04-08T17:21:45.550919"
+  },
+  {
+    "Activity ID": "01OTLZPEBUIHGBX7VF4ZAJTY3JSKKU6KFP",
+    "File Name": "Richemont Global IDI Project Gantt.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-06-13T17:13:49Z",
+    "Date Extracted": "2025-04-08T17:21:45.550923"
+  },
+  {
+    "Activity ID": "01OTLZPECOCADW7SONPVEZAKYOZZTLT3YV",
+    "File Name": "Richemont IDI Project Overview.pdf",
+    "File Type": "application/pdf",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-06-02T19:05:20Z",
+    "Date Extracted": "2025-04-08T17:21:45.550927"
+  },
+  {
+    "Activity ID": "01OTLZPEFC7EW2RL54QFAI27QKGPZFYT6O",
+    "File Name": "Richemont IDI Project.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-06-02T17:29:08Z",
+    "Date Extracted": "2025-04-08T17:21:45.550930"
+  },
+  {
+    "Activity ID": "01OTLZPEFSFE5WJYTPUVHYU2DY3DJCJARJ",
+    "File Name": "timeline.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-03-24T15:03:44Z",
+    "Date Extracted": "2025-04-08T17:21:45.550934"
+  },
+  {
+    "Activity ID": "01OTLZPEGB33EMBF75IZGYQBF5MK6YYY3T",
+    "File Name": "UPDATED. Roster-Conscious-Inclusion-64-2PM-CET-8AM-ET-US-FinalU.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Nassise Geleta",
+    "Timestamp": "2023-02-10T23:02:19Z",
+    "Date Extracted": "2025-04-08T17:21:45.550947"
+  },
+  {
+    "Activity ID": "01OTLZPECTMKOMYMHTTZFJAYE55RELZ7NQ",
+    "File Name": "UTLE poll questions .docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Nassise Geleta",
+    "Timestamp": "2022-08-30T16:53:41Z",
+    "Date Extracted": "2025-04-08T17:21:45.550951"
+  }
+]

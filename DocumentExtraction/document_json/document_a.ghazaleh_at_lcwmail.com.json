@@ -1,0 +1,98 @@
+[
+  {
+    "Activity ID": "01V5DSRQNLWVVKBYED2BBJCNWD4BQDOHCW",
+    "File Name": "Desktop",
+    "File Type": "Unknown",
+    "User": "Amir G",
+    "Timestamp": "2021-10-19T18:18:19Z",
+    "Date Extracted": "2025-04-08T17:21:57.626591"
+  },
+  {
+    "Activity ID": "01V5DSRQK3ZDW4I35DMVA3QB42J3RTQJJV",
+    "File Name": "Documents",
+    "File Type": "Unknown",
+    "User": "Amir G",
+    "Timestamp": "2021-10-19T18:18:20Z",
+    "Date Extracted": "2025-04-08T17:21:57.626612"
+  },
+  {
+    "Activity ID": "01V5DSRQKGKSBRRJM6ZREL5EPBBD4732UQ",
+    "File Name": "Microsoft Teams Chat Files",
+    "File Type": "Unknown",
+    "User": "Amir G",
+    "Timestamp": "2021-05-26T15:36:04Z",
+    "Date Extracted": "2025-04-08T17:21:57.626621"
+  },
+  {
+    "Activity ID": "01V5DSRQOZ7P3MAXJVL5AKG5JW5RYK5HNE",
+    "File Name": "Pictures",
+    "File Type": "Unknown",
+    "User": "Amir G",
+    "Timestamp": "2021-10-19T18:18:20Z",
+    "Date Extracted": "2025-04-08T17:21:57.626628"
+  },
+  {
+    "Activity ID": "01V5DSRQK2SEPOJPY45RFYC43B3ONSRCCM",
+    "File Name": "Recordings",
+    "File Type": "Unknown",
+    "User": "Amir G",
+    "Timestamp": "2021-12-14T19:59:22Z",
+    "Date Extracted": "2025-04-08T17:21:57.626634"
+  },
+  {
+    "Activity ID": "01V5DSRQLPOUUZBNH5O5AKBDSN2RUW2CF2",
+    "File Name": "Interview Questions and Note Taker - Kevin Bridgewater (1).docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Amir G",
+    "Timestamp": "2021-10-19T14:15:49Z",
+    "Date Extracted": "2025-04-08T17:21:57.626642"
+  },
+  {
+    "Activity ID": "01V5DSRQPQC47EUCCRKFA32AMJQYFNVBRK",
+    "File Name": "Interview Questions and Note Taker - Kevin Bridgewater (2).docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Amir G",
+    "Timestamp": "2021-10-19T18:09:17Z",
+    "Date Extracted": "2025-04-08T17:21:57.626648"
+  },
+  {
+    "Activity ID": "01V5DSRQPQ7CA7SXN5LBAZLFTNEWA5RJEG",
+    "File Name": "Interview Questions and Note Taker - Kevin Bridgewater.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Amir G",
+    "Timestamp": "2021-10-19T14:09:14Z",
+    "Date Extracted": "2025-04-08T17:21:57.626655"
+  },
+  {
+    "Activity ID": "01V5DSRQOX5T527IVOB5CLLR33NYECKGVW",
+    "File Name": "LCW and BC.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Amir G",
+    "Timestamp": "2021-10-19T14:23:21Z",
+    "Date Extracted": "2025-04-08T17:21:57.626662"
+  },
+  {
+    "Activity ID": "01V5DSRQJ3XVHCYTA6BZGKFN557AEMO3A5",
+    "File Name": "NW Agenda.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Amir G",
+    "Timestamp": "2021-08-17T14:32:44Z",
+    "Date Extracted": "2025-04-08T17:21:57.626668"
+  },
+  {
+    "Activity ID": "01V5DSRQONIFPLH3VM6NHJXDA4JDQ5DPT4",
+    "File Name": "NW Meeting 1.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Amir G",
+    "Timestamp": "2021-08-31T20:52:37Z",
+    "Date Extracted": "2025-04-08T17:21:57.626675"
+  },
+  {
+    "Activity ID": "01V5DSRQLAR6K7BBDH6NE2YQX64LZFVWNB",
+    "File Name": "UTBE Polls.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Amir G",
+    "Timestamp": "2022-01-10T00:12:15Z",
+    "Date Extracted": "2025-04-08T17:21:57.626681"
+  }
+]

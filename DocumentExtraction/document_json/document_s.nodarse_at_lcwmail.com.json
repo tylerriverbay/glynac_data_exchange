@@ -1,0 +1,906 @@
+[
+  {
+    "Activity ID": "01Y6SAZ6372GSEFRSCKJB2GP32BSR5Y76V",
+    "File Name": "Apps",
+    "File Type": "Unknown",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-06-29T17:11:49Z",
+    "Date Extracted": "2025-04-08T17:21:53.730377"
+  },
+  {
+    "Activity ID": "01Y6SAZ64Z35LVDNI4ANF2WTGT3Y44PP2D",
+    "File Name": "Attachments",
+    "File Type": "Unknown",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-03-22T14:56:39Z",
+    "Date Extracted": "2025-04-08T17:21:53.730398"
+  },
+  {
+    "Activity ID": "01Y6SAZ637MHODYTKYBRA34KAO2223F7MS",
+    "File Name": "Desktop",
+    "File Type": "Unknown",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2021-07-23T21:43:18Z",
+    "Date Extracted": "2025-04-08T17:21:53.730405"
+  },
+  {
+    "Activity ID": "01Y6SAZ6Y6MFXAHJPEJFA3OAAVJV3O6MVE",
+    "File Name": "Documents",
+    "File Type": "Unknown",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2021-07-23T21:43:18Z",
+    "Date Extracted": "2025-04-08T17:21:53.730410"
+  },
+  {
+    "Activity ID": "01Y6SAZ65E7NFSM5XN4RDZ5HZMZXD5ZLR6",
+    "File Name": "Microsoft Teams Chat Files",
+    "File Type": "Unknown",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2020-01-14T20:09:24Z",
+    "Date Extracted": "2025-04-08T17:21:53.730416"
+  },
+  {
+    "Activity ID": "01Y6SAZ64TZICUDUGNSBCLBN6ZUK5LKAUY",
+    "File Name": "Microsoft Teams Data",
+    "File Type": "Unknown",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2020-04-23T14:50:46Z",
+    "Date Extracted": "2025-04-08T17:21:53.730421"
+  },
+  {
+    "Activity ID": "01Y6SAZ62FQ3JZFMEGYFD2EVVVPGQLRCYK",
+    "File Name": "Notebooks",
+    "File Type": "Unknown",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2022-03-14T16:10:48Z",
+    "Date Extracted": "2025-04-08T17:21:53.730426"
+  },
+  {
+    "Activity ID": "01Y6SAZ6YG6JXDCLQAXNEJCBVHMVZ22P2W",
+    "File Name": "Pictures",
+    "File Type": "Unknown",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2021-07-23T21:43:18Z",
+    "Date Extracted": "2025-04-08T17:21:53.730432"
+  },
+  {
+    "Activity ID": "01Y6SAZ66DYGSGWQQPGJB2AAI5XS3B6XZH",
+    "File Name": "Recordings",
+    "File Type": "Unknown",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2022-04-19T21:21:59Z",
+    "Date Extracted": "2025-04-08T17:21:53.730437"
+  },
+  {
+    "Activity ID": "01Y6SAZ63XHIISOWLCQ5HIEYNX2WEIGDC2",
+    "File Name": "1 Hr Alpharetta Onboarding V2.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-02-05T22:01:31Z",
+    "Date Extracted": "2025-04-08T17:21:53.730443"
+  },
+  {
+    "Activity ID": "01Y6SAZ64T3C7GDMPS5REJV6FZ66P4ITG5",
+    "File Name": "2024 Multi-Session Scheduling Template_Thompson Hine Spotlights_revised.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-05-29T20:42:49Z",
+    "Date Extracted": "2025-04-08T17:21:53.730448"
+  },
+  {
+    "Activity ID": "01Y6SAZ62DAMOK55WSOJH3EYZPGWSP7UQG",
+    "File Name": "3D Objects - Shortcut.lnk",
+    "File Type": "application/octet-stream",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-04-22T19:35:08Z",
+    "Date Extracted": "2025-04-08T17:21:53.730454"
+  },
+  {
+    "Activity ID": "01Y6SAZ63Y2GL3Y4QKRBGZSWTGRUEJKEEZ",
+    "File Name": "A_1Hr_Onboarding_Alpharetta_BSC_FINAL v2.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-02-12T20:07:04Z",
+    "Date Extracted": "2025-04-08T17:21:53.730460"
+  },
+  {
+    "Activity ID": "01Y6SAZ64AVGLHY5LJOFA2UPSUXFCROM6T",
+    "File Name": "All lesson emails UL Solutions CCLP SCG input.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-03-26T17:07:53Z",
+    "Date Extracted": "2025-04-08T17:21:53.730465"
+  },
+  {
+    "Activity ID": "01Y6SAZ636YOY4VEZ3ORDZHPDVKIUEC4PK",
+    "File Name": "APAC_Leading Incluslively-Solo facilitator_2024_v3.5 Sarah.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-07-31T22:57:46Z",
+    "Date Extracted": "2025-04-08T17:21:53.730470"
+  },
+  {
+    "Activity ID": "01Y6SAZ65A2BZ6YNBZTZFKOBXWB6AWAEV7",
+    "File Name": "ARCH Listening Sessions 2024.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-02-26T17:13:34Z",
+    "Date Extracted": "2025-04-08T17:21:53.730475"
+  },
+  {
+    "Activity ID": "01Y6SAZ66ECU45KLSH6NHIPLS4FRFJUSQA",
+    "File Name": "Arnold & Porter - LCW RFP Response 9-30 SN edits working.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-09-30T21:31:12Z",
+    "Date Extracted": "2025-04-08T17:21:53.730480"
+  },
+  {
+    "Activity ID": "01Y6SAZ67PNOR4KTZWF5AYXCEKLQDC3KI2",
+    "File Name": "ASSOCIATE ONBOARDING TO PROJECTS.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2021-05-14T17:36:14Z",
+    "Date Extracted": "2025-04-08T17:21:53.730486"
+  },
+  {
+    "Activity ID": "01Y6SAZ6ZVH3VKXGKTKVHI7O6MJOCZMORF",
+    "File Name": "Book1.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2022-08-08T21:48:35Z",
+    "Date Extracted": "2025-04-08T17:21:53.730491"
+  },
+  {
+    "Activity ID": "01Y6SAZ65WW4ZV2MT7FRAKYVEF2NJ2RACU",
+    "File Name": "Book2.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2021-02-22T12:31:38Z",
+    "Date Extracted": "2025-04-08T17:21:53.730497"
+  },
+  {
+    "Activity ID": "01Y6SAZ64AUP4LJBEJTFGZ4HIXUTERUXAC",
+    "File Name": "Boston Scientific ARCH 2024 Pricing and Planning.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-01-10T19:04:28Z",
+    "Date Extracted": "2025-04-08T17:21:53.730502"
+  },
+  {
+    "Activity ID": "01Y6SAZ6Z7MDMAM75XZFELFRZ7CTXYY6VT",
+    "File Name": "Boston Scientific has requested strategic assistance with consulting and training at its manufacturing site in Alpharetta.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-05-11T18:41:06Z",
+    "Date Extracted": "2025-04-08T17:21:53.730508"
+  },
+  {
+    "Activity ID": "01Y6SAZ6ZKX73DLDBR7NGJK6ALNOW7EC64",
+    "File Name": "Brave_Conversations_Voya_2024.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-04-22T14:52:50Z",
+    "Date Extracted": "2025-04-08T17:21:53.730514"
+  },
+  {
+    "Activity ID": "01Y6SAZ64GDYWTC7YBLNFYF7573N42WGND",
+    "File Name": "BSC ARCH_Valuing Diversity for Innovation_ Storyboard for Review_2024.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-05-16T12:51:24Z",
+    "Date Extracted": "2025-04-08T17:21:53.730519"
+  },
+  {
+    "Activity ID": "01Y6SAZ65Y2I4LTXNHV5CJENJHJDUST4KH",
+    "File Name": "BSC Maple Grove 2024_Project Plan v2.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-04-12T13:46:27Z",
+    "Date Extracted": "2025-04-08T17:21:53.730524"
+  },
+  {
+    "Activity ID": "01Y6SAZ64JFK6TXAKES5GK53PCY5XXCCDO",
+    "File Name": "BSC Microlearning Build Outline.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-05-06T20:46:28Z",
+    "Date Extracted": "2025-04-08T17:21:53.730530"
+  },
+  {
+    "Activity ID": "01Y6SAZ62GNBPUI2ZQJFD2DLYAAXUQOSGY",
+    "File Name": "BSC Understanding Your Cultural Lens_Alpharetta_Jan 2024_HANDOUT.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-02-05T21:25:07Z",
+    "Date Extracted": "2025-04-08T17:21:53.730535"
+  },
+  {
+    "Activity ID": "01Y6SAZ66BMU24XVWXRBDKEQH3DLHDVC7M",
+    "File Name": "BSC_ARCH_Meeting Agenda_9.19.2024.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-09-19T15:34:31Z",
+    "Date Extracted": "2025-04-08T17:21:53.730540"
+  },
+  {
+    "Activity ID": "01Y6SAZ62MHYM6FUO5TZBJAMOYQA4BNXZT",
+    "File Name": "BSC_CE_TEAM ALIGNMENT_handout.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-02-21T14:00:51Z",
+    "Date Extracted": "2025-04-08T17:21:53.730546"
+  },
+  {
+    "Activity ID": "01Y6SAZ6ZGU5RPLW3PVFHLIBTCNJ26RN7G",
+    "File Name": "BSC_CTG_TEAM ALIGNMENT_v1.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-01-19T21:30:30Z",
+    "Date Extracted": "2025-04-08T17:21:53.730551"
+  },
+  {
+    "Activity ID": "01Y6SAZ6YRUBLTIT6JWJFJXWPRS57IGSV6",
+    "File Name": "Building an Inclusive Culture in Maple Grove_LCW Proposal 2024.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-01-10T19:15:20Z",
+    "Date Extracted": "2025-04-08T17:21:53.730556"
+  },
+  {
+    "Activity ID": "01Y6SAZ657ZBZECQK7FJFLM7QHV7O4P3IK",
+    "File Name": "Building an Inclusive GroupM Culture_Invitation.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-08-12T15:46:15Z",
+    "Date Extracted": "2025-04-08T17:21:53.730562"
+  },
+  {
+    "Activity ID": "01Y6SAZ63NCZPWWLMP45F3HB43AZC3DNLR",
+    "File Name": "CANADA_Leading Incluslively-Solo facilitator_2024_v4.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-08-27T22:28:01Z",
+    "Date Extracted": "2025-04-08T17:21:53.730567"
+  },
+  {
+    "Activity ID": "01Y6SAZ6ZACP2IMK3YFZHIFLQZSG7LF7YZ",
+    "File Name": "Carta_Evaluating Talent Inclusively_2024.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-03-14T16:09:50Z",
+    "Date Extracted": "2025-04-08T17:21:53.730573"
+  },
+  {
+    "Activity ID": "01Y6SAZ62XPT247J3TWFEIYIZ54XHZWQDG",
+    "File Name": "Carta_Managing Bias in Talent Evaluation_30m_3.22.24.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-03-08T20:19:40Z",
+    "Date Extracted": "2025-04-08T17:21:53.730578"
+  },
+  {
+    "Activity ID": "01Y6SAZ62TKZMWAZQJ3FCZLLNW2LKXM5FY",
+    "File Name": "CBRE IDI\u00ae Group Profiles.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2021-03-30T13:44:48Z",
+    "Date Extracted": "2025-04-08T17:21:53.730584"
+  },
+  {
+    "Activity ID": "01Y6SAZ66NFEC26PHMQ5CKEQ5P34MRHQ2D",
+    "File Name": "CCLP Facilitated Session 1_UL Solutions_2024 Pilot_FINAL TO USE.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-05-02T20:15:44Z",
+    "Date Extracted": "2025-04-08T17:21:53.730590"
+  },
+  {
+    "Activity ID": "01Y6SAZ6YOGNR646LWJRH3MDXMDD7W2W3O",
+    "File Name": "CCLP Facilitated Session 1_UL Solutions_2024 Pilot_v2.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-05-02T15:46:06Z",
+    "Date Extracted": "2025-04-08T17:21:53.730595"
+  },
+  {
+    "Activity ID": "01Y6SAZ66TBMVG73WTMVAYRWGPITM5E7OB",
+    "File Name": "CCLP Facilitated Session 3 UL Solutions_v1.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-10-09T14:06:25Z",
+    "Date Extracted": "2025-04-08T17:21:53.730601"
+  },
+  {
+    "Activity ID": "01Y6SAZ62QH4JIU2JZNJAKMVAV4QFQRD3J",
+    "File Name": "CCLP Pilot_Lesson Emails_2024_Lesson 4.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-06-27T12:46:50Z",
+    "Date Extracted": "2025-04-08T17:21:53.730607"
+  },
+  {
+    "Activity ID": "01Y6SAZ67OVSO5ZLG5FFBKGJDHRWWHFHE7",
+    "File Name": "Children\u2019s HeartLink Diversity, Equity, and Inclusion Policy review_Final.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-04-25T14:56:36Z",
+    "Date Extracted": "2025-04-08T17:21:53.730612"
+  },
+  {
+    "Activity ID": "01Y6SAZ65LVUOUABDQCRA3OL7XGH6QB2Y2",
+    "File Name": "CHL CCLP Pricing 2024.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-11-01T15:00:45Z",
+    "Date Extracted": "2025-04-08T17:21:53.730618"
+  },
+  {
+    "Activity ID": "01Y6SAZ666CKQCKNYUUZD2U2KWGBC5WTQL",
+    "File Name": "Doc1.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2021-08-26T13:44:03Z",
+    "Date Extracted": "2025-04-08T17:21:53.730624"
+  },
+  {
+    "Activity ID": "01Y6SAZ6YBM5XVEKNJRZG3XPFLDHUTN5ZQ",
+    "File Name": "Doc2.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2021-07-20T15:29:24Z",
+    "Date Extracted": "2025-04-08T17:21:53.730629"
+  },
+  {
+    "Activity ID": "01Y6SAZ63VSVZEB3NIDNH2JL3CBPUM7FNC",
+    "File Name": "Executive IDI Group Debrief 2023 v2.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-12-13T17:55:31Z",
+    "Date Extracted": "2025-04-08T17:21:53.730634"
+  },
+  {
+    "Activity ID": "01Y6SAZ64UHV3LMUN47RELDTUVGMZXWQHP",
+    "File Name": "Executive IDI Group Debrief 2023 v3.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-12-14T18:33:36Z",
+    "Date Extracted": "2025-04-08T17:21:53.730640"
+  },
+  {
+    "Activity ID": "01Y6SAZ6YPGZGSJWRUBRHZYJTB7EMI6NMA",
+    "File Name": "Executive IDI Group Debrief 2023 v4.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-12-14T18:34:54Z",
+    "Date Extracted": "2025-04-08T17:21:53.730645"
+  },
+  {
+    "Activity ID": "01Y6SAZ6ZG6GKPFKVIOJG3TKO2TMNDTCPN",
+    "File Name": "Executive IDI Group Debrief 2023 v5.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-12-19T21:24:46Z",
+    "Date Extracted": "2025-04-08T17:21:53.730651"
+  },
+  {
+    "Activity ID": "01Y6SAZ66Q6JZ7IZM23BHZQOJH7LEQLYA7",
+    "File Name": "Executive IDI Group Debrief 2023 v6.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-12-20T19:59:29Z",
+    "Date Extracted": "2025-04-08T17:21:53.730657"
+  },
+  {
+    "Activity ID": "01Y6SAZ6YC5DTRFYP5NBFJPAHPNSBFEPVO",
+    "File Name": "Expanding ARCH Regionally_Planning as of 1.8.24.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-01-08T19:29:41Z",
+    "Date Extracted": "2025-04-08T17:21:53.730663"
+  },
+  {
+    "Activity ID": "01Y6SAZ6ZS6IC5PDSLD5BI7GHWAP7D57Q7",
+    "File Name": "FG Notes 8.1.24.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-08-01T13:56:48Z",
+    "Date Extracted": "2025-04-08T17:21:53.730670"
+  },
+  {
+    "Activity ID": "01Y6SAZ6ZDHREMLP2ZGVEZDJBEL7MNIVNJ",
+    "File Name": "For Stacey.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2021-09-08T18:53:14Z",
+    "Date Extracted": "2025-04-08T17:21:53.730676"
+  },
+  {
+    "Activity ID": "01Y6SAZ66OBWBCYGRENNAKNPSRLB2SOSKA",
+    "File Name": "GroupM 2024 Timeline v2.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-07-24T18:36:59Z",
+    "Date Extracted": "2025-04-08T17:21:53.730681"
+  },
+  {
+    "Activity ID": "01Y6SAZ62ZTFQRUWB7CFFYQ3Z2P4R5WF2P",
+    "File Name": "GroupM 2024 Timeline v3.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-08-06T16:48:58Z",
+    "Date Extracted": "2025-04-08T17:21:53.730687"
+  },
+  {
+    "Activity ID": "01Y6SAZ66XRB44UXHSXRFIZU5QFN6D4EYV",
+    "File Name": "GroupM Budget and Billing 2024_Revised.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-01-29T17:06:35Z",
+    "Date Extracted": "2025-04-08T17:21:53.730694"
+  },
+  {
+    "Activity ID": "01Y6SAZ6YNTVZV3BLNI5AK5FE5Q6RQBAYI",
+    "File Name": "GroupM Budget and Billing 2024_Revised_for client.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-02-15T19:05:04Z",
+    "Date Extracted": "2025-04-08T17:21:53.730700"
+  },
+  {
+    "Activity ID": "01Y6SAZ657EU3VUSXWKVF3EU7NFZDMWEFD",
+    "File Name": "GroupM Leading With Inclusion_Through the Lens of Culture_v4.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-06-06T18:27:30Z",
+    "Date Extracted": "2025-04-08T17:21:53.730706"
+  },
+  {
+    "Activity ID": "01Y6SAZ65VW6OPF6UYGNHZ54HAR33PBVLJ",
+    "File Name": "GroupM Leading With Inclusion_Through the Lens of Culture_v5.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-06-11T20:53:08Z",
+    "Date Extracted": "2025-04-08T17:21:53.730711"
+  },
+  {
+    "Activity ID": "01Y6SAZ63BDRCICAELEZEJ5URBZAYE2CJX",
+    "File Name": "GroupM Leading With Inclusion_Through the Lens of Culture_v9.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-07-17T04:24:50Z",
+    "Date Extracted": "2025-04-08T17:21:53.730738"
+  },
+  {
+    "Activity ID": "01Y6SAZ62LQGATYYYKDZEKRVYKWNTBEGAA",
+    "File Name": "GroupM SCI Preliminary Diagnostic Results_July 2023.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-07-27T14:29:05Z",
+    "Date Extracted": "2025-04-08T17:21:53.730745"
+  },
+  {
+    "Activity ID": "01Y6SAZ65V6V3254737VGZ76ZQCXXV7BGV",
+    "File Name": "GroupM SCI Preliminary Diagnostic Results_June 2023_updated.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-07-27T14:28:48Z",
+    "Date Extracted": "2025-04-08T17:21:53.730751"
+  },
+  {
+    "Activity ID": "01Y6SAZ64AE7ABC57XEBH3MHUYLMB3XLU4",
+    "File Name": "GroupM_2024_Inclusion For All.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-02-07T14:51:03Z",
+    "Date Extracted": "2025-04-08T17:21:53.730757"
+  },
+  {
+    "Activity ID": "01Y6SAZ66GXSI6C4CQT5B3CLSOTPU6J3FR",
+    "File Name": "Handout_VB_SN.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-04-30T17:31:52Z",
+    "Date Extracted": "2025-04-08T17:21:53.730762"
+  },
+  {
+    "Activity ID": "01Y6SAZ65RWCFFGMHG3JDJIE5JEGM2LBI7",
+    "File Name": "Hello all.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2020-08-11T20:44:24Z",
+    "Date Extracted": "2025-04-08T17:21:53.730768"
+  },
+  {
+    "Activity ID": "01Y6SAZ6Z2KVNYC7Y3RZFIUDFLKOSXXP5O",
+    "File Name": "Hi.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2021-08-27T15:16:10Z",
+    "Date Extracted": "2025-04-08T17:21:53.730774"
+  },
+  {
+    "Activity ID": "01Y6SAZ6665H4UMJNVJRG3BOHG2JD4D53D",
+    "File Name": "How to Be An Ally To Black Community_Carta_2024_1hr.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-01-31T19:47:39Z",
+    "Date Extracted": "2025-04-08T17:21:53.730780"
+  },
+  {
+    "Activity ID": "01Y6SAZ65T36TQHYG2JNG2IJOW2O5DCP3N",
+    "File Name": "IDI results dashboard.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-03-14T19:07:19Z",
+    "Date Extracted": "2025-04-08T17:21:53.730787"
+  },
+  {
+    "Activity ID": "01Y6SAZ662AKCUKH6VGJAIEKNYOVTOCDCV",
+    "File Name": "Improving CrossCultural Comm in Global Contexts_LCW_2024_AMERICAS_NR.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-09-30T19:17:39Z",
+    "Date Extracted": "2025-04-08T17:21:53.730793"
+  },
+  {
+    "Activity ID": "01Y6SAZ62ZRMGETUHEWFFIDQ4C3AMZTXX3",
+    "File Name": "Inclusion for Everyone_Understanding Culture and Identity_v3.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-02-29T18:11:50Z",
+    "Date Extracted": "2025-04-08T17:21:53.730798"
+  },
+  {
+    "Activity ID": "01Y6SAZ67RE5N7G72BBNFJAI4IQ7ZNW7XD",
+    "File Name": "Interview Data_Sarah.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-05-16T12:04:43Z",
+    "Date Extracted": "2025-04-08T17:21:53.730804"
+  },
+  {
+    "Activity ID": "01Y6SAZ66WU7YAEIB6JRAJ3UB5UNWJ2AB3",
+    "File Name": "June 2023 UPDATED GRAPHIC_USE THIS ONE.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-06-05T15:21:04Z",
+    "Date Extracted": "2025-04-08T17:21:53.730810"
+  },
+  {
+    "Activity ID": "01Y6SAZ652IRPP5XVY2FFKKKMRSUDS3V7O",
+    "File Name": "LCW FACILITATOR DEVELOPMENT GUIDE_2024 UPDATED.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-03-04T18:58:44Z",
+    "Date Extracted": "2025-04-08T17:21:53.730816"
+  },
+  {
+    "Activity ID": "01Y6SAZ63GDDK6GIMDG5E3QBXCVUGKFZKC",
+    "File Name": "LCW ObservationForm23_Sarah_11.17.2023.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-11-18T02:30:40Z",
+    "Date Extracted": "2025-04-08T17:21:53.730822"
+  },
+  {
+    "Activity ID": "01Y6SAZ67C6A3P3KAQSRAKL2Q4H6OIWTRO",
+    "File Name": "Leading Incluslively-Solo facilitator_2024_APAC_v1.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-07-01T19:03:24Z",
+    "Date Extracted": "2025-04-08T17:21:53.730828"
+  },
+  {
+    "Activity ID": "01Y6SAZ6YYAPET44JIXZFY5RBNZTBHLBRA",
+    "File Name": "Leading Incluslively-Solo facilitator_2024_APAC_v2.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-07-10T11:08:41Z",
+    "Date Extracted": "2025-04-08T17:21:53.730834"
+  },
+  {
+    "Activity ID": "01Y6SAZ673XNMFDMXS45DIFF7AJRGKEEZI",
+    "File Name": "Leading Incluslively-Solo facilitator_2024_CANADA v2.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-07-10T10:01:48Z",
+    "Date Extracted": "2025-04-08T17:21:53.730839"
+  },
+  {
+    "Activity ID": "01Y6SAZ67QDICXE5BBJZBJGIUGNQWSIOO2",
+    "File Name": "Leading Incluslively-Solo facilitator_2024_LATAM_v2.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-07-10T08:08:07Z",
+    "Date Extracted": "2025-04-08T17:21:53.730845"
+  },
+  {
+    "Activity ID": "01Y6SAZ6YRU27VUHPR7RFYCU3JRRLFJGMN",
+    "File Name": "Leading-with-Inclusion_GroupM_AGENDAv3.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-07-10T05:15:36Z",
+    "Date Extracted": "2025-04-08T17:21:53.730853"
+  },
+  {
+    "Activity ID": "01Y6SAZ66ANLDMSKWKQNGLNE73NZI6CVM3",
+    "File Name": "Maple Grove SCI Workshop v3.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-05-31T17:17:51Z",
+    "Date Extracted": "2025-04-08T17:21:53.730859"
+  },
+  {
+    "Activity ID": "01Y6SAZ62POZ6URQV3YNG2VL72DA7BZWI7",
+    "File Name": "Maple Grove SCI Workshop_2024_v2_7.15.24.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-07-15T17:24:36Z",
+    "Date Extracted": "2025-04-08T17:21:53.730864"
+  },
+  {
+    "Activity ID": "01Y6SAZ64UXUBXTK3WANBIB2O7RWYA2C4V",
+    "File Name": "Maple Grove SCI Workshop_2024_v3_7.18.24.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-07-18T14:25:49Z",
+    "Date Extracted": "2025-04-08T17:21:53.730870"
+  },
+  {
+    "Activity ID": "01Y6SAZ66UCLAMSACLNJGKNE6ESBV5XZVJ",
+    "File Name": "Maple Grove SCI Workshop_7.1.24.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-07-01T14:31:13Z",
+    "Date Extracted": "2025-04-08T17:21:53.730876"
+  },
+  {
+    "Activity ID": "01Y6SAZ67FELNBBXKD3RHLLWNAQMPRSUE5",
+    "File Name": "MSLicensesList_June2023_SN2.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-06-15T19:29:35Z",
+    "Date Extracted": "2025-04-08T17:21:53.730881"
+  },
+  {
+    "Activity ID": "01Y6SAZ67CJNN5NQBLDZG33CPYE4GAX3OV",
+    "File Name": "Preliminary Diagnostic_Fillable_EDITABLE_Updated June 2023.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-06-06T16:12:43Z",
+    "Date Extracted": "2025-04-08T17:21:53.730887"
+  },
+  {
+    "Activity ID": "01Y6SAZ63TINYMPHWPMVEY6CIWJY632TXA",
+    "File Name": "Presentation1.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-07-17T18:05:36Z",
+    "Date Extracted": "2025-04-08T17:21:53.730892"
+  },
+  {
+    "Activity ID": "01Y6SAZ65A3GHIBYIRCNDYJFPURLMCHVQ6",
+    "File Name": "Project Assignment.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2020-11-23T16:35:55Z",
+    "Date Extracted": "2025-04-08T17:21:53.730897"
+  },
+  {
+    "Activity ID": "01Y6SAZ65AGCKNTR7TURDJA2IQR4CMLTUA",
+    "File Name": "Prudential Digital Assets.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2020-12-08T17:23:29Z",
+    "Date Extracted": "2025-04-08T17:21:53.730903"
+  },
+  {
+    "Activity ID": "01Y6SAZ64RIQQBDH7JZ5CIVJUPMIYA6WHQ",
+    "File Name": "Sarah @ LCW",
+    "File Type": "Unknown",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-08-19T17:56:32Z",
+    "Date Extracted": "2025-04-08T17:21:53.730909"
+  },
+  {
+    "Activity ID": "01Y6SAZ63AOPXHMC6GS5BIV3PKXR2YKVIC",
+    "File Name": "Sarah_BOB_2024.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-08-22T16:08:52Z",
+    "Date Extracted": "2025-04-08T17:21:53.730914"
+  },
+  {
+    "Activity ID": "01Y6SAZ674SD4QB5GNRVFKR7MPJSMO6J24",
+    "File Name": "SCI Model Graphic_Edited for Sarah.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-05-25T17:05:02Z",
+    "Date Extracted": "2025-04-08T17:21:53.730920"
+  },
+  {
+    "Activity ID": "01Y6SAZ6ZHT5N2SBFIXJCZSSGHJ7SLDAQU",
+    "File Name": "SN Projected Billings.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2022-08-29T23:36:24Z",
+    "Date Extracted": "2025-04-08T17:21:53.730925"
+  },
+  {
+    "Activity ID": "01Y6SAZ6Z6FW6PPJVYD5H2S632UFRVNG3A",
+    "File Name": "SOW 2023-100_Scheduling_TTT_Feb 2024.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-11-29T22:24:48Z",
+    "Date Extracted": "2025-04-08T17:21:53.730931"
+  },
+  {
+    "Activity ID": "01Y6SAZ67H7LGLUZA7P5AL3RFEO3QBCQPG",
+    "File Name": "SOW 2023-171 Cue Health ELearning Subscription.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-06-13T18:36:51Z",
+    "Date Extracted": "2025-04-08T17:21:53.730937"
+  },
+  {
+    "Activity ID": "01Y6SAZ6ZL56QOIHLHCZEZVJ5JTJOLYQTX",
+    "File Name": "SPEAKER NOTES FOR BUSINESS CASE SLIDE.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2021-03-09T14:40:01Z",
+    "Date Extracted": "2025-04-08T17:21:53.730943"
+  },
+  {
+    "Activity ID": "01Y6SAZ6YHM3VWJKKCTVH2CONLOLBTZCMD",
+    "File Name": "SPOTLIGHT on Hispanic-Latino_Alpharetta_3.27.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-03-27T14:44:31Z",
+    "Date Extracted": "2025-04-08T17:21:53.730949"
+  },
+  {
+    "Activity ID": "01Y6SAZ6YYAUANFQQA3FDIGT6IRGB7CNDR",
+    "File Name": "SPOTLIGHT on Hispanic-Latinx_Generic_Alpharetta 2024.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-03-06T21:07:09Z",
+    "Date Extracted": "2025-04-08T17:21:53.730954"
+  },
+  {
+    "Activity ID": "01Y6SAZ63AULCWNVIAOREYOWYR6ROMYFK5",
+    "File Name": "SPOTLIGHT PwD LAS24 (Sarah's SPEAKER NOTES).pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-06-11T15:57:28Z",
+    "Date Extracted": "2025-04-08T17:21:53.730959"
+  },
+  {
+    "Activity ID": "01Y6SAZ66ELFHR6FJNWNBLBBEXQVCP6F3M",
+    "File Name": "Themes - MG Leadership DEI Interview Questions June 2024.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-07-01T14:49:16Z",
+    "Date Extracted": "2025-04-08T17:21:53.730964"
+  },
+  {
+    "Activity ID": "01Y6SAZ6Y3GMPH66MPW5AJSS7FT43WUFKN",
+    "File Name": "This model shows us why we need cultural competence as we navigate basic human interactions.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-06-25T14:09:02Z",
+    "Date Extracted": "2025-04-08T17:21:53.730969"
+  },
+  {
+    "Activity ID": "01Y6SAZ67LGBMDAKLMEBAJWLBLWTZOCJX6",
+    "File Name": "Thompson Hine 2024-153 Spotlight PA_Hanadi.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-05-30T20:36:25Z",
+    "Date Extracted": "2025-04-08T17:21:53.730975"
+  },
+  {
+    "Activity ID": "01Y6SAZ62LJ5TR7W7H45GYE4KEPSZLBG6T",
+    "File Name": "TTT_Prework_Alpharetta Site_Feb 2024_Final.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-02-12T17:34:16Z",
+    "Date Extracted": "2025-04-08T17:21:53.730980"
+  },
+  {
+    "Activity ID": "01Y6SAZ6ZILQWCIGQL4VGIR45WBSZJ4D2N",
+    "File Name": "Uchicago_Bill Itemization_Jan 2023.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-01-12T12:31:50Z",
+    "Date Extracted": "2025-04-08T17:21:53.730985"
+  },
+  {
+    "Activity ID": "01Y6SAZ65PBESSPQG3NVD32T4EQK7GEE6U",
+    "File Name": "UL Solutions_Global Inclusion Forum_Session Descriptions_Objectives.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-08-09T18:02:42Z",
+    "Date Extracted": "2025-04-08T17:21:53.730990"
+  },
+  {
+    "Activity ID": "01Y6SAZ636AVYVOORADZG2R64AKDO7EEQZ",
+    "File Name": "UL Solutions_Neurodiversity Spotlight_2024_APAC.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-09-27T21:28:56Z",
+    "Date Extracted": "2025-04-08T17:21:53.730995"
+  },
+  {
+    "Activity ID": "01Y6SAZ62IXE4WF3AAJJE2DHQJUI4RQJ3H",
+    "File Name": "UL Solutions_Neurodiversity Spotlight_2024_Master.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-08-21T21:36:38Z",
+    "Date Extracted": "2025-04-08T17:21:53.731000"
+  },
+  {
+    "Activity ID": "01Y6SAZ67VBEWNVFBN7ZAYWJM4QV4W63MI",
+    "File Name": "Understanding The Black Experience_4hours_Huron_Jan 30 2024_sarah.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-01-30T17:40:49Z",
+    "Date Extracted": "2025-04-08T17:21:53.731005"
+  },
+  {
+    "Activity ID": "01Y6SAZ65LD3IWURFRRBA3QORFCQTQ27FL",
+    "File Name": "Voya 2023-221 Sessions Scheduler v1.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-07-30T15:22:23Z",
+    "Date Extracted": "2025-04-08T17:21:53.731010"
+  },
+  {
+    "Activity ID": "01Y6SAZ64UVDJI26SS3NAY3BZD77PPVFUM",
+    "File Name": "VOYA_MBTA_LCW_January 19 2024.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-01-18T16:38:30Z",
+    "Date Extracted": "2025-04-08T17:21:53.731015"
+  },
+  {
+    "Activity ID": "01Y6SAZ67MIF43QML7WNAZLSK3YQFLVCYG",
+    "File Name": "VOYA_MBTA_LCW_January 19 2024_FINAL_Review Copy.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-04-15T14:44:23Z",
+    "Date Extracted": "2025-04-08T17:21:53.731020"
+  },
+  {
+    "Activity ID": "01Y6SAZ667Q6N5DJ7NDJHLUBL45DOJH6TT",
+    "File Name": "Weekly Status Report SARAH.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2019-09-05T16:32:09Z",
+    "Date Extracted": "2025-04-08T17:21:53.731025"
+  },
+  {
+    "Activity ID": "01Y6SAZ63VKECEZOCBGZA3G2YLH42Z2SHO",
+    "File Name": "WLH-LCW Workshop2_NA_Strategies.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2024-07-23T17:44:58Z",
+    "Date Extracted": "2025-04-08T17:21:53.731030"
+  },
+  {
+    "Activity ID": "01Y6SAZ6ZWU3BLSXETAFBKDIV32CGRK63B",
+    "File Name": "WomenLift Health and LCW_Sustainable Inclusion in Global Health_Project Plan v4.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-11-28T20:49:39Z",
+    "Date Extracted": "2025-04-08T17:21:53.731035"
+  },
+  {
+    "Activity ID": "01Y6SAZ65MQCOF54MQBBEYXVEVCARAVSQL",
+    "File Name": "WomenLift Health Workshop 1_Outline_v1.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Sarah Nodarse",
+    "Timestamp": "2023-12-12T16:19:28Z",
+    "Date Extracted": "2025-04-08T17:21:53.731047"
+  }
+]

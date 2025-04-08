@@ -1,0 +1,66 @@
+[
+  {
+    "Activity ID": "01B3J6T2BHNAOVFN2VNZFKXDTLM7KMS7JR",
+    "File Name": "Attachments",
+    "File Type": "Unknown",
+    "User": "LaQuanda Murray",
+    "Timestamp": "2022-05-24T15:28:17Z",
+    "Date Extracted": "2025-04-08T17:21:40.537161"
+  },
+  {
+    "Activity ID": "01B3J6T2EFCLCHKHQSERDISNG4H57TKBW6",
+    "File Name": "Microsoft Teams Chat Files",
+    "File Type": "Unknown",
+    "User": "LaQuanda Murray",
+    "Timestamp": "2020-10-06T18:28:28Z",
+    "Date Extracted": "2025-04-08T17:21:40.537187"
+  },
+  {
+    "Activity ID": "01B3J6T2DZM6F6DYHSHJH2GP6JJUQJ25RV",
+    "File Name": "Microsoft Teams Data",
+    "File Type": "Unknown",
+    "User": "LaQuanda Murray",
+    "Timestamp": "2021-07-12T20:01:50Z",
+    "Date Extracted": "2025-04-08T17:21:40.537195"
+  },
+  {
+    "Activity ID": "01B3J6T2CEXUQKKUGFNVDZV32RF43GM4UA",
+    "File Name": "Recordings",
+    "File Type": "Unknown",
+    "User": "LaQuanda Murray",
+    "Timestamp": "2021-09-16T19:03:18Z",
+    "Date Extracted": "2025-04-08T17:21:40.537203"
+  },
+  {
+    "Activity ID": "01B3J6T2CX2XO6H77ZJ5HI7CN6XGPWTKV4",
+    "File Name": "Expenses.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "LaQuanda Murray",
+    "Timestamp": "2022-04-23T00:29:10Z",
+    "Date Extracted": "2025-04-08T17:21:40.537210"
+  },
+  {
+    "Activity ID": "01B3J6T2HDHAX5EBHY3ZH3NDGDPDSZKFDK",
+    "File Name": "From Day One Conference Notes.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "LaQuanda Murray",
+    "Timestamp": "2022-05-26T14:18:49Z",
+    "Date Extracted": "2025-04-08T17:21:40.537217"
+  },
+  {
+    "Activity ID": "01B3J6T2C2X5K4IZ2EMFBKBO3RPCUD5FJM",
+    "File Name": "LaQuanda @ LCW",
+    "File Type": "Unknown",
+    "User": "LaQuanda Murray",
+    "Timestamp": "2021-09-14T13:28:32Z",
+    "Date Extracted": "2025-04-08T17:21:40.537222"
+  },
+  {
+    "Activity ID": "01B3J6T2HO7EVBHLV2YFHKDFXOZ7FLKWI7",
+    "File Name": "Presentation1.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "LaQuanda Murray",
+    "Timestamp": "2022-05-31T20:46:35Z",
+    "Date Extracted": "2025-04-08T17:21:40.537228"
+  }
+]

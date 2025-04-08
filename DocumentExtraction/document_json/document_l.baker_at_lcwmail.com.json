@@ -1,0 +1,850 @@
+[
+  {
+    "Activity ID": "013OF5BDQ63LDGW4MHVZGZZD373HQHT6YP",
+    "File Name": "Apps",
+    "File Type": "Unknown",
+    "User": "Larry Baker",
+    "Timestamp": "2023-07-10T14:12:23Z",
+    "Date Extracted": "2025-04-08T17:21:39.728050"
+  },
+  {
+    "Activity ID": "013OF5BDTB4TMI7XKNKJAYD2DPSYKVEJZH",
+    "File Name": "Attachments",
+    "File Type": "Unknown",
+    "User": "Larry Baker",
+    "Timestamp": "2023-03-28T15:29:32Z",
+    "Date Extracted": "2025-04-08T17:21:39.728070"
+  },
+  {
+    "Activity ID": "013OF5BDV57LMBBNZGRNEIJIDITBOCJO6Y",
+    "File Name": "Desktop",
+    "File Type": "Unknown",
+    "User": "Larry Baker",
+    "Timestamp": "2021-07-23T20:10:42Z",
+    "Date Extracted": "2025-04-08T17:21:39.728076"
+  },
+  {
+    "Activity ID": "013OF5BDR7UGNMEBDUDBDIOXMOLSNDSTFB",
+    "File Name": "Documents",
+    "File Type": "Unknown",
+    "User": "Larry Baker",
+    "Timestamp": "2021-07-23T20:10:42Z",
+    "Date Extracted": "2025-04-08T17:21:39.728081"
+  },
+  {
+    "Activity ID": "013OF5BDT6SST65JE5QJFJTW63CHW4ZL3J",
+    "File Name": "Microsoft Copilot Chat Files",
+    "File Type": "Unknown",
+    "User": "Larry Baker",
+    "Timestamp": "2025-03-13T00:00:13Z",
+    "Date Extracted": "2025-04-08T17:21:39.728086"
+  },
+  {
+    "Activity ID": "013OF5BDRSQAMCODIIZRHJOEHZ5CJY43YE",
+    "File Name": "Microsoft Teams Chat Files",
+    "File Type": "Unknown",
+    "User": "Larry Baker",
+    "Timestamp": "2024-10-03T14:34:31Z",
+    "Date Extracted": "2025-04-08T17:21:39.728091"
+  },
+  {
+    "Activity ID": "013OF5BDSJXA4SAE7ZP5FI4JUAWEPOHZNH",
+    "File Name": "Notebooks",
+    "File Type": "Unknown",
+    "User": "Larry Baker",
+    "Timestamp": "2018-12-04T16:40:59Z",
+    "Date Extracted": "2025-04-08T17:21:39.728095"
+  },
+  {
+    "Activity ID": "013OF5BDR5IEU2YVF7XZB2WM6C7V7W6G5K",
+    "File Name": "OfficeMobile",
+    "File Type": "Unknown",
+    "User": "Larry Baker",
+    "Timestamp": "2025-02-03T18:11:11Z",
+    "Date Extracted": "2025-04-08T17:21:39.728100"
+  },
+  {
+    "Activity ID": "013OF5BDVNWOH2SOGNMNEZKDORTEOS7YMR",
+    "File Name": "Pictures",
+    "File Type": "Unknown",
+    "User": "Larry Baker",
+    "Timestamp": "2021-07-23T20:10:43Z",
+    "Date Extracted": "2025-04-08T17:21:39.728105"
+  },
+  {
+    "Activity ID": "013OF5BDWUKFAZMEBMJRDKKSC4RMTSS3YG",
+    "File Name": "Recordings",
+    "File Type": "Unknown",
+    "User": "Larry Baker",
+    "Timestamp": "2023-10-16T20:22:19Z",
+    "Date Extracted": "2025-04-08T17:21:39.728110"
+  },
+  {
+    "Activity ID": "013OF5BDTD6RYHKOXTMVD3VCCD6XPATUOI",
+    "File Name": "Scans",
+    "File Type": "Unknown",
+    "User": "Larry Baker",
+    "Timestamp": "2024-11-06T02:45:27Z",
+    "Date Extracted": "2025-04-08T17:21:39.728114"
+  },
+  {
+    "Activity ID": "013OF5BDUWONCDMCPY3FAJGTBAITMQLPKF",
+    "File Name": "23.08.23 ERG leadership.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2023-08-30T18:07:27Z",
+    "Date Extracted": "2025-04-08T17:21:39.728119"
+  },
+  {
+    "Activity ID": "013OF5BDXHEQHTFTAWTZHL7TE7M32JT5TN",
+    "File Name": "23.10.30 Draft Building A Culture Of Inclusion.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2023-11-01T10:56:37Z",
+    "Date Extracted": "2025-04-08T17:21:39.728124"
+  },
+  {
+    "Activity ID": "013OF5BDXKS4R63T2WLRDYL5D2RDJHKYHW",
+    "File Name": "23.11.9 - MIT LL Tracker (003).xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2023-11-30T19:57:13Z",
+    "Date Extracted": "2025-04-08T17:21:39.728128"
+  },
+  {
+    "Activity ID": "013OF5BDRVO54PG7R4MBDIDW62EIQ6RH7A",
+    "File Name": "23.3.7 - BCI_4hr_IRL_Ball Horitcultural.saved.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2023-03-16T02:23:28Z",
+    "Date Extracted": "2025-04-08T17:21:39.728133"
+  },
+  {
+    "Activity ID": "013OF5BDQDCTFDWWZLRBDI2QWVTDOKFAOY",
+    "File Name": "5. CreatingEqualOppty_23May2018_EC_Pre-Read.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2025-01-29T16:04:03Z",
+    "Date Extracted": "2025-04-08T17:21:39.728137"
+  },
+  {
+    "Activity ID": "013OF5BDU2ZYNCBBWMLZBZ73KQD2MJGGQJ",
+    "File Name": "Ada Speaker notes V2_May 2022 Live Stream Production Sheet (002).docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2022-06-04T03:58:15Z",
+    "Date Extracted": "2025-04-08T17:21:39.728142"
+  },
+  {
+    "Activity ID": "013OF5BDSBKVCMQBPNPBAZW5ZRTK5Z2KKR",
+    "File Name": "AGENDA_VIRTUAL_GroupM_UnconsciousBias_2.5 hours v3.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2020-07-13T23:57:06Z",
+    "Date Extracted": "2025-04-08T17:21:39.728147"
+  },
+  {
+    "Activity ID": "013OF5BDX5HTN7VW4VFBFKBA53L3J4JSPT",
+    "File Name": "April 2023 Livestream_Wellness.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2023-04-25T13:28:32Z",
+    "Date Extracted": "2025-04-08T17:21:39.728151"
+  },
+  {
+    "Activity ID": "013OF5BDUKJPVAJENTMBFITXCSDBPVACG2",
+    "File Name": "April 2023 Livestream_Wellness.lbjversion.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2023-04-25T13:29:25Z",
+    "Date Extracted": "2025-04-08T17:21:39.728156"
+  },
+  {
+    "Activity ID": "013OF5BDVRC24KBJCGAVF2LUV4T3WXZMV2",
+    "File Name": "BCBS.DEIDay_12.11.23.pdf",
+    "File Type": "application/pdf",
+    "User": "Larry Baker",
+    "Timestamp": "2023-12-04T21:01:10Z",
+    "Date Extracted": "2025-04-08T17:21:39.728160"
+  },
+  {
+    "Activity ID": "013OF5BDURGNSKYC72ZJGZZ2FS3CE5KMWM",
+    "File Name": "BCI-BSC_Slidesfrom-2019.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2019-08-26T21:02:52Z",
+    "Date Extracted": "2025-04-08T17:21:39.728165"
+  },
+  {
+    "Activity ID": "013OF5BDT7RI5VKC5DFZA2SWTTXSDOFRGL",
+    "File Name": "Bill-LBJInvoice.08.21.2020.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2020-08-21T18:14:58Z",
+    "Date Extracted": "2025-04-08T17:21:39.728169"
+  },
+  {
+    "Activity ID": "013OF5BDS5AS3PEZAPQZB3IQKTVZXYEGPY",
+    "File Name": "Bio Slide Larry Baker.updated.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-05-31T14:13:01Z",
+    "Date Extracted": "2025-04-08T17:21:39.728174"
+  },
+  {
+    "Activity ID": "013OF5BDT42ZJF2KINSBAYKLSF5NK3XD3E",
+    "File Name": "Bldg_Culture_Inclusion_SDSN rev12Feb.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-03-26T11:26:47Z",
+    "Date Extracted": "2025-04-08T17:21:39.728178"
+  },
+  {
+    "Activity ID": "013OF5BDSKHGKFH3SIUNFIXYUPGMBR73ND",
+    "File Name": "Brave_Conversations_LAS24.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-06-27T14:13:24Z",
+    "Date Extracted": "2025-04-08T17:21:39.728183"
+  },
+  {
+    "Activity ID": "013OF5BDQQG6VQVHGEXRA2UAFAOUMA2IZN",
+    "File Name": "BSC-ArdenHills-2019-75.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2019-08-02T16:47:38Z",
+    "Date Extracted": "2025-04-08T17:21:39.728188"
+  },
+  {
+    "Activity ID": "013OF5BDVFC6LU2AYLLNGI24ZJ44D5XX4R",
+    "File Name": "Building-Executive-Presence_2021_Zoom.lbj.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2021-11-08T21:19:06Z",
+    "Date Extracted": "2025-04-08T17:21:39.728193"
+  },
+  {
+    "Activity ID": "013OF5BDXG7TXVS7TDGRCIHCMV2STUGOWB",
+    "File Name": "Cargill-ERGInfo.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2019-06-24T19:41:14Z",
+    "Date Extracted": "2025-04-08T17:21:39.728198"
+  },
+  {
+    "Activity ID": "013OF5BDQMVIXIT7HCOREJJNRARGZAZOPO",
+    "File Name": "Chase LB 2023 01 thru 2023 04.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2023-06-09T19:46:26Z",
+    "Date Extracted": "2025-04-08T17:21:39.728202"
+  },
+  {
+    "Activity ID": "013OF5BDUWQ6TWFIT2ONGZASC4X63LGMEP",
+    "File Name": "ChicagolandChamberOfCommerce_BAKER.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2024-04-19T20:58:38Z",
+    "Date Extracted": "2025-04-08T17:21:39.728207"
+  },
+  {
+    "Activity ID": "013OF5BDWSZ4PXVNCEOJELNEDTNXY6N6DI",
+    "File Name": "Copy of EXPENSE REPORT - BCBS.LARRYBAKER.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2024-02-05T22:55:05Z",
+    "Date Extracted": "2025-04-08T17:21:39.728211"
+  },
+  {
+    "Activity ID": "013OF5BDQ2PM5BPYEMHJAZPMO4O4ZT4H56",
+    "File Name": "Copy of EXPENSE REPORT - LENDLEASE.LARRYBAKER.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2024-02-05T22:47:31Z",
+    "Date Extracted": "2025-04-08T17:21:39.728216"
+  },
+  {
+    "Activity ID": "013OF5BDRVXPGAQOTNRRF3FZH4XL475IAM",
+    "File Name": "Copy of EXPENSE REPORT - LENDLEASE.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2024-02-05T22:24:54Z",
+    "Date Extracted": "2025-04-08T17:21:39.728220"
+  },
+  {
+    "Activity ID": "013OF5BDWRJY5L5WLZ4BDZDAXL3XT7EUHM",
+    "File Name": "Copy of EXPENSE REPORT -RICHEMONT2024.LARRYBAKER.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2024-05-03T13:53:16Z",
+    "Date Extracted": "2025-04-08T17:21:39.728225"
+  },
+  {
+    "Activity ID": "013OF5BDTTSDIZXHPQLBA2QOHTQRBI433I",
+    "File Name": "Copy of Inventory of Recent LCW Training Deliveries-MASTER.LBJ.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2021-03-10T22:43:18Z",
+    "Date Extracted": "2025-04-08T17:21:39.728229"
+  },
+  {
+    "Activity ID": "013OF5BDTI4FBSOSRSDNE23RNU2MOQ7UFV",
+    "File Name": "Copy of Larry RichemontExpense.7.11.2022.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2022-07-29T16:10:29Z",
+    "Date Extracted": "2025-04-08T17:21:39.728234"
+  },
+  {
+    "Activity ID": "013OF5BDWINBON4J4LVNB2W6YEISWUTFYV",
+    "File Name": "DEI Update INCLUSION CHAMPIONS Cultural Competence Debrief_March 13 (002).pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-03-13T18:07:13Z",
+    "Date Extracted": "2025-04-08T17:21:39.728238"
+  },
+  {
+    "Activity ID": "013OF5BDSO6Z5ALQ5SLNGIZH7GIEKMWHMU",
+    "File Name": "DEI Update INCLUSION CHAMPIONS Cultural Competence Debrief_March 13.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-03-11T11:43:46Z",
+    "Date Extracted": "2025-04-08T17:21:39.728243"
+  },
+  {
+    "Activity ID": "013OF5BDUZ2IVR4EK2YVFJ66ATCZ3L5O6F",
+    "File Name": "Embracing Inclusion_2024.June26.pdf",
+    "File Type": "application/pdf",
+    "User": "Larry Baker",
+    "Timestamp": "2024-06-05T22:59:43Z",
+    "Date Extracted": "2025-04-08T17:21:39.728248"
+  },
+  {
+    "Activity ID": "013OF5BDUKA7J4PEY42VHKPGDDG7KJGX5T",
+    "File Name": "Embracing Inclusion_2024.lbjversion (1).pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-06-05T23:00:18Z",
+    "Date Extracted": "2025-04-08T17:21:39.728252"
+  },
+  {
+    "Activity ID": "013OF5BDRTEM77T34CBFDLY2OVLLSOWV33",
+    "File Name": "Embracing Inclusion_2024.lbjversion.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-06-05T14:04:22Z",
+    "Date Extracted": "2025-04-08T17:21:39.728257"
+  },
+  {
+    "Activity ID": "013OF5BDQPONHZKSIYIBC2IYVKQYYTBQRJ",
+    "File Name": "Embracing Inclusion_2024.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-06-05T14:00:37Z",
+    "Date Extracted": "2025-04-08T17:21:39.728261"
+  },
+  {
+    "Activity ID": "013OF5BDUA5O46CXBFHNGLPARB45ZW5DPL",
+    "File Name": "Embracing Inclusion_BCBS Template (1).pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2025-01-27T11:32:08Z",
+    "Date Extracted": "2025-04-08T17:21:39.728266"
+  },
+  {
+    "Activity ID": "013OF5BDSCZ23VZBY7EZE2NSRPAQQBDPPF",
+    "File Name": "Embracing Inclusion_BCBS Template.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-06-20T16:49:43Z",
+    "Date Extracted": "2025-04-08T17:21:39.728271"
+  },
+  {
+    "Activity ID": "013OF5BDWLZDLUOP2FMFDJZUSIIDMQQQ6V",
+    "File Name": "EmbracingInclusion_LBJSNOTES (1).pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2025-01-29T16:05:46Z",
+    "Date Extracted": "2025-04-08T17:21:39.728275"
+  },
+  {
+    "Activity ID": "013OF5BDU447E5H6AYAFB23H43ZXAPQFCL",
+    "File Name": "EmbracingInclusion_LBJSNOTES.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-07-16T20:22:23Z",
+    "Date Extracted": "2025-04-08T17:21:39.728280"
+  },
+  {
+    "Activity ID": "013OF5BDSR7BWVYFBQ55C3DAUSAAMUVZSI",
+    "File Name": "EmbracingInclusionPowerPoint.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-05-31T19:07:29Z",
+    "Date Extracted": "2025-04-08T17:21:39.728284"
+  },
+  {
+    "Activity ID": "013OF5BDVLTI4ZXAAUO5H2QML6MU2OJ5EU",
+    "File Name": "Entertainer_Speaker Agreement_LCW.LBJ.doc",
+    "File Type": "application/msword",
+    "User": "Larry Baker",
+    "Timestamp": "2023-11-29T16:42:17Z",
+    "Date Extracted": "2025-04-08T17:21:39.728289"
+  },
+  {
+    "Activity ID": "013OF5BDX2WLVTOK6B5BEJA35NDZR7VYQW",
+    "File Name": "ExpenseReport.11.13.2024.lbjexpenses.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2024-11-21T16:55:05Z",
+    "Date Extracted": "2025-04-08T17:21:39.728294"
+  },
+  {
+    "Activity ID": "013OF5BDUUCZITUKCZT5EJO2RESNRMSIHG",
+    "File Name": "ExpenseReport.7.26.2024.lbjexpenses.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2024-11-21T15:46:15Z",
+    "Date Extracted": "2025-04-08T17:21:39.728299"
+  },
+  {
+    "Activity ID": "013OF5BDUU5DXVLF6SHJBL7VKTCAW42VYE",
+    "File Name": "ExpenseReportBaker_Ultieg2024.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2024-05-03T14:24:57Z",
+    "Date Extracted": "2025-04-08T17:21:39.728303"
+  },
+  {
+    "Activity ID": "013OF5BDVXVFGMY5PPOFDZSJLSKYAMTJAA",
+    "File Name": "ExpenseReport-BAKER-EliLilly-INDIANAPOLIS-20190617.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2019-06-20T21:23:03Z",
+    "Date Extracted": "2025-04-08T17:21:39.728306"
+  },
+  {
+    "Activity ID": "013OF5BDSUDFTQP5SUD5DYHCILJ25KPI7V",
+    "File Name": "Feb 11 Webinar Attendance List.csv",
+    "File Type": "application/vnd.ms-excel",
+    "User": "Larry Baker",
+    "Timestamp": "2025-02-12T12:01:21Z",
+    "Date Extracted": "2025-04-08T17:21:39.728310"
+  },
+  {
+    "Activity ID": "013OF5BDVUAVLI7PGRBVD246QRCRM3YJCR",
+    "File Name": "Feb 2023 Live Stream Production Sheet.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2023-02-26T19:00:06Z",
+    "Date Extracted": "2025-04-08T17:21:39.728313"
+  },
+  {
+    "Activity ID": "013OF5BDSAJKCMOHWURVA3W4MW6ZZD7MYA",
+    "File Name": "George Floyd Rerecord (AutoRecovered).docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2022-01-06T22:53:38Z",
+    "Date Extracted": "2025-04-08T17:21:39.728316"
+  },
+  {
+    "Activity ID": "013OF5BDXZJSI5SPWKJ5A24MIIUUKEOL5W",
+    "File Name": "HTHDCOR_1.5hr (AB In-Bev).pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2021-03-24T20:22:45Z",
+    "Date Extracted": "2025-04-08T17:21:39.728320"
+  },
+  {
+    "Activity ID": "013OF5BDWJVNYQE27C2VFLB3I2WIUORW3V",
+    "File Name": "IDI Group Debrief_MITLL_Larry_2023.V4.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-01-18T15:56:41Z",
+    "Date Extracted": "2025-04-08T17:21:39.728323"
+  },
+  {
+    "Activity ID": "013OF5BDSV5MTKAD7JXVHKE6PU7SU72OCO",
+    "File Name": "If the truth makes you uncomfortable.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2022-06-29T03:33:55Z",
+    "Date Extracted": "2025-04-08T17:21:39.728326"
+  },
+  {
+    "Activity ID": "013OF5BDSIMC4K54Y7BFAJNQ6G3CZZV4RE",
+    "File Name": "IIE.TTT.Teachback.Feedback-Form_ Athena.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2023-06-14T18:06:34Z",
+    "Date Extracted": "2025-04-08T17:21:39.728330"
+  },
+  {
+    "Activity ID": "013OF5BDUXJ6OHNMYYKNBLJH2LGJ4UMMZK",
+    "File Name": "Improving CrossCultural Comm in Global Contexts_LCW_2024_AMERICAS.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-10-02T12:42:52Z",
+    "Date Extracted": "2025-04-08T17:21:39.728333"
+  },
+  {
+    "Activity ID": "013OF5BDUOHPJDQ4QVSJGI6374G3OT4MRX",
+    "File Name": "JuneteenthDeck.lbj.v1_KL.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2022-06-17T17:09:16Z",
+    "Date Extracted": "2025-04-08T17:21:39.728336"
+  },
+  {
+    "Activity ID": "013OF5BDTMHVKGYCCBH5EIEMUDVK4UAH5G",
+    "File Name": "Larry @ LCW",
+    "File Type": "Unknown",
+    "User": "Larry Baker",
+    "Timestamp": "2023-04-12T13:37:18Z",
+    "Date Extracted": "2025-04-08T17:21:39.728340"
+  },
+  {
+    "Activity ID": "013OF5BDSYFUACSCCOVJG2A7TQOCHQW22I",
+    "File Name": "LARRY EXPENSES.J&J.SOW2023151.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2023-09-19T12:32:44Z",
+    "Date Extracted": "2025-04-08T17:21:39.728343"
+  },
+  {
+    "Activity ID": "013OF5BDSDWHHWXAGVXND2MCJ2FIPRBYJG",
+    "File Name": "Larry PA Ulteig Summit 4.25.signed.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2025-03-06T22:03:43Z",
+    "Date Extracted": "2025-04-08T17:21:39.728347"
+  },
+  {
+    "Activity ID": "013OF5BDQJKVPPZND3YVDZ623QEWII6VTX",
+    "File Name": "Larry Show Notes_Race Based Conversations Around the World.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2022-05-26T00:02:30Z",
+    "Date Extracted": "2025-04-08T17:21:39.728351"
+  },
+  {
+    "Activity ID": "013OF5BDX4MC4FEEQKZ5GZG2UJDRDCT3HN",
+    "File Name": "LARRYBAKER_EXPENSEREPORT_BCBS.HSCS.12.11.2023.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2024-01-26T21:30:03Z",
+    "Date Extracted": "2025-04-08T17:21:39.728355"
+  },
+  {
+    "Activity ID": "013OF5BDWAIC46UBJKDJC276KLOGVPUX2N",
+    "File Name": "LARRYBAKER_EXPENSEREPORT_LENDLEASE.11.02.2023.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2024-02-05T22:07:08Z",
+    "Date Extracted": "2025-04-08T17:21:39.728358"
+  },
+  {
+    "Activity ID": "013OF5BDQ4QHGTNKMCDBA34FRF3J2JEGMB",
+    "File Name": "LARRYBAKER_EXPENSEREPORT_RICHEMONT.012024.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2024-02-05T23:43:18Z",
+    "Date Extracted": "2025-04-08T17:21:39.728361"
+  },
+  {
+    "Activity ID": "013OF5BDQROABQAW3NIBHZIAMCW2IA32I3",
+    "File Name": "LB 2023-Update.xls",
+    "File Type": "application/vnd.ms-excel",
+    "User": "Larry Baker",
+    "Timestamp": "2024-03-29T13:30:21Z",
+    "Date Extracted": "2025-04-08T17:21:39.728365"
+  },
+  {
+    "Activity ID": "013OF5BDQG5TG3V3EAQZAKNUWCTTFDF4O2",
+    "File Name": "LB April 2024.lbjversion.csv",
+    "File Type": "application/vnd.ms-excel",
+    "User": "Larry Baker",
+    "Timestamp": "2024-04-19T20:35:27Z",
+    "Date Extracted": "2025-04-08T17:21:39.728368"
+  },
+  {
+    "Activity ID": "013OF5BDWSYGKATEAYAJCYQ7JHDJTLGPNX",
+    "File Name": "lbj.2.0Version-Ultieg.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-05-09T16:30:10Z",
+    "Date Extracted": "2025-04-08T17:21:39.728372"
+  },
+  {
+    "Activity ID": "013OF5BDSOFHGRD6NFZBFKXT364E4HGHTD",
+    "File Name": "LBJs_SMART_goal22.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2022-03-04T19:14:15Z",
+    "Date Extracted": "2025-04-08T17:21:39.728375"
+  },
+  {
+    "Activity ID": "013OF5BDTEVPLMUKE34FAKDVUZBDRIIMGY",
+    "File Name": "LBJUpdated_agenda_UTBE.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2022-05-09T12:28:13Z",
+    "Date Extracted": "2025-04-08T17:21:39.728378"
+  },
+  {
+    "Activity ID": "013OF5BDTDJSBINJOEBRFYKA3KQPGMWG2K",
+    "File Name": "LCW ObservationForm23 (AutoRecovered).docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2023-11-22T18:07:40Z",
+    "Date Extracted": "2025-04-08T17:21:39.728382"
+  },
+  {
+    "Activity ID": "013OF5BDVWYXXMHSETLVD3O3QZQL3KB6AV",
+    "File Name": "LCWInvoice.03.06.2025-SpencerStuart.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2025-03-06T21:45:53Z",
+    "Date Extracted": "2025-04-08T17:21:39.728385"
+  },
+  {
+    "Activity ID": "013OF5BDSXDUUMPKAFTVB3RFDD6A36GAYG",
+    "File Name": "Leading Incluslively-Solo facilitator.LBJVersionUpdate.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-10-15T13:54:12Z",
+    "Date Extracted": "2025-04-08T17:21:39.728389"
+  },
+  {
+    "Activity ID": "013OF5BDW52O5QEWU74BH35ICXFUF3WIB7",
+    "File Name": "LillyProposal-LBJdraft.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2019-04-11T14:51:39Z",
+    "Date Extracted": "2025-04-08T17:21:39.728393"
+  },
+  {
+    "Activity ID": "013OF5BDTVNT22EDUW7ZD3PQ43WN2EJ6EE",
+    "File Name": "Michelle and Stephen.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2020-02-12T22:06:15Z",
+    "Date Extracted": "2025-04-08T17:21:39.728396"
+  },
+  {
+    "Activity ID": "013OF5BDVZ325MDUUXSZF26KPL6SUJR2NP",
+    "File Name": "Poverty exists not because we cannot feed or care for the poor.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2020-08-03T19:55:56Z",
+    "Date Extracted": "2025-04-08T17:21:39.728399"
+  },
+  {
+    "Activity ID": "013OF5BDQ3BTOO3FQHPFDYP4BJFYASGJLY",
+    "File Name": "Proposal.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2023-03-01T16:10:28Z",
+    "Date Extracted": "2025-04-08T17:21:39.728403"
+  },
+  {
+    "Activity ID": "013OF5BDSJ234XC3QNR5HK2XQPKRFYGODP",
+    "File Name": "Race Matters_April 2021_Prudential_Revisions.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2021-11-16T17:24:46Z",
+    "Date Extracted": "2025-04-08T17:21:39.728406"
+  },
+  {
+    "Activity ID": "013OF5BDT3AK6OILM4OJHKJ5KTWODLFNEO",
+    "File Name": "RichemontExpenseReport_LBJ.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2022-03-21T13:22:51Z",
+    "Date Extracted": "2025-04-08T17:21:39.728410"
+  },
+  {
+    "Activity ID": "013OF5BDWUDRU2IK4HTVBZYYATID3EWKQO",
+    "File Name": "Slide for Larry.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-03-19T15:34:44Z",
+    "Date Extracted": "2025-04-08T17:21:39.728414"
+  },
+  {
+    "Activity ID": "013OF5BDXD5RVMYY4SORDLEX5XMRHKJIN2",
+    "File Name": "Slides-CCC.pdf",
+    "File Type": "application/pdf",
+    "User": "Larry Baker",
+    "Timestamp": "2024-03-26T20:56:34Z",
+    "Date Extracted": "2025-04-08T17:21:39.728417"
+  },
+  {
+    "Activity ID": "013OF5BDXQXYNLB4GFJ5CJRAHFRR5GVRXM",
+    "File Name": "SOW 2019-72 Unilever - Managing Inclusively19.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2019-08-02T17:19:23Z",
+    "Date Extracted": "2025-04-08T17:21:39.728420"
+  },
+  {
+    "Activity ID": "013OF5BDSJ64CUOJ6S7RGIBRWVBQMO76HM",
+    "File Name": "SPOTLIGHT on Black Community Lendlease24.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-04-11T17:55:57Z",
+    "Date Extracted": "2025-04-08T17:21:39.728423"
+  },
+  {
+    "Activity ID": "013OF5BDUQENMIVW65ERDJAKS5GIKQE5BH",
+    "File Name": "Spotlight on the Jewish Community_2024_DRAFT.v2.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-04-12T13:46:08Z",
+    "Date Extracted": "2025-04-08T17:21:39.728427"
+  },
+  {
+    "Activity ID": "013OF5BDSWR3A2R6FE4ZH3L5L5WQ3D64M4",
+    "File Name": "Team Website Feedback Tracker.lbj.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2023-06-20T15:17:23Z",
+    "Date Extracted": "2025-04-08T17:21:39.728430"
+  },
+  {
+    "Activity ID": "013OF5BDSK43WSD2OEKJAI4EASBTYWHKJX",
+    "File Name": "Team Website Feedback Tracker.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2023-06-20T15:16:41Z",
+    "Date Extracted": "2025-04-08T17:21:39.728433"
+  },
+  {
+    "Activity ID": "013OF5BDWOYV3DMWTNHVCLQU7YFIZLQ7FV",
+    "File Name": "TPS context.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2022-02-18T15:06:12Z",
+    "Date Extracted": "2025-04-08T17:21:39.728436"
+  },
+  {
+    "Activity ID": "013OF5BDXT23QKPP3XONGYYNCWCQQDFQD3",
+    "File Name": "Ulteig Leadership Session LCI 4.24.LBJVersion.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-04-26T18:16:06Z",
+    "Date Extracted": "2025-04-08T17:21:39.728439"
+  },
+  {
+    "Activity ID": "013OF5BDVJCSE44M4HCFBLWH7PXOGHUEN5",
+    "File Name": "UltiegDoc.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2024-12-19T20:14:05Z",
+    "Date Extracted": "2025-04-08T17:21:39.728443"
+  },
+  {
+    "Activity ID": "013OF5BDRDIOKWUDRZYVA3EPGYBT6WCGHW",
+    "File Name": "UnconsciousBias_GroupM_PPT_VIRTUAL_July2020_Uploadv3.pdf",
+    "File Type": "application/pdf",
+    "User": "Larry Baker",
+    "Timestamp": "2020-07-13T23:57:24Z",
+    "Date Extracted": "2025-04-08T17:21:39.728446"
+  },
+  {
+    "Activity ID": "013OF5BDS3DBJEHFRLUFCLYBGDPJF2SFF3",
+    "File Name": "Understanding Juneteenth and its Legacy_2024 [Autosaved].pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-06-13T21:39:43Z",
+    "Date Extracted": "2025-04-08T17:21:39.728450"
+  },
+  {
+    "Activity ID": "013OF5BDSVEZ2MIFNKT5BLP4S4JHFCPZOG",
+    "File Name": "Updated BHM background_2023.png",
+    "File Type": "image/png",
+    "User": "Larry Baker",
+    "Timestamp": "2023-02-15T17:47:41Z",
+    "Date Extracted": "2025-04-08T17:21:39.728453"
+  },
+  {
+    "Activity ID": "013OF5BDS4ORN5BFC2ORAJQZAFE7NYIAEJ",
+    "File Name": "UpdatedTalkingPoints.lbj.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2024-07-09T19:54:20Z",
+    "Date Extracted": "2025-04-08T17:21:39.728456"
+  },
+  {
+    "Activity ID": "013OF5BDWI7JI2HMF4O5C3XMJP5WXM5PXT",
+    "File Name": "UpskillingAllyVoice_UTBE_v2 (2).pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2022-08-19T13:35:21Z",
+    "Date Extracted": "2025-04-08T17:21:39.728460"
+  },
+  {
+    "Activity ID": "013OF5BDXM7LBZXTAALVBLBCQSAG6KO55O",
+    "File Name": "ustin Puehler.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2020-07-27T13:47:12Z",
+    "Date Extracted": "2025-04-08T17:21:39.728463"
+  },
+  {
+    "Activity ID": "013OF5BDWQTRJJFC5IPJGJ6KRYITPUOFQ5",
+    "File Name": "UTBE 4hrs LendLease.lbj.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2024-04-17T16:48:42Z",
+    "Date Extracted": "2025-04-08T17:21:39.728466"
+  },
+  {
+    "Activity ID": "013OF5BDUR2XHUCNCO5ZHY6RXZ34P7GNRB",
+    "File Name": "UTBE_AdditionalSlides2022.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Larry Baker",
+    "Timestamp": "2022-01-11T14:23:06Z",
+    "Date Extracted": "2025-04-08T17:21:39.728479"
+  },
+  {
+    "Activity ID": "013OF5BDR2UQEJXOFI25HZR7LNJVH3IL3D",
+    "File Name": "V2_May 2022 Live Stream Production Sheet.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Larry Baker",
+    "Timestamp": "2022-06-04T03:58:22Z",
+    "Date Extracted": "2025-04-08T17:21:39.728483"
+  },
+  {
+    "Activity ID": "013OF5BDRIXFBASFFAJZE27VFNSGCT27UB",
+    "File Name": "VOYA_MBTA_LCW_January 19 2024_FINAL.updated.pdf",
+    "File Type": "application/pdf",
+    "User": "Larry Baker",
+    "Timestamp": "2024-04-14T17:47:18Z",
+    "Date Extracted": "2025-04-08T17:21:39.728486"
+  },
+  {
+    "Activity ID": "013OF5BDTF2DD775SCT5CYNE77PY3QEEVQ",
+    "File Name": "Weekly Status Reports LARRY (1).xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2018-12-20T21:57:59Z",
+    "Date Extracted": "2025-04-08T17:21:39.728489"
+  },
+  {
+    "Activity ID": "013OF5BDU75RATS6CKSNB27FTQFQAACKTX",
+    "File Name": "Weekly Status Reports LARRY.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Larry Baker",
+    "Timestamp": "2018-12-03T21:57:10Z",
+    "Date Extracted": "2025-04-08T17:21:39.728493"
+  },
+  {
+    "Activity ID": "013OF5BDTVJ4FCWWER5JAKTOQVN6MSF5MZ",
+    "File Name": "WendySimmonsCTARequest.pdf",
+    "File Type": "application/pdf",
+    "User": "Larry Baker",
+    "Timestamp": "2024-05-03T20:14:12Z",
+    "Date Extracted": "2025-04-08T17:21:39.728496"
+  }
+]

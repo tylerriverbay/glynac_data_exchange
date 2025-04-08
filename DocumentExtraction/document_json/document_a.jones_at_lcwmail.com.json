@@ -1,0 +1,306 @@
+[
+  {
+    "Activity ID": "01FYGKA3SBE3P2NBZJUJHYTQ6OCVM5WHEW",
+    "File Name": "Apps",
+    "File Type": "Unknown",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-07-05T16:34:53Z",
+    "Date Extracted": "2025-04-08T17:21:57.998345"
+  },
+  {
+    "Activity ID": "01FYGKA3Q5SZAJJ7USIJEZ2PGV7QQT6RGH",
+    "File Name": "Attachments",
+    "File Type": "Unknown",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-06-30T22:13:14Z",
+    "Date Extracted": "2025-04-08T17:21:57.998372"
+  },
+  {
+    "Activity ID": "01FYGKA3SQJCCTWDLPQFAYOWPVK7YXAOAT",
+    "File Name": "Desktop",
+    "File Type": "Unknown",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-06-30T22:15:33Z",
+    "Date Extracted": "2025-04-08T17:21:57.998382"
+  },
+  {
+    "Activity ID": "01FYGKA3WSJKKGOSPGGBBJ46ZBD6ZCMIKX",
+    "File Name": "Documents",
+    "File Type": "Unknown",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-06-30T22:15:33Z",
+    "Date Extracted": "2025-04-08T17:21:57.998390"
+  },
+  {
+    "Activity ID": "01FYGKA3RW33AZQ4RRZFGYLUK3UN6LB3NP",
+    "File Name": "Microsoft Teams Chat Files",
+    "File Type": "Unknown",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-07-13T19:41:49Z",
+    "Date Extracted": "2025-04-08T17:21:57.998399"
+  },
+  {
+    "Activity ID": "01FYGKA3T3HEYREI6G7ZFZSWMESLDCVFNN",
+    "File Name": "Pictures",
+    "File Type": "Unknown",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-06-30T22:15:33Z",
+    "Date Extracted": "2025-04-08T17:21:57.998407"
+  },
+  {
+    "Activity ID": "01FYGKA3TOA6N4VPBBANCKVBUYDLTM3YXR",
+    "File Name": "Recordings",
+    "File Type": "Unknown",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-07-05T21:33:01Z",
+    "Date Extracted": "2025-04-08T17:21:57.998414"
+  },
+  {
+    "Activity ID": "01FYGKA3TLMUYLHTJ2DFEJQI3PS2KKFJMX",
+    "File Name": "accounting procedures.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-07-13T00:16:18Z",
+    "Date Extracted": "2025-04-08T17:21:57.998422"
+  },
+  {
+    "Activity ID": "01FYGKA3XZJXYGCMXW3BC3Z7MMUSBQ2NET",
+    "File Name": "Answers to Beth's Questions.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-09-02T03:29:15Z",
+    "Date Extracted": "2025-04-08T17:21:57.998430"
+  },
+  {
+    "Activity ID": "01FYGKA3QP5DTI5QMOBBAJKKAKK3AP7TVB",
+    "File Name": "BD  bonus structure 9.19.23.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-09-19T16:59:27Z",
+    "Date Extracted": "2025-04-08T17:21:57.998438"
+  },
+  {
+    "Activity ID": "01FYGKA3TVRTTULBGARJA25UY577HIQZS7",
+    "File Name": "BD  commission structure 10.10.23_RP.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-10-30T21:42:46Z",
+    "Date Extracted": "2025-04-08T17:21:57.998446"
+  },
+  {
+    "Activity ID": "01FYGKA3VB2ZG7J3PCOFH33SBCLQ6SBJD3",
+    "File Name": "BD  commission structure 10.27.23.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-10-27T20:11:20Z",
+    "Date Extracted": "2025-04-08T17:21:57.998453"
+  },
+  {
+    "Activity ID": "01FYGKA3VGWUIRKLMX3JDIRGHW72MOJ3E5",
+    "File Name": "Book6.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-10-13T21:14:03Z",
+    "Date Extracted": "2025-04-08T17:21:57.998461"
+  },
+  {
+    "Activity ID": "01FYGKA3WUMDOTSO45YNHIWUWKPLYMF3BW",
+    "File Name": "CASH FLOW ANALYSIS WEEK ENDING 12.15.23.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-12-20T01:32:51Z",
+    "Date Extracted": "2025-04-08T17:21:57.998468"
+  },
+  {
+    "Activity ID": "01FYGKA3RTPHWFLXH4YJELTQO2OBQXKOWH",
+    "File Name": "CASH FLOW ANALYSIS WEEK ENDING 12.8.23.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-12-20T01:32:08Z",
+    "Date Extracted": "2025-04-08T17:21:57.998476"
+  },
+  {
+    "Activity ID": "01FYGKA3X3KVCMN5SIF5DZFYO2ATZ7TIAV",
+    "File Name": "CERTIFICATE OF INSURANCE.Pdf",
+    "File Type": "application/pdf",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-07-06T18:00:25Z",
+    "Date Extracted": "2025-04-08T17:21:57.998483"
+  },
+  {
+    "Activity ID": "01FYGKA3QQGKM3LKN3LJA2JDXH3T6IWMWV",
+    "File Name": "Clockify_Time_Report_Detailed_01_01_2023-12_31_2023.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-09-29T17:12:00Z",
+    "Date Extracted": "2025-04-08T17:21:57.998490"
+  },
+  {
+    "Activity ID": "01FYGKA3RNJ7RJBXAWQNCKJRADKKMFM6ER",
+    "File Name": "Covenant Compliance Cert 6.30.23 v 2.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-09-12T16:52:52Z",
+    "Date Extracted": "2025-04-08T17:21:57.998498"
+  },
+  {
+    "Activity ID": "01FYGKA3R7UCI5TIIIOFEJLHSHT35ZOJ5T",
+    "File Name": "Covenant Compliance Cert 9.30.23.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-12-07T02:41:48Z",
+    "Date Extracted": "2025-04-08T17:21:57.998506"
+  },
+  {
+    "Activity ID": "01FYGKA3XIY5QOTWTF2NFYEBXIDNVVUP7M",
+    "File Name": "From-Toni_Product sales analysis 10.27.23.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-11-06T14:15:36Z",
+    "Date Extracted": "2025-04-08T17:21:57.998514"
+  },
+  {
+    "Activity ID": "01FYGKA3S7D4VZAN6KEVEKISECCF5PDLWL",
+    "File Name": "Language  Culture Worldwide L (003).xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-10-13T21:15:24Z",
+    "Date Extracted": "2025-04-08T17:21:57.998522"
+  },
+  {
+    "Activity ID": "01FYGKA3VXHCXTWKYJ3VG33PP4TZGOVB42",
+    "File Name": "Language and Culture Worldwide - Finance Update August 2023.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-08-20T16:00:05Z",
+    "Date Extracted": "2025-04-08T17:21:57.998529"
+  },
+  {
+    "Activity ID": "01FYGKA3R6O6EUWUBFIRBYIM2RB7GJXHVE",
+    "File Name": "LCW Acco Monthly Calander.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-12-20T16:22:17Z",
+    "Date Extracted": "2025-04-08T17:21:57.998537"
+  },
+  {
+    "Activity ID": "01FYGKA3R4Y5Z7IOWFQ5BJSYCTR2IYVQ5E",
+    "File Name": "LCW CFF - 8.28.23 (002).xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-08-30T15:14:27Z",
+    "Date Extracted": "2025-04-08T17:21:57.998544"
+  },
+  {
+    "Activity ID": "01FYGKA3V7WVNPUPDWS5BINYSAGWKIK4CB",
+    "File Name": "LCW Income Statement Trailing 12 Months.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-12-07T03:14:12Z",
+    "Date Extracted": "2025-04-08T17:21:57.998552"
+  },
+  {
+    "Activity ID": "01FYGKA3UL7ONJQ4ZMIRGLSQBFKZ7LVMOZ",
+    "File Name": "Maria Mercado Contractor Timesheet 8.31.23.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-08-31T20:30:02Z",
+    "Date Extracted": "2025-04-08T17:21:57.998560"
+  },
+  {
+    "Activity ID": "01FYGKA3T7XBE7SIR74FDLJ2VXV3S5UL7M",
+    "File Name": "mortgage calculator adjusted 6227 saint lawrence.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-08-31T19:48:19Z",
+    "Date Extracted": "2025-04-08T17:21:57.998568"
+  },
+  {
+    "Activity ID": "01FYGKA3QMTRBBLC5TAFCYGQYLC3YJ74EL",
+    "File Name": "mortgage calculator adjusted.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-09-18T16:07:16Z",
+    "Date Extracted": "2025-04-08T17:21:57.998575"
+  },
+  {
+    "Activity ID": "01FYGKA3SNR2UPP2MYQFA2N32VRE3R46MT",
+    "File Name": "My Notebook @ LCW",
+    "File Type": "Unknown",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-07-25T01:51:25Z",
+    "Date Extracted": "2025-04-08T17:21:57.998582"
+  },
+  {
+    "Activity ID": "01FYGKA3SJRMWAXT3VIRFZZJI7O7JQUO76",
+    "File Name": "overdue invoices 10.4.23.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-10-04T20:41:50Z",
+    "Date Extracted": "2025-04-08T17:21:57.998590"
+  },
+  {
+    "Activity ID": "01FYGKA3X4DWXTRUBLTBAJB6P2DWO33LZ5",
+    "File Name": "Pro Forma - 5019 w augusta.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-08-26T16:24:39Z",
+    "Date Extracted": "2025-04-08T17:21:57.998598"
+  },
+  {
+    "Activity ID": "01FYGKA3W2TJ6B6HYC7NHYODMLXZ4LM453",
+    "File Name": "Pro Forma - Rillito Crossing - 18 July 2023.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-08-26T16:20:20Z",
+    "Date Extracted": "2025-04-08T17:21:57.998606"
+  },
+  {
+    "Activity ID": "01FYGKA3UKBLD5JY72GFGYFF2DZU3FAD5A",
+    "File Name": "STABILIZATION PLAN v3.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-11-16T22:26:32Z",
+    "Date Extracted": "2025-04-08T17:21:57.998613"
+  },
+  {
+    "Activity ID": "01FYGKA3VDKQWJXZ24NFHZAXKHGINH4TLH",
+    "File Name": "sutker moran notes.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-08-29T20:26:02Z",
+    "Date Extracted": "2025-04-08T17:21:57.998621"
+  },
+  {
+    "Activity ID": "01FYGKA3XASZFFR72FTRHJUMIE6C2NSPEZ",
+    "File Name": "value statement- fulton grace realtor.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-09-08T16:25:40Z",
+    "Date Extracted": "2025-04-08T17:21:57.998629"
+  },
+  {
+    "Activity ID": "01FYGKA3X7H26LWNYWSVHK27LEM3EJP4KW",
+    "File Name": "Weekly XLT Meeting notes 7.11.23.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-07-13T16:46:56Z",
+    "Date Extracted": "2025-04-08T17:21:57.998637"
+  },
+  {
+    "Activity ID": "01FYGKA3X43EINSP7PJBDIOCABXB3CH5BZ",
+    "File Name": "wework intros.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-09-28T17:33:19Z",
+    "Date Extracted": "2025-04-08T17:21:57.998645"
+  },
+  {
+    "Activity ID": "01FYGKA3X2KRI7LMVXAFAY6HMEOP7ROKTJ",
+    "File Name": "ZBB Expense Reduction detail (003).xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Antonio Jones",
+    "Timestamp": "2023-09-08T16:24:08Z",
+    "Date Extracted": "2025-04-08T17:21:57.998653"
+  }
+]

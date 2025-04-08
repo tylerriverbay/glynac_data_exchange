@@ -1,0 +1,538 @@
+[
+  {
+    "Activity ID": "01V24Q2AZBHM7BR7NOSZFZHGQF7N6TRRRK",
+    "File Name": "Apps",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2023-06-27T20:05:50Z",
+    "Date Extracted": "2025-04-08T17:22:10.837515"
+  },
+  {
+    "Activity ID": "01V24Q2A3VWP4MJ6X6PZDKNOA5MQPZ4ILH",
+    "File Name": "Attachments",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2023-03-13T21:20:05Z",
+    "Date Extracted": "2025-04-08T17:22:10.837545"
+  },
+  {
+    "Activity ID": "01V24Q2AZO6JM4BHXPRJAYHX7UUAP6PE2P",
+    "File Name": "Meetings",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2023-08-11T14:49:05Z",
+    "Date Extracted": "2025-04-08T17:22:10.837552"
+  },
+  {
+    "Activity ID": "01V24Q2A6Y3EBTOYZ2NRELPQRQESCDDJ7I",
+    "File Name": "Microsoft Teams Chat Files",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-05-13T12:45:24Z",
+    "Date Extracted": "2025-04-08T17:22:10.837558"
+  },
+  {
+    "Activity ID": "01V24Q2A4YPPE3WR475RAIN2LTED6IMFNK",
+    "File Name": "Microsoft Teams Data",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-05-11T17:59:02Z",
+    "Date Extracted": "2025-04-08T17:22:10.837563"
+  },
+  {
+    "Activity ID": "01V24Q2A72XGG7LYPNDBAIFF36H4MGMEDK",
+    "File Name": "Recordings",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-08-26T18:07:07Z",
+    "Date Extracted": "2025-04-08T17:22:10.837569"
+  },
+  {
+    "Activity ID": "01V24Q2A6HXFR4LFEGDFE2JS2CTHB6WH6B",
+    "File Name": "Whiteboards",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2023-08-21T15:40:20Z",
+    "Date Extracted": "2025-04-08T17:22:10.837574"
+  },
+  {
+    "Activity ID": "01V24Q2AYPV4IS2QEZ5JHLWFLX7YFSJIVZ",
+    "File Name": "22.03.31 Call Notes.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2022-03-31T19:40:17Z",
+    "Date Extracted": "2025-04-08T17:22:10.837580"
+  },
+  {
+    "Activity ID": "01V24Q2AZKNPUYXPXJMNHIIRFGIF2CWPOZ",
+    "File Name": "22.04.27_Call Notes.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2022-04-27T13:41:43Z",
+    "Date Extracted": "2025-04-08T17:22:10.837585"
+  },
+  {
+    "Activity ID": "01V24Q2A6I6HVX46PB6RBKRX55WFE63SNI",
+    "File Name": "22.05.09_GDP Interview Notes.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2022-05-09T16:07:49Z",
+    "Date Extracted": "2025-04-08T17:22:10.837591"
+  },
+  {
+    "Activity ID": "01V24Q2A2YSZ7TDPTQWNBYGBOUUNMQUGLQ",
+    "File Name": "22.06.14_Call Notes.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2022-06-14T17:01:57Z",
+    "Date Extracted": "2025-04-08T17:22:10.837596"
+  },
+  {
+    "Activity ID": "01V24Q2AYOBT4A7PQAZRB2FNIRCXCREARM",
+    "File Name": "22.09.02_Kleinfelder Call.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2022-09-02T18:03:28Z",
+    "Date Extracted": "2025-04-08T17:22:10.837600"
+  },
+  {
+    "Activity ID": "01V24Q2A5NHJSW5FGA25E2HIN6E7H5CNN4",
+    "File Name": "23.09.22_Client Notes.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2023-09-28T20:16:43Z",
+    "Date Extracted": "2025-04-08T17:22:10.837605"
+  },
+  {
+    "Activity ID": "01V24Q2A4JRZJTLX3LGVBJAHTJ2YI26D5C",
+    "File Name": "7.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-07-28T16:56:13Z",
+    "Date Extracted": "2025-04-08T17:22:10.837611"
+  },
+  {
+    "Activity ID": "01V24Q2A5F6P4M6DSHP5A2OIWU3UFBULCQ",
+    "File Name": "AC Bi-Weekly Mtg_",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-11-23T15:12:48Z",
+    "Date Extracted": "2025-04-08T17:22:10.837616"
+  },
+  {
+    "Activity ID": "01V24Q2A6VDKG4C3U6RNGZZQTP2ZYYD6YN",
+    "File Name": "ARCH_Leader-led discussion guide - .docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-05-20T19:04:13Z",
+    "Date Extracted": "2025-04-08T17:22:10.837621"
+  },
+  {
+    "Activity ID": "01V24Q2A3BO4JEUE6Y6ZC2OM557KBHITFW",
+    "File Name": "Associate Projects",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-11-23T15:13:32Z",
+    "Date Extracted": "2025-04-08T17:22:10.837626"
+  },
+  {
+    "Activity ID": "01V24Q2AZOEMF5GKIG6RBYS6BAWZQV52LC",
+    "File Name": "BMGF Kickoff 11.30.21.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-11-30T18:56:58Z",
+    "Date Extracted": "2025-04-08T17:22:10.837632"
+  },
+  {
+    "Activity ID": "01V24Q2A2BR3I3CYRPRFFZXR546WV4FEIN",
+    "File Name": "Body Butters.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-12-02T02:27:53Z",
+    "Date Extracted": "2025-04-08T17:22:10.837638"
+  },
+  {
+    "Activity ID": "01V24Q2AZAOS52TOMNL5B27LACNIDTIHRE",
+    "File Name": "Boston Scientific",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-11-23T15:13:57Z",
+    "Date Extracted": "2025-04-08T17:22:10.837643"
+  },
+  {
+    "Activity ID": "01V24Q2A5DCSDJXHA4BVDI5ZWA4RLPH7UK",
+    "File Name": "Buddy Program.pdf",
+    "File Type": "application/pdf",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-05-11T17:32:13Z",
+    "Date Extracted": "2025-04-08T17:22:10.837648"
+  },
+  {
+    "Activity ID": "01V24Q2A2OEZZOKMQI7JH33YJGMLBIREPO",
+    "File Name": "CareerDev-AgismSexism-10292022.1.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Emani Richmond",
+    "Timestamp": "2022-10-31T18:23:00Z",
+    "Date Extracted": "2025-04-08T17:22:10.837654"
+  },
+  {
+    "Activity ID": "01V24Q2A3TGHXOQ5TX4NEIA4JUG4YMGXF4",
+    "File Name": "Carta_Understanding_Brazilian_Work_Culture-2023 (3).pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Emani Richmond",
+    "Timestamp": "2023-10-03T19:59:58Z",
+    "Date Extracted": "2025-04-08T17:22:10.837659"
+  },
+  {
+    "Activity ID": "01V24Q2A4LDFPHGHTJ7FCIQR5T6ZRSTMV7",
+    "File Name": "Clients",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-11-23T15:13:43Z",
+    "Date Extracted": "2025-04-08T17:22:10.837665"
+  },
+  {
+    "Activity ID": "01V24Q2A4SLFHLBFSTDREIEVT6EXQVMP2N",
+    "File Name": "Culture Workshops",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-11-23T15:14:55Z",
+    "Date Extracted": "2025-04-08T17:22:10.837669"
+  },
+  {
+    "Activity ID": "01V24Q2AZ37QSYH4Q4JRCLCB6VVA5W4WP5",
+    "File Name": "Defining My Purpose_Presentation.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-05-14T14:56:44Z",
+    "Date Extracted": "2025-04-08T17:22:10.837675"
+  },
+  {
+    "Activity ID": "01V24Q2AYGKOXFR7EHJJAKE47I47IZKLYM",
+    "File Name": "Defining_my_purpose.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-05-14T14:02:43Z",
+    "Date Extracted": "2025-04-08T17:22:10.837681"
+  },
+  {
+    "Activity ID": "01V24Q2A7KLIH6726JZBGYF6VXJTPYNSDH",
+    "File Name": "Discussion Guides Project",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-11-23T15:14:31Z",
+    "Date Extracted": "2025-04-08T17:22:10.837686"
+  },
+  {
+    "Activity ID": "01V24Q2A7AJI7NROQDNNGYE6R2S7DW3FV2",
+    "File Name": "Diverting from Race_ Guide 1.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-05-20T19:04:48Z",
+    "Date Extracted": "2025-04-08T17:22:10.837691"
+  },
+  {
+    "Activity ID": "01V24Q2AZIDMOJLDS2QRHKVXUDK4ZBVXK7",
+    "File Name": "Emani @ LCW",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2022-10-20T21:18:24Z",
+    "Date Extracted": "2025-04-08T17:22:10.837697"
+  },
+  {
+    "Activity ID": "01V24Q2A3CXZWQYSDNZVBYLOF35ZS5HHYI",
+    "File Name": "Emani and Sarah",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2023-08-11T14:49:13Z",
+    "Date Extracted": "2025-04-08T17:22:10.837702"
+  },
+  {
+    "Activity ID": "01V24Q2AZ2NWXT3NHI4NDKLZMGX2W34SFO",
+    "File Name": "Facilitation Track",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-11-23T15:14:06Z",
+    "Date Extracted": "2025-04-08T17:22:10.837707"
+  },
+  {
+    "Activity ID": "01V24Q2A2XOG4VHM7USJE35X63WO5JNV7K",
+    "File Name": "Financial Planning",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2022-09-08T18:37:06Z",
+    "Date Extracted": "2025-04-08T17:22:10.837712"
+  },
+  {
+    "Activity ID": "01V24Q2A2E3JYTGH5TFJAYN53NLM52AMPI",
+    "File Name": "Fit _ Fulfilled Academy",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2022-10-01T19:10:28Z",
+    "Date Extracted": "2025-04-08T17:22:10.837718"
+  },
+  {
+    "Activity ID": "01V24Q2AYKHD6SM4YYJBBKY4XHAFCMVSCK",
+    "File Name": "Forum Practice",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2023-02-08T20:39:37Z",
+    "Date Extracted": "2025-04-08T17:22:10.837723"
+  },
+  {
+    "Activity ID": "01V24Q2A5QVWVGJ4ZHP5FLUGXZZTMZ4URZ",
+    "File Name": "Highlights.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-06-03T15:35:33Z",
+    "Date Extracted": "2025-04-08T17:22:10.837729"
+  },
+  {
+    "Activity ID": "01V24Q2A3TSXQGTL2TWRGI34ZMAYGM6HH2",
+    "File Name": "Icons for logo.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Emani Richmond",
+    "Timestamp": "2022-03-18T14:05:03Z",
+    "Date Extracted": "2025-04-08T17:22:10.837735"
+  },
+  {
+    "Activity ID": "01V24Q2A4EUKFGMTGYGZAK4ZUNYS7YQSME",
+    "File Name": "IDI @ LCW",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2023-08-01T20:04:06Z",
+    "Date Extracted": "2025-04-08T17:22:10.837740"
+  },
+  {
+    "Activity ID": "01V24Q2A2UOOGNBJJ4FZDZHYBQN3CRXJPC",
+    "File Name": "IDI Qualifying Seminar",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2022-08-17T12:36:09Z",
+    "Date Extracted": "2025-04-08T17:22:10.837746"
+  },
+  {
+    "Activity ID": "01V24Q2A2YS3VHJUC2ABCZ6YD2R52SRV57",
+    "File Name": "IDI_Personal Work",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-11-23T15:11:35Z",
+    "Date Extracted": "2025-04-08T17:22:10.837751"
+  },
+  {
+    "Activity ID": "01V24Q2A4JGASEAE4IR5AIZXJYOOVJ2YMI",
+    "File Name": "Inspires professionals to connect across cultures.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-05-10T16:30:45Z",
+    "Date Extracted": "2025-04-08T17:22:10.837756"
+  },
+  {
+    "Activity ID": "01V24Q2A7LLBW4CH6WJNDLFNLIES7D57KH",
+    "File Name": "J&J mtg.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-12-07T15:48:16Z",
+    "Date Extracted": "2025-04-08T17:22:10.837762"
+  },
+  {
+    "Activity ID": "01V24Q2A3MHTFWISDKXFE2Q4FTBIGWOBRU",
+    "File Name": "LCW Bio_draft.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-05-13T21:24:45Z",
+    "Date Extracted": "2025-04-08T17:22:10.837767"
+  },
+  {
+    "Activity ID": "01V24Q2AY2JYBVJM7XTFEKQQ3DLOD6CKGN",
+    "File Name": "LCW PPT Template_cool color-2021.thmx",
+    "File Type": "application/vnd.ms-officetheme",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-05-12T20:35:41Z",
+    "Date Extracted": "2025-04-08T17:22:10.837771"
+  },
+  {
+    "Activity ID": "01V24Q2A6FJ2Z57FXERJAK7KOJXTUR44Q6",
+    "File Name": "LCW Theme_2021 cool.thmx",
+    "File Type": "application/vnd.ms-officetheme",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-05-12T15:34:19Z",
+    "Date Extracted": "2025-04-08T17:22:10.837778"
+  },
+  {
+    "Activity ID": "01V24Q2A3K7KDCDSXOBNFZOJN2ISEYVKYZ",
+    "File Name": "LCW Theme_2021 warm.thmx",
+    "File Type": "application/vnd.ms-officetheme",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-05-12T15:35:28Z",
+    "Date Extracted": "2025-04-08T17:22:10.837783"
+  },
+  {
+    "Activity ID": "01V24Q2A45CDPGC23VTBAL26LXOVH4G5GN",
+    "File Name": "Leader-led DG-Courageous Conversations_Final.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-10-12T14:49:21Z",
+    "Date Extracted": "2025-04-08T17:22:10.837788"
+  },
+  {
+    "Activity ID": "01V24Q2A7YFK4Z6SMW4RHKE3YQ632XPVZO",
+    "File Name": "Misc_",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-11-23T15:14:40Z",
+    "Date Extracted": "2025-04-08T17:22:10.837793"
+  },
+  {
+    "Activity ID": "01V24Q2A7OSZDKVG4RWFAY6RVMOUNS7NWA",
+    "File Name": "NonEnglish Languages.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-05-18T17:12:21Z",
+    "Date Extracted": "2025-04-08T17:22:10.837798"
+  },
+  {
+    "Activity ID": "01V24Q2A4YW7F5UHN5FBC3IDZXYMAKXXG4",
+    "File Name": "Northwestern",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-12-14T22:00:11Z",
+    "Date Extracted": "2025-04-08T17:22:10.837804"
+  },
+  {
+    "Activity ID": "01V24Q2A222EHROEVNWRBINCNIO5LXTAXL",
+    "File Name": "NU and LCW 10.21.21 Call Notes.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-10-21T20:46:57Z",
+    "Date Extracted": "2025-04-08T17:22:10.837809"
+  },
+  {
+    "Activity ID": "01V24Q2A2HC4KUHE6Q2VDZ3HYRO2N6CL4L",
+    "File Name": "NU and LCW 11.18.21 Call Notes.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-11-18T21:34:49Z",
+    "Date Extracted": "2025-04-08T17:22:10.837815"
+  },
+  {
+    "Activity ID": "01V24Q2A5SH3L24CLBDBHYUMILQEOMH7W4",
+    "File Name": "NW and LCW 9.15.21 Meeting Notes.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-09-16T15:04:06Z",
+    "Date Extracted": "2025-04-08T17:22:10.837821"
+  },
+  {
+    "Activity ID": "01V24Q2A5YYYT77MFGLFHLBPOCN3QQK5KY",
+    "File Name": "Olly Mail Merge_word.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2023-08-18T13:23:31Z",
+    "Date Extracted": "2025-04-08T17:22:10.837827"
+  },
+  {
+    "Activity ID": "01V24Q2A7DSB5YYHDDKJC2EAJDYQ3DHCLS",
+    "File Name": "Onboarding",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-11-23T15:10:45Z",
+    "Date Extracted": "2025-04-08T17:22:10.837832"
+  },
+  {
+    "Activity ID": "01V24Q2AY7TLQSOC3HLFC32FFHVOEEXJWS",
+    "File Name": "One on Ones",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-11-23T15:14:17Z",
+    "Date Extracted": "2025-04-08T17:22:10.837837"
+  },
+  {
+    "Activity ID": "01V24Q2A64MV2UK5THPNCL2YJBYE2FFYLZ",
+    "File Name": "PayPal Screenshot.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-06-30T20:12:14Z",
+    "Date Extracted": "2025-04-08T17:22:10.837842"
+  },
+  {
+    "Activity ID": "01V24Q2A3NZZGYUPFBCJEIEKUH3VENGZKU",
+    "File Name": "Predesigned Slides-2021.pptx.thmx",
+    "File Type": "application/vnd.ms-officetheme",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-05-12T15:37:44Z",
+    "Date Extracted": "2025-04-08T17:22:10.837847"
+  },
+  {
+    "Activity ID": "01V24Q2A2JZ53RLPYSGFC3DJVJL6XWRH6S",
+    "File Name": "Quad Leadership Notes_ChrisHiland.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-09-30T12:52:12Z",
+    "Date Extracted": "2025-04-08T17:22:10.837853"
+  },
+  {
+    "Activity ID": "01V24Q2A525BNBXBMK5BGL6EZNRBID2THP",
+    "File Name": "Reader's Club",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-11-23T15:15:07Z",
+    "Date Extracted": "2025-04-08T17:22:10.837859"
+  },
+  {
+    "Activity ID": "01V24Q2AYLXV445PT7BJG3OEGXTILAHRQT",
+    "File Name": "Reading List",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-11-23T15:13:16Z",
+    "Date Extracted": "2025-04-08T17:22:10.837863"
+  },
+  {
+    "Activity ID": "01V24Q2A2ULX3UBLZZYZG3WR6OBWQY4UVY",
+    "File Name": "SIETAR",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2023-04-06T23:09:44Z",
+    "Date Extracted": "2025-04-08T17:22:10.837869"
+  },
+  {
+    "Activity ID": "01V24Q2A5TWDW4DXACFNEK47ZQMH432R3P",
+    "File Name": "Slow Factory",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2022-01-28T17:03:03Z",
+    "Date Extracted": "2025-04-08T17:22:10.837874"
+  },
+  {
+    "Activity ID": "01V24Q2A4KIBIHXOHHLNG2Y7WHRGCGW26B",
+    "File Name": "Sunshine committee",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-12-06T22:07:07Z",
+    "Date Extracted": "2025-04-08T17:22:10.837880"
+  },
+  {
+    "Activity ID": "01V24Q2A6R3U6GXJDEJ5AJIWAZKCZO3BK5",
+    "File Name": "Tamara 1 to 1",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-11-23T15:12:35Z",
+    "Date Extracted": "2025-04-08T17:22:10.837885"
+  },
+  {
+    "Activity ID": "01V24Q2A4DHE3QGQMNNJBLDRBMQLTYUBIK",
+    "File Name": "test",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-12-03T16:06:39Z",
+    "Date Extracted": "2025-04-08T17:22:10.837891"
+  },
+  {
+    "Activity ID": "01V24Q2AZKFAOKRKR7TZGLUF77ZVR3BPZ2",
+    "File Name": "Weekly Training Meeting",
+    "File Type": "Unknown",
+    "User": "Emani Richmond",
+    "Timestamp": "2021-11-23T15:12:04Z",
+    "Date Extracted": "2025-04-08T17:22:10.837896"
+  }
+]

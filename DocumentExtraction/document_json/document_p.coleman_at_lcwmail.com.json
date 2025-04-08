@@ -1,0 +1,34 @@
+[
+  {
+    "Activity ID": "01ZUQOE5UABJYZWROYGFAJGXC4GAXQPLZU",
+    "File Name": "Apps",
+    "File Type": "Unknown",
+    "User": "Patricia Coleman",
+    "Timestamp": "2024-01-23T20:18:27Z",
+    "Date Extracted": "2025-04-08T17:21:47.174982"
+  },
+  {
+    "Activity ID": "01ZUQOE5Q3DZJY3EUIBBDZ4C5VL7YJV3L4",
+    "File Name": "Meetings",
+    "File Type": "Unknown",
+    "User": "Patricia Coleman",
+    "Timestamp": "2024-02-21T16:25:16Z",
+    "Date Extracted": "2025-04-08T17:21:47.175006"
+  },
+  {
+    "Activity ID": "01ZUQOE5QMFSD6XEYQY5FKM6RNIOAUGM5F",
+    "File Name": "Microsoft Teams Chat Files",
+    "File Type": "Unknown",
+    "User": "Patricia Coleman",
+    "Timestamp": "2024-02-15T17:54:01Z",
+    "Date Extracted": "2025-04-08T17:21:47.175012"
+  },
+  {
+    "Activity ID": "01ZUQOE5UDLA2J2PUF5VCLMCXT7IBV3FY4",
+    "File Name": "Recordings",
+    "File Type": "Unknown",
+    "User": "SharePoint App",
+    "Timestamp": "2025-01-08T17:04:10Z",
+    "Date Extracted": "2025-04-08T17:21:47.175017"
+  }
+]

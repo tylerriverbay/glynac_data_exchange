@@ -1,0 +1,98 @@
+[
+  {
+    "Activity ID": "01EDXBIXKKTIQCTC4DY5E3GLRBZWBGZOFE",
+    "File Name": "Alliant Share Folder",
+    "File Type": "Unknown",
+    "User": "Maya Benoit",
+    "Timestamp": "2024-05-09T12:03:19Z",
+    "Date Extracted": "2025-04-08T17:21:42.052854"
+  },
+  {
+    "Activity ID": "01EDXBIXNXR5Y72XCS6RGY7BGQ22GVP6LS",
+    "File Name": "Apps",
+    "File Type": "Unknown",
+    "User": "Maya Benoit",
+    "Timestamp": "2024-05-10T15:46:10Z",
+    "Date Extracted": "2025-04-08T17:21:42.052862"
+  },
+  {
+    "Activity ID": "01EDXBIXK7AA7N7ZMZPNAJV5M24MJHODSH",
+    "File Name": "Attachments",
+    "File Type": "Unknown",
+    "User": "Maya Benoit",
+    "Timestamp": "2023-03-21T12:00:30Z",
+    "Date Extracted": "2025-04-08T17:21:42.052866"
+  },
+  {
+    "Activity ID": "01EDXBIXKOC56YXY6UDZCJXVU3NUJDH7MV",
+    "File Name": "Desktop",
+    "File Type": "Unknown",
+    "User": "Maya Benoit",
+    "Timestamp": "2022-11-22T20:01:02Z",
+    "Date Extracted": "2025-04-08T17:21:42.052870"
+  },
+  {
+    "Activity ID": "01EDXBIXLSULXFVLHHQRD275SKK4V45DYH",
+    "File Name": "Documents",
+    "File Type": "Unknown",
+    "User": "Maya Benoit",
+    "Timestamp": "2022-11-22T20:01:02Z",
+    "Date Extracted": "2025-04-08T17:21:42.052873"
+  },
+  {
+    "Activity ID": "01EDXBIXKTJ6AQ4TUL75EZRE6AAPLK2KAR",
+    "File Name": "Microsoft Teams Chat Files",
+    "File Type": "Unknown",
+    "User": "Maya Benoit",
+    "Timestamp": "2023-04-04T15:55:32Z",
+    "Date Extracted": "2025-04-08T17:21:42.052876"
+  },
+  {
+    "Activity ID": "01EDXBIXMQDBO4HWKGZRDLK2JJH6P7PQGN",
+    "File Name": "Pictures",
+    "File Type": "Unknown",
+    "User": "Maya Benoit",
+    "Timestamp": "2022-11-22T20:01:02Z",
+    "Date Extracted": "2025-04-08T17:21:42.052880"
+  },
+  {
+    "Activity ID": "01EDXBIXISDIM47HHYEZGJRHUXJBPGNYFA",
+    "File Name": "052304LCWed.pdf",
+    "File Type": "application/pdf",
+    "User": "Maya Benoit",
+    "Timestamp": "2023-04-06T15:51:57Z",
+    "Date Extracted": "2025-04-08T17:21:42.052884"
+  },
+  {
+    "Activity ID": "01EDXBIXMX752J37DNF5DZCAHCGEIMQSCE",
+    "File Name": "Copy of Invoice LCW202302_updated.pdf",
+    "File Type": "application/pdf",
+    "User": "Maya Benoit",
+    "Timestamp": "2023-06-06T19:42:54Z",
+    "Date Extracted": "2025-04-08T17:21:42.052887"
+  },
+  {
+    "Activity ID": "01EDXBIXIUJHA5U7R7XZGI5LB3LFYZD4WL",
+    "File Name": "Copy of Invoice_MF-1.pdf",
+    "File Type": "application/pdf",
+    "User": "Maya Benoit",
+    "Timestamp": "2023-04-28T13:50:07Z",
+    "Date Extracted": "2025-04-08T17:21:42.052891"
+  },
+  {
+    "Activity ID": "01EDXBIXJVHNJA5ERST5AZYGXOT563RV65",
+    "File Name": "LCW-88-PCI-BR-QA.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Maya Benoit",
+    "Timestamp": "2023-06-01T18:36:30Z",
+    "Date Extracted": "2025-04-08T17:21:42.052894"
+  },
+  {
+    "Activity ID": "01EDXBIXPP5JIYROHEN5CJVKG3UYO3IWOJ",
+    "File Name": "SSCP-AS-2022 Rev 1 -Patient_(lav).pdf",
+    "File Type": "application/pdf",
+    "User": "Maya Benoit",
+    "Timestamp": "2023-06-16T22:28:42Z",
+    "Date Extracted": "2025-04-08T17:21:42.052898"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Activity ID": "01ODU3PS67EPYO7BTZENAK6MQ2CQB7GIRO",
+    "File Name": "Desktop",
+    "File Type": "Unknown",
+    "User": "Melonya Johnson",
+    "Timestamp": "2022-03-30T20:42:06Z",
+    "Date Extracted": "2025-04-08T17:21:42.737708"
+  },
+  {
+    "Activity ID": "01ODU3PS3M2552THRXERF2O73PW62AMJKR",
+    "File Name": "Documents",
+    "File Type": "Unknown",
+    "User": "Melonya Johnson",
+    "Timestamp": "2022-03-30T20:42:06Z",
+    "Date Extracted": "2025-04-08T17:21:42.737723"
+  },
+  {
+    "Activity ID": "01ODU3PSZ2TNOKGWUZAZFZIEGLDW7FO4DO",
+    "File Name": "Microsoft Teams Chat Files",
+    "File Type": "Unknown",
+    "User": "Melonya Johnson",
+    "Timestamp": "2022-06-29T21:16:35Z",
+    "Date Extracted": "2025-04-08T17:21:42.737728"
+  },
+  {
+    "Activity ID": "01ODU3PS4ERXTUE6ZXZNAKI4NGKQDXPZCD",
+    "File Name": "Microsoft Teams Data",
+    "File Type": "Unknown",
+    "User": "Melonya Johnson",
+    "Timestamp": "2022-05-11T17:59:56Z",
+    "Date Extracted": "2025-04-08T17:21:42.737732"
+  },
+  {
+    "Activity ID": "01ODU3PS32Z3V26OAF6RAI4QEV4EGOXSZO",
+    "File Name": "Pictures",
+    "File Type": "Unknown",
+    "User": "Melonya Johnson",
+    "Timestamp": "2022-03-30T20:42:06Z",
+    "Date Extracted": "2025-04-08T17:21:42.737736"
+  },
+  {
+    "Activity ID": "01ODU3PSZDONDJVFCXRRD2T2WV3EPKUXAH",
+    "File Name": "Recordings",
+    "File Type": "Unknown",
+    "User": "Melonya Johnson",
+    "Timestamp": "2022-05-06T15:42:16Z",
+    "Date Extracted": "2025-04-08T17:21:42.737740"
+  },
+  {
+    "Activity ID": "01ODU3PSYMRB4GTEMODVFZA75I3UW7F3W6",
+    "File Name": "Book1.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Melonya Johnson",
+    "Timestamp": "2022-05-02T17:14:03Z",
+    "Date Extracted": "2025-04-08T17:21:42.737744"
+  }
+]

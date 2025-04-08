@@ -1,0 +1,50 @@
+[
+  {
+    "Activity ID": "01J4ZZJJU5HY4QIHU6VFG3HVQRFEJKPJ7A",
+    "File Name": "Desktop",
+    "File Type": "Unknown",
+    "User": "David Trincado",
+    "Timestamp": "2022-11-14T18:33:37Z",
+    "Date Extracted": "2025-04-08T17:22:09.133967"
+  },
+  {
+    "Activity ID": "01J4ZZJJQBBQBIWINO5RHLHHNJ7XTY6PAS",
+    "File Name": "Documents",
+    "File Type": "Unknown",
+    "User": "David Trincado",
+    "Timestamp": "2022-11-14T18:33:37Z",
+    "Date Extracted": "2025-04-08T17:22:09.133993"
+  },
+  {
+    "Activity ID": "01J4ZZJJSFA7G7FIDZ4VBZHHXLFDTPGR73",
+    "File Name": "Microsoft Teams Chat Files",
+    "File Type": "Unknown",
+    "User": "David Trincado",
+    "Timestamp": "2022-12-02T21:37:55Z",
+    "Date Extracted": "2025-04-08T17:22:09.134002"
+  },
+  {
+    "Activity ID": "01J4ZZJJSA7FSA3H5F5NBKNUN67X2EAGHY",
+    "File Name": "Pictures",
+    "File Type": "Unknown",
+    "User": "David Trincado",
+    "Timestamp": "2022-11-14T18:33:37Z",
+    "Date Extracted": "2025-04-08T17:22:09.134010"
+  },
+  {
+    "Activity ID": "01J4ZZJJW2C6OLN3464ZFY5MDWAID7VQMO",
+    "File Name": "Bill.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "David Trincado",
+    "Timestamp": "2023-01-03T14:27:05Z",
+    "Date Extracted": "2025-04-08T17:22:09.134019"
+  },
+  {
+    "Activity ID": "01J4ZZJJSVVARYK4M23JC2RNC7MB3YHJRC",
+    "File Name": "David @ LCW",
+    "File Type": "Unknown",
+    "User": "David Trincado",
+    "Timestamp": "2022-11-15T21:11:30Z",
+    "Date Extracted": "2025-04-08T17:22:09.134027"
+  }
+]

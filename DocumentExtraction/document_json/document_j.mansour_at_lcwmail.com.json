@@ -1,0 +1,58 @@
+[
+  {
+    "Activity ID": "01564LL5PFS57SSXZ2ARF3GTUHLHFGAZSF",
+    "File Name": "Apps",
+    "File Type": "Unknown",
+    "User": "Juri Mansour",
+    "Timestamp": "2024-07-24T14:25:35Z",
+    "Date Extracted": "2025-04-08T17:21:34.209988"
+  },
+  {
+    "Activity ID": "01564LL5JX4FAPETEOVRCKCIN5J33CRO6A",
+    "File Name": "Attachments",
+    "File Type": "Unknown",
+    "User": "Juri Mansour",
+    "Timestamp": "2024-08-02T16:56:33Z",
+    "Date Extracted": "2025-04-08T17:21:34.209997"
+  },
+  {
+    "Activity ID": "01564LL5OYA4IMPVB4GJDIHTNDUDOEVIOI",
+    "File Name": "Microsoft Teams Chat Files",
+    "File Type": "Unknown",
+    "User": "Juri Mansour",
+    "Timestamp": "2024-08-05T19:47:44Z",
+    "Date Extracted": "2025-04-08T17:21:34.209999"
+  },
+  {
+    "Activity ID": "01564LL5LSUOWBRYHV3RBY3M4VHH7BZSIC",
+    "File Name": "Notebooks",
+    "File Type": "Unknown",
+    "User": "Juri Mansour",
+    "Timestamp": "2024-07-31T15:16:38Z",
+    "Date Extracted": "2025-04-08T17:21:34.210000"
+  },
+  {
+    "Activity ID": "01564LL5KDIMI4UFUISJAKE5OZWQIPXFZI",
+    "File Name": "Recordings",
+    "File Type": "Unknown",
+    "User": "SharePoint App",
+    "Timestamp": "2024-08-09T18:16:36Z",
+    "Date Extracted": "2025-04-08T17:21:34.210001"
+  },
+  {
+    "Activity ID": "01564LL5L5PCA6ZSG5WFAIBQFK5TF6YR63",
+    "File Name": "Development Status_Solutions Content.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Juri Mansour",
+    "Timestamp": "2024-09-03T21:23:51Z",
+    "Date Extracted": "2025-04-08T17:21:34.210002"
+  },
+  {
+    "Activity ID": "01564LL5LYZQLN6XVN7BALAUFZJ54SUN6A",
+    "File Name": "Valuing Diversity Slide Screenshots.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "Juri Mansour",
+    "Timestamp": "2024-08-20T18:13:12Z",
+    "Date Extracted": "2025-04-08T17:21:34.210004"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "Activity ID": "01FDUOHUGLX2VED5TLWFC246HLDDIPLSIU",
+    "File Name": "Apps",
+    "File Type": "Unknown",
+    "User": "Pedro Seminario",
+    "Timestamp": "2023-08-17T17:57:04Z",
+    "Date Extracted": "2025-04-08T17:21:46.849046"
+  },
+  {
+    "Activity ID": "01FDUOHUAU6DGUL55FNBEZ4UE5TBTUGRPJ",
+    "File Name": "Attachments",
+    "File Type": "Unknown",
+    "User": "Pedro Seminario",
+    "Timestamp": "2023-03-28T15:02:55Z",
+    "Date Extracted": "2025-04-08T17:21:46.849066"
+  },
+  {
+    "Activity ID": "01FDUOHUHKWJVF7VZSQNAYHHJVLMB2A3SI",
+    "File Name": "Desktop",
+    "File Type": "Unknown",
+    "User": "Pedro Seminario",
+    "Timestamp": "2022-12-27T20:12:21Z",
+    "Date Extracted": "2025-04-08T17:21:46.849071"
+  },
+  {
+    "Activity ID": "01FDUOHUHYRMITRRIOEVCIRK43KFSS54JL",
+    "File Name": "Documents",
+    "File Type": "Unknown",
+    "User": "Pedro Seminario",
+    "Timestamp": "2022-12-27T20:12:21Z",
+    "Date Extracted": "2025-04-08T17:21:46.849077"
+  },
+  {
+    "Activity ID": "01FDUOHUDF3M4XWFP6C5HLG53OR5CB5OGF",
+    "File Name": "Meetings",
+    "File Type": "Unknown",
+    "User": "Pedro Seminario",
+    "Timestamp": "2024-10-03T17:17:36Z",
+    "Date Extracted": "2025-04-08T17:21:46.849082"
+  },
+  {
+    "Activity ID": "01FDUOHUDMTGTNWLDJEJGYCOMX33IMXV22",
+    "File Name": "Microsoft Teams Chat Files",
+    "File Type": "Unknown",
+    "User": "Pedro Seminario",
+    "Timestamp": "2023-01-27T17:38:41Z",
+    "Date Extracted": "2025-04-08T17:21:46.849086"
+  },
+  {
+    "Activity ID": "01FDUOHUAO6NDNIOJQPJALCRJWTGIFYGXA",
+    "File Name": "Pictures",
+    "File Type": "Unknown",
+    "User": "Pedro Seminario",
+    "Timestamp": "2022-12-27T20:12:22Z",
+    "Date Extracted": "2025-04-08T17:21:46.849091"
+  },
+  {
+    "Activity ID": "01FDUOHUFRU4RWJEG2MBHKRDTLXZEUZQYK",
+    "File Name": "Recordings",
+    "File Type": "Unknown",
+    "User": "SharePoint App",
+    "Timestamp": "2024-09-27T18:21:20Z",
+    "Date Extracted": "2025-04-08T17:21:46.849095"
+  },
+  {
+    "Activity ID": "01FDUOHUETP6DCKQEOJNGYH5SFMSJSSLFO",
+    "File Name": "Pedro @ LCW",
+    "File Type": "Unknown",
+    "User": "Pedro Seminario",
+    "Timestamp": "2023-03-30T14:22:03Z",
+    "Date Extracted": "2025-04-08T17:21:46.849100"
+  }
+]

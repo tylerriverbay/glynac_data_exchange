@@ -1,0 +1,50 @@
+[
+  {
+    "Activity ID": "01SFDRWFNNBVO5RCXK7REIW7COMCGGJJAC",
+    "File Name": "Notebooks",
+    "File Type": "Unknown",
+    "User": "Felicia Scott",
+    "Timestamp": "2018-05-24T13:39:38Z",
+    "Date Extracted": "2025-04-08T17:21:32.483387"
+  },
+  {
+    "Activity ID": "01SFDRWFOJL2K7AMYSEFALFBUKPI6PECIK",
+    "File Name": "Chase Amazon 2019 Detail.CSV",
+    "File Type": "application/vnd.ms-excel",
+    "User": "Felicia Scott",
+    "Timestamp": "2020-03-29T15:52:14Z",
+    "Date Extracted": "2025-04-08T17:21:32.483420"
+  },
+  {
+    "Activity ID": "01SFDRWFKD5G5XVTIOLNFZE6AJEDEYLLAU",
+    "File Name": "Chase Amazon 2019 Detail.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Felicia Scott",
+    "Timestamp": "2020-03-29T18:58:52Z",
+    "Date Extracted": "2025-04-08T17:21:32.483426"
+  },
+  {
+    "Activity ID": "01SFDRWFP2JWKJIXELB5HK3X6SOBBJ74IG",
+    "File Name": "DEI Committee (2) 3.3.2020V2.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Felicia Scott",
+    "Timestamp": "2020-03-05T11:23:06Z",
+    "Date Extracted": "2025-04-08T17:21:32.483431"
+  },
+  {
+    "Activity ID": "01SFDRWFOQXGRN74TOSZBZ5HYVAMCSGYGJ",
+    "File Name": "March 20 Internal Audit Findings v.7.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Felicia Scott",
+    "Timestamp": "2020-03-20T05:10:47Z",
+    "Date Extracted": "2025-04-08T17:21:32.483438"
+  },
+  {
+    "Activity ID": "01SFDRWFNDBQXRYX4E7FH224T7U54L4VJW",
+    "File Name": "UpLift Group - 2019 Profit and Loss Detail.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Felicia Scott",
+    "Timestamp": "2020-05-18T17:27:59Z",
+    "Date Extracted": "2025-04-08T17:21:32.483443"
+  }
+]

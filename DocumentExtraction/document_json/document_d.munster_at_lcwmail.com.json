@@ -1,0 +1,58 @@
+[
+  {
+    "Activity ID": "01NXDQ4NG6WAWTQEYSWNFY5EJYBM5MKHAT",
+    "File Name": "Attachments",
+    "File Type": "Unknown",
+    "User": "Deb Munster",
+    "Timestamp": "2023-04-20T02:39:47Z",
+    "Date Extracted": "2025-04-08T17:22:08.267986"
+  },
+  {
+    "Activity ID": "01NXDQ4NFYJTMH2UCTNRGKCMTGI5G3GUIM",
+    "File Name": "Recordings",
+    "File Type": "Unknown",
+    "User": "Deb Munster",
+    "Timestamp": "2023-06-05T15:45:41Z",
+    "Date Extracted": "2025-04-08T17:22:08.268005"
+  },
+  {
+    "Activity ID": "01NXDQ4NCRFGHGYTXSLVBJUDIVOLHL7HUL",
+    "File Name": "ALS website recommendations.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Deb Munster",
+    "Timestamp": "2023-06-13T17:15:22Z",
+    "Date Extracted": "2025-04-08T17:22:08.268010"
+  },
+  {
+    "Activity ID": "01NXDQ4NEPMC2E43L4EJDYRAWUGMNC6BSD",
+    "File Name": "Chart in Microsoft PowerPoint.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Deb Munster",
+    "Timestamp": "2023-11-02T23:12:03Z",
+    "Date Extracted": "2025-04-08T17:22:08.268015"
+  },
+  {
+    "Activity ID": "01NXDQ4NDF2FWR7RF2YNBLCHQZOXHRN7D4",
+    "File Name": "JBC audience profile.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "Deb Munster",
+    "Timestamp": "2023-09-06T14:46:34Z",
+    "Date Extracted": "2025-04-08T17:22:08.268020"
+  },
+  {
+    "Activity ID": "01NXDQ4NAOGXV2353XBJA2NUMZPYSEOJLM",
+    "File Name": "Orveon Proposal draft 2.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Deb Munster",
+    "Timestamp": "2023-08-23T19:29:11Z",
+    "Date Extracted": "2025-04-08T17:22:08.268025"
+  },
+  {
+    "Activity ID": "01NXDQ4NDSL3LEE3NEQRGIACGKSFEEMNB4",
+    "File Name": "WLH-LCW Proposal_V4.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "Deb Munster",
+    "Timestamp": "2023-05-17T21:00:03Z",
+    "Date Extracted": "2025-04-08T17:22:08.268029"
+  }
+]

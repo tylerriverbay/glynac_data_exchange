@@ -1,0 +1,122 @@
+[
+  {
+    "Activity ID": "01PVIYFKA7QUYCXGIVGNDKA42HQUXQZPOG",
+    "File Name": "Apps",
+    "File Type": "Unknown",
+    "User": "clientserviceadmin",
+    "Timestamp": "2023-11-22T19:19:17Z",
+    "Date Extracted": "2025-04-08T17:22:07.194984"
+  },
+  {
+    "Activity ID": "01PVIYFKGLVEGIPVYHENCJFPFS6AYP5HKQ",
+    "File Name": "Attachments",
+    "File Type": "Unknown",
+    "User": "clientserviceadmin",
+    "Timestamp": "2023-04-12T19:59:35Z",
+    "Date Extracted": "2025-04-08T17:22:07.195006"
+  },
+  {
+    "Activity ID": "01PVIYFKDMT6CWCTR2NNBYM5G4HC2JGQHM",
+    "File Name": "Meetings",
+    "File Type": "Unknown",
+    "User": "clientserviceadmin",
+    "Timestamp": "2023-07-26T18:03:41Z",
+    "Date Extracted": "2025-04-08T17:22:07.195012"
+  },
+  {
+    "Activity ID": "01PVIYFKHFMBM4O2526RHKDQ7BO2HRB5QW",
+    "File Name": "Microsoft Teams Chat Files",
+    "File Type": "Unknown",
+    "User": "clientserviceadmin",
+    "Timestamp": "2021-05-18T19:19:25Z",
+    "Date Extracted": "2025-04-08T17:22:07.195017"
+  },
+  {
+    "Activity ID": "01PVIYFKBOAFPPM4HSOBDL3RYWRISD2QBL",
+    "File Name": "Microsoft Teams Data",
+    "File Type": "Unknown",
+    "User": "clientserviceadmin",
+    "Timestamp": "2024-01-26T16:17:13Z",
+    "Date Extracted": "2025-04-08T17:22:07.195022"
+  },
+  {
+    "Activity ID": "01PVIYFKH7FTYLNIHFRZEYMGIFUENAFY2N",
+    "File Name": "Recordings",
+    "File Type": "Unknown",
+    "User": "clientserviceadmin",
+    "Timestamp": "2021-08-25T21:01:25Z",
+    "Date Extracted": "2025-04-08T17:22:07.195027"
+  },
+  {
+    "Activity ID": "01PVIYFKEK2VWWEP6Q4FALBHW4DNH6IWDK",
+    "File Name": "Briza @ LCW",
+    "File Type": "Unknown",
+    "User": "clientserviceadmin",
+    "Timestamp": "2021-01-29T20:43:54Z",
+    "Date Extracted": "2025-04-08T17:22:07.195032"
+  },
+  {
+    "Activity ID": "01PVIYFKA46NYKAGZGOBG2XAVNZDZJF2GT",
+    "File Name": "CFCU_ Inclusive Leadership_ Managing Biases for Leaders.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "clientserviceadmin",
+    "Timestamp": "2024-05-16T19:08:29Z",
+    "Date Extracted": "2025-04-08T17:22:07.195037"
+  },
+  {
+    "Activity ID": "01PVIYFKGYQCNE34MUGRAIWC64Z5ZVHIEX",
+    "File Name": "Doc1.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "clientserviceadmin",
+    "Timestamp": "2021-05-06T18:29:29Z",
+    "Date Extracted": "2025-04-08T17:22:07.195042"
+  },
+  {
+    "Activity ID": "01PVIYFKDCK3YQC5DVKBEL6OXN6C4EUCCE",
+    "File Name": "Email Responses.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "clientserviceadmin",
+    "Timestamp": "2021-01-28T15:57:36Z",
+    "Date Extracted": "2025-04-08T17:22:07.195047"
+  },
+  {
+    "Activity ID": "01PVIYFKC5Z7GYVTEZYNDLHNGPK3EBCAO7",
+    "File Name": "June 7 Virtual Attendee Itinerary.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "clientserviceadmin",
+    "Timestamp": "2022-05-26T02:53:38Z",
+    "Date Extracted": "2025-04-08T17:22:07.195052"
+  },
+  {
+    "Activity ID": "01PVIYFKDBPVL7O34LERAJASECQZCLH6X2",
+    "File Name": "LCW Sponsored Conference.docx",
+    "File Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "User": "clientserviceadmin",
+    "Timestamp": "2023-04-04T19:11:49Z",
+    "Date Extracted": "2025-04-08T17:22:07.195056"
+  },
+  {
+    "Activity ID": "01PVIYFKFWPHCZL7HSPBF3VKIHDMOFPPLM",
+    "File Name": "MONICA 2021.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "clientserviceadmin",
+    "Timestamp": "2021-10-12T17:32:17Z",
+    "Date Extracted": "2025-04-08T17:22:07.195061"
+  },
+  {
+    "Activity ID": "01PVIYFKDXMHCDQ4C5WZAK743DYWRDN6UZ",
+    "File Name": "Spotlight on the Black Community.xlsx",
+    "File Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "User": "clientserviceadmin",
+    "Timestamp": "2024-02-28T19:42:24Z",
+    "Date Extracted": "2025-04-08T17:22:07.195066"
+  },
+  {
+    "Activity ID": "01PVIYFKD6KVTRBS6UMRH3UWQ6I77LDWPO",
+    "File Name": "Welcome to LCW_2022_ACCTG.pptx",
+    "File Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "User": "clientserviceadmin",
+    "Timestamp": "2022-11-21T23:10:49Z",
+    "Date Extracted": "2025-04-08T17:22:07.195070"
+  }
+]
