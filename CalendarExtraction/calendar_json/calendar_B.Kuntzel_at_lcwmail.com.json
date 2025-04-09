@@ -1,0 +1,378 @@
+[
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAAD-C9M0AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Stephanie Monteiro",
+    "Title": "Annul\u00e9\u00a0: Leadership Academy - Inclusive Leadership session (LCW)",
+    "Description": "Vous ne recevez pas souvent de courriers de la part de stephanie.monteiro@ubisoft.com. D\u00e9couvrez pourquoi cela est important Hello, Here is the invite for the Ubisoft Leadership Academy session on Inclusive Leadership. Thanks & have a great day! S",
+    "Location": "Station 5 (5th Floor, C building)",
+    "Attendees": {
+      "Stephanie Monteiro": "required",
+      "Rapha\u00eblle Lalo": "required",
+      "Raashi Sikka": "optional",
+      "Bastian K\u00fcntzel": "optional",
+      "Bastian Kuntzel": "optional"
+    },
+    "Virtual": false,
+    "Start": "2023-11-09T08:00:00.0000000",
+    "End": "2023-11-09T11:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.608680"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAAD6gn-uAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Theoria Cason",
+    "Title": "3rd virtual meeting prep",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 246 740 811 066 Passcode: nVNiuj Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Theoria Cason": "required",
+      "Rapha\u00eblle Lalo": "required",
+      "Bastian K\u00fcntzel": "required",
+      "Bastian Kuntzel": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-10-31T13:00:00.0000000",
+    "End": "2023-10-31T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.608766"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAAD4bPqIAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Bastian Kuntzel",
+    "Title": "Cohort 8: Advancing Inclusion",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 285 066 530 818 Passcode: SEiRfo Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Bastian Kuntzel": "Organizer"
+    },
+    "Virtual": true,
+    "Start": "2023-10-30T16:00:00.0000000",
+    "End": "2023-10-30T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.608835"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAADm4KF1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Theoria Cason",
+    "Title": "LCW Discussion",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 230 475 442 810 Passcode: 6SuiGE Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Theoria Cason": "required",
+      "Bastian K\u00fcntzel": "required",
+      "Bastian Kuntzel": "required",
+      "Rapha\u00eblle Lalo": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-10-12T14:00:00.0000000",
+    "End": "2023-10-12T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.608900"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAADgcvQ7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Theoria Cason",
+    "Title": "Advancing Inclusion for Leaders FACILITATORS- Content discussion",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 276 538 095 533 Passcode: gTFo6G Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Theoria Cason": "required",
+      "Bastian K\u00fcntzel": "required",
+      "Bastian Kuntzel": "required",
+      "Rapha\u00eblle Lalo": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-09-28T12:00:00.0000000",
+    "End": "2023-09-28T13:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.608950"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAADgcvQ6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Bastian Kuntzel",
+    "Title": "Advancing Inclusion Part 3",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 236 233 668 121 Passcode: v6xeXs Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Bastian Kuntzel": "Organizer"
+    },
+    "Virtual": true,
+    "Start": "2023-11-02T15:00:00.0000000",
+    "End": "2023-11-02T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.608995"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAADgcvQ5AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Bastian Kuntzel",
+    "Title": "Advancing Inclusion Part 3 ",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 213 108 917 009 Passcode: xojhHB Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Bastian Kuntzel": "Organizer"
+    },
+    "Virtual": true,
+    "Start": "2023-11-02T09:00:00.0000000",
+    "End": "2023-11-02T11:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.609048"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAADgcvQ4AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Bastian Kuntzel",
+    "Title": "Advancing Inclusions Part 1",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 281 520 284 18 Passcode: dJf8Zy Download Teams",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Bastian Kuntzel": "Organizer"
+    },
+    "Virtual": true,
+    "Start": "2023-10-05T14:00:00.0000000",
+    "End": "2023-10-05T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.609089"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAADTDddcAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Tamara Thorpe",
+    "Title": "LCW X Ubisoft Leaders Session Connect",
+    "Description": "Hello Bastian and Theoria, Looking forward to connecting with the two of you for the upcoming, Advancing Inclusion for Leaders. Tamara Microsoft Teams meeting Join o",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Tamara Thorpe": "required",
+      "Theoria Cason": "required",
+      "Bastian Kuntzel": "required",
+      "Bastian K\u00fcntzel": "required",
+      "Rapha\u00eblle Lalo": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-08-30T14:00:00.0000000",
+    "End": "2023-08-30T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.609131"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAABtvqPzAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Bastian Kuntzel",
+    "Title": "Ubisoft Cohort 5 Session 3",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 256 785 718 584 Passcode: EaX96k Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Annelie Wambeek": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-17T15:00:00.0000000",
+    "End": "2023-05-17T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.609171"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAABtvqPyAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Bastian Kuntzel",
+    "Title": "Ubisoft Cohort 5 Session 2",
+    "Description": "https://miro.com/app/board/uXjVMU6llfg=/ Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 285 960",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Annelie Wambeek": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-10T15:00:00.0000000",
+    "End": "2023-05-10T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.609225"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAABSGtEaAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Tamara Thorpe",
+    "Title": "Ubisoft Content Review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 259 671 424 322 Passcode: zNxd3R Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Tamara Thorpe": "required",
+      "Bastian K\u00fcntzel": "required",
+      "Bastian Kuntzel": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-27T18:30:00.0000000",
+    "End": "2023-02-27T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.609268"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAABSGtEZAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Bastian Kuntzel",
+    "Title": "Inclusive Leadership Cohort 6",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 217 625 616 388 Passcode: zEBHrs Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Annelie Wambeek": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-28T15:00:00.0000000",
+    "End": "2023-03-28T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.609308"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAABSGtEYAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Bastian Kuntzel",
+    "Title": "Inclusive Leadership Cohort 6",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 225 874 447 752 Passcode: 3Dw4tC Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Annelie Wambeek": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-27T15:00:00.0000000",
+    "End": "2023-03-27T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.609349"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAABSGtEXAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Bastian Kuntzel",
+    "Title": "Inclusive Leadership Cohort 5",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 215 436 583 777 Passcode: XwzLJn Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Annelie Wambeek": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-16T16:00:00.0000000",
+    "End": "2023-03-16T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.609386"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAABSGtEWAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Bastian Kuntzel",
+    "Title": "Inclusive Leadership Cohort 5",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 292 839 473 920 Passcode: yzcecy Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Annelie Wambeek": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-14T16:00:00.0000000",
+    "End": "2023-03-14T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.609426"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAABSGtEVAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Tamara Thorpe",
+    "Title": "LCW Content Review for Ubisoft",
+    "Description": "Hello Annelie and Bastian, This will be time to finalize the content for March 9th. I have a couple of questions about your visions for a couple of the activity revisions. Tamara",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Tamara Thorpe": "required",
+      "Annelie Wambeek": "required",
+      "Bastian K\u00fcntzel": "required",
+      "Bastian Kuntzel": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-28T18:30:00.0000000",
+    "End": "2023-02-28T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.609468"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAABBJlaeAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Bastian Kuntzel",
+    "Title": "Raphaelle, Annelie and Bastian Briefing",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 285 173 530 458 Passcode: bFxHKS Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Annelie Wambeek": "required",
+      "Rapha\u00eblle Lalo": "required",
+      "Tamara Thorpe": "required",
+      "Conner Williams": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-01-23T15:15:00.0000000",
+    "End": "2023-01-23T15:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.609505"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAAA9G-n2AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Bastian Kuntzel",
+    "Title": "Inclusive Leadership Virtual 2",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 285 904 723 284 Passcode: yh3qHf Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Rapha\u00eblle Lalo": "required",
+      "Annelie Wambeek": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-01-24T16:00:00.0000000",
+    "End": "2023-01-24T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.609548"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAAA9G-n1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Bastian Kuntzel",
+    "Title": "Inclusive Leadership Virtual 1",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 258 612 467 089 Passcode: JKwT8M Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Rapha\u00eblle Lalo": "required",
+      "Annelie Wambeek": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-01-23T16:00:00.0000000",
+    "End": "2023-01-23T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.609589"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAAAgstmiAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Bastian Kuntzel",
+    "Title": "Ubisoft Advancing Inclusion 2b",
+    "Description": "Microsoft Teams meeting Join on your computer or mobile app Click here to join the meeting Meeting ID: 271 246 759 767 Passcode: HWoydE Download Teams | Join on t",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Annelie Wambeek": "required",
+      "Rapha\u00eblle Lalo": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-12-05T16:00:00.0000000",
+    "End": "2022-12-05T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.609626"
+  },
+  {
+    "Event ID": "AAMkADE3MjgwZjQ3LWY4NTYtNDQxMy1hY2IwLTI1MzJhNTY4MGY4MABGAAAAAADtOuyBrGtYSpTUhf9tvnE6BwCIigZdW-Z6S7TePapgSMSOAAAAAAENAACIigZdW-Z6S7TePapgSMSOAAAX_51fAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Bastian Kuntzel",
+    "Title": "Leadership Academy / Advancing Inclusion Part 2",
+    "Description": "Microsoft Teams meeting Join on your computer or mobile app Click here to join the meeting Meeting ID: 283 690 379 483 Passcode: RHbFtL Download Teams | Join on t",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Rapha\u00eblle Lalo": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-21T16:00:00.0000000",
+    "End": "2022-11-21T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.609661"
+  },
+  {
+    "Event ID": "AQMkADE3MjgwZjQ3LWY4NTYtNDQAMTMtYWNiMC0yNTMyYTU2ODBmODAARgAAA_067IGsa1hKlNSF-22_cToHAIiKBl1b9npLtN49qmBIxI4AAAIBDQAAAIiKBl1b9npLtN49qmBIxI4AAAJTjwAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Tamara Thorpe",
+    "Title": "New Room for Ubisoft HR Upskilling",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 244 902 025 692 Passcode: VXtv3f Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Tamara Thorpe": "required",
+      "Annelie Wambeek": "required",
+      "Bastian Kuntzel": "required",
+      "Rapha\u00eblle Lalo": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-13T07:00:00.0000000",
+    "End": "2022-10-13T09:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:13.613158"
+  }
+]

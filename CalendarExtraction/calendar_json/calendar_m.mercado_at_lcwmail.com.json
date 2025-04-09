@@ -1,0 +1,3076 @@
+[
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAB_yKXbAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Touchbase- Transition",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 258 722 898 901 Passcode: QarHB4 Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-08-23T15:00:00.0000000",
+    "End": "2023-08-23T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.225761"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAB_yKXaAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "DNB",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-08-23T13:45:00.0000000",
+    "End": "2023-08-23T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.225851"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAB8G1q8AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "DNB",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-08-21T20:00:00.0000000",
+    "End": "2023-08-21T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.225907"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAB8G1q7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Maria/Chuck 1:1",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 291 529 014 64 Passcode: YGVZyo Download Teams | J",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-08-18T16:00:00.0000000",
+    "End": "2023-08-18T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.225990"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAB6whXlAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Maria M and Chuck 1:1",
+    "Description": "Hi Maria, Chuck is out for the first half of today. Rescheduling this to tomorrow morning when he\u2019s in. Microsoft Teams meeting Join on your computer, mobile app or roo",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-08-17T16:00:00.0000000",
+    "End": "2023-08-17T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.226083"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAB3TojKAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Maria OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-08-11T12:00:00.0000000",
+    "End": "2023-08-11T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.226134"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABtU8hmAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Maria OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-08-02T12:00:00.0000000",
+    "End": "2023-08-02T21:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.226189"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCemAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "1:1 Maria M. & Alisa",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 288 379 986 746 Passcode: VNkhqA Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-07-28T18:05:00.0000000",
+    "End": "2023-07-28T18:25:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.226260"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABl0URDAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Strategy Working Group",
+    "Description": "(Formally known as the LT) Strategy work on: SWOT Analysis Strategic Plan Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Antonio Jones": "required",
+      "Daniel Gough": "required",
+      "Sarah Nodarse": "required",
+      "Tamara Thorpe": "required",
+      "Kelly Salek": "required",
+      "Rebecca Parrilla": "required",
+      "Maria Mercado": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-07-19T17:00:00.0000000",
+    "End": "2023-07-19T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.226831"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABl0URCAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Weekly XLT Meeting",
+    "Description": "Focus: Strategic direction of the firm Microsoft Teams meeting Join on your computer or mobile app Click here to join the meeting Or call in (audio only) +1 872-239-8",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Kelly Salek": "required",
+      "Rebecca Parrilla": "required",
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Maria Mercado": "required",
+      "Jennifer Barbieri": "optional"
+    },
+    "Virtual": true,
+    "Start": "2022-07-12T18:00:00.0000000",
+    "End": "2022-07-12T18:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.226909"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABfb9AHAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "LCW Learner's Lounge",
+    "Description": "Welcome to the LCW Learner\u2019s Lounge! Professional Development Series: LCW Learner\u2019s Lounge Q2 Reading Material: Learning in Relationship: Foundation for Personal and Professional Success by Ronald R. Short. Audience: All employees, participation is o",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Sarah Nodarse": "required",
+      "Maria Fagrelius": "required",
+      "Office": "optional",
+      "Antonio Jones": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-06-01T18:00:00.0000000",
+    "End": "2023-06-01T18:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227007"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABea3dRAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Weekly LT Meeting",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 254 199 417 821 Passcode: RMcWen Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Sarah Nodarse": "required",
+      "Tamara Thorpe": "required",
+      "Daniel Gough": "required",
+      "Kelly Salek": "required",
+      "Rebecca Parrilla": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-07-06T20:00:00.0000000",
+    "End": "2023-07-06T20:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227080"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABea3dQAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Monthly All Staff (cont.)",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 285 707 886 697 Passcode: 37FabH Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Office": "required",
+      "Antonio Jones": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-07-12T15:30:00.0000000",
+    "End": "2023-07-12T16:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227264"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABea3dPAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jake Pieczynski",
+    "Title": "Learning with LCW Webinar: Creating a culture of inclusion that fosters high performance",
+    "Description": "* [Webinar] Creating a culture of inclusion that fosters high performance * When: Wednesday, July 12, 1pm CT * Who: Sarah Nodarse and Vince Bongiovanni * Registration Page: https://share.hsforms.com/1jaIJOpZSQDmgtOpzJrXjWQe",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Jake Pieczynski": "required",
+      "Office": "optional",
+      "Maria Fagrelius": "optional",
+      "Alisa Kolodizner": "optional",
+      "Larry Baker": "optional",
+      "Maria Mercado": "optional",
+      "Pedro Seminario": "optional",
+      "Antonio Jones": "optional",
+      "Melissa Neu": "optional",
+      "Conner Williams": "optional",
+      "Tamara Thorpe": "optional",
+      "Daniel Gough": "optional",
+      "Ashton Vicente": "optional",
+      "Sarah Nodarse": "optional",
+      "Kelly Salek": "optional"
+    },
+    "Virtual": false,
+    "Start": "2023-07-12T18:00:00.0000000",
+    "End": "2023-07-12T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227324"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABYSuiGAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Update on Exit Process for EEs",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 263 965 605 59 Passcode: AaA5dr Download Teams | J",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-28T16:30:00.0000000",
+    "End": "2023-06-28T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227363"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABXFNmJAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "I9 w Maria Mercado",
+    "Description": "Please bring your i-9 documentation for review. This would be either your passport or driver\u2019s license and social security card. Feel free to ask any HR related questions during this time.",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Antonio Jones": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-07-05T14:30:00.0000000",
+    "End": "2023-07-05T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227411"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABXFNmIAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Canceled: Welcome to LCW",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 253 655 381 599 Passcode: HA5wYx Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required",
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-07-05T13:45:00.0000000",
+    "End": "2023-07-05T14:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227450"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABTBkEbAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nassise Geleta",
+    "Title": "Follow up discussion ",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 210 979 818 221 Passcode: rsvCXU Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nassise Geleta": "required",
+      "Chuck Adams": "required",
+      "Maria Mercado": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-16T17:00:00.0000000",
+    "End": "2023-06-16T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227486"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCelAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Maria OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-06-17T13:00:00.0000000",
+    "End": "2023-06-28T13:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227518"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABOMjZFAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "All Staff",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 257 331 998 332 Passcode: aPs7hn Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Alisa Kolodizner": "required",
+      "Andrea Wicks Bowles": "required",
+      "Chuck Adams": "required",
+      "Conner Williams": "required",
+      "Daniel Gough": "required",
+      "Dustin Puehler": "required",
+      "Emani Richmond": "required",
+      "Kelly Salek": "required",
+      "Kendall Washington": "required",
+      "Keri Luo": "required",
+      "Larry Baker": "required",
+      "Maria Fagrelius": "required",
+      "Maria Mercado": "required",
+      "Pedro Seminario": "required",
+      "Randy Pringle": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Nodarse": "required",
+      "Tamara Thorpe": "required",
+      "Vince Bongiovanni": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-16T17:30:00.0000000",
+    "End": "2023-06-16T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227558"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABOMjZCAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Jeffrey & HR",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 240 941 951 749 Passcode: cEhwj9 Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Jeffrey Cookson": "required",
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-14T18:30:00.0000000",
+    "End": "2023-06-14T18:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227596"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABOMjY-AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Nassise & HR",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 243 301 906 087 Passcode: zCVrdK Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nassise Geleta": "required",
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-14T18:00:00.0000000",
+    "End": "2023-06-14T18:20:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227635"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABOMjY8AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Kaitlin & HR",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 297 974 564 935 Passcode: xWM4Jo Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Kaitlin Nonweiler": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-14T17:30:00.0000000",
+    "End": "2023-06-14T17:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227675"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABOMjY5AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Jake & HR",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 243 231 921 054 Passcode: 6Vqboc Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Jake Pieczynski": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-14T17:00:00.0000000",
+    "End": "2023-06-14T17:20:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227714"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABOMjY2AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Ashton & HR",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 248 387 456 651 Passcode: 4JuNSP Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Ashton Vicente": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-14T16:30:00.0000000",
+    "End": "2023-06-14T16:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227756"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABOMjYzAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Grace & HR",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 217 269 644 890 Passcode: rjRUht Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Grace Vottero": "required",
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-14T16:00:00.0000000",
+    "End": "2023-06-14T16:20:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227794"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABOMjYwAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Melissa & HR",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 218 546 326 347 Passcode: BhYec5 Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Melissa Neu": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-14T15:30:00.0000000",
+    "End": "2023-06-14T15:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227837"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABOMjYtAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Hannah & HR ",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 228 906 099 640 Passcode: qiZwGC Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Hannah Strack": "required",
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-14T15:00:00.0000000",
+    "End": "2023-06-14T15:20:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227874"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCekAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Mandatory All Staff Meeting",
+    "Description": "Please be on time.. Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 213 668 436 761 Passcode: pAcAbk",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "resource",
+      "Ashton Vicente": "resource",
+      "Hannah Strack": "resource",
+      "Grace Vottero": "resource",
+      "Jeffrey Cookson": "resource",
+      "Melissa Neu": "resource",
+      "Kaitlin Nonweiler": "resource",
+      "Nassise Geleta": "resource",
+      "Chuck Adams": "resource",
+      "Jake Pieczynski": "resource"
+    },
+    "Virtual": true,
+    "Start": "2023-06-14T14:00:00.0000000",
+    "End": "2023-06-14T14:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227924"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCehAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Connect",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 286 102 954 053 Passcode: xDzmzt Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-12T19:30:00.0000000",
+    "End": "2023-06-12T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.227964"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABOMjYkAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "EOW LT Meeting",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 269 452 543 818 Passcode: qBiGMn Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Kelly Salek": "required",
+      "Rebecca Parrilla": "required",
+      "Tamara Thorpe": "required",
+      "Sarah Nodarse": "required",
+      "Daniel Gough": "required",
+      "Jake Pieczynski": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-16T16:00:00.0000000",
+    "End": "2023-06-16T16:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228006"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABOMjYiAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "DNB",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-06-15T15:00:00.0000000",
+    "End": "2023-06-15T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228035"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABOMjYhAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "DNB",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-06-13T16:30:00.0000000",
+    "End": "2023-06-13T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228060"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABKZgloAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jake Pieczynski",
+    "Title": "MM/JP Check-In",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 241 958 456 217 Passcode: cq7FJt Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Jake Pieczynski": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-09T16:00:00.0000000",
+    "End": "2023-06-09T16:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228100"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABKZglmAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "DNB",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-06-07T17:00:00.0000000",
+    "End": "2023-06-07T18:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228125"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABKZgllAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "DNB",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-06-07T18:30:00.0000000",
+    "End": "2023-06-07T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228152"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABKZglkAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "DNB",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-06-07T15:30:00.0000000",
+    "End": "2023-06-07T16:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228174"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCefAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Calendly",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 245 317 377 723 Passcode: TUa4jJ Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-05T20:00:00.0000000",
+    "End": "2023-06-05T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228212"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABKZglhAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen-AJ",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 296 084 846 841 Passcode: YdurqC Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-05T15:15:00.0000000",
+    "End": "2023-06-05T15:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228250"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABKZglgAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen-MD",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 255 630 134 622 Passcode: C5miDk Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-05T13:45:00.0000000",
+    "End": "2023-06-05T14:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228285"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCegAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Transition Plan",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 277 347 632 563 Passcode: bEXL2W Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-08T16:00:00.0000000",
+    "End": "2023-06-08T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228321"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCeYAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen-BW",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 291 084 029 207 Passcode: HLoJiK Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-02T18:15:00.0000000",
+    "End": "2023-06-02T18:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228357"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCeXAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen-DG",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 217 392 602 261 Passcode: XhW8qM Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-01T22:15:00.0000000",
+    "End": "2023-06-01T22:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228397"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCeWAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen-JJ",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 266 827 079 509 Passcode: SqmHdq Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-02T17:45:00.0000000",
+    "End": "2023-06-02T18:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228437"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCeVAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen-MV",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 292 147 683 676 Passcode: BKxnaM Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-02T17:15:00.0000000",
+    "End": "2023-06-02T17:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228474"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCeUAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen-KB",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 276 590 343 683 Passcode: 6cUZr7 Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-02T14:30:00.0000000",
+    "End": "2023-06-02T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228513"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCeTAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen-KK",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 298 520 944 406 Passcode: vuaKSA Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-01T21:30:00.0000000",
+    "End": "2023-06-01T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228551"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCeSAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen-RO",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 268 441 424 566 Passcode: 27EBNC Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-01T21:00:00.0000000",
+    "End": "2023-06-01T21:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228591"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCeRAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-06-02T16:00:00.0000000",
+    "End": "2023-06-02T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228621"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCeQAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen-VG",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 299 620 556 819 Passcode: pRA6h3 Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-02T14:45:00.0000000",
+    "End": "2023-06-02T15:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228658"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCePAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen MD",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 212 233 188 420 Passcode: KTXdK8 Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-02T14:00:00.0000000",
+    "End": "2023-06-02T14:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228696"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCeNAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Meeting-Maria/Rebecca/Dan",
+    "Description": "Hi, Setting up this meeting as per my conversations with each of you. Thank you, Maria Microsoft Teams meeting Join on your computer, mobile app or room device Click",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Maria Mercado": "required",
+      "Rebecca Parrilla": "required",
+      "Daniel Gough": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-31T17:30:00.0000000",
+    "End": "2023-05-31T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228739"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABF-fV6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Weekly LT Meeting",
+    "Description": "These weekly meetings will go up until the end of June. Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Maria Mercado": "required",
+      "Rebecca Parrilla": "required",
+      "Kelly Salek": "required",
+      "Sarah Nodarse": "required",
+      "Daniel Gough": "required",
+      "Tamara Thorpe": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-29T16:00:00.0000000",
+    "End": "2023-06-29T16:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228779"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCeLAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Weekly LT Meeting",
+    "Description": "These weekly meetings will go up until the end of June. Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Rebecca Parrilla": "required",
+      "Kelly Salek": "required",
+      "Maria Mercado": "required",
+      "Daniel Gough": "required",
+      "Sarah Nodarse": "required",
+      "Tamara Thorpe": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-12T14:00:00.0000000",
+    "End": "2023-06-12T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228824"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABF-fV4AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Weekly LT Meeting",
+    "Description": "These weekly meetings will go up until the end of June. Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting I",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Rebecca Parrilla": "required",
+      "Kelly Salek": "required",
+      "Maria Mercado": "required",
+      "Daniel Gough": "required",
+      "Tamara Thorpe": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-01T18:00:00.0000000",
+    "End": "2023-06-01T18:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228864"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABDjH3eAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen Pedro",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-05-24T18:30:00.0000000",
+    "End": "2023-05-24T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228894"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABDjH3dAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen Kiya",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-05-24T17:00:00.0000000",
+    "End": "2023-05-24T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228918"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAABDjH3cAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen Ed",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-05-24T15:00:00.0000000",
+    "End": "2023-05-24T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228946"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCeKAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "IDI Coaching @ LCW",
+    "Title": "Maria Mercado (LCW)- IDI Debrief",
+    "Description": "I will send you your results a few days before the debrief. Please let me know if you have any questions. -Kaitlin Microsoft Teams meeting Join on your computer, mobi",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "IDI Coaching @ LCW": "required",
+      "Maria Mercado": "required",
+      "Kaitlin Nonweiler": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-01T15:00:00.0000000",
+    "End": "2023-06-01T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.228986"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAA9BoErAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Travel Reimbursement Review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 290 401 504 10 Passcode: 6NGUNx Download Teams",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Jennifer Barbieri": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-22T13:30:00.0000000",
+    "End": "2023-05-22T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229026"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCeCAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Meeting-Dan & Maria ",
+    "Description": "Hi Dan, I\u2019m scheduling some time for us to talk about an issue that was brought to my attention. Thank you, Maria Microsoft Teams meeting Join on your computer, mobil",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Maria Mercado": "required",
+      "Daniel Gough": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-16T15:00:00.0000000",
+    "End": "2023-05-16T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229076"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCeBAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Melissa Neu",
+    "Title": "Maria & Melissa 1:1",
+    "Description": "Hi Maria, Does this time still work for you? I don\u2019t think we will need the full half hour, but I thought I would schedule it just in case. Kind regards, Melissa M",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Melissa Neu": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-11T18:45:00.0000000",
+    "End": "2023-05-11T19:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229128"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAA6fN_aAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jake Pieczynski",
+    "Title": "[Live Stream] Deconstructing Myths About the AANPI Community",
+    "Description": "Please join to support Larry as your schedules allow and invite your clients/prospects! You can join on: 1. The LCW website: https://languageandculture.com/live-stream-deconstructing-myths-about-the-aanhpi-community/ 2. LinkedIn Event: http",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Jake Pieczynski": "required",
+      "Office": "required",
+      "Pedro Seminario": "optional",
+      "Conner Williams": "optional",
+      "Grace Vottero": "optional",
+      "Daniel Gough": "optional",
+      "Maria Fagrelius": "optional",
+      "Kaitlin Nonweiler": "optional",
+      "Larry Baker": "optional",
+      "Kelly Salek": "optional",
+      "Rebecca Parrilla": "optional",
+      "Alisa Kolodizner": "optional",
+      "Sarah Nodarse": "optional",
+      "Emani Richmond": "optional",
+      "Keri Luo": "optional",
+      "Ashton Vicente": "optional",
+      "Tamara Thorpe": "optional"
+    },
+    "Virtual": false,
+    "Start": "2023-05-22T17:00:00.0000000",
+    "End": "2023-05-22T17:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229174"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAA5V7aEAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jake Pieczynski",
+    "Title": "Maria/Jake Email Follow-Up",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 276 046 212 173 Passcode: jPa7aX Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Jake Pieczynski": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-15T16:00:00.0000000",
+    "End": "2023-05-15T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229219"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCeMAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Clockify Reintroduction, Refresher & Updates",
+    "Description": "At this meeting we\u2019ll reintroduce Clockify, do a refresher on how to use the platform and give a few updates because starting June 1st, everyone will be using Clockify. This meeting will be recorded.",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Office": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-30T19:00:00.0000000",
+    "End": "2023-05-30T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229270"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCeAAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "DNB",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-05-16T17:00:00.0000000",
+    "End": "2023-05-16T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229299"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCd-AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Handbook Review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 291 235 372 703 Passcode: z7dAAb Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Maria Mercado": "required",
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-16T18:30:00.0000000",
+    "End": "2023-05-16T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229337"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCd_AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Pamela Coulter",
+    "Title": "Hartford Form Completion via portal",
+    "Description": "Maria Here is the Zoom meeting for today at 2pm Eastern / 1pm Central https://us02web.zoom.us/j/89642780853 Pamela Coulter Accounting Email: p.coulter@lcwmail.com Mobile: +1.937.605.9970 www | Twitter | Facebook | LinkedIn",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Pamela Coulter": "required",
+      "Maria Mercado": "required",
+      "Michelle Murcia": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-05-09T18:00:00.0000000",
+    "End": "2023-05-09T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229379"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAA5V7aAAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Rebecca & Maria ",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 216 902 434 946 Passcode: NRF5Hr Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Rebecca Parrilla": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-11T20:00:00.0000000",
+    "End": "2023-05-11T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229417"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAA3u78oAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Revisit Company Goals",
+    "Description": "2023 Company Goals * (deepen client relationships) Increase sales revenue by 40% YoY \u2013 total revenue of 8.8 million * (drive new sales) Record 10% of revenues related to new products * (support recurring revenue streams) Decrease our chur",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Jennifer Barbieri": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-09T17:00:00.0000000",
+    "End": "2023-05-09T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229475"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAA2J1lEAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jake Pieczynski",
+    "Title": "[Webinar] Ask an Expert Anything: Responding to resistance in the workplace",
+    "Description": "UPDATE: Hi team, I\u2019m reaching out to you this morning to let you know that due to an unforeseen medical emergency, we\u2019ve rescheduled this Thursday\u2019s webinar for Tuesday, May 30th at 12pm CT. Here\u2019s how we\u2019re letting clients/registrants know of th",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Jake Pieczynski": "required",
+      "Office": "optional",
+      "Ashton Vicente": "optional",
+      "Alisa Kolodizner": "required",
+      "Conner Williams": "required",
+      "Emani Richmond": "required",
+      "Hannah Strack": "required",
+      "Jeffrey Cookson": "required",
+      "Kaitlin Nonweiler": "required",
+      "Kelly Salek": "required",
+      "Larry Baker": "required",
+      "Maria Fagrelius": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Nodarse": "required",
+      "Tamara Thorpe": "required",
+      "Grace Vottero": "optional",
+      "Melissa Neu": "optional",
+      "Andrea Wicks Bowles": "optional",
+      "Daniel Gough": "optional",
+      "Randy Pringle": "optional"
+    },
+    "Virtual": false,
+    "Start": "2023-05-30T17:00:00.0000000",
+    "End": "2023-05-30T17:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229534"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAA2J1lDAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen Cheryl",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-05-01T19:45:00.0000000",
+    "End": "2023-05-01T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229560"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAA2J1lCAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen Amanda ",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-05-01T19:00:00.0000000",
+    "End": "2023-05-01T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229588"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAA2J1lBAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen Robert ",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-05-01T17:30:00.0000000",
+    "End": "2023-05-01T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229614"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAzkd4aAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "DNB",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-04-28T17:30:00.0000000",
+    "End": "2023-04-28T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229638"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAzkd4ZAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Chris A. phone screen ",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-05-03T15:00:00.0000000",
+    "End": "2023-05-03T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229661"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAzkd4YAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Ryan A phone screen ",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-05-01T14:30:00.0000000",
+    "End": "2023-05-01T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229685"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAzkd4XAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Meghan M phone screen",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-05-01T13:45:00.0000000",
+    "End": "2023-05-01T14:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229712"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAxKJx2AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen ",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-04-26T15:00:00.0000000",
+    "End": "2023-04-26T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229739"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAxKJx1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "BCBS data report ",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-04-25T17:45:00.0000000",
+    "End": "2023-04-25T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229768"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAxKJx0AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone screen ",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-04-24T17:00:00.0000000",
+    "End": "2023-04-24T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229792"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAArw3TqAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "DNB",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-04-27T15:30:00.0000000",
+    "End": "2023-04-27T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229815"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCd8AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "People Leaders Q2 Check-In",
+    "Description": "People Leaders Agenda \u00b7 Pre-retreat updates\u200b \u00b7 Company goals check-in\u200b \u00b7 Clockify\u200b \u00b7 Professional development tracker\u200b \u00b7 Employee appreciation\u200b opportunities \u00b7 Future meeting topics",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Daniel Gough": "required",
+      "Dustin Puehler": "required",
+      "Jake Pieczynski": "required",
+      "Kelly Salek": "required",
+      "Maria Fagrelius": "required",
+      "Melissa Neu": "required",
+      "Tamara Thorpe": "required",
+      "Sarah Nodarse": "required",
+      "Rebecca Parrilla": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-09T19:00:00.0000000",
+    "End": "2023-05-09T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229877"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCd7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Administrative Asst. Conversation",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 295 871 767 430 Passcode: PPjm46 Download Teams",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required",
+      "Emani Richmond": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-04-21T18:00:00.0000000",
+    "End": "2023-04-21T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.229933"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCd6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Administrative Asst. Plan",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 213 740 877 973 Passcode: qqUcMd Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required",
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-04-19T20:15:00.0000000",
+    "End": "2023-04-19T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230020"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAArw3TjAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "DNB",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-04-17T20:00:00.0000000",
+    "End": "2023-04-17T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230087"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAqmrbMAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Melissa Neu",
+    "Title": "Business Development Associate Interview - ErwinMoses",
+    "Description": "Business Development Associate Interview with LCW's Business Development Manager, Melissa Neu. Phone number: 773 559-1433 Microsoft Teams meeting Join on your compute",
+    "Location": "Microsoft Teams",
+    "Attendees": {
+      "Melissa Neu": "required",
+      "Erwin Moses": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-04-19T19:15:00.0000000",
+    "End": "2023-04-19T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230150"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCd5AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "clientserviceadmin",
+    "Title": "Weekly LT Meeting",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 289 813 627 657 Passcode: 8ToYvW Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Daniel Gough": "required",
+      "Sarah Nodarse": "required",
+      "Tamara Thorpe": "required",
+      "Kelly Salek": "required",
+      "Rebecca Parrilla": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-04-04T14:00:00.0000000",
+    "End": "2023-04-04T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230198"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCd4AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone Screen RC",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-04-14T15:30:00.0000000",
+    "End": "2023-04-14T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230231"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCd3AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone Screen DT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-04-13T18:00:00.0000000",
+    "End": "2023-04-13T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230257"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCd2AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone Screen AP",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-04-12T20:00:00.0000000",
+    "End": "2023-04-12T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230284"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCd1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Phone Screen MH",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-04-11T17:30:00.0000000",
+    "End": "2023-04-11T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230313"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCd0AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Quarterly Company & Department Goals Conversation",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 258 421 183 331 Passcode: 6MCSsN Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-04-10T15:00:00.0000000",
+    "End": "2023-04-10T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230357"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdzAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Maria OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-04-10T00:00:00.0000000",
+    "End": "2023-04-11T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230384"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAgaGKEAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Weekly LT Meeting",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 261 138 199 167 Passcode: PUZ3E2 Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required",
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Tamara Thorpe": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Nodarse": "required",
+      "Daniel Gough": "required",
+      "Kelly Salek": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-10T15:00:00.0000000",
+    "End": "2023-05-10T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230430"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAgaGKCAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Weekly LT Meeting",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 294 647 620 054 Passcode: peXHzf Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Sarah Nodarse": "required",
+      "Kelly Salek": "required",
+      "Rebecca Parrilla": "required",
+      "Tamara Thorpe": "required",
+      "Daniel Gough": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-04-28T16:00:00.0000000",
+    "End": "2023-04-28T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230474"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAgaGKBAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Monthly LT Meeting ",
+    "Description": "Where the CLT and XLT meet to discuss topics and department updates Currently scheduled for 80-minutes, can adjust time accordingly as we go Microsoft Teams meeting Join",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "CLT": "required",
+      "XLT": "required",
+      "Jennifer Barbieri": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-19T17:30:00.0000000",
+    "End": "2022-10-19T18:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230516"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAgaGKAAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Weekly LT Meeting",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 267 400 339 553 Passcode: ux5RSx Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Sarah Nodarse": "required",
+      "Daniel Gough": "required",
+      "Tamara Thorpe": "required",
+      "Rebecca Parrilla": "required",
+      "Kelly Salek": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-04-12T16:00:00.0000000",
+    "End": "2023-04-12T16:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230556"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAVhp_qAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Weekly LT Meeting",
+    "Description": "-----Original Appointment----- From: Briza Cardenas Sent: Friday, March 24, 2023 11:32 AM To: Briza Cardenas; Alisa Kolodizner; Chuck Adams; Daniel Gough; Tamara Thorpe; Sarah Nodarse; Kelly Salek; Rebecca Parrilla Subject",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required",
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Daniel Gough": "required",
+      "Tamara Thorpe": "required",
+      "Sarah Nodarse": "required",
+      "Kelly Salek": "required",
+      "Rebecca Parrilla": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-30T16:00:00.0000000",
+    "End": "2023-03-30T16:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230636"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdyAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "meeting with Maria",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 299 967 171 347 Passcode: BhE3u8 Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-24T19:00:00.0000000",
+    "End": "2023-03-24T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230677"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAVhp_mAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Happy 1-Year to the new LCW!",
+    "Description": "Happy 1-Year to the new LCW! Join us for some reflections of the past year and introducing our NEW quarterly chit chat series where we can gather to talk about Anything! We\u2019ll open the time with words from Chuck & Alisa, follow-up with reflections/high",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Office": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-31T16:00:00.0000000",
+    "End": "2023-03-31T16:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230742"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdtAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Nodarse",
+    "Title": "Maria & Sarah virtual coffee? And one urgent billing thing :)",
+    "Description": "Feel free to propose a new time. I do have a sort of urgent task that the client would like to have done by Friday \u2013 it\u2019s to cancel and resubmit an invoice. I will forward you the email so you\u2019re in the loop. Thank you!",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-20T17:00:00.0000000",
+    "End": "2023-03-20T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230799"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAVhp_jAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Virtual Offsite",
+    "Description": "Morning! I\u2019ll ping you between 9a-9:30a CST once we are all situated in the conference room. We\u2019ll use this teams link below to dial in. Microsoft Teams meeting Join on",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Alisa Kolodizner": "optional",
+      "Jake Pieczynski": "optional",
+      "Maria Mercado": "required",
+      "Melissa Neu": "required",
+      "Chuck Adams": "required",
+      "Jennifer Barbieri": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-03-15T14:00:00.0000000",
+    "End": "2023-03-15T21:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230850"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAVhp_iAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Flow on Fridays with Emani",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 289 816 586 703 Passcode: Hy9ApB Download Teams | Jo",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Office": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-24T15:00:00.0000000",
+    "End": "2023-03-24T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230892"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAVhp_hAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Calendly - Hiring Process",
+    "Description": "Calendly Training How to: * create your Calendly account * set up link for interviews * include questions * imbed Teams link * create calendly calendar in outlook",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-20T16:00:00.0000000",
+    "End": "2023-03-20T16:40:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230932"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAASITtBAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "2023 All-Staff Retreat",
+    "Description": "Good Afternoon Folks, This year\u2019s All-Staff Retreat will take place in Chicago from May 23rd-25th.",
+    "Location": "Claridge House (1244 N Dearborn Pkwy, Chicago, IL  60610)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Alisa Kolodizner": "required",
+      "Andrea Wicks Bowles": "required",
+      "Ashton Vicente": "required",
+      "Chuck Adams": "required",
+      "Conner Williams": "required",
+      "Daniel Gough": "required",
+      "Dustin Puehler": "required",
+      "Emani Richmond": "required",
+      "Grace Vottero": "required",
+      "Hannah Strack": "required",
+      "Jake Pieczynski": "required",
+      "Jeffrey Cookson": "required",
+      "Kaitlin Nonweiler": "required",
+      "Kelly Salek": "required",
+      "Kendall Washington": "required",
+      "Keri Luo": "required",
+      "Larry Baker": "required",
+      "Maria Fagrelius": "required",
+      "Melissa Neu": "required",
+      "Monica Marcel": "required",
+      "Nassise Geleta": "required",
+      "Pedro Seminario": "required",
+      "Randall Stieghorst": "required",
+      "Randy Pringle": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Nodarse": "required",
+      "Tamara Thorpe": "required",
+      "Vince Bongiovanni": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-05-23T00:00:00.0000000",
+    "End": "2023-05-26T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.230979"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAASITtAAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-03-09T14:00:00.0000000",
+    "End": "2023-03-09T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231007"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEN0SLAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "DNB",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-03-15T17:00:00.0000000",
+    "End": "2023-03-15T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231032"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEN0SKAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "2023 March LT Offsite",
+    "Description": "Hello, The dates for the March LT Offsite are March 15th-March 17th (Wed-Fri) Location: 222 South Riverside Plaza, Chicago, IL (Off the Clinton Blue Line) Schedule: Wednesday, March 15th 9am-4:30pm CST Thursday, March 16th 9am-4:30pm CST Friday,",
+    "Location": "222 South Riverside Plaza (222 S Riverside Plz, Chicago, IL  60606)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Alisa Kolodizner": "required",
+      "Kelly Salek": "required",
+      "Rebecca Parrilla": "required",
+      "Chuck Adams": "required",
+      "Jake Pieczynski": "required",
+      "Tamara Thorpe": "required",
+      "Daniel Gough": "required",
+      "Sarah Nodarse": "required",
+      "Harvey Bergholz": "optional",
+      "Maria Mercado": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-03-15T00:00:00.0000000",
+    "End": "2023-03-18T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231082"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEN0SJAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "BD Role discussion",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 298 508 851 553 Passcode: dFrUTj Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Jennifer Barbieri": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-03T21:30:00.0000000",
+    "End": "2023-03-03T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231125"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdrAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Check Indeed",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-03-09T15:00:00.0000000",
+    "End": "2023-03-09T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231155"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdqAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "email Maya re contract extension",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-05-01T14:00:00.0000000",
+    "End": "2023-05-01T14:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231181"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEN0SGAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "1:1 Nicole + Maria (EE Handbook)",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 298 674 028 287 Passcode: UBP5Co Download Teams |",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-28T19:30:00.0000000",
+    "End": "2023-02-28T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231218"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEN0SFAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "1:1 Nicole + Maria",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 297 130 115 33 Passcode: kLVmkH Download Teams | J",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-03T15:30:00.0000000",
+    "End": "2023-03-03T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231258"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEN0SDAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "1:1 Nicole + Maria: Review of onboarding, offboarding, hiring, etc.",
+    "Description": "To review what we've covered so far. Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 227 541 375 664",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-01T17:00:00.0000000",
+    "End": "2023-03-01T17:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231295"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEN0SCAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "1:1 Nicole & Maria: External Consultants overview",
+    "Description": "Discuss the process - what Kendall does - Compass, questionnaire, emails sent out, agreements & forms. How does this tie to Translation & other external consultants? Could we use Zenefits for external consultants?",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-01T20:00:00.0000000",
+    "End": "2023-03-01T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231340"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEN0SAAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Andrea Wicks Bowles",
+    "Title": "Hold  LCW Welcome Maria",
+    "Description": "Tentative Plan: the goal is to get a meeting room at Regus on Valley Road in Montclair. We can meet \u201cwork\u201d, and then head out for an early dinner.",
+    "Location": "Regus Meeting Space Montclair",
+    "Attendees": {
+      "Andrea Wicks Bowles": "required",
+      "Maria Mercado": "required",
+      "Jennifer Barbieri": "required",
+      "Grace Vottero": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-03-22T20:00:00.0000000",
+    "End": "2023-03-23T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231390"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEN0R_AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Registrations/compliance & Portal access",
+    "Description": "* Registrations/compliance - WC, registered agent, etc. \u2013 diving in deeper \u2013 show INSURANCES folder in DB Microsoft Teams meeting Join on your computer, mobile app o",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Nicole Barile": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-02T15:30:00.0000000",
+    "End": "2023-03-02T16:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231443"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEN0R9AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "1:1 Nicole + Maria (Recruiting-admin & BD folks)",
+    "Description": "Look at Indeed Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 244 733 656 369 Passcode: Av8Exh Dow",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-01T14:00:00.0000000",
+    "End": "2023-03-01T14:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231488"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEN0R8AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Weekly 1:1 - Maria M. & Chuck",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 299 993 550 357 Passcode: e6zqqu Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-14T16:00:00.0000000",
+    "End": "2023-03-14T16:40:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231526"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEN0R6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "DNB",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-02-28T14:15:00.0000000",
+    "End": "2023-02-28T18:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231557"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdsAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Performance Management Cycle",
+    "Description": "Onboarding session for Maria Mercado (HR Generalist) Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meetin",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Chuck Adams": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-10T16:15:00.0000000",
+    "End": "2023-03-10T17:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231596"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEN0R4AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Focus Time",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-27T16:00:00.0000000",
+    "End": "2023-02-27T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231623"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdjAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "DNB",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-03-13T18:00:00.0000000",
+    "End": "2023-03-13T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231651"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdiAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "DNB",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-27T16:30:00.0000000",
+    "End": "2023-02-27T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231676"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdhAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "DNB",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-23T18:00:00.0000000",
+    "End": "2023-02-23T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231700"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdgAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Maria OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-06-20T12:00:00.0000000",
+    "End": "2023-06-29T03:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231723"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdfAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Maria OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-05-17T12:00:00.0000000",
+    "End": "2023-05-20T03:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231895"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdeAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Maria OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-03-06T13:00:00.0000000",
+    "End": "2023-03-09T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231927"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdWAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "LCW Winter Break",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Office": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-12-26T00:00:00.0000000",
+    "End": "2023-12-30T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231952"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdVAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "New Year's Day",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required",
+      "Office": "required",
+      "Pedro Seminario": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-01-01T00:00:00.0000000",
+    "End": "2024-01-02T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.231979"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdUAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Christmas Day",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required",
+      "Office": "required",
+      "Pedro Seminario": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-12-25T00:00:00.0000000",
+    "End": "2023-12-26T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232005"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdTAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Thanksgiving Friday",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required",
+      "Office": "required",
+      "Pedro Seminario": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-11-24T00:00:00.0000000",
+    "End": "2023-11-25T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232030"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdSAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Thanksgiving Day",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required",
+      "Office": "required",
+      "Pedro Seminario": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-11-23T00:00:00.0000000",
+    "End": "2023-11-24T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232054"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdRAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Veterans Day",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 275 426 103 815 Passcode: avXuPA Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required",
+      "Office": "required",
+      "Pedro Seminario": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-11-10T00:00:00.0000000",
+    "End": "2023-11-11T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232093"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdQAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Indigenous Peoples' Day",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required",
+      "Office": "required",
+      "Pedro Seminario": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-10-09T00:00:00.0000000",
+    "End": "2023-10-10T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232119"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdPAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Labor Day",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required",
+      "Office": "required",
+      "Pedro Seminario": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-09-04T00:00:00.0000000",
+    "End": "2023-09-05T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232144"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdOAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Independence Day",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required",
+      "Office": "required",
+      "Pedro Seminario": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-07-04T00:00:00.0000000",
+    "End": "2023-07-05T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232168"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdNAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Juneteenth",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required",
+      "Office": "required",
+      "Pedro Seminario": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-06-19T00:00:00.0000000",
+    "End": "2023-06-20T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232192"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdMAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Memorial Day",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 246 511 823 967 Passcode: oVra7o Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required",
+      "Office": "required",
+      "Pedro Seminario": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-29T00:00:00.0000000",
+    "End": "2023-05-30T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232228"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdLAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Bi-Weekly All Staff Meeting",
+    "Description": "Focus: Firmwide and functional sharing on (by department): * Current top projects/priorities * Future activities/what are you hearing from clients * Help wanted, if needed",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Alisa Kolodizner": "required",
+      "Andrea Wicks Bowles": "required",
+      "Antonio Jones": "required",
+      "Ashton Vicente": "required",
+      "Chuck Adams": "required",
+      "Conner Williams": "required",
+      "Daniel Gough": "required",
+      "Dustin Puehler": "required",
+      "Emani Richmond": "required",
+      "Jake Pieczynski": "required",
+      "Kelly Salek": "required",
+      "Kendall Washington": "required",
+      "Keri Luo": "required",
+      "Larry Baker": "required",
+      "Maria Fagrelius": "required",
+      "Maya Benoit": "required",
+      "Melissa Neu": "required",
+      "Monica Marcel": "required",
+      "Randall Stieghorst": "required",
+      "Randy Pringle": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Nodarse": "required",
+      "Tamara Thorpe": "required",
+      "Vince Bongiovanni": "required",
+      "Pedro Seminario": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-08-07T16:00:00.0000000",
+    "End": "2023-08-07T16:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232273"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdKAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Presidents' Day",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required",
+      "Office": "required",
+      "Pedro Seminario": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-20T00:00:00.0000000",
+    "End": "2023-02-21T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232299"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdJAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Employee Appreciation Day!",
+    "Description": "Join us, the Culture Team on Friday, March 3rd to celebrate Employee Appreciation Day! We\u2019ll have 50-minutes dedicated to having FUN and saying our goodbyes to Nicole \u2639 Hello Secret Agents! This email contains top secret information that you need to",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Office": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-03T17:00:00.0000000",
+    "End": "2023-03-03T17:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232349"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdXAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Monthly Culture Team Mtg",
+    "Description": "Maria Mercado, our new HR Generalist will be joining our call. Sarah & Vince will go over the RallyBright Survey results. Microsoft Teams meeting Join on your computer or",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Sarah Nodarse": "required",
+      "Tamara Thorpe": "required",
+      "Maria Fagrelius": "required",
+      "Vince Bongiovanni": "required",
+      "Conner Williams": "required",
+      "Hannah Strack": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-28T20:00:00.0000000",
+    "End": "2023-02-28T20:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232393"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdHAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Entering Goals into Zenefits",
+    "Description": "Training on how to input goals into Zenefits. This meeting will be recorded for those that cannot attend. All goals should be entered into Zenefits by March 6th. Microsoft",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Jennifer Barbieri": "optional",
+      "Daniel Gough": "optional",
+      "Kelly Salek": "optional",
+      "Sarah Nodarse": "optional",
+      "Rebecca Parrilla": "optional",
+      "Alisa Kolodizner": "optional",
+      "Tamara Thorpe": "optional",
+      "XLT": "required",
+      "CLT": "required",
+      "Maria Fagrelius": "required",
+      "Dustin Puehler": "required",
+      "Jake Pieczynski": "required",
+      "Melissa Neu": "required",
+      "Maria Mercado": "required",
+      "Nicole Barile": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-02-27T19:30:00.0000000",
+    "End": "2023-02-27T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232438"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdGAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Lunch",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-27T19:00:00.0000000",
+    "End": "2023-02-27T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232464"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdoAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Meet the Translation Department",
+    "Description": "Meet our Translation Department, Maria & Maya Walkthrough of our process for hiring Contractors/1099s/interns Microsoft Teams meeting Join on your computer, mobile app",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maya Benoit": "required",
+      "Maria Fagrelius": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-14T15:00:00.0000000",
+    "End": "2023-03-14T15:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232504"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdDAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "[AGENDA] Weekly CRF Team Meeting",
+    "Description": "* Maria Mercado (LCW\u2019s new HR Generalist) intro * Connection * Larry and Jeffrey\u2019s agenda items * Performance Bonus Plan 2023 will be announced in March 7th - All Staff meeting. * DEIB conference in June (deadline is March 3rd)",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Rebecca Parrilla": "required",
+      "Larry Baker": "required",
+      "Jeffrey Cookson": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-24T16:00:00.0000000",
+    "End": "2023-02-24T16:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232554"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdBAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "EOW 1:1",
+    "Description": "* Recap of your first full week at LCW * What to look forward to * Questions? Microsoft Teams meeting Join on your computer, mobile app or room device Click",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-24T17:30:00.0000000",
+    "End": "2023-02-24T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232592"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdAAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Focus Time",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-23T20:30:00.0000000",
+    "End": "2023-02-23T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232618"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCc-AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Onboarding & Offboarding Process",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 255 296 713 873 Passcode: nc2eJy Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Nicole Barile": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-27T17:30:00.0000000",
+    "End": "2023-02-27T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232656"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdIAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Lunch",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-23T18:00:00.0000000",
+    "End": "2023-02-23T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232681"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCc7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Focus Time",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-23T16:30:00.0000000",
+    "End": "2023-02-23T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232705"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCc4AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Recruiting & Hiring Process",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 260 123 303 599 Passcode: CiiWYt Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Nicole Barile": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-27T14:30:00.0000000",
+    "End": "2023-02-27T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232741"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCc1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Lunch",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-22T18:00:00.0000000",
+    "End": "2023-02-22T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232765"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCc0AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "1:1 Maria (HR) & Chuck",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 277 122 710 040 Passcode: xu3pbv Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Chuck Adams": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-22T17:00:00.0000000",
+    "End": "2023-02-22T17:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232800"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCczAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Focus Time",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-22T16:00:00.0000000",
+    "End": "2023-02-22T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232824"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCcyAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "1:1 Maria (HR) & Alisa",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 297 130 194 118 Passcode: nwWKR9 Download Teams",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Alisa Kolodizner": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-22T15:00:00.0000000",
+    "End": "2023-02-22T15:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232859"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCcxAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Benefits",
+    "Description": "* Benefits (Cobra, BCBS, HSA-Further, Guardian, Guideline, OneDigital) \u2013 make sure to have logins Microsoft Teams meeting Join on your computer, mobile app or room d",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Nicole Barile": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-21T20:00:00.0000000",
+    "End": "2023-02-21T20:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232904"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCcwAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Lunch",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-21T18:00:00.0000000",
+    "End": "2023-02-21T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232929"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCcvAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "LCW Brand, Marketing & Internal Comms",
+    "Description": "Meet the Marketing & Communications Team * how does it overlap with your role * when to loop in * who to go to for what * podcast * LCW brand * social media * Value Props/Who is LCW",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Jake Pieczynski": "required",
+      "Ashton Vicente": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-21T17:00:00.0000000",
+    "End": "2023-02-21T17:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232973"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCcuAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Focus Time",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-21T15:30:00.0000000",
+    "End": "2023-02-21T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.232998"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCctAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Handbook and Policies",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 221 501 028 072 Passcode: enggTH Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Nicole Barile": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-21T14:30:00.0000000",
+    "End": "2023-02-21T15:20:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.233033"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdZAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Zenefits",
+    "Description": "How to use Zenefits (app vs. online) Request time off View org chart Find employee contact info Medical plan Paystubs Etc. Microsoft Teams meeting Join on your com",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-17T17:30:00.0000000",
+    "End": "2023-02-17T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.233070"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdaAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Focus Time",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-17T17:00:00.0000000",
+    "End": "2023-02-17T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.233095"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCcsAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Deep Dive into HR Folders",
+    "Description": "How to: * navigate the HR folders * label folders * label documents * organize * etc. Microsoft Teams meeting Join on your computer, mobil",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Nicole Barile": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-17T16:30:00.0000000",
+    "End": "2023-02-17T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.233131"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCcqAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Intro to Dropbox",
+    "Description": "How to: * organize folders * folder naming * where to find things * starring files & folders * folder organization * saving docs * sharing links/paths * desktop vs app * syncing, etc.",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Nicole Barile": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-17T16:00:00.0000000",
+    "End": "2023-02-17T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.233178"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCcrAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Culture & Wellness Initiative",
+    "Description": "Introduction to a few initiatives we have at LCW * Wellness Initiative * Culture Team Introduce Culture Charter Wellness Channel Microsoft Teams meeting",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-17T15:00:00.0000000",
+    "End": "2023-02-17T15:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.233216"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdcAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Rebecca Watkins & Maria Mercado (HR Generalist)",
+    "Description": "Intro meeting between Rebecca Watkins (External HR) & Maria Mercado (LCW HR Generalist) Rebecca will share her HR perspective, her exit interview process, high level 2021 salary research project & anything else HR related.",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "EXT HR Support": "required",
+      "Maria Mercado": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-02-16T20:30:00.0000000",
+    "End": "2023-02-16T21:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.233259"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCdYAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Outlook & Teams",
+    "Description": "How we use Outlook & Teams: * tips & tricks * email templates * notifications * calendaring (how to invite colleagues to meetings, agendas) * email signature * MS phone # * creating Teams channel * OOO * resp",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-02-17T18:10:00.0000000",
+    "End": "2023-02-17T19:25:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.233302"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCc6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Lunch",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-16T18:00:00.0000000",
+    "End": "2023-02-16T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.233328"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCc8AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "1:1/Role & Responsibilities",
+    "Description": "* Role Responsibilites & Expectations * First week agenda * Questions Microsoft Teams meeting Join on your computer, mobile app or room device Click h",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Nicole Barile": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-16T17:00:00.0000000",
+    "End": "2023-02-16T17:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.233366"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCc9AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Setting up your computer/Tech check",
+    "Description": "Tech Check to make sure everything you need, you have, and all is working. Things to check: * meetings on their calendar * using Chrome vs Edge * PPT installed * screen shot/grab, etc.",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Kendall Washington": "required",
+      "Maria Mercado": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-02-16T16:00:00.0000000",
+    "End": "2023-02-16T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.233522"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEOCc_AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "I-9 with Nicole",
+    "Description": "Please have two forms of Identification on hand to complete the I-9 Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Nicole Barile": "required",
+      "Maria Mercado": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-02-16T15:30:00.0000000",
+    "End": "2023-02-16T15:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.233564"
+  },
+  {
+    "Event ID": "AAMkADBiYzU5OWM3LWEyMTgtNDUwNy1hOTAxLTA1M2EwZGYyNTU4YQBGAAAAAADsj7ZuedfVQqsq1WYS7XUgBwBkf4h0CuyBS58ENk8WxJgAAAAAAAENAABkf4h0CuyBS58ENk8WxJgAAAAEN0Q9AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Welcome to LCW!",
+    "Description": "Welcome to LCW! * Icebreaker * Welcome, mission/vision/values * Org chart * Who to go to for what (including EXT partners) * Answer immediate questions * Discuss onboarding cadence * HR basics (health ins, simple IRA,",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Nicole Barile": "required",
+      "Chuck Adams": "required",
+      "Maria Mercado": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-02-16T14:30:00.0000000",
+    "End": "2023-02-16T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:40.233603"
+  }
+]

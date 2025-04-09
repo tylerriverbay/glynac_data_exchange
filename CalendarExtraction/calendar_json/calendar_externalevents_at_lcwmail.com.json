@@ -1,0 +1,917 @@
+[
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJMwAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[DEADLINE] Chief Learning Officer Symposium (Early Bird Reg.)",
+    "Description": "Date: October 16-18 Website: https://www.closymposium.com/ Registration: https://shop.betterworkmedia.com/collections/chief-learning-officer-events-awards/products/2023-chief-learning-officer-symposium Over the past few years, we've tossed around wo",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-08-15T00:00:00.0000000",
+    "End": "2023-08-16T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.479670"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJMgAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[DEADLINE] ILA Global Conference Registration",
+    "Description": "Dates: October 12-15 Website: https://ilaglobalconference.org/ Registration: https://ilaglobalconference.org/registration/ Rates: ILA\u2019s 25th Global Conference will support our responsibilities as global citizens and as leaders and leadership profe",
+    "Location": "Virtual / Vancouver, Canada",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-09-15T00:00:00.0000000",
+    "End": "2023-09-16T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.479800"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJMQAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Conference] SIETAR USA",
+    "Description": "Date: November 2-4, 2023 Website: https://www.sietarusa.org/conference Registration: TBA Rates: TBA Theme: Acceptance, Belonging, Community",
+    "Location": "Virtual",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-11-02T00:00:00.0000000",
+    "End": "2023-11-05T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.479862"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJMAAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Award] Submission Deadline: Chicago Innovation Awards",
+    "Description": "Organization: Chicago Innovation Nominate: LCW Website: https://chicagoinnovation.com/nominations/ Submission Period: May 1\u2013July 31 Event Date: November 2023 Chicago Innovation\u2019s mission is to empower the CHICAGO INNOVATION ECOSYSTEM by educating,",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-07-31T00:00:00.0000000",
+    "End": "2023-08-01T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.479940"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFK5AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[DEADLINE] NCSHRM CONFERENCE",
+    "Description": "Website: https://ncshrm.com/2023-ncshrm-state-conference/ Registration: https://ncshrm.com/2023-conference-registration/ The 41st Annual NCSHRM Conference will be held in-person! You can purchase on-demand separately if necessary. Join us with thou",
+    "Location": "Wilmington, NC",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-09-19T00:00:00.0000000",
+    "End": "2023-09-20T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.479988"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFK4AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[DEADLINE] NCSHRM Conference",
+    "Description": "Website: https://ncshrm.com/2023-ncshrm-state-conference/ Registration: https://ncshrm.com/2023-conference-registration/ The 41st Annual NCSHRM Conference will be held in-person! You can purchase on-demand separately if necessary. Join us with thou",
+    "Location": "Wilmington, NC",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-06-30T00:00:00.0000000",
+    "End": "2023-07-01T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480036"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFK3AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[PC Conference] NC SHRM Conference ",
+    "Description": "Website: https://ncshrm.com/2023-ncshrm-state-conference/ Registration: https://ncshrm.com/2023-conference-registration/ The 41st Annual NCSHRM Conference will be held in-person! You can purchase on-demand separately if necessary. Join us with thou",
+    "Location": "Wilmington, NC",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-09-20T00:00:00.0000000",
+    "End": "2023-09-23T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480079"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFK2AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[DEADLINE] Garner ReimagineHR Conference (Early Bird Reg)",
+    "Description": "Website: https://www.gartner.com/en/conferences/na/human-resource-us/conference-resources/in-person Registration: https://www.gartner.com/en/conferences/na/human-resource-us/register In-person Gartner ReimagineHR Conference is a unique destination expe",
+    "Location": "Orlando, FL",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-08-25T00:00:00.0000000",
+    "End": "2023-08-26T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480127"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFK1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[PC Conference] Gartner Reimagine HR Conference",
+    "Description": "Website: https://www.gartner.com/en/conferences/na/human-resource-us/conference-resources/in-person Registration: https://www.gartner.com/en/conferences/na/human-resource-us/register In-person Gartner ReimagineHR Conference is a unique destination expe",
+    "Location": "Orlando, FL",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-10-23T00:00:00.0000000",
+    "End": "2023-10-26T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480168"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFK0AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Melissa Neu",
+    "Title": "[DEADLINE] SHRM Savannah Early Bird Deadline",
+    "Description": "Website: https://conferences.shrm.org/inclusion Registration: https://store.shrm.org/INCLUSION-2023?_ga=2.253685261.508005718.1682687142-923820671.1682347810&_gac=1.121785721.1682347810.CjwKCAjw0ZiiBhBKEiwA4PT9z2nxtNlcpjzBs1OpORcmYZmwrkgynlJjOC9E1qo7unv4",
+    "Location": "Savannah, GA",
+    "Attendees": {
+      "Melissa Neu": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-07-14T00:00:00.0000000",
+    "End": "2023-07-15T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480216"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFK6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Melissa Neu",
+    "Title": "[PC Conference] SHRM Diversity Expo: Inclusion",
+    "Description": "Website: https://conferences.shrm.org/inclusion Registration: https://store.shrm.org/INCLUSION-2023?_ga=2.253685261.508005718.1682687142-923820671.1682347810&_gac=1.121785721.1682347810.CjwKCAjw0ZiiBhBKEiwA4PT9z2nxtNlcpjzBs1OpORcmYZmwrkgynlJjOC9E1qo7unv4",
+    "Location": "Savannah, GA",
+    "Attendees": {
+      "Melissa Neu": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-10-30T00:00:00.0000000",
+    "End": "2023-11-02T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480263"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKzAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Melissa Neu",
+    "Title": "[DEADLINE] ILA Global Conference Early Bird Deadline",
+    "Description": "Website: https://ilaglobalconference.org/ Registration: https://ilaglobalconference.org/registration/ The International Leadership Association\u2018s Global Conference is the premier event for leaders and leadership researchers, educators, and developmen",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Melissa Neu": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-07-14T00:00:00.0000000",
+    "End": "2023-07-15T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480316"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKyAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Melissa Neu",
+    "Title": "[PC Conference] Diversity Woman Media",
+    "Description": "Website: https://www.diversitywoman.com/our-conferences/deib/ Registration: https://na.eventscloud.com/ereg/index.php?eventid=731234& Courageous. Limitless. Focused: Sustaining DEI through the Highs and Lows DEI is one of the most powerful tools",
+    "Location": "Chicago, IL",
+    "Attendees": {
+      "Melissa Neu": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-06-12T00:00:00.0000000",
+    "End": "2023-06-14T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480360"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKxAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Melissa Neu",
+    "Title": "[PC Conference] GlobalMindEd Conference",
+    "Description": "Website: https://globalminded.org/2023-globalminded-conference/ Registration: https://whova.com/portal/registration/globa2_202306/ Join inclusive leaders from across the disciplines who are dedicated to creating a diverse talent pipeline. See the c",
+    "Location": "Denver, CO",
+    "Attendees": {
+      "Melissa Neu": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-06-07T00:00:00.0000000",
+    "End": "2023-06-10T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480404"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJLwAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Award] Submission Deadline: Excellence in DEI Awards",
+    "Description": "Organization: InvestmentNews Nominate: Client Website: https://www.investmentnews.com/awards-and-recognition/diversity-equity-inclusion Submission Deadline: February 15, 2023 Event Date: May 10, 2023 The Excellence in Diversity, Equity & Inclusion",
+    "Location": "New York, NY",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-03-15T00:00:00.0000000",
+    "End": "2023-03-16T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480447"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJLgAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Award] Submission Deadline: ADCOLOR Awards",
+    "Description": "Organization: ADCOLOR Nominate: Client Website: https://adcolor.org/awards/ Submission Deadline: May 12, 2023 Event Date: Fall 2023 ADCOLOR has honored individuals and companies that go above and beyond to make a difference in the creative and tech",
+    "Location": "New York, NY",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-05-12T00:00:00.0000000",
+    "End": "2023-05-13T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480495"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJLQAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Award] Inclusive Leader Awards",
+    "Description": "Organization: Global MindED Recipient: Client Website: https://globalminded.org/inclusive-leader-awards/who-to-nominate/ Submission Period: (unlisted) Nominate an inclusive leader who exhibits one or more of the following characteristics. Our goal i",
+    "Location": "Denver, CO",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-06-07T00:00:00.0000000",
+    "End": "2023-06-08T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480538"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJKwAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Award] Submission Deadline: Learning in Practice Awards",
+    "Description": "Organization: Chief Learning Officer Nominate: LCW Website: https://www.chieflearningofficer.com/learning-in-practice-awards/ Submission Period: May 1\u2013June 19 Event Date: October 16, 2023 Since 2003, the Chief Learning Officer Learning In Practic",
+    "Location": "San Diego, CA",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-06-19T00:00:00.0000000",
+    "End": "2023-06-20T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480593"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJKgAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Award] Submission Begins: Learning In Practice Awards",
+    "Description": "Organization: Chief Learning Officer Nominate: LCW Website: https://www.chieflearningofficer.com/learning-in-practice-awards/ Submission Period: May 1\u2013June 19 Event Date: October 16, 2023 Since 2003, the Chief Learning Officer Learning In Practic",
+    "Location": "San Diego, CA",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-05-01T00:00:00.0000000",
+    "End": "2023-05-02T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480643"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJKQAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Award] Submission Begins: Chicago Innovation Award",
+    "Description": "Organization: Chicago Innovation Nominate: LCW Website: https://chicagoinnovation.com/nominations/ Submission Period: May 1\u2013July 31 Event Date: November 2023 Chicago Innovation\u2019s mission is to empower the CHICAGO INNOVATION ECOSYSTEM by educating,",
+    "Location": "Chicago, IL",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-05-01T00:00:00.0000000",
+    "End": "2023-05-02T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480691"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKwAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "HR Technology Conference",
+    "Description": "",
+    "Location": "Online",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-28T00:00:00.0000000",
+    "End": "2023-03-03T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480731"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKvAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Deadline] Chief Learning Officer Symposium",
+    "Description": "Event Date: October 16-18, 2023 Website: https://www.closymposium.com/ Registration: https://shop.betterworkmedia.com/collections/chief-learning-officer-events-awards/products/2023-chief-learning-officer-symposium Over the past few years, we've toss",
+    "Location": "San Diego, CA",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-03-01T00:00:00.0000000",
+    "End": "2023-03-02T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480777"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKuAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[PC Conference] Chief Learning Officer Symposium",
+    "Description": "Website: https://www.closymposium.com/ Registration: https://shop.betterworkmedia.com/collections/chief-learning-officer-events-awards/products/2023-chief-learning-officer-symposium Over the past few years, we've tossed around words like agile, pivot",
+    "Location": "San Diego, CA",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-10-16T00:00:00.0000000",
+    "End": "2023-10-19T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480819"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKtAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[NW Event] CLO Breakfast Club",
+    "Description": "Website: https://www.2023breakfastclub.com/#about Registration: https://www.2023breakfastclub.com/bc_days/a-marathon-not-a-sprint-examining-the-dei-journey/?utm_campaign=BC%2023&utm_medium=email&_hsmi=243149440&_hsenc=p2ANqtz--c0DFDXZOqnzJD_BnEP62EHQIat",
+    "Location": "Online",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-16T16:00:00.0000000",
+    "End": "2023-02-16T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480875"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKsAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[PC Conference] The Conference Board",
+    "Description": "Website: https://www.conference-board.org/us/ Registration: https://www.conference-board.org/events/diversity/register#register The culture wars in American society have politicized and polarized the role of DEI in organizations. Yet diverse, inclusive",
+    "Location": "Brooklyn, NY",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-06-08T00:00:00.0000000",
+    "End": "2023-06-10T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480916"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKrAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Deadline PC Conference] The Conference Board",
+    "Description": "Website: https://www.conference-board.org/us/ Registration: https://www.conference-board.org/events/diversity/register#register Deadline: Register before April 21st, 2023 and receive a discount of $500 off your registration The culture wars in American",
+    "Location": "Brooklyn",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-04-21T00:00:00.0000000",
+    "End": "2023-04-22T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.480956"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKqAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[PC Conference] Diversity Woman Media Conference",
+    "Description": "Event Date: June 22, 2023 \u2013 opening reception June 21 Website: https://www.diversitywoman.com/our-conferences/deib/ Registration: https://na.eventscloud.com/ereg/newreg.php?eventid=731234&# Diversity Woman Media has been recognized for its longtime c",
+    "Location": "Chicago",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-06-21T21:00:00.0000000",
+    "End": "2023-06-23T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481020"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKpAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Call for Speakers Deadline] Diversity Woman Media Conference ",
+    "Description": "Event Date: June 22, 2023 \u2013 opening reception June 21 Website: https://www.diversitywoman.com/our-conferences/deib/ Registration: https://na.eventscloud.com/ereg/newreg.php?eventid=731234&# Call for Speakers link: https://docs.google.com/forms/d/e/1FAI",
+    "Location": "Chicago",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-03T16:00:00.0000000",
+    "End": "2023-03-04T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481072"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKoAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[PC Conference] IN-PERSON International Leadership Association Conference",
+    "Description": "Event Date: October 3-4 Online , October 12-15 In-Person Website: https://ilaglobalconference.org/ Submit Your Proposal: https://convention2.allacademic.com/one/ila/ila23/ Registration: https://ilaglobalconference.org/registration/ ILA\u2019s 25th Global",
+    "Location": "Vancouver, Canada",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-10-12T00:00:00.0000000",
+    "End": "2023-10-16T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481121"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKnAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[PC Conference] ONLINE International Leadership Association Conference",
+    "Description": "Event Date: October 3-4 Online , October 11-15 In-Person Website: https://ilaglobalconference.org/ Submit Your Proposal: https://convention2.allacademic.com/one/ila/ila23/ Registration: Not Updated Yet (As of 1/24) ILA\u2019s 25th Global Conference will s",
+    "Location": "Online",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-10-03T00:00:00.0000000",
+    "End": "2023-10-05T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481172"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKmAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Deadline Call for Speakers] International Leadership Association Conference",
+    "Description": "Event Date: October 3-4 Online , October 11-15 In-Person Website: https://ilaglobalconference.org/ Submit Your Proposal: https://convention2.allacademic.com/one/ila/ila23/ Registration: Not Updated Yet (As of 1/24) ILA\u2019s 25th Global Conference will s",
+    "Location": "Vancouver, Canada",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-20T00:00:00.0000000",
+    "End": "2023-02-21T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481223"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKlAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[PC Conference] Total Rewards '23 World at Work Conference",
+    "Description": "Website: https://worldatwork.org/ Registration: https://worldatwork.org/conferences/total-rewards-23/about Deadlines: Advanced Registration \u2013 February 17th, 2023 Early Bird Registration \u2013 April 28th, 2023 Regular Registration \u2013 June 11th, 2023",
+    "Location": "San Diego, CA",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-06-12T00:00:00.0000000",
+    "End": "2023-06-15T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481283"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKkAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[PC Conference] Training Industry Conference & Expo",
+    "Description": "Website: https://tice.trainingindustry.com/event/fad6d949-9a06-49b7-81d3-60f2bbe170bd/summary?_gl=1*jndktn*_ga*MjExOTk2MzIyNC4xNjY1NjY3MjQ4*_ga_TCB55Y7SXW*MTY3NDU5MDA5NC4yMC4wLjE2NzQ1OTAxMDQuNTAuMC4w Registration: https://tice.trainingindustry.com/event",
+    "Location": "Raleigh, NC",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-06-27T00:00:00.0000000",
+    "End": "2023-06-30T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481329"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKjAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Deadline] Training Industry Conference & Expo",
+    "Description": "Website: https://tice.trainingindustry.com/event/fad6d949-9a06-49b7-81d3-60f2bbe170bd/summary?_gl=1*jndktn*_ga*MjExOTk2MzIyNC4xNjY1NjY3MjQ4*_ga_TCB55Y7SXW*MTY3NDU5MDA5NC4yMC4wLjE2NzQ1OTAxMDQuNTAuMC4w Registration: https://tice.trainingindustry.com/event",
+    "Location": "Raleigh, NC",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-03-31T00:00:00.0000000",
+    "End": "2023-04-01T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481371"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKiAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Deadline] Total Rewards '23 World at Work Conference",
+    "Description": "Event Dates: June 12th \u2013 14th Website: https://worldatwork.org/ Registration: https://worldatwork.org/conferences/total-rewards-23/about Deadlines: Advanced Registration \u2013 February 17th, 2023 Early Bird Registration \u2013 April 28th, 2023 Regular Regis",
+    "Location": "San Diego, CA",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-06-09T00:00:00.0000000",
+    "End": "2023-06-10T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481420"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKhAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Deadline] Total Rewards '23 World at Work Conference",
+    "Description": "Event Dates: June 12th \u2013 14th Website: https://worldatwork.org/ Registration: https://worldatwork.org/conferences/total-rewards-23/about Deadlines: Advanced Registration \u2013 February 17th, 2023 Early Bird Registration \u2013 April 28th, 2023 Regular Regis",
+    "Location": "San Diego, CA",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-04-28T00:00:00.0000000",
+    "End": "2023-04-29T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481470"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKgAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Deadline] Total Rewards '23 World at Work Conference",
+    "Description": "Event Dates: June 12th \u2013 14th Website: https://worldatwork.org/ Registration: https://worldatwork.org/conferences/total-rewards-23/about Deadlines: Advanced Registration \u2013 February 17th, 2023 Early Bird Registration \u2013 April 28th, 2023 Regular Regis",
+    "Location": "San Diego, CA",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-17T00:00:00.0000000",
+    "End": "2023-02-18T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481517"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKfAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Deadline] TCSHRM Women's Conference",
+    "Description": "Website: https://www.tcshrm.org/events/EventDetails.aspx?id=1697254&group= Registration: https://www.tcshrm.org/events/register.aspx?id=1697254&itemid=40c8104f-7ce8-4009-87c8-cfb7e359795f Deadlines: Early Bird Registration - March 10th Online Regis",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-04-24T00:00:00.0000000",
+    "End": "2023-04-25T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481568"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKeAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Deadline] TCSHRM Women's Conference",
+    "Description": "Event Date: May 5th Website: https://www.tcshrm.org/events/EventDetails.aspx?id=1697254&group= Registration: https://www.tcshrm.org/events/register.aspx?id=1697254&itemid=40c8104f-7ce8-4009-87c8-cfb7e359795f Deadlines: Early Bird Registration - Mar",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-03-10T00:00:00.0000000",
+    "End": "2023-03-11T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481615"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKdAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[PC Conference] TCSHRM Women's Conference",
+    "Description": "Website: https://www.tcshrm.org/events/EventDetails.aspx?id=1697254&group= Registration: https://www.tcshrm.org/events/register.aspx?id=1697254&itemid=40c8104f-7ce8-4009-87c8-cfb7e359795f Deadlines: Early Bird Registration - March 10th Online Regis",
+    "Location": "Bloomington, MN",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-05-05T12:30:00.0000000",
+    "End": "2023-05-05T21:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481661"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJKAAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Deadline] Submission Ends: InvestmentNews DEI Awards",
+    "Description": "Organization: InvestmentNews Website: https://www.investmentnews.com/awards-and-recognition/diversity-equity-inclusion Submission Deadline: February 15, 2023 Event Date: May 10, 2023 InvestmentNews is the trusted, multi-platform resource for financi",
+    "Location": "New York, NY",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-15T00:00:00.0000000",
+    "End": "2023-02-16T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481700"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJJwAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Award] Investment News DEI Awards",
+    "Description": "Organization: InvestmentNews Website: https://www.investmentnews.com/awards-and-recognition/diversity-equity-inclusion Submission Deadline: February 15, 2023 InvestmentNews is the trusted, multi-platform resource for financial advisors. The Excellenc",
+    "Location": "New York, NY",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-05-10T00:00:00.0000000",
+    "End": "2023-05-11T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481737"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJJgAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Deadline] Submission Ends: Forum Diversity Awards",
+    "Description": "Organization: The Forum on Workplace Inclusion Website: https://forumworkplaceinclusion.org/diversity-awards/ Submission Deadline: December 13, 2022 Event Date: March 27-29, 2023 The Forum\u2019s Diversity Awards Program has recognized individuals or org",
+    "Location": "Minneapolis, MN (and virtual)",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-12-13T00:00:00.0000000",
+    "End": "2022-12-14T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481788"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJJQAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Award] Submission Deadline: 2024 Catalyst Award",
+    "Description": "Organization: Catalyst Website: https://www.catalyst.org/solution/apply-for-the-catalyst-award/ Submission Deadline: May 12, 2023 Event Date: * January 2024: Public announcement of winners * March 2024: Awards Conference and Dinner Since",
+    "Location": "New York, NY and Virtual",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-05-12T00:00:00.0000000",
+    "End": "2023-05-13T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481829"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJJAAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Deadline] Submission Ends: Top 50 Companies for Diversity",
+    "Description": "Organization: DiversityInc Website: https://www.diversityinc.com/overview-of-the-diversityinc-top-50-companies-for-diversity/ Submission Deadline: March 10, 2023 Founded in 1997, DiversityInc\u2019s mission is to educate the workforce and bring clarity to",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-03-10T00:00:00.0000000",
+    "End": "2023-03-11T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481877"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJIwAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Award] Submission Ends: Women Leaders in Consulting",
+    "Description": "Organization: ALM Consulting Magazine Website: https://www.event.consultingmag.com/women-leaders Submission Period: April 20-July 13 Event Date: November 2, 2023 Consulting\u00ae magazine is the flagship publication of the consulting profession featuring",
+    "Location": "New York, NY",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-07-13T00:00:00.0000000",
+    "End": "2023-07-14T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481936"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJIgAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Award] Submission Begins: Women Leaders in Consulting",
+    "Description": "Organization: ALM Consulting Magazine Website: https://www.event.consultingmag.com/women-leaders Submission Period: April 20-July 13 Event Date: November 2, 2023 Consulting\u00ae magazine is the flagship publication of the consulting profession featuring",
+    "Location": "New York, NY",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-04-20T00:00:00.0000000",
+    "End": "2023-04-21T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.481984"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJIQAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Award] Women Leaders in Consulting Event",
+    "Description": "Organization: ALM Consulting Magazine Website: https://www.event.consultingmag.com/women-leaders Submission Period: April 20-July 13 Consulting\u00ae magazine is the flagship publication of the consulting profession featuring the latest information on con",
+    "Location": "New York, NY",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-11-02T00:00:00.0000000",
+    "End": "2023-11-03T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.482034"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJIAAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Award] Submission Begins: Top Consultants Award",
+    "Description": "Organization: ALM Consulting Magazine Nominate: LCW employee Website: https://www.event.consultingmag.com/topconsultants/2816319 Submission Period: December 1-February 23 Event Date: June 15, 2023 Consulting\u00ae magazine is the flagship publication of",
+    "Location": "New York, NY",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-12-01T00:00:00.0000000",
+    "End": "2022-12-02T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.482084"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJHwAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Award] Submission Deadline: Top Consultants Award",
+    "Description": "Organization: ALM Consulting Magazine Nominate: LCW employee Website: https://www.event.consultingmag.com/topconsultants/2816319 Submission Period: December 1-February 23 Event Date: June 15, 2023 Consulting\u00ae magazine is the flagship publication of",
+    "Location": "New York, NY",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-23T00:00:00.0000000",
+    "End": "2023-02-24T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.482130"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJHgAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Award] Top Consultants 2023 Event",
+    "Description": "Organization: ALM Consulting Magazine Website: https://www.event.consultingmag.com/topconsultants/2816319 Submission Period: December 1-February 23 Consulting\u00ae magazine is the flagship publication of the consulting profession featuring the latest inf",
+    "Location": "New York, NY",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-06-15T00:00:00.0000000",
+    "End": "2023-06-16T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.482176"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJHQAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Award] Submission Begins: Best Firms to Work For Award",
+    "Description": "Organization: ALM Consulting Magazine Nominate: LCW Website: https://www.event.consultingmag.com/best-firms-to-work-for Submission Period: March 2-May 25 Consulting\u00ae magazine is the flagship publication of the consulting profession featuring the lat",
+    "Location": "New York, NY",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-03-02T00:00:00.0000000",
+    "End": "2023-03-03T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.482225"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJHAAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Awards] Submission Deadline: Best Firms to Work For Award",
+    "Description": "Organization: ALM Consulting Magazine Nominate: LCW Website: https://www.event.consultingmag.com/best-firms-to-work-for Submission Period: March 2-May 25 Consulting\u00ae magazine is the flagship publication of the consulting profession featuring the lat",
+    "Location": "New York, NY",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-05-25T00:00:00.0000000",
+    "End": "2023-05-26T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.482274"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJGwAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Award] Best Firms to Work For Event",
+    "Description": "Organization: ALM Consulting Magazine Nominate: LCW Website: https://www.event.consultingmag.com/best-firms-to-work-for Submission Period: March 2-May 25 Consulting\u00ae magazine is the flagship publication of the consulting profession featuring the lat",
+    "Location": "New York, NY",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-09-14T00:00:00.0000000",
+    "End": "2023-09-15T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.482323"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJGgAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Deadline] Advance Registration: From Day One Conference",
+    "Description": "Date: March 28 Website: https://www.fromdayone.co/conferences/2023-chicago/ Registration: https://www.eventbrite.com/e/from-day-one-chicago-2023-tickets-444183694387 Rates: * Early Bird (By Feb. 14): $99 + $7.66 Fee * Advance Purchase (By M",
+    "Location": "Chicago, IL",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-03-14T00:00:00.0000000",
+    "End": "2023-03-15T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.482363"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJGQAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Deadline] Early Bird Registration: From Day One Conference",
+    "Description": "Date: March 28 Website: https://www.fromdayone.co/conferences/2023-chicago/ Registration: https://www.eventbrite.com/e/from-day-one-chicago-2023-tickets-444183694387 Rates: * Early Bird (By Feb. 14): $99 + $7.66 Fee * Advance Purchase (By M",
+    "Location": "Chicago, IL",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-14T00:00:00.0000000",
+    "End": "2023-02-15T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.482408"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJGAAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Deadline] Registration: The Forum on Workplace Inclusion Conference",
+    "Description": "Conference Date: March 27-29 Website: https://forumworkplaceinclusion.org/2023-conference/ Registration: https://web.cvent.com/event/0f4b97f9-81cf-4b27-9edc-0536e38892e1/summary Rates: * Full Conference * Early Bird (by Jan. 20): $1,615",
+    "Location": "Minneapolis, MN (and virtual)",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-03-25T00:00:00.0000000",
+    "End": "2023-03-26T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.482447"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJFwAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[PC Conference] From Day One: Forum on Corporate Values",
+    "Description": "Website: https://www.fromdayone.co/conferences/2023-chicago/ Registration: https://www.eventbrite.com/e/from-day-one-chicago-2023-tickets-444183694387 Rates: * Early Bird (By Feb. 14): $99 + $7.66 Fee * Advance Purchase (By March 14): $249 +",
+    "Location": "Chicago, IL",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-03-28T00:00:00.0000000",
+    "End": "2023-03-30T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.482487"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJFgAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[Deadline] Early Bird Registration: The Forum on Workplace Inclusion",
+    "Description": "Conference Date: March 27-29 Website: https://forumworkplaceinclusion.org/2023-conference/ Registration: https://web.cvent.com/event/0f4b97f9-81cf-4b27-9edc-0536e38892e1/summary Rates: * Full Conference * Early Bird (by Jan. 20): $1,615",
+    "Location": "Minneapolis, MN",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-01-20T00:00:00.0000000",
+    "End": "2023-01-21T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.482524"
+  },
+  {
+    "Event ID": "AQMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAADGTSrooVxIkOFmeOZtvUntgcAbAahGu-08EOUO_UBwFljggAAAgENAAAAi67TICyZS0WYMhiCOlwb4wAAAQFJFQAAAA==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "External Events",
+    "Title": "[PC Conference] The Forum on Workplace Inclusion 2023",
+    "Description": "Website: https://forumworkplaceinclusion.org/2023-conference/ Registration: https://web.cvent.com/event/0f4b97f9-81cf-4b27-9edc-0536e38892e1/summary The Forum on Workplace Inclusion \u2013 or The Forum for short \u2013 expands mindsets, skill sets, and tool set",
+    "Location": "Minneapolis, MN",
+    "Attendees": {
+      "External Events": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-03-27T00:00:00.0000000",
+    "End": "2023-03-30T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.482574"
+  },
+  {
+    "Event ID": "AAMkAGU0ZWFmMTc1LTYyYTUtNDJiNC1hNTMxLTNlN2EzMGUzMjFkYQBGAAAAAAAZNKuihXEiQ4WZ45m29Se2BwBsBqEa7-TwQ5Q75QHAWWOCAAAAAAENAACo2mfEAVyUSoBsjvn-RlndAAAaeFKcAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Ashton Vicente",
+    "Title": "[PD Conference] WISE Conference",
+    "Description": "Website: https://global.wfu.edu/global-wake-forest/center-for-global-programs-studies/wise-conference/ Registration: https://global.wfu.edu/global-wake-forest/center-for-global-programs-studies/wise-conference/registration/ Rates: * Priority Regi",
+    "Location": "Wake Forest, NC",
+    "Attendees": {
+      "Ashton Vicente": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-03T00:00:00.0000000",
+    "End": "2023-02-05T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:08.482611"
+  }
+]

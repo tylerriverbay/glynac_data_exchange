@@ -1,0 +1,2843 @@
+[
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAE4EfOBAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Andrea Wicks Bowles",
+    "Title": "Canceled: Aflac Cancelation/Postponement policy discussion ",
+    "Description": "",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Andrea Wicks Bowles": "required",
+      "Chuck Adams": "required",
+      "Sarah Gluckstein": "required",
+      "Nicole Barile": "optional"
+    },
+    "Virtual": true,
+    "Start": "2025-04-03T15:30:00.0000000",
+    "End": "2025-04-03T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.067529"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzsJAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-04-04T17:30:00.0000000",
+    "End": "2025-04-04T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.067608"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzsIAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-03-25T19:00:00.0000000",
+    "End": "2025-03-25T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.067662"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzsHAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Create new quarter time sheet",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-03-25T18:00:00.0000000",
+    "End": "2025-03-25T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.067712"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzsGAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Rippling meeting on Accounting calendar",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-04-09T15:00:00.0000000",
+    "End": "2025-04-09T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.067757"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzsFAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Rippling meeting on Accounting calendar",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-03-27T19:00:00.0000000",
+    "End": "2025-03-27T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.067802"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAErgfL_AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "Rippling help",
+    "Description": "Please help \ud83d\ude42 TIA I also would like to chat about other payments to folks (per Alisa). Microsoft Teams Need help? Join the meeting now Meeting ID: 261 661 180 014",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-17T18:30:00.0000000",
+    "End": "2025-03-17T19:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.067925"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzsEAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "PPF review",
+    "Description": "Let me know if you need to push back at all \u2013 this should only take a few minutes. I\u2019ll send over the draft PPF in advance. Microsoft Teams Need help? Join the meeting now",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-13T22:20:00.0000000",
+    "End": "2025-03-13T22:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068030"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAEpYP7zAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "LCW All-Staff Meeting - 1st and 3rd Monday",
+    "Description": "1. This is a \"Stand up\" meeting for all staff members (FTE/PTE) where each person participates * Each staff member gives a short update on what they are working on this week / their tasks for the week * Each staff member shares where th",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Keri Luo": "required",
+      "Andrea Wicks Bowles": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Gluckstein": "required",
+      "Juri Mansour": "required",
+      "Kaitlin Nonweiler": "required",
+      "Nicole Barile": "required",
+      "Cecilia Mariotta": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-17T16:00:00.0000000",
+    "End": "2025-03-17T16:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068094"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzsDAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "LCW All-Staff Meeting - 1st and 3rd Monday",
+    "Description": "1. This is a \"Stand up\" meeting for all staff members (FTE/PTE) where each person participates * Each staff member gives a short update on what they are working on this week / their tasks for the week * Each staff member shares where th",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Keri Luo": "required",
+      "Andrea Wicks Bowles": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Gluckstein": "required",
+      "Juri Mansour": "required",
+      "Kaitlin Nonweiler": "required",
+      "Nicole Barile": "required",
+      "Cecilia Mariotta": "required",
+      "Sarah Jordan": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-03T17:00:00.0000000",
+    "End": "2025-03-03T17:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068137"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAEnbPEeAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "Chat about payroll (Rippling)",
+    "Description": "Currently pay: * $1,700/yr w Trinet * $5,160/yr w AIS (not counting tech support) * $6,660/yr Total Adjusted AIS to current 5 computers * $1,700/yr w Trinet * $2,376/yr w AIS (not counting tech support...and making as",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-11T17:00:00.0000000",
+    "End": "2025-03-11T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068182"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzsBAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-03-13T14:00:00.0000000",
+    "End": "2025-03-13T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068210"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzsAAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-03-07T18:30:00.0000000",
+    "End": "2025-03-07T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068235"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzr-AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-03-06T16:30:00.0000000",
+    "End": "2025-03-06T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068259"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzr_AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-02-25T19:30:00.0000000",
+    "End": "2025-02-25T21:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068282"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzr9AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "PPF review & approve",
+    "Description": "PPF review in advance of Feb 28th payment date. Microsoft Teams Need help? Join the meeting now Meeting ID: 225 048 374 682 Passcode: 2dh3nB7K",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-02-26T23:30:00.0000000",
+    "End": "2025-02-26T23:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068319"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzr8AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "away",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-02-24T18:00:00.0000000",
+    "End": "2025-02-24T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068344"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzr7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-02-18T20:00:00.0000000",
+    "End": "2025-02-18T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068368"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzr6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-02-20T18:00:00.0000000",
+    "End": "2025-02-20T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068391"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzr5AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "HSA setup",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 295 073 682 006 Passcode: L722ZP79 For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Nicole Barile": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-02-20T15:00:00.0000000",
+    "End": "2025-02-20T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068431"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzr4AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-02-10T19:00:00.0000000",
+    "End": "2025-02-10T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068459"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzr3AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "PPF review",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 213 336 875 563 Passcode: zM2RA6QK For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-02-11T23:00:00.0000000",
+    "End": "2025-02-11T23:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068496"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzr2AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "State filings update",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 248 533 004 588 Passcode: 5jM66uV3 For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-02-06T20:45:00.0000000",
+    "End": "2025-02-06T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068534"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAER827mAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 220 194 476 654 Passcode: yJ6uL7jU For organizers: Meeting options _",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-02-04T18:00:00.0000000",
+    "End": "2025-02-04T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068569"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAER827lAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "Accounting chat",
+    "Description": "Do you have about 15 min to chat? Thanks! Microsoft Teams Need help? Join the meeting now Meeting ID: 218 921 955 175 Passcode: D469bw9i",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-02-04T15:30:00.0000000",
+    "End": "2025-02-04T15:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068606"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzr1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "ooo",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-02-07T00:00:00.0000000",
+    "End": "2025-02-08T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068633"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzr0AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Focus time: 1099s",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-01-28T18:00:00.0000000",
+    "End": "2025-01-28T23:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068658"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrzAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "PPF planning",
+    "Description": "Quick catch-up and PPF plan review in advance of the 31st Microsoft Teams Need help? Join the meeting now Meeting ID: 226 538 059 193 Passcode: Ej6Jx3ke",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-29T22:00:00.0000000",
+    "End": "2025-01-29T22:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068695"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrxAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "Chat on Financial Report",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 280 752 629 596 Passcode: eg7sa6sN Dial in by phone +1 872-239-8243,,1",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-24T16:45:00.0000000",
+    "End": "2025-01-24T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068732"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzryAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Patricia Coleman",
+    "Title": "SG:PMC Account clients invoices",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-01-24T17:00:00.0000000",
+    "End": "2025-01-24T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068757"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAELk4reAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Catalina De Sanctis",
+    "Title": "CDS Quickbooks - Draft 1099",
+    "Description": "-----Original Appointment----- From: Catalina De Sanctis Sent: Wednesday, January 22, 2025 20:55 To: Catalina De Sanctis; Accounting Subject: CDS Quickbooks - Draft 1099 When: Thursday, January 23, 2025 12:30-13:00 (UTC-",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Catalina De Sanctis": "required",
+      "Accounting": "required",
+      "Sarah Gluckstein": "optional"
+    },
+    "Virtual": true,
+    "Start": "2025-01-23T17:30:00.0000000",
+    "End": "2025-01-23T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068832"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAEKWbDnAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "One doc chat (cash flow, forecasts, prepaid)",
+    "Description": "-----Original Appointment----- From: Nicole Barile Sent: Wednesday, January 15, 2025 14:47 To: Nicole Barile; Accounting Subject: One doc chat (cash flow, forecasts, prepaid) When: Thursday, January 23, 2025 11:00-11:30 (UT",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Accounting": "required",
+      "Sarah Gluckstein": "optional"
+    },
+    "Virtual": true,
+    "Start": "2025-01-23T16:00:00.0000000",
+    "End": "2025-01-23T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068905"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrwAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "ooo - traveling",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-05-10T00:00:00.0000000",
+    "End": "2025-05-22T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068938"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrvAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "ooo - traveling",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-04-10T00:00:00.0000000",
+    "End": "2025-04-28T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.068968"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAEE-RJtAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Patricia Coleman",
+    "Title": "Spencer Stuart AP and AR review",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 227 110 629 903 Passcode: GX3ox7eS Dial in by phone +1 872-239-8243,",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-15T21:00:00.0000000",
+    "End": "2025-01-15T21:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069007"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrsAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Nodarse",
+    "Title": "W4 stuff",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 254 251 427 810 Passcode: hm3fi2QB Dial in by phone +1 872-239-8243,,546",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-13T19:00:00.0000000",
+    "End": "2025-01-13T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069048"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrrAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-01-29T18:00:00.0000000",
+    "End": "2025-01-29T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069075"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrqAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-01-24T22:00:00.0000000",
+    "End": "2025-01-24T23:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069099"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrpAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-01-14T18:00:00.0000000",
+    "End": "2025-01-14T23:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069122"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrnAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-12-27T19:00:00.0000000",
+    "End": "2024-12-27T23:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069145"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrmAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "State Tax Discussion",
+    "Description": "Wasn't sure if I should send to your email or accounting. LMK if I should update please. Agenda: * Discuss outstanding state stuff - payments due mostly * Nicole will take over from SG & interns (most likely) If we have time left, I may ha",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-03T16:00:00.0000000",
+    "End": "2025-01-03T16:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069192"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAD1ccBBAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Patricia Coleman",
+    "Title": "Accounting recap pending clients payments",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 294 636 837 794 Passcode: aR6g8aj9 Dial in by phone +1 872-239-8243,",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-20T20:30:00.0000000",
+    "End": "2024-12-20T21:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069230"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrlAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "ooo",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-01-01T16:00:00.0000000",
+    "End": "2025-01-01T23:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069257"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrkAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-12-24T16:00:00.0000000",
+    "End": "2024-12-24T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069282"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrjAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "ooo",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-12-25T16:00:00.0000000",
+    "End": "2024-12-25T23:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069305"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzriAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-12-19T19:30:00.0000000",
+    "End": "2024-12-19T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069328"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrhAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "SG & AWB",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 283 970 800 196 Passcode: KA3b4Pw9 For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Andrea Wicks Bowles": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-18T16:30:00.0000000",
+    "End": "2024-12-18T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069364"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrgAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-12-17T19:00:00.0000000",
+    "End": "2024-12-17T21:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069390"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAADuxwL3AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "Arnold & Porter Session RECORDING",
+    "Description": "If you have the time, please plan on attending this short session which we will be recording and sending to Arnold & Porter as a demo (they requested one). Larry will be facilitating and we\u2019ll be the \u2018participants\u2019. Please prepare to act like a participa",
+    "Location": "https://languageandculture.zoom.us/j/89247939825",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Chuck Adams": "required",
+      "Patricia Coleman": "required",
+      "Andrea Wicks Bowles": "required",
+      "Keri Luo": "required",
+      "Randall Stieghorst": "required",
+      "Monica Marcel": "required",
+      "Sarah Gluckstein": "required",
+      "Catalina De Sanctis": "required",
+      "Pedro Seminario": "required",
+      "Kaitlin Nonweiler": "required",
+      "Sarah Nodarse": "required",
+      "elsieparrilla@yahoo.com": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-13T16:00:00.0000000",
+    "End": "2024-12-13T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069443"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrfAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "Nicole + Sarah chat",
+    "Description": "Hey Sarah! I'd love to introduce myself & officially meet you \ud83d\ude42. I do have some questions, but this is mostly to learn what you're working on & your day to day. I'm coming in as heading up operations, and part of my role is overseeing costs and expenses",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-19T16:00:00.0000000",
+    "End": "2024-12-19T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069501"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzreAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "LCW 2024 review",
+    "Description": "Short meeting to review LCW 2024 books and finalize info needed. Microsoft Teams Need help? Join the meeting now Meeting ID: 219 685 997 942 Passcode: Ya9rj6vo",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Steven Lombardo": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-07T16:30:00.0000000",
+    "End": "2025-01-07T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069541"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrdAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "quick chat",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 234 774 784 958 Passcode: Hc7oX9Fw For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Andrea Wicks Bowles": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-04T15:45:00.0000000",
+    "End": "2024-12-04T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069579"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrcAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Randy & SG cash flow update",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 223 225 580 406 Passcode: WHAsCq For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Randall Stieghorst": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-03T16:00:00.0000000",
+    "End": "2024-12-03T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069614"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAADg2YXwAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Andrea Wicks Bowles",
+    "Title": "Invoices Check in",
+    "Description": "Aflac Microsoft Teams Need help? Join the meeting now Meeting ID: 266 960 757 215 Passcode: 7Yf3jd2f Dial in by phone +1 872-239-8243",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Andrea Wicks Bowles": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-22T16:30:00.0000000",
+    "End": "2024-11-22T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069650"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAADg2YXvAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "Converting BSC invoice 24284 to a prepayment",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 233 474 236 455 Passcode: AP7Cz6aJ Dial in by phone +1 872-239-8243,,463",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Accounting": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-20T18:30:00.0000000",
+    "End": "2024-11-20T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069688"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrbAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-11-21T18:00:00.0000000",
+    "End": "2024-11-22T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069715"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzraAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "OOO - holiday",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-11-27T00:00:00.0000000",
+    "End": "2024-11-30T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069739"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrZAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "LCW forecasting",
+    "Description": "Giving us an hour in case we need it Microsoft Teams Need help? Join the meeting now Meeting ID: 256 656 283 680 Passcode: 45jPaK For",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Randall Stieghorst": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-14T16:00:00.0000000",
+    "End": "2024-11-14T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069775"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrYAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-12-06T00:00:00.0000000",
+    "End": "2024-12-16T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069800"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrXAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-11-13T21:00:00.0000000",
+    "End": "2024-11-13T23:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069826"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrWAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-11-12T18:30:00.0000000",
+    "End": "2024-11-12T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069855"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrVAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Nodarse",
+    "Title": "Sarah & Sarah: GroupM Billing",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 220 426 364 351 Passcode: uRZMEK Dial in by phone +1 872-239-8243,,39951",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-30T16:00:00.0000000",
+    "End": "2024-10-30T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069896"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrUAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-10-29T18:00:00.0000000",
+    "End": "2024-10-29T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069929"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAADPj17VAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Patricia Coleman",
+    "Title": "Richemont Invoice prep SG:PC ",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 232 163 629 164 Passcode: Cz6f2w Dial in by phone +1 872-239-8243,,4",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-25T15:30:00.0000000",
+    "End": "2024-10-25T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069972"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrTAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "do not disturb",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-11-06T16:00:00.0000000",
+    "End": "2024-11-06T23:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.069998"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrSAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "check legal aid society invoice created",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-11-14T17:00:00.0000000",
+    "End": "2024-11-14T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070026"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrRAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "ooo",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-10-31T00:00:00.0000000",
+    "End": "2024-11-02T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070050"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrPAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Patricia Coleman",
+    "Title": "Richemont Invoice PwD",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 245 098 402 254 Passcode: ZrtAW6 Dial in by phone +1 872-239-8243,,5",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-24T19:15:00.0000000",
+    "End": "2024-10-24T19:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070087"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrOAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-10-22T15:00:00.0000000",
+    "End": "2024-10-22T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070113"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrNAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-10-21T15:00:00.0000000",
+    "End": "2024-10-21T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070139"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrLAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Patricia Coleman",
+    "Title": "PC  clients's  invoices review",
+    "Description": "We wont need an hour but making room for it. Invoices/Payments Richemont Link Lo Insights Ubisoft UAE Microsoft Teams Need help? Join the meeting now",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-11T15:00:00.0000000",
+    "End": "2024-10-11T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070180"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrKAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-10-16T18:30:00.0000000",
+    "End": "2024-10-16T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070207"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrJAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-10-14T15:00:00.0000000",
+    "End": "2024-10-14T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070231"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrIAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-10-15T20:00:00.0000000",
+    "End": "2024-10-15T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070256"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrHAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Focus: Intuit training",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-10-18T19:00:00.0000000",
+    "End": "2024-10-18T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070281"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrGAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-10-15T15:00:00.0000000",
+    "End": "2024-10-15T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070306"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAC7nn5pAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "UL Diversity And Inclusion",
+    "Title": "DEI GIF test ",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 255 846 518 697 Passcode: jYQFYS For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "UL Diversity And Inclusion": "required",
+      "Cornejo Garcia, Stephen R.": "required",
+      "Juri Mansour": "required",
+      "Larry Baker": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-09-25T15:30:00.0000000",
+    "End": "2024-09-25T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070345"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrFAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "check-in before SG vacation",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 274 331 240 944 Passcode: 7CqpMc For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-09-27T21:00:00.0000000",
+    "End": "2024-09-27T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070386"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAC5Ii_0AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "[OPTIONAL] Friday Thinkathon",
+    "Description": "Join us every other Friday for LCW\u2019s Friday Thinkathons: Unleashing Creativity with Article Insights. We\u2019ll dive into hot topics and share our different perspectives. Todays Topics: 1. Client Analysis Framework Going forward * FHL",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "optional",
+      "Keri Luo": "optional",
+      "Sarah Nodarse": "optional",
+      "Pedro Seminario": "optional",
+      "Patricia Coleman": "optional",
+      "Latoya Ming": "optional",
+      "Vince Bongiovanni": "optional",
+      "Kaitlin Nonweiler": "optional",
+      "Catalina De Sanctis": "optional",
+      "Sarah Gluckstein": "optional",
+      "Rebecca Parrilla": "optional",
+      "Larry Baker": "optional",
+      "Andrea Wicks Bowles": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-09-20T16:30:00.0000000",
+    "End": "2024-09-20T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070821"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrEAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-09-18T20:00:00.0000000",
+    "End": "2024-09-18T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070851"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrDAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-09-26T18:30:00.0000000",
+    "End": "2024-09-26T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070876"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrCAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-09-24T19:00:00.0000000",
+    "End": "2024-09-24T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070901"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrBAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-09-24T15:00:00.0000000",
+    "End": "2024-09-24T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070924"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzrAAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-09-20T15:30:00.0000000",
+    "End": "2024-09-20T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070951"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAC22eyiAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "UL GIF Dress Rehearsal HOLD",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 279 473 032 012 Passcode: muhHEh Dial in by phone +1 872-239-8243,,65222",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Juri Mansour": "required",
+      "yuko@yukodeneuville.com": "required",
+      "Sarah Nodarse": "required",
+      "Poonacha, Rohini": "required",
+      "Sarah Gluckstein": "required",
+      "Yuko Deneuville": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-10-09T10:00:00.0000000",
+    "End": "2024-10-09T11:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.070990"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAC22eyhAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "UL GIF DRess Rehearsal Hold",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 278 061 165 643 Passcode: JEoFAp Dial in by phone +1 872-239-8243,,37124",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Juri Mansour": "required",
+      "Larry Baker": "required",
+      "Guerrero, Betsy": "required",
+      "Sarah Nodarse": "required",
+      "Sarah Gluckstein": "required",
+      "Cornejo Garcia, Stephen R.": "optional",
+      "Chuck Adams": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-09-25T15:00:00.0000000",
+    "End": "2024-09-25T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071027"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzq-AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-09-17T15:00:00.0000000",
+    "End": "2024-09-17T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071051"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAACzCsqlAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Spencer Stuart - SOW 2021099 still open",
+    "Description": "Hi - Let\u2019s meet briefly so that I can ensure I am billing the client correctly for the new sessions they are interested in. Chuck Microsoft Teams Need help? Join the",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-09-13T19:30:00.0000000",
+    "End": "2024-09-13T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071097"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzq_AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Prepayment review",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 226 124 749 461 Passcode: NJUWCu For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-09-10T18:30:00.0000000",
+    "End": "2024-09-10T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071138"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzq9AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "10am Q3 bank covenant calc",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-10-16T15:00:00.0000000",
+    "End": "2024-10-16T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071163"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzq8AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-09-23T15:00:00.0000000",
+    "End": "2024-09-23T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071189"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAACp1UK8AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Insights Enterprises invoice",
+    "Description": "Let me know if you'd like a different time, I just wanted to get it on my calendar. Microsoft Teams Need help? Join the meeting now Meeting ID: 243 876 682 144 Pas",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-28T20:30:00.0000000",
+    "End": "2024-08-28T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071228"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzq7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Patricia Coleman",
+    "Title": "UBISOFT PARIS ACCOUNT REVIEW",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 223 721 349 765 Passcode: 7nnJzn Dial in by phone +1 872-239-8243,,3",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "Sarah Gluckstein": "required",
+      "Rapha\u00eblle Lalo": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-30T13:30:00.0000000",
+    "End": "2024-08-30T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071268"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzq6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "PC clients invoices",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-08-26T15:00:00.0000000",
+    "End": "2024-08-26T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071300"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzq5AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "BSC Maple Grove expenses",
+    "Description": "Let\u2019s take a little bit of time to nail down how we are going to invoice BSC for the Maple Grove expenses, and what we will do with Latoya\u2019s reimbursement request. Let me know if you\u2019d like to reschedule, I just wanted to get this on the calendar.",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Chuck Adams": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-27T20:30:00.0000000",
+    "End": "2024-08-27T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071350"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzq3AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Accounting touch-base",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 252 169 128 841 Passcode: aXpark For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-22T19:30:00.0000000",
+    "End": "2024-08-22T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071386"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzq2AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-09-06T17:30:00.0000000",
+    "End": "2024-09-06T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071411"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzq1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-08-28T18:00:00.0000000",
+    "End": "2024-08-28T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071438"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzq0AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-08-26T19:00:00.0000000",
+    "End": "2024-08-26T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071462"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqzAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-08-23T15:30:00.0000000",
+    "End": "2024-08-23T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071485"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqyAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "LCW audit review",
+    "Description": "Let\u2019s review the questions I sent to you last week about our 2023 audit. SG Microsoft Teams Need help? Join the meeting now Meeting ID: 214 560 366 758 Passcode: josH",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Steven Lombardo": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-14T18:00:00.0000000",
+    "End": "2024-08-14T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071533"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqxAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "LCW audit review",
+    "Description": "Please let me know if we can connect today Microsoft Teams Need help? Join the meeting now Meeting ID: 256 826 214 066 Passcode: aukpBc",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Steven Lombardo": "required",
+      "Alisa Kolodizner": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-08-13T21:30:00.0000000",
+    "End": "2024-08-13T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071575"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAACZWFbWAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Andrea Wicks Bowles",
+    "Title": "Aflac Invoice Discussion",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 218 711 851 004 Passcode: 2bPbz7 Dial in by phone +1 872-239-8243,,52544",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Andrea Wicks Bowles": "required",
+      "Chuck Adams": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-13T15:00:00.0000000",
+    "End": "2024-08-13T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071611"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqwAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Ubisoft review",
+    "Description": "We will get together and make sure that Compass accurately reflects the final deliverables for Ubisoft\u2019s SOW, prior to working with Raphaelle to finalize invoicing. Microso",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Patricia Coleman": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-14T19:00:00.0000000",
+    "End": "2024-08-14T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071655"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqtAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "LCW chat",
+    "Description": "Teams link added Microsoft Teams Need help? Join the meeting now Meeting ID: 240 469 326 989 Passcode: Umu3cA For organizers: Meeting",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Randall Stieghorst": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-06T15:00:00.0000000",
+    "End": "2024-08-06T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071690"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqsAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "ooo",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-08-07T17:00:00.0000000",
+    "End": "2024-08-08T05:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071715"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqrAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Hartford update",
+    "Description": "Alisa will verbally give permission by phone to Hartford for SG to provide info for request to backdate state terminations. Microsoft Teams Need help? Join the meeting now",
+    "Location": "WeWork",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-06T18:00:00.0000000",
+    "End": "2024-08-06T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071751"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqqAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "LCW questions",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 266 958 167 935 Passcode: Ltz6zP For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Steven Lombardo": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-02T20:00:00.0000000",
+    "End": "2024-08-02T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071786"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAACWbYowAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Invoice: 88684 from AIS, Inc.",
+    "Description": "Let\u2019s walk through this and the explanation we received from AIS about the previous invoices. Chuck Microsoft Teams Need help? Join the meeting now Meeting ID: 254 044",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-01T16:30:00.0000000",
+    "End": "2024-08-01T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071831"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqpAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Patricia Coleman",
+    "Title": "UBISOFT INVOICE PENDING",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 266 976 237 933 Passcode: QuCvVx Dial in by phone +1 872-239-8243,,8",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-07-29T17:00:00.0000000",
+    "End": "2024-07-29T17:20:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071865"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqoAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "ooo",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-07-31T14:00:00.0000000",
+    "End": "2024-07-31T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071891"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqnAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "MercyOne invoice fix",
+    "Description": "Quick call so we can rework the Alliant/MercyOne invoice and be sure it\u2019s all correct. Microsoft Teams Need help? Join the meeting now Meeting ID: 288 776 635 670 Passco",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Catalina De Sanctis": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-07-24T16:00:00.0000000",
+    "End": "2024-07-24T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071940"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqmAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "ooo",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-09-30T00:00:00.0000000",
+    "End": "2024-10-08T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071967"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqkAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "ooo",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-08-05T18:00:00.0000000",
+    "End": "2024-08-05T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.071991"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqjAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "ooo",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-08-19T00:00:00.0000000",
+    "End": "2024-08-20T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072013"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqiAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "ooo",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-08-01T20:00:00.0000000",
+    "End": "2024-08-01T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072036"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqgAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Focus: external",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-07-09T16:00:00.0000000",
+    "End": "2024-07-09T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072066"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqcAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Update Pedro pay rate eff 8/1",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-08-02T18:30:00.0000000",
+    "End": "2024-08-02T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072088"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqbAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-07-02T15:00:00.0000000",
+    "End": "2024-07-02T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072111"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqaAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "State stuff",
+    "Description": "I\u2019ll be at the WeWork this afternoon, and we can use this hour to get all the paperwork together so I can form a complete plan of action. Microsoft Teams Need help? Join t",
+    "Location": "WeWork - Bridgeview Bank Coworking & Office Space (4753 N. Broadway, Chicago, IL  60640)",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-07-01T21:00:00.0000000",
+    "End": "2024-07-01T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072165"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqZAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Guideline checkin",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 236 042 063 794 Passcode: mF7fns For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-06-24T19:30:00.0000000",
+    "End": "2024-06-24T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072233"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqYAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Invoicing",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 235 167 865 936 Passcode: JG94Um Dial in by phone +1 872-239-8243,,49955",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Sarah Gluckstein": "required",
+      "Andrea Wicks Bowles": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-06-14T17:00:00.0000000",
+    "End": "2024-06-14T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072302"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqXAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-06-17T16:30:00.0000000",
+    "End": "2024-06-17T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072334"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqVAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Focus: States",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-06-13T18:00:00.0000000",
+    "End": "2024-06-13T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072361"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqUAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Focus: External projects",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-06-12T15:00:00.0000000",
+    "End": "2024-06-12T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072385"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqTAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Focus time: external projects",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-06-10T19:00:00.0000000",
+    "End": "2024-06-10T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072417"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqPAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "seller notes",
+    "Description": "I gave us an hour in case we need it \u2013 I want to get up to date on how the seller notes have been operating and make an info sheet for myself. Microsoft Teams Need help? J",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Randall Stieghorst": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-06-11T15:30:00.0000000",
+    "End": "2024-06-11T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072464"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAABzAVl2AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Payroll prep",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 240 645 617 576 Passcode: ExwoU4 For organizers: Meeting options",
+    "Location": "Teams",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-06-12T18:30:00.0000000",
+    "End": "2024-06-12T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072499"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqOAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "ooo",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-06-27T00:00:00.0000000",
+    "End": "2024-06-28T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072524"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqNAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Focus: AR follow ups",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-06-04T15:30:00.0000000",
+    "End": "2024-06-04T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072548"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqMAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-06-03T20:00:00.0000000",
+    "End": "2024-06-03T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072572"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAABtuRWJAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "[MUST REG TO GET MTG LINK!] LCW Jewish/Muslim Spotlight Content Preview Webinar (2pm ET / 1pm CT )",
+    "Description": "Hi, all! You must register using this link, then you\u2019ll get the Zoom link to the session today at 1pmCT/2pm ET: https://languageandculture.zoom.us/j/86586199743 As part of our ongoing commitment to fostering cultural understanding and promoting inclusi",
+    "Location": "https://languageandculture.zoom.us/j/86586199743",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Alisa Kolodizner": "required",
+      "Barile Barile": "required",
+      "Hanadi Chehabeddine": "required",
+      "Pedro Seminario": "required",
+      "Office": "optional",
+      "Latoya Ming": "optional",
+      "Andrea Wicks Bowles": "optional",
+      "Patricia Coleman": "optional",
+      "Sarah Nodarse": "optional",
+      "Maya Benoit": "optional",
+      "Briza Cardenas": "optional",
+      "Sarah Gluckstein": "optional",
+      "Larry Baker": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-05-29T18:00:00.0000000",
+    "End": "2024-05-29T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072614"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqLAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "out of office",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-05-30T15:00:00.0000000",
+    "End": "2024-05-30T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072641"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqKAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "out of office",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-05-29T18:00:00.0000000",
+    "End": "2024-05-29T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072665"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqJAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "ooo",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-06-06T16:00:00.0000000",
+    "End": "2024-06-06T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072688"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqIAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "LCW Audit chat",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 223 891 503 093 Passcode: ozFVgM For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Steven Lombardo": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-05-24T17:30:00.0000000",
+    "End": "2024-05-24T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072723"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqHAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-05-24T19:00:00.0000000",
+    "End": "2024-05-24T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072749"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqGAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Focus: Richemont and Lendlease emails",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-05-21T15:00:00.0000000",
+    "End": "2024-05-21T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072772"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqFAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "ooo",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-05-21T00:00:00.0000000",
+    "End": "2024-05-22T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072794"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqEAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-05-15T16:30:00.0000000",
+    "End": "2024-05-15T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072816"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqDAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Focus: QBO Recert",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-05-23T18:00:00.0000000",
+    "End": "2024-05-23T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072839"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqCAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-05-14T00:00:00.0000000",
+    "End": "2024-05-15T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072863"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzqBAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Monthly 1:1 Sarah G. & Chuck",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 214 602 486 179 Passcode: 9yAX9f Dial-in by phone +1 872-239-8243,,72463",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-05-16T19:00:00.0000000",
+    "End": "2024-05-16T19:40:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072899"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzp_AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "AK and SG discuss Aging A/R",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 280 966 775 763 Passcode: qw2aFB Dial-in by phone +1 872-239-8243,,7",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-04-24T20:30:00.0000000",
+    "End": "2024-04-24T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072934"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzp9AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "1:1 Briza & Sarah G.",
+    "Description": "Hi! Hope we can meet tomorrow to talk through a few things. Agenda: * Travel spreadsheet \u2013 updated * Bill.com \u2013 Dustin email * External Contractor process \u2013 onboarding * Documents * Bill.com * Else?",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-04-25T15:00:00.0000000",
+    "End": "2024-04-25T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.072986"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzp7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "ooo",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-04-26T00:00:00.0000000",
+    "End": "2024-04-27T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073012"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzp6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Weekly accounting chat (rescheduled)",
+    "Description": "Moved from Friday since I\u2019ll be OOO that day. Microsoft Teams Need help? Join the meeting now Meeting ID: 215 044 047 004 Passcode: ydkJhj",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-04-25T19:00:00.0000000",
+    "End": "2024-04-25T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073056"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzp4AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Mail review",
+    "Description": "Since I\u2019ll be at WeWork this day, I\u2019d like to take a bit of time to get up to speed on your needs for all the mail! Microsoft Teams Need help? Join the meeting now Meetin",
+    "Location": "WeWork",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-04-17T16:00:00.0000000",
+    "End": "2024-04-17T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073100"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzp3AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-04-15T16:15:00.0000000",
+    "End": "2024-04-15T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073125"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzp0AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Accounting update",
+    "Description": "If you get a chance to think about them, please bring a list of information you\u2019d like to see in a weekly accounting update email. Microsoft Teams Need help? Join the meet",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-04-12T21:00:00.0000000",
+    "End": "2024-04-12T21:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073169"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpwAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "SG and AK review bill.com",
+    "Description": "",
+    "Location": "wework",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-03-27T17:00:00.0000000",
+    "End": "2024-03-27T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073196"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpvAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Covenant test and audit due",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-04-12T00:00:00.0000000",
+    "End": "2024-04-13T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073219"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpuAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-04-01T15:00:00.0000000",
+    "End": "2024-04-01T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073242"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzptAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-03-25T18:00:00.0000000",
+    "End": "2024-03-25T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073264"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAABApuLXAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Holmes, Gerald",
+    "Title": "Cordelia - 2024 Prep...",
+    "Description": "-----Original Appointment----- From: Holmes, Gerald Sent: Friday, March 15, 2024 9:10 AM To: Holmes, Gerald; Schneider, Jill; Alisa Kolodizner Subject: Cordelia - 2024 Prep... When: Friday, March 22, 2024 2:30 PM-3",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Holmes, Gerald": "required",
+      "Sarah Gluckstein": "required",
+      "Accounting": "required",
+      "Schneider, Jill": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-03-22T18:30:00.0000000",
+    "End": "2024-03-22T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073335"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpsAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "IIE Invoice Issue",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 238 452 291 431 Passcode: UHX2YP Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Sarah Gluckstein": "required",
+      "Andrea Wicks Bowles": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-03-22T17:00:00.0000000",
+    "End": "2024-03-22T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073379"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpqAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Nodarse",
+    "Title": "Quick Expense Report Tutorial with Sarah G.",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 284 718 884 550 Passcode: 4YAzk9 Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Emani Richmond": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-03-26T20:30:00.0000000",
+    "End": "2024-03-26T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073416"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzppAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "ooo",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-09-04T16:30:00.0000000",
+    "End": "2024-09-04T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073441"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpoAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-08-08T00:00:00.0000000",
+    "End": "2024-08-13T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073476"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpmAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-05-09T15:00:00.0000000",
+    "End": "2024-05-09T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073499"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzplAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-05-02T15:00:00.0000000",
+    "End": "2024-05-02T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073523"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpkAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "ooo",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-04-08T00:00:00.0000000",
+    "End": "2024-04-10T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073547"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpjAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-04-03T19:30:00.0000000",
+    "End": "2024-04-03T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073570"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpiAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-03-28T15:00:00.0000000",
+    "End": "2024-03-28T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073593"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzphAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Expense Report Process",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 239 425 245 998 Passcode: K4GaQC Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Sarah Gluckstein": "required",
+      "Patricia Coleman": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-03-12T14:00:00.0000000",
+    "End": "2024-03-12T14:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073630"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpgAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "March Aging A/R updates",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 243 998 244 464 Passcode: YPwWLW Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-03-08T21:00:00.0000000",
+    "End": "2024-03-08T21:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073666"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAA1MkAtAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Randall Stieghorst",
+    "Title": "Catch up",
+    "Description": "If this time doesn\u2019t work, just send a better time for you. I\u2019m around all day. Microsoft Teams meeting Join on your computer, mobile app or room device Click here to joi",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Randall Stieghorst": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-03-05T20:30:00.0000000",
+    "End": "2024-03-05T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073719"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpfAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "personal",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-03-06T18:00:00.0000000",
+    "End": "2024-03-06T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073745"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAA0caQuAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Nodarse",
+    "Title": "Quick meeting to go over Huron invoices",
+    "Description": "Hi Sarah, the client had some questions about the latest round of invoicing, I think I may have made an error, easier to just explain live! Thanks Microsoft Teams meeting",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-03-07T16:30:00.0000000",
+    "End": "2024-03-07T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073783"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpeAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "Accounting Training",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 225 722 530 162 Passcode: 88GBMj Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-02-08T20:00:00.0000000",
+    "End": "2024-02-08T21:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073821"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpbAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Expense reporting check-in",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 274 950 222 016 Passcode: r3QLKz Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-02-05T22:00:00.0000000",
+    "End": "2024-02-05T22:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073857"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpZAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Ubisoft outstanding items review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 245 614 942 772 Passcode: W9cHZU Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Tamara Thorpe": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-01-08T19:00:00.0000000",
+    "End": "2024-01-08T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073898"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpYAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "2023 Final Numbers",
+    "Description": "2023 #'s for our next convo with the staff Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 289 098 80",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Randall Stieghorst": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-01-08T16:00:00.0000000",
+    "End": "2024-01-08T16:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073934"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpXAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Gluckstein",
+    "Title": "Accounting chat",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 227 360 889 20 Passcode: LoZKRP Download Teams | J",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Gluckstein": "required",
+      "Randall Stieghorst": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-01-04T18:30:00.0000000",
+    "End": "2024-01-04T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.073969"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpVAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Fieldglass Conversation",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 237 934 033 803 Passcode: 9rFvek Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-12-29T16:00:00.0000000",
+    "End": "2023-12-29T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.074003"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAAG_KPXAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Randall Stieghorst",
+    "Title": "Exp reports",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 298 073 615 017 Passcode: X2Wt4H Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Randall Stieghorst": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-12-26T19:30:00.0000000",
+    "End": "2023-12-26T19:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.074037"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpUAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "URGENT: Payroll and AP",
+    "Description": "Apologies for the time. Randy is out of the country and in a different timezone. Let me know if this doesn\u2019t work and I\u2019ll adjust. \u2013 Chuck Microsoft Teams meeting Join o",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Randall Stieghorst": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-12-21T14:30:00.0000000",
+    "End": "2023-12-21T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.074081"
+  },
+  {
+    "Event ID": "AAMkADE4YTliNTgwLWUxNTktNDk2YS1hNThkLTQ1M2Y2Njc0ZmY5MABGAAAAAACpwh0vE08CSqth8xIXYnnqBwAhL0MhR-gmTosy_ToLwGuLAAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABrzpTAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Bookkeeping Onboarding - AP/Invoicing",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 296 170 423 642 Passcode: jdKsKP Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Antonio Jones": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-12-19T01:00:00.0000000",
+    "End": "2023-12-19T02:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:07:28.074118"
+  }
+]

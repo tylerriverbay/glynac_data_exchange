@@ -1,0 +1,2022 @@
+[
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AASh5bU8AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "PTO Dustin",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-06-26T00:00:00.0000000",
+    "End": "2024-07-03T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.385332"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AASh5bU7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Leo - reduced availability / access to emails",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-06-13T00:00:00.0000000",
+    "End": "2024-07-05T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.385416"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AAST2kB3AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Isabelle Louis OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-05-27T00:00:00.0000000",
+    "End": "2024-06-03T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.385480"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AASR0XGkAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "OOO - Uta",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-05-25T00:00:00.0000000",
+    "End": "2024-06-14T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.385545"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AASLPqI9AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Riccardo OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-05-18T00:00:00.0000000",
+    "End": "2024-06-05T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.385595"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AAR213DWAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Tess Whitty OOO with limited availability (in EU)",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-05-17T00:00:00.0000000",
+    "End": "2024-06-01T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.385643"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AAR213DVAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Tess Whitty OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-04-19T00:00:00.0000000",
+    "End": "2024-04-30T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.385688"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AAR0YqSXAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Dustin OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-04-17T00:00:00.0000000",
+    "End": "2024-04-21T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.385733"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZ6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Marie-Stephanie OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-03-29T00:00:00.0000000",
+    "End": "2024-04-02T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.385786"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZ5AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Maya OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-02-29T00:00:00.0000000",
+    "End": "2024-03-14T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.385832"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZ4AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Veronica OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-02-05T00:00:00.0000000",
+    "End": "2024-02-17T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.385878"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AAP-1IwaAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Veronica OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-10-13T00:00:00.0000000",
+    "End": "2023-10-17T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.385922"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZ3AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Eckhard OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-10-09T00:00:00.0000000",
+    "End": "2023-10-14T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.385969"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZ2AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Shivani OUT of the country (India)",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-11-21T00:00:00.0000000",
+    "End": "2024-01-12T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386012"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AAOukaGIAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Eckhard OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-07-08T00:00:00.0000000",
+    "End": "2023-07-25T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386058"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AAOi4MX1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Miyo Tat - very low availability",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-05-22T00:00:00.0000000",
+    "End": "2023-06-22T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386103"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZ1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Tess (Swedish) OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-06-11T00:00:00.0000000",
+    "End": "2023-06-26T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386149"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZ0AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Hugues OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-05-18T00:00:00.0000000",
+    "End": "2023-05-22T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386194"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZzAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Isabelle OOO - France",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-05-10T00:00:00.0000000",
+    "End": "2023-05-21T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386239"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AAOO-t7jAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Anne-Marie Lavoie OOO - until 28th April",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-04-24T00:00:00.0000000",
+    "End": "2023-04-29T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386286"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AANkqmCWAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Ondrej Sendler OOO - 1-19 March",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-03-01T00:00:00.0000000",
+    "End": "2023-03-20T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386337"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AANYeAy7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Uta unavailable - traveling",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-02-06T00:00:00.0000000",
+    "End": "2023-02-07T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386383"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AAM_MJMwAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Cristiana Coblis - OOO 2-3 JAN",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-01-02T00:00:00.0000000",
+    "End": "2023-01-04T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386427"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AAM_MJMvAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Cristiana Coblis - OOO 23 - 26 DEC",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2022-12-23T00:00:00.0000000",
+    "End": "2022-12-27T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386475"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZyAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Carasmatic OUT (Recording Studio)",
+    "Description": "VERY limited availability during these dates.",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-12-18T00:00:00.0000000",
+    "End": "2023-01-03T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386560"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AAM6203tAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Proofreader Mar Rodriguez - maybe unavailable 23-25 DEC",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2022-12-23T13:00:00.0000000",
+    "End": "2022-12-25T13:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386613"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AAM6203sAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Marie-Stephanie Proulx - OOO 23 DEC - 10 JAN",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2022-12-23T00:00:00.0000000",
+    "End": "2023-01-11T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386657"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AAM6203rAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Uta Lausberg - OOO 15 - 16 DEC",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2022-12-15T00:00:00.0000000",
+    "End": "2022-12-17T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386700"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AAM6203qAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Isabelle Louis - OOO 13 JAN - 18 JAN",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-01-13T00:00:00.0000000",
+    "End": "2023-01-19T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386747"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AAM6203pAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Isabelle Louis - OOO 16 DEC",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2022-12-16T00:00:00.0000000",
+    "End": "2022-12-17T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386793"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AAM6203oAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Hiroko Hayashi - Partially unavailable 30 DEC - 6 JAN",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2022-12-30T00:00:00.0000000",
+    "End": "2023-01-07T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386838"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAC6VNMROiA9TIZbIvC6Oi18AAM6203nAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Hugues Desesquelles - OOO 22 DEC - 10 JAN",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2022-12-22T00:00:00.0000000",
+    "End": "2023-01-11T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386884"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZwAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Tess (Swedish) VACATION",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-12-21T00:00:00.0000000",
+    "End": "2023-01-08T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386936"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZvAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Riccardo and Nina OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-11-15T00:00:00.0000000",
+    "End": "2022-12-05T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.386978"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZuAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Isabelle OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-11-07T00:00:00.0000000",
+    "End": "2022-11-21T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387001"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZtAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Caroline OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-10-13T00:00:00.0000000",
+    "End": "2022-10-15T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387026"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZsAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Eckhard OUT of office",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-10-10T00:00:00.0000000",
+    "End": "2022-10-15T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387049"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZrAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Tess OUT",
+    "Description": "September 17th to 25th",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-09-17T00:00:00.0000000",
+    "End": "2022-09-26T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387086"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAASbp1CPqGcSZOcHbjGxBA6AAAD4kbnAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Miyo on Vacation Trip",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-09-02T19:00:00.0000000",
+    "End": "2022-09-12T12:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387112"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAASbp1CPqGcSZOcHbjGxBA6AAAD4kbmAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Kristina Unavailable (Lithuanian)",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-08-30T17:30:00.0000000",
+    "End": "2022-09-26T13:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387135"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAASbp1CPqGcSZOcHbjGxBA6AAAD4kblAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Isabelle Vacation",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-07-29T00:00:00.0000000",
+    "End": "2022-08-09T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387161"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAAASbp1CPqGcSZOcHbjGxBA6AAAD4kbkAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Selene from Linguagraphics on Vacation",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-07-25T00:00:00.0000000",
+    "End": "2022-08-19T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387187"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZqAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Eckhard OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-07-25T00:00:00.0000000",
+    "End": "2022-08-01T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387211"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZpAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Nora semi-available - back in Mx 7/25",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-07-19T00:00:00.0000000",
+    "End": "2022-07-26T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387237"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZoAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Marie-Stephanie OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-07-22T00:00:00.0000000",
+    "End": "2022-08-09T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387262"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZnAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "CARASMATIC OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-07-25T00:00:00.0000000",
+    "End": "2022-07-30T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387287"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZmAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Veronica OUT - Vacation",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-07-18T00:00:00.0000000",
+    "End": "2022-07-23T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387312"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZlAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Jussi OUT in vacation",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-07-15T00:00:00.0000000",
+    "End": "2022-08-02T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387337"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZkAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "DUSTIN OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-07-22T00:00:00.0000000",
+    "End": "2022-07-30T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387642"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZjAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Hugues OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-06-06T00:00:00.0000000",
+    "End": "2022-06-21T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387672"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZiAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Anne-Marie OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-06-24T00:00:00.0000000",
+    "End": "2022-07-17T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387698"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZhAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Uta OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-06-06T00:00:00.0000000",
+    "End": "2022-06-27T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387726"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZgAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Uta OUT on vacation until June 26th",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-06-26T00:00:00.0000000",
+    "End": "2022-06-27T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387749"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZfAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Thai New Year",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-04-13T13:30:00.0000000",
+    "End": "2022-04-18T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387771"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZeAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Marie-Stephanie OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-04-15T00:00:00.0000000",
+    "End": "2022-04-19T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387794"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZdAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Tess OUT (Swedish)",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-04-27T00:00:00.0000000",
+    "End": "2022-05-20T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387815"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZcAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Osama's office Closed: Eid Fitr Holidays",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-05-01T00:00:00.0000000",
+    "End": "2022-05-06T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387837"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZbAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "TESS OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-02-28T00:00:00.0000000",
+    "End": "2022-03-05T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387858"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZaAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Isabelle OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-02-15T00:00:00.0000000",
+    "End": "2022-02-25T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387879"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZZAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "UTA OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-02-09T00:00:00.0000000",
+    "End": "2022-02-12T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387901"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZYAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Tess OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-01-15T00:00:00.0000000",
+    "End": "2022-01-24T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387923"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZXAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Veronica DTP OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-12-24T00:00:00.0000000",
+    "End": "2022-01-09T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387948"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZWAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Elisabete OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-12-20T00:00:00.0000000",
+    "End": "2022-01-03T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387971"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZVAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Leo OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-12-19T00:00:00.0000000",
+    "End": "2021-12-27T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.387994"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZUAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Marie-Stephanie OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-12-23T00:00:00.0000000",
+    "End": "2022-01-11T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388017"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZTAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Sententia Closed",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-12-23T00:00:00.0000000",
+    "End": "2021-12-25T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388040"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZSAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Miyo OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-10-21T00:00:00.0000000",
+    "End": "2021-11-09T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388061"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZRAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Tess out",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-10-25T00:00:00.0000000",
+    "End": "2021-10-30T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388083"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZQAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Isabelle OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-10-13T00:00:00.0000000",
+    "End": "2021-10-26T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388104"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZPAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Carasmatic Studio Semi-Closed",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-10-07T00:00:00.0000000",
+    "End": "2021-10-09T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388125"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZOAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Leo OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-09-03T00:00:00.0000000",
+    "End": "2021-09-14T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388147"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZNAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Teresa OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-09-05T00:00:00.0000000",
+    "End": "2021-09-19T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388171"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZMAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Jussi (Finish OUT)",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-08-13T00:00:00.0000000",
+    "End": "2021-08-29T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388193"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZLAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Elisabete OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-09-20T00:00:00.0000000",
+    "End": "2021-09-25T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388215"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZKAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Elisabete OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-08-01T00:00:00.0000000",
+    "End": "2021-08-16T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388237"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZJAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Eckhard OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-07-28T00:00:00.0000000",
+    "End": "2021-08-17T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388258"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAAOgBtZIAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Uta OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-07-27T00:00:00.0000000",
+    "End": "2021-08-23T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388279"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbdAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Marie-Stephanie OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-07-24T00:00:00.0000000",
+    "End": "2021-08-10T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388302"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbcAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Isabelle OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-08-22T00:00:00.0000000",
+    "End": "2021-09-01T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388323"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbbAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Osama's office CLOSED",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-07-19T00:00:00.0000000",
+    "End": "2021-07-23T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388348"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbaAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Anne-Marie OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-07-12T00:00:00.0000000",
+    "End": "2021-07-20T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388372"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbZAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Tess in Sweden Working EU hours",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-06-21T00:00:00.0000000",
+    "End": "2021-07-15T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388395"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbXAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "TESS OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-07-15T00:00:00.0000000",
+    "End": "2021-08-03T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388418"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbWAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Tess in Sweden - working EU hours",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-06-21T00:00:00.0000000",
+    "End": "2021-07-15T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388440"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbVAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Isabelle no available",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-04-29T00:00:00.0000000",
+    "End": "2021-05-08T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388461"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbUAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Isabelle OUT - France",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-04-25T00:00:00.0000000",
+    "End": "2021-05-08T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388483"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbTAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Maheendra OUT ",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2021-03-08T00:00:00.0000000",
+    "End": "2021-03-16T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388506"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbSAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Anne-Marie Lavoie OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2020-12-21T00:00:00.0000000",
+    "End": "2021-01-05T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388527"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbRAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Marie-Stephanie OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2020-12-21T00:00:00.0000000",
+    "End": "2021-01-07T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388549"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbQAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Elisabete OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2020-12-21T00:00:00.0000000",
+    "End": "2021-01-04T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388571"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbPAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Keerti Khambete NOT Avaialable",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2020-11-13T00:00:00.0000000",
+    "End": "2020-11-18T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388593"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbOAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Uta OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2020-10-13T14:00:00.0000000",
+    "End": "2020-10-23T14:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388619"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbNAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Teresa OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2020-09-10T00:00:00.0000000",
+    "End": "2020-09-26T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388642"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbMAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Eckhard OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2020-07-31T00:00:00.0000000",
+    "End": "2020-08-10T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388665"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbLAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Hugues OUT one week. end of July. Francois still available.",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2020-07-27T00:00:00.0000000",
+    "End": "2020-08-01T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388687"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbKAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Marie-Stephanie OUT in vacation",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2020-07-24T13:30:00.0000000",
+    "End": "2020-08-09T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388711"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbJAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Slawka OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2020-06-10T13:30:00.0000000",
+    "End": "2020-06-30T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388735"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbIAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Osama's offices closed - End of Ramadan Holiday.",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2020-05-22T13:30:00.0000000",
+    "End": "2020-05-30T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388758"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbHAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Yoshiko NO available",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2020-03-09T00:00:00.0000000",
+    "End": "2020-03-23T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388780"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbGAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Veronica DTP OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2020-02-17T15:00:00.0000000",
+    "End": "2020-02-28T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388801"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbFAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Fagrelius",
+    "Title": "Ramona OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Fagrelius": "required"
+    },
+    "Virtual": false,
+    "Start": "2020-01-23T00:00:00.0000000",
+    "End": "2020-01-27T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388823"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbEAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "UTA OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2020-01-15T00:00:00.0000000",
+    "End": "2020-02-01T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388851"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbDAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Chinese New Year - Elva's team OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2020-01-24T00:00:00.0000000",
+    "End": "2020-01-31T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388874"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbCAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Veronica OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-12-18T00:00:00.0000000",
+    "End": "2019-12-19T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388898"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NbAAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Yoshiko OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-12-18T00:00:00.0000000",
+    "End": "2020-02-10T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388924"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7Na-AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Miyo OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-12-22T00:00:00.0000000",
+    "End": "2020-01-06T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388947"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7Na_AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Hiroko OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-12-31T00:00:00.0000000",
+    "End": "2020-01-04T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388969"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7Na9AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Riccardo and Nina OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-12-24T00:00:00.0000000",
+    "End": "2020-01-06T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.388995"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7Na8AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Eckhard OUT ",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-12-18T00:00:00.0000000",
+    "End": "2020-01-02T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389017"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7Na7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Manmohan OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-12-20T00:00:00.0000000",
+    "End": "2019-12-27T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389042"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7Na6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "UTA booked until 12/27",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-12-17T00:00:00.0000000",
+    "End": "2019-12-28T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389064"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7Na5AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Slawka OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-12-21T00:00:00.0000000",
+    "End": "2020-01-02T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389090"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7Na4AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Kristina Lithuanian translator OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-12-18T00:00:00.0000000",
+    "End": "2020-01-02T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389115"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7Na3AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "UTA OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-11-07T00:00:00.0000000",
+    "End": "2019-11-14T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389138"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7Na2AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Isabelle OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-11-16T00:00:00.0000000",
+    "End": "2019-11-27T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389159"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7Na1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "TESS OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-12-13T00:00:00.0000000",
+    "End": "2019-12-26T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389181"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7Na0AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "TESS OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-11-27T00:00:00.0000000",
+    "End": "2019-12-01T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389203"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NazAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Yoshiko OUT ",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-11-14T00:00:00.0000000",
+    "End": "2019-11-21T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389226"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NayAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Uta no available",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-10-25T00:00:00.0000000",
+    "End": "2019-11-04T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389249"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NaxAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Fagrelius",
+    "Title": "Riccardo & Nina OUT (as well as Paolo their proofreader)",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Fagrelius": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-11-01T14:00:00.0000000",
+    "End": "2019-11-10T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389272"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NawAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Yoshiko OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-09-11T00:00:00.0000000",
+    "End": "2019-10-05T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389295"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NavAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Ramona OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-08-05T00:00:00.0000000",
+    "End": "2019-09-01T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389319"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NauAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Carasmatic productions will be closed from July 25-August 6",
+    "Description": "OUR RECORDING STUDIO in LA.",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-07-25T00:00:00.0000000",
+    "End": "2019-08-07T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389355"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NatAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Translator Availability",
+    "Title": "Carole (FRCA) no available",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-07-03T00:00:00.0000000",
+    "End": "2019-07-15T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389382"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NasAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Fagrelius",
+    "Title": "Yoshiko (JAP) no available ",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Fagrelius": "required",
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-07-02T00:00:00.0000000",
+    "End": "2019-07-20T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389405"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NajAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Fagrelius",
+    "Title": "Hugues OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Fagrelius": "required",
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-08-15T00:00:00.0000000",
+    "End": "2019-08-19T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389427"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NakAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Fagrelius",
+    "Title": "Elisabete OUT",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Fagrelius": "required",
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-08-01T00:00:00.0000000",
+    "End": "2019-08-19T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389452"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NalAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Fagrelius",
+    "Title": "Eckhard GER VACATION",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Fagrelius": "required",
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-07-31T00:00:00.0000000",
+    "End": "2019-08-25T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389475"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NamAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Fagrelius",
+    "Title": "Leo DUTCH, Vacation",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Fagrelius": "required",
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-07-26T00:00:00.0000000",
+    "End": "2019-08-05T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389500"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NanAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Fagrelius",
+    "Title": "Hugues FRFR VACATION",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Fagrelius": "required",
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-07-21T00:00:00.0000000",
+    "End": "2019-07-29T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389522"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NaoAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Fagrelius",
+    "Title": "Isabelle FRFR limited availability - ask first",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Fagrelius": "required",
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-07-20T00:00:00.0000000",
+    "End": "2019-07-30T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389543"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NapAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Fagrelius",
+    "Title": "Marie-Stephanie FRCA translator VACATION",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Fagrelius": "required",
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-07-19T00:00:00.0000000",
+    "End": "2019-08-04T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389565"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NaqAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Fagrelius",
+    "Title": "Tess NO available",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Fagrelius": "required",
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-07-17T00:00:00.0000000",
+    "End": "2019-07-18T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389588"
+  },
+  {
+    "Event ID": "AAMkADg3NDUyODU1LWNhOGEtNGE4NC1hNDMwLWJhNjQ0YzBiYWRkMwBGAAAAAADQvj6G8q4bTqOj3_o1Tcf_BwC6VNMROiA9TIZbIvC6Oi18AAAAAAENAABgJPr9pXeARoV8CjQdegrmAADz7NarAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Fagrelius",
+    "Title": "Ao (Chinese) - China time zone instead of USA hours",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Fagrelius": "required",
+      "Translator Availability": "required"
+    },
+    "Virtual": false,
+    "Start": "2019-07-07T00:00:00.0000000",
+    "End": "2019-07-21T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:05.389611"
+  }
+]

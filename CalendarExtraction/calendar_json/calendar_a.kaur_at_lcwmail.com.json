@@ -1,0 +1,153 @@
+[
+  {
+    "Event ID": "AAMkADA2YWQ2NGQ4LTgzMTMtNDA3YS04MTg5LTRhODVmNjUyNjdhMwBGAAAAAABHsyuIdAdIQYWqwr4uEAmgBwBnG-jnxWAhS4VoXyqDTSuzAAAAAAENAABnG-jnxWAhS4VoXyqDTSuzAAAjzxPVAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Canceled: LCW All-Staff Meeting",
+    "Description": "Focus: Firmwide and functional sharing by departments: * Significant current projects \u2013 Do they impact or require assistance from others on the team? * Upcoming work efforts for the week * What resources might you need to be successful?",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Catalina De Sanctis": "required",
+      "Keri Luo": "required",
+      "Andrea Wicks Bowles": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Gluckstein": "required",
+      "Juri Mansour": "required",
+      "Kaitlin Nonweiler": "required",
+      "Nicole Barile": "required",
+      "Alisa Kolodizner": "optional",
+      "Jorgelina.venturi@gmail.com": "optional",
+      "Jorgelina Venturi": "optional",
+      "Arvinder Kaur": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-12-16T17:00:00.0000000",
+    "End": "2024-12-16T17:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:26.833377"
+  },
+  {
+    "Event ID": "AAMkADA2YWQ2NGQ4LTgzMTMtNDA3YS04MTg5LTRhODVmNjUyNjdhMwBGAAAAAABHsyuIdAdIQYWqwr4uEAmgBwBnG-jnxWAhS4VoXyqDTSuzAAAAAAENAABnG-jnxWAhS4VoXyqDTSuzAAAdXPbqAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Randall Stieghorst",
+    "Title": "Chat",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 231 402 656 036 Passcode: oL6db235 For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Randall Stieghorst": "required",
+      "Arvinder Kaur": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-02-05T17:00:00.0000000",
+    "End": "2025-02-05T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:26.833465"
+  },
+  {
+    "Event ID": "AAMkADA2YWQ2NGQ4LTgzMTMtNDA3YS04MTg5LTRhODVmNjUyNjdhMwBGAAAAAABHsyuIdAdIQYWqwr4uEAmgBwBnG-jnxWAhS4VoXyqDTSuzAAAAAAENAABnG-jnxWAhS4VoXyqDTSuzAAARkCZjAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Discussion: ColPal Micro Learning/ Rewards & Recognition",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 272 381 401 113 Passcode: oX2GJ3Cj Dial in by phone +1 872-239-8243,,293",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Juri Mansour": "required",
+      "Andrea Wicks Bowles": "required",
+      "Patricia Coleman": "required",
+      "Arvinder Kaur": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-17T14:00:00.0000000",
+    "End": "2025-01-17T14:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:26.833533"
+  },
+  {
+    "Event ID": "AAMkADA2YWQ2NGQ4LTgzMTMtNDA3YS04MTg5LTRhODVmNjUyNjdhMwBGAAAAAABHsyuIdAdIQYWqwr4uEAmgBwBnG-jnxWAhS4VoXyqDTSuzAAAAAAENAABnG-jnxWAhS4VoXyqDTSuzAAARkCZiAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Keri Luo",
+    "Title": "Intro+Design Chat",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 214 434 579 149 Passcode: kD7Cz7Ve Dial in by phone +1 872-239-8243,,406",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Keri Luo": "required",
+      "Arvinder Kaur": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-16T15:30:00.0000000",
+    "End": "2025-01-16T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:26.833596"
+  },
+  {
+    "Event ID": "AAMkADA2YWQ2NGQ4LTgzMTMtNDA3YS04MTg5LTRhODVmNjUyNjdhMwBGAAAAAABHsyuIdAdIQYWqwr4uEAmgBwBnG-jnxWAhS4VoXyqDTSuzAAAAAAENAABnG-jnxWAhS4VoXyqDTSuzAAAQAh-BAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Andrea Wicks Bowles",
+    "Title": "Arvin Microlearniing",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 296 213 129 329 Passcode: 3sz2fA2h Dial in by phone +1 872-239-8243,,516",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Andrea Wicks Bowles": "required",
+      "Arvinder Kaur": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-14T13:00:00.0000000",
+    "End": "2025-01-14T13:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:26.833656"
+  },
+  {
+    "Event ID": "AAMkADA2YWQ2NGQ4LTgzMTMtNDA3YS04MTg5LTRhODVmNjUyNjdhMwBGAAAAAABHsyuIdAdIQYWqwr4uEAmgBwBnG-jnxWAhS4VoXyqDTSuzAAAAAAENAABnG-jnxWAhS4VoXyqDTSuzAAAMH0qtAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "Nicole + Arvin chat",
+    "Description": "Looking forward to speaking with you! Microsoft Teams Need help? Join the meeting now Meeting ID: 295 946 198 676 Passcode: iH9M2K9m",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Arvinder Kaur": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-08T15:30:00.0000000",
+    "End": "2025-01-08T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:26.833718"
+  },
+  {
+    "Event ID": "AAMkADA2YWQ2NGQ4LTgzMTMtNDA3YS04MTg5LTRhODVmNjUyNjdhMwBGAAAAAABHsyuIdAdIQYWqwr4uEAmgBwBnG-jnxWAhS4VoXyqDTSuzAAAAAAENAABnG-jnxWAhS4VoXyqDTSuzAAAJX8KwAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Canceled: LCW All-Staff Meeting",
+    "Description": "Focus: Firmwide and functional sharing by departments: * Significant current projects \u2013 Do they impact or require assistance from others on the team? * Upcoming work efforts for the week * What resources might you need to be successful?",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Catalina De Sanctis": "required",
+      "Keri Luo": "required",
+      "Andrea Wicks Bowles": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Gluckstein": "required",
+      "Juri Mansour": "required",
+      "Kaitlin Nonweiler": "required",
+      "Nicole Barile": "required",
+      "Alisa Kolodizner": "optional",
+      "Arvinder Kaur": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-12-02T17:00:00.0000000",
+    "End": "2024-12-02T17:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:26.833805"
+  },
+  {
+    "Event ID": "AAMkADA2YWQ2NGQ4LTgzMTMtNDA3YS04MTg5LTRhODVmNjUyNjdhMwBGAAAAAABHsyuIdAdIQYWqwr4uEAmgBwBnG-jnxWAhS4VoXyqDTSuzAAAAAAENAABnG-jnxWAhS4VoXyqDTSuzAAAG24NkAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Touchbase on Assignment Details",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 217 302 974 892 Passcode: AE2oG9zw Dial in by phone +1 872-239-8243,,499",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Arvinder Kaur": "required",
+      "Nicole Barile": "optional"
+    },
+    "Virtual": true,
+    "Start": "2025-01-03T14:00:00.0000000",
+    "End": "2025-01-03T14:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:26.833867"
+  }
+]

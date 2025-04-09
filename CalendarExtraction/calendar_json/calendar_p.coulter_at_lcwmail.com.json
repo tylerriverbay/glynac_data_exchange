@@ -1,0 +1,299 @@
+[
+  {
+    "Event ID": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAENAAARNaNds68XQpUWYT8kHgRXAABqkk6uAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Pamela Coulter",
+    "Title": "Pam PTO - Glucose",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Pamela Coulter": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-08-03T12:00:00.0000000",
+    "End": "2023-08-03T12:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:34.241881"
+  },
+  {
+    "Event ID": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAENAAARNaNds68XQpUWYT8kHgRXAABW9ig8AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "QuickBooks Online and Bill.com training",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 246 822 237 867 Passcode: NKwdq2 Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Pamela Coulter": "required",
+      "Antonio Jones": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-07-10T18:00:00.0000000",
+    "End": "2023-07-10T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:34.242012"
+  },
+  {
+    "Event ID": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAENAAARNaNds68XQpUWYT8kHgRXAABW9ig7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "QuickBooks Online and Bill.com training (cont.)",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 290 191 930 711 Passcode: rCm3mA Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Pamela Coulter": "required",
+      "Antonio Jones": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-07-13T15:00:00.0000000",
+    "End": "2023-07-13T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:34.242100"
+  },
+  {
+    "Event ID": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAENAAARNaNds68XQpUWYT8kHgRXAABW9ig6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Payroll Training",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 296 960 914 542 Passcode: 2SA4w3 Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Antonio Jones": "required",
+      "Pamela Coulter": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-07-12T18:00:00.0000000",
+    "End": "2023-07-12T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:34.242179"
+  },
+  {
+    "Event ID": "AQMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAD9TsyrHZHZEe5jXMtOKFYcAcAETWjXbOvF0KVFmE-JB4EVwAAAgENAAAAETWjXbOvF0KVFmE-JB4EVwAAADFG6gAAAQ==",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Pamela Coulter",
+    "Title": "Hartford Form Completion via portal",
+    "Description": "Maria Here is the Zoom meeting for today at 2pm Eastern / 1pm Central https://us02web.zoom.us/j/89642780853 Pamela Coulter Accounting Email: p.coulter@lcwmail.com Mobile: +1.937.605.9970 www | Twitter | Facebook | LinkedIn",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Maria Mercado": "required",
+      "Michelle Murcia": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-05-09T18:00:00.0000000",
+    "End": "2023-05-09T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:34.242258"
+  },
+  {
+    "Event ID": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAENAAARNaNds68XQpUWYT8kHgRXAAApLPgKAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "michelle@bookandstreet.com",
+    "Title": "LCW",
+    "Description": "LCW You have been invited by michelle@bookandstreet.com to attend an event named LCW on Thursday Apr 27, 2023 \u22c5 6pm \u2013 6:30pm (Eastern Time - New York). This event has been updated Changed: time When CHANGED Thursday Apr 27, 2023 \u22c5 6pm \u2013 6:30pm (",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "michelle@bookandstreet.com": "required",
+      "Jennifer Barbieri": "required",
+      "Pamela Coulter": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-04-27T22:00:00.0000000",
+    "End": "2023-04-27T22:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:34.242405"
+  },
+  {
+    "Event ID": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAENAAARNaNds68XQpUWYT8kHgRXAAACKPOUAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Kendall Washington",
+    "Title": "(Live Stream) Embracing Equity: Reflections from Two Women Business Owners",
+    "Description": "Please join us as your schedule allows for this conversation on International Women's Day. Consider inviting your clients, colleagues, and LinkedIn connections using the link below and the \"invite\" button. Watch live on LinkedIn: https://www.linkedi",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Kendall Washington": "required",
+      "Alisa Kolodizner": "required",
+      "Andrea Wicks Bowles": "required",
+      "Briza Cardenas": "required",
+      "Melissa Neu": "required",
+      "Chuck Adams": "required",
+      "Conner Williams": "required",
+      "Daniel Gough": "required",
+      "Dustin Puehler": "required",
+      "Emani Richmond": "required",
+      "Grace Vottero": "required",
+      "Hannah Strack": "required",
+      "Jake Pieczynski": "required",
+      "Jeffrey Cookson": "required",
+      "Jennifer Barbieri": "required",
+      "Kaitlin Nonweiler": "required",
+      "Kelly Salek": "required",
+      "Larry Baker": "required",
+      "Maria Fagrelius": "required",
+      "Maya Benoit": "required",
+      "Michelle Murcia": "required",
+      "Nassise Geleta": "required",
+      "Pamela Coulter": "required",
+      "Randall Stieghorst": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Nodarse": "required",
+      "Tamara Thorpe": "required",
+      "Vince Bongiovanni": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-03-08T17:00:00.0000000",
+    "End": "2023-03-08T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:34.242496"
+  },
+  {
+    "Event ID": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAENAAARNaNds68XQpUWYT8kHgRXAAACKPOTAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Month end close process",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 245 540 763 435 Passcode: cSz4Lw Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Jennifer Barbieri": "required",
+      "Michelle Murcia": "required",
+      "Pamela Coulter": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-01T16:00:00.0000000",
+    "End": "2023-03-01T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:34.242571"
+  },
+  {
+    "Event ID": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAENAAARNaNds68XQpUWYT8kHgRXAAACKPOSAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Pamela Coulter",
+    "Title": "LCW actors info for shoot payment Wed",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Pamela Coulter": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-03-06T18:00:00.0000000",
+    "End": "2023-03-06T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:34.242625"
+  },
+  {
+    "Event ID": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAENAAARNaNds68XQpUWYT8kHgRXAAACKPOQAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Dustin Puehler",
+    "Title": "Actor Payout",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 283 779 019 169 Passcode: rqHAb3 Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Dustin Puehler": "required",
+      "Pamela Coulter": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-28T16:30:00.0000000",
+    "End": "2023-02-28T16:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:34.242680"
+  },
+  {
+    "Event ID": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAENAAARNaNds68XQpUWYT8kHgRXAAACKPOOAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "Chat on LCW credit card usage",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 215 129 678 716 Passcode: 4Y6kwq Download Teams |",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Pamela Coulter": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-28T15:00:00.0000000",
+    "End": "2023-02-28T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:34.242723"
+  },
+  {
+    "Event ID": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAENAAARNaNds68XQpUWYT8kHgRXAAACKPOLAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Pamela Coulter",
+    "Title": "Review Payroll(s) and PFF 2:30pEST 1:30pCST",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 234 327 651 766 Passcode: m3jyxY Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Michelle Murcia": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-02-24T19:30:00.0000000",
+    "End": "2023-02-24T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:34.242763"
+  },
+  {
+    "Event ID": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAENAAARNaNds68XQpUWYT8kHgRXAAACKPOKAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "PPF review part II",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 241 603 155 29 Passcode: xyYpiX Download Teams",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Jennifer Barbieri": "required",
+      "Pamela Coulter": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-22T15:00:00.0000000",
+    "End": "2023-02-22T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:34.242800"
+  },
+  {
+    "Event ID": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAENAAARNaNds68XQpUWYT8kHgRXAAACKPOJAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Pamela Coulter",
+    "Title": "LCW Payables Processed",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Pamela Coulter": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-03-15T17:00:00.0000000",
+    "End": "2023-03-15T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:34.242827"
+  },
+  {
+    "Event ID": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAENAAARNaNds68XQpUWYT8kHgRXAAACKPOFAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Pamela Coulter",
+    "Title": "Get LCW Payables Processed",
+    "Description": "Pamela Coulter Accounting Email: p.coulter@lcwmail.com Mobile: +1.937.605.9970 www | Twitter | Facebook | LinkedIn",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Pamela Coulter": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-02-21T17:00:00.0000000",
+    "End": "2023-02-21T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:34.242864"
+  },
+  {
+    "Event ID": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAENAAARNaNds68XQpUWYT8kHgRXAAACKPODAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Pamela Coulter",
+    "Title": "LCW PR 15th",
+    "Description": "Pamela Coulter Accounting Email: p.coulter@lcwmail.com Mobile: +1.937.605.9970 www | Twitter | Facebook | LinkedIn",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Pamela Coulter": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-03-13T12:30:00.0000000",
+    "End": "2023-03-13T12:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:34.242897"
+  },
+  {
+    "Event ID": "AAMkAGY2NWNkMDk2LTFkNDMtNDYzNS05ZTU0LTNiZWRhNzIxMGM2MwBGAAAAAAD1OzKsdkdkR7mNcy04oVhwBwARNaNds68XQpUWYT8kHgRXAAAAAAENAAARNaNds68XQpUWYT8kHgRXAAACKPOBAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Pamela Coulter",
+    "Title": "Review accounting email w Pam",
+    "Description": "Books Street is inviting you to a scheduled Zoom meeting. Topic: LCW Accounting Email Review Time: Feb 17, 2023 10:00 AM Eastern Time (US and Canada) Join Zoom Meeting https://us02web.zoom.us/j/85455762544 Meeting ID: 854 5576 2544",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-17T15:00:00.0000000",
+    "End": "2023-02-17T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:34.242935"
+  }
+]

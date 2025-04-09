@@ -1,0 +1,3983 @@
+[
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACiN7dPAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Touchbase Juri/Chuck",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 294 460 261 713 Passcode: Ra37EB98 For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-04-04T14:00:00.0000000",
+    "End": "2025-04-04T14:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.819739"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACiN7dOAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Delgado Carranza, Priscila (she/her/hers)",
+    "Title": "ARCH LATAM - Deployment ",
+    "Description": "Hi team, As previously shared, let\u2019s get together to finalize details on launching ARCH for LATAM. Please determine the below by March 26th: * Identify early adopters within the HR team and the M3-P5 audience based on this list: LATAM_M3_P5",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Delgado Carranza, Priscila (she/her/hers)": "required",
+      "Rebecca Parrilla": "required",
+      "Juri Mansour": "required",
+      "Angel, Veronica (she/her/hers)": "optional",
+      "Machado, Livia": "optional",
+      "Bird, Shani (she/her/hers)": "required",
+      "Tarshish, Evan (he/him/his)": "required",
+      "Acevedo Ramirez, Andrea (she/her/hers)": "required",
+      "Rodriguez, Keylor (he/him/his)": "required",
+      "Monteiro, Bruno": "required",
+      "Medeiros Junior, Rui": "required",
+      "Hernandez, Kenia": "required",
+      "Zuniga, Luis": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-04-03T18:00:00.0000000",
+    "End": "2025-04-03T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.819876"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACiN7dMAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2025-04-02T00:00:00.0000000",
+    "End": "2025-04-03T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.819936"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACeavzeAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Delgado Carranza, Priscila (she/her/hers)",
+    "Title": "LCW Addendum",
+    "Description": "Hi team, Looking to meet and discuss around the SWO. Best, Microsoft Teams Need help? Join the meeting now Meeting ID: 270 994 226 102 Passcode: zP9ur7B8",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Delgado Carranza, Priscila (she/her/hers)": "required",
+      "Bird, Shani (she/her/hers)": "required",
+      "Tarshish, Evan (he/him/his)": "required",
+      "Punjabi, Gauri": "required",
+      "Rebecca Parrilla": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-04-15T14:00:00.0000000",
+    "End": "2025-04-15T14:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.820012"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACcONPWAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "Meeting ab automatic cal invitations re: \"Building an Inclusive GroupM Culture\"",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 234 576 654 774 Passcode: ac2F8vB9 Dial in by phone +1 872-239-8243,,162",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Shelton Rankin": "required",
+      "Juri Mansour": "required",
+      "Brian Dashew": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-26T13:30:00.0000000",
+    "End": "2025-03-26T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.820081"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACZ5nz7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2025-03-25T00:00:00.0000000",
+    "End": "2025-03-26T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.820129"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACZ5nz5AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2025-03-21T00:00:00.0000000",
+    "End": "2025-03-22T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.820181"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACZ5nz3AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2025-03-24T00:00:00.0000000",
+    "End": "2025-03-25T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.820223"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACTpTymAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "Notes from BSC APAC and LatAm meetings",
+    "Description": "From: Rebecca Parrilla Sent: Wednesday, March 19, 2025 10:03 AM To: Juri Mansour Subject: RE: Notes from BSC APAC and LatAm meetings That works great, thank you! Feel free to",
+    "Location": "Juri to call RP on Teams",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-03-19T14:00:00.0000000",
+    "End": "2025-03-19T14:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.820409"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACTpTylAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Touchbase on BSC Scheduling",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 292 823 177 132 Passcode: KY632aW2 Dial in by phone +1 872-239-8243,,936",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-13T15:30:00.0000000",
+    "End": "2025-03-13T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.820487"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACSinYgAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "LCW All-Staff Meeting - 1st and 3rd Monday",
+    "Description": "1. This is a \"Stand up\" meeting for all staff members (FTE/PTE) where each person participates * Each staff member gives a short update on what they are working on this week / their tasks for the week * Each staff member shares where th",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Keri Luo": "required",
+      "Andrea Wicks Bowles": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Gluckstein": "required",
+      "Juri Mansour": "required",
+      "Kaitlin Nonweiler": "required",
+      "Nicole Barile": "required",
+      "Cecilia Mariotta": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-17T16:00:00.0000000",
+    "End": "2025-03-17T16:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.820569"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACSinYfAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "LCW All-Staff Meeting - 1st and 3rd Monday",
+    "Description": "1. This is a \"Stand up\" meeting for all staff members (FTE/PTE) where each person participates * Each staff member gives a short update on what they are working on this week / their tasks for the week * Each staff member shares where th",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Keri Luo": "required",
+      "Andrea Wicks Bowles": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Gluckstein": "required",
+      "Juri Mansour": "required",
+      "Kaitlin Nonweiler": "required",
+      "Nicole Barile": "required",
+      "Cecilia Mariotta": "required",
+      "Sarah Jordan": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-03T17:00:00.0000000",
+    "End": "2025-03-03T17:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.820647"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACNrit1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "BSC APAC: Understanding Your Cultural Lens",
+    "Description": "External Facilitator: Yuko Deneuville Zoom Registration Link: https://languageandculture.zoom.us/meeting/register/n5Xq9C3JR_2r_DjIEA2DGw 11am to 1pm Singapore time (10pm CT Tues. March 25) || Company: Boston Scientific Corporation (BSC)",
+    "Location": "Zoom",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-26T03:00:00.0000000",
+    "End": "2025-03-26T05:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.820717"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACNrit0AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "BSC Canada: Understanding Your Cultural Lens",
+    "Description": "External Facilitator is Jas Kalra. Registration Link: https://languageandculture.zoom.us/meeting/register/X-I1eeL6Seyne7dIcIbu9g || Company: Boston Scientific Corporation (BSC) || Company: Boston Scientific Corporation (BSC)",
+    "Location": "Zoom",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-05-27T14:00:00.0000000",
+    "End": "2025-05-27T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.820784"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACNritzAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "BSC APAC: Leading Inclusively",
+    "Description": "External Facilitator: Yuko Deneuville Registration Link: https://languageandculture.zoom.us/meeting/register/UH4pno7LSva_XI2Orlt-bA Thu, March 27th 11am Singapore Time || Company: Boston Scientific Corporation (BSC)",
+    "Location": "Zoom",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-27T03:00:00.0000000",
+    "End": "2025-03-27T06:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.820848"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACMRjRFAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Delgado Carranza, Priscila (she/her/hers)",
+    "Title": "ARCH for LATAM",
+    "Description": "Hello team, As per the email attached, looking forward to connect with you and finalize details for the ARCH launch in LATAM. Talking points: * Your audience (job levels for individuals - likely people leaders and above) * Dates for the",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Delgado Carranza, Priscila (she/her/hers)": "required",
+      "Juri Mansour": "required",
+      "Chuck Adams": "required",
+      "Rebecca Parrilla": "required",
+      "Bird, Shani (she/her/hers)": "required",
+      "Tarshish, Evan (he/him/his)": "required",
+      "Acevedo Ramirez, Andrea (she/her/hers)": "required",
+      "Rodriguez, Keylor (he/him/his)": "required",
+      "Monteiro, Bruno": "required",
+      "Medeiros Junior, Rui": "required",
+      "Hernandez, Kenia": "required",
+      "Zuniga, Luis": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-06T14:00:00.0000000",
+    "End": "2025-03-06T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.820926"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACKbM_xAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "HOLD for Meeting with BSC LatAm team to discuss \"Leading Inclusively\" regionalization ",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Chuck Adams": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-03-06T14:00:00.0000000",
+    "End": "2025-03-06T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.820976"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACE5J3HAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Delgado Carranza, Priscila (she/her/hers)",
+    "Title": "Scheduling ARCH for APAC",
+    "Description": "Team, re-scheduling for next week as several of you can\u2019t make it today. \u2013 Keeping day and time as seems to work for the majority. Hi team, Calendars look pretty busy, please let me know if you can meet at this time. Best,",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Delgado Carranza, Priscila (she/her/hers)": "required",
+      "Ong, Joyce": "required",
+      "Gu, Rose (she/her/hers)": "required",
+      "Sarkar, Samrat (he/him/his)": "required",
+      "Tarshish, Evan (he/him/his)": "required",
+      "Bird, Shani (she/her/hers)": "required",
+      "Rebecca Parrilla": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-13T02:00:00.0000000",
+    "End": "2025-03-13T02:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.821068"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAACCgoyhAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Shelton Rankin",
+    "Title": "Shelton x Juri touch base ",
+    "Description": "Topic: Report Clarification Update Request Microsoft Teams Need help? Join the meeting now Meeting ID: 370 368 652 997 Passcode: xw6va9Wi",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Shelton Rankin": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-02-14T17:00:00.0000000",
+    "End": "2025-02-14T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.821132"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAB33EyRAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2025-01-28T15:00:00.0000000",
+    "End": "2025-01-30T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.821180"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAB25-lmAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Claudia Solorzano",
+    "Title": "Rewards & Recognition ML",
+    "Description": "Rewards & Recognition ML Join with Google Meet \u2013 You have been invited by Claudia Solorzano to attend an event named Rewards & Recognition ML on Tuesday Jan 28, 2025 \u22c5 12pm \u2013 12:15pm (Colombia Standard Time). This event has been updated Changed: time",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Claudia Solorzano": "required",
+      "Patricia Coleman": "required",
+      "Chuck Adams": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-01-28T17:00:00.0000000",
+    "End": "2025-01-28T17:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.821298"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAB25-llAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Delgado Carranza, Priscila (she/her/hers)",
+    "Title": "BSC and LCW check-in",
+    "Description": "Hi team, Looking to meet this week to touch base on US 2025 first sessions. Best, Microsoft Teams Need help? Join the meeting now Meeting ID: 258 798 729 617 Pas",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Delgado Carranza, Priscila (she/her/hers)": "required",
+      "Bird, Shani (she/her/hers)": "required",
+      "Rebecca Parrilla": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-30T20:30:00.0000000",
+    "End": "2025-01-30T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.821379"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAB25-ljAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2025-01-27T17:00:00.0000000",
+    "End": "2025-01-28T04:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.821425"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAB25-lhAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "DNB",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2025-01-27T08:00:00.0000000",
+    "End": "2025-01-27T13:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.821466"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABzcQU9AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Delgado Carranza, Priscila (she/her/hers)",
+    "Title": "APAC ARCH Deployment - Follow Up",
+    "Description": "Hello APAC team, We are excited about our upcoming meeting with LCW to discuss the alignment on job levels, session distribution, and audience for the ARCH kickoff in APAC. I understand that our schedules are quite busy \u2013 If the proposed time is not",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Delgado Carranza, Priscila (she/her/hers)": "required",
+      "Gu, Rose (she/her/hers)": "required",
+      "Ong, Joyce": "required",
+      "Sarkar, Samrat (he/him/his)": "required",
+      "Bird, Shani (she/her/hers)": "required",
+      "Rebecca Parrilla": "required",
+      "Tarshish, Evan (he/him/his)": "required",
+      "Juri Mansour": "optional"
+    },
+    "Virtual": true,
+    "Start": "2025-02-06T03:00:00.0000000",
+    "End": "2025-02-06T03:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.821556"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABzcQU8AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "3-4pm ET LCW<>GroupM Project Team Meeting",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 257 237 625 474 Passcode: Rt9YE3xJ Dial in by phone +1 872-239-8243,,116",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Lukeisha Paul": "required",
+      "Brian Dashew": "required",
+      "Shelton Rankin": "required",
+      "Sarah Nodarse": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-28T20:00:00.0000000",
+    "End": "2025-01-28T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.821624"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABzcQU7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Learning@SpencerStuart.com",
+    "Title": "Interrupting Unconscious Bias",
+    "Description": "Hi all, Please join the session via the Zoom details. Additionally, my host key information is below. Thank you! Join Zoom Meeting https://spencerstuart.zoom.us/j/97619960454?pwd=U1BUdkx0LzM3SjhDUkxhM1N4TXJaQT09 Meeting ID: 976 1996 0454",
+    "Location": "https://url.us.m.mimecastprotect.com/s/jV3NCEREgVh3qMEtNfmS7CkaD?domain=spencerstuart.zoom.us",
+    "Attendees": {
+      "Learning@SpencerStuart.com": "required",
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Chuck Adams": "required",
+      "Patricia Coleman": "required",
+      "BFarnan@SpencerStuart.com": "optional",
+      "John Contant": "optional"
+    },
+    "Virtual": true,
+    "Start": "2025-03-06T17:00:00.0000000",
+    "End": "2025-03-06T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.821697"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABzcQU6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Learning@SpencerStuart.com",
+    "Title": "Interrupting Unconscious Bias",
+    "Description": "Hi all, Please join the session via the Zoom details. Additionally, my host key information is below. Thank you! Join Zoom Meeting https://spencerstuart.zoom.us/j/98612566416?pwd=c25yYVU5RmVUcy90d1hkUVIyYU5qdz09 Meeting ID: 986 1256 6416",
+    "Location": "https://url.us.m.mimecastprotect.com/s/RiA_CDkDOVi5x07HWfzSjyj7T?domain=spencerstuart.zoom.us",
+    "Attendees": {
+      "Learning@SpencerStuart.com": "required",
+      "Juri Mansour": "required",
+      "Chuck Adams": "required",
+      "Larry Baker": "required",
+      "Patricia Coleman": "required",
+      "John Contant": "optional",
+      "BFarnan@SpencerStuart.com": "optional"
+    },
+    "Virtual": true,
+    "Start": "2025-02-06T17:00:00.0000000",
+    "End": "2025-02-06T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.821768"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABuozbpAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "Nicole + Juri chat",
+    "Description": "Hope this time works. Let's chat about your workload & schedule. Thanks! Microsoft Teams Need help? Join the meeting now Meeting ID: 235 744 602 425 Passcode: Mq6Sp3Zy",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-17T14:30:00.0000000",
+    "End": "2025-01-17T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.821839"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABuozboAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Claudia Solorzano",
+    "Title": "Rewards & Recognition Microlearning Next Steps",
+    "Description": "Rewards & Recognition Microlearning Next Steps Join with Google Meet \u2013 You have been invited by Claudia Solorzano to attend an event named Rewards & Recognition Microlearning Next Steps on Friday Jan 24, 2025 \u22c5 8:30am \u2013 9am (Colombia Standard Time). J",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Claudia Solorzano": "required",
+      "Juri Mansour": "required",
+      "Jesma Johnson": "required",
+      "Patricia Coleman": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-01-24T13:30:00.0000000",
+    "End": "2025-01-24T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.821948"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABuozbnAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Discussion: ColPal Micro Learning/ Rewards & Recognition",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 272 381 401 113 Passcode: oX2GJ3Cj Dial in by phone +1 872-239-8243,,293",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Andrea Wicks Bowles": "required",
+      "Patricia Coleman": "required",
+      "Arvinder Kaur": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-17T14:00:00.0000000",
+    "End": "2025-01-17T14:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.822015"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABuozbmAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Larry & Juri GAP Project Discussion",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 236 997 855 476 Passcode: 3HT38f6z Dial in by phone +1 872-239-8243,,645",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-17T15:30:00.0000000",
+    "End": "2025-01-17T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.822080"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABuozblAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "GroupM<>LCW Project Team Meeting",
+    "Description": "1. Workstream 1: Building an Inclusive GroupM Culture workshop rollout * Recommendation for 90-min version * Scheduling (49 sessions left to deliver, 3 were cancelled in 2024 and need rescheduling) * Train-the-Trainer For",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Sarah Nodarse": "required",
+      "Juri Mansour": "required",
+      "Lukeisha Paul": "required",
+      "brian.dashew@groupm.com": "required",
+      "Shelton Rankin": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-15T15:00:00.0000000",
+    "End": "2025-01-15T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.822151"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABreuUzAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jenny Jones",
+    "Title": "LCW + Gap Inc. | BHM Session",
+    "Description": "Agenda: * Meet and greet * Discuss BHM session logistics and scheduling - we are aiming for the first week of February Hi there, Jenny Jones is inviting you to a scheduled Zoom meeting. Join Zoom Meeting Password: N5XF4u Mobile cal",
+    "Location": "https://url.us.m.mimecastprotect.com/s/OS0UCVOqDVhxwODFyiOSE8uTB?domain=gapinc.zoom.us",
+    "Attendees": {
+      "Jenny Jones": "required",
+      "Jason Lopez": "required",
+      "Larry Baker": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-13T21:30:00.0000000",
+    "End": "2025-01-13T22:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.822225"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABpy0MGAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "OOO",
+    "Description": "Hello, I am out sick and will return to work Monday Jan 13. Please connect with your consultant should you have any questions regarding your project. Thank you Juri Mansour",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2025-01-09T00:00:00.0000000",
+    "End": "2025-01-13T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.822292"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABdgxa7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Juri/Andrea ",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 261 023 625 995 Passcode: UZ6uz7jH Dial in by phone +1 872-239-8243,,482",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Andrea Wicks Bowles": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-20T16:30:00.0000000",
+    "End": "2024-12-20T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.822355"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABdgxa6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "Arnold & Porter post-pitch celebration! \ud83d\ude4c\ud83c\udffd\ud83c\udf89\ud83c\udf77\ud83d\udcb5",
+    "Description": "-----Original Appointment----- From: Rebecca Parrilla Sent: Monday, December 16, 2024 12:49 PM To: Rebecca Parrilla; Andrea Wicks Bowles; Chuck Adams; Larry Baker; Patricia Coleman Subject: Arnold & Porter post-pitch celebration! \ud83d\ude4c\ud83c\udffd\ud83c\udf89\ud83c\udf77\ud83d\udcb5 When:",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Juri Mansour": "required",
+      "Patricia Coleman": "required",
+      "Andrea Wicks Bowles": "required",
+      "Chuck Adams": "required",
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-20T15:15:00.0000000",
+    "End": "2024-12-20T15:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.822472"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABbgjdjAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Transition Discussion ",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 271 791 431 942 Passcode: 9in7sF7g Dial in by phone +1 872-239-8243,,252",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-10T17:30:00.0000000",
+    "End": "2025-01-10T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.823047"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABZckokAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Juri Mansour OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2025-01-02T00:00:00.0000000",
+    "End": "2025-01-09T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.823104"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABW_LiaAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Client Reassignment Discussion",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 278 557 569 87 Passcode: he3zV7Fn Dial in by phone +1 872-239-8243,,15",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Andrea Wicks Bowles": "required",
+      "Rebecca Parrilla": "required",
+      "Patricia Coleman": "required",
+      "Sarah Nodarse": "required",
+      "Larry Baker": "required",
+      "Nicole Barile": "optional",
+      "Juri Mansour": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-12-12T20:00:00.0000000",
+    "End": "2024-12-12T21:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.823176"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABW_LiYAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "Arnold & Porter Session RECORDING",
+    "Description": "If you have the time, please plan on attending this short session which we will be recording and sending to Arnold & Porter as a demo (they requested one). Larry will be facilitating and we\u2019ll be the \u2018participants\u2019. Please prepare to act like a participa",
+    "Location": "https://languageandculture.zoom.us/j/89247939825",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Chuck Adams": "required",
+      "Patricia Coleman": "required",
+      "Andrea Wicks Bowles": "required",
+      "Keri Luo": "required",
+      "Randall Stieghorst": "required",
+      "Monica Marcel": "required",
+      "Sarah Gluckstein": "required",
+      "Catalina De Sanctis": "required",
+      "Pedro Seminario": "required",
+      "Kaitlin Nonweiler": "required",
+      "Sarah Nodarse": "required",
+      "elsieparrilla@yahoo.com": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-13T16:00:00.0000000",
+    "End": "2024-12-13T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.823265"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABW_LiXAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Carr, Brenda",
+    "Title": "[Arnold & Porter] DEI Curriculum Meeting with LCW",
+    "Description": "-----Original Appointment----- From: Carr, Brenda Sent: Saturday, December 7, 2024 12:03 PM To: Carr, Brenda; Rebecca Parrilla Cc: Alisa Kolodizner; Chuck Adams; Andrea Wicks Bowles; Sarah Nodarse Subject: [Arnold &",
+    "Location": "(Meeting details and the Zoom link are below)",
+    "Attendees": {
+      "Carr, Brenda": "required",
+      "Juri Mansour": "required",
+      "Rebecca Parrilla": "required",
+      "Alisa Kolodizner": "optional",
+      "Chuck Adams": "optional",
+      "Andrea Wicks Bowles": "optional",
+      "Sarah Nodarse": "optional"
+    },
+    "Virtual": false,
+    "Start": "2024-12-20T14:30:00.0000000",
+    "End": "2024-12-20T15:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.823417"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABW_LiWAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Juri/Nicole 1 on 1",
+    "Description": "Hi Nicole! Please let me know if this time works for you. Microsoft Teams Need help? Join the meeting now Meeting ID: 252 966 006 74 Passcode: ja6AV2mv",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nicole Barile": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-10T21:00:00.0000000",
+    "End": "2024-12-10T21:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.823488"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABTkLX_AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Patricia Coleman",
+    "Title": "LCW-ColPal-Micro-learnings Check-in",
+    "Description": "Hello ColPal Team, During this call we will ensure you have received files for completed MLs. As per November 15th email we confirmed that Dustin will work on production of all 5 Mls translated in 5 languages once delivered no later than Dec 15",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "claudia_solorzano@colpal.com": "optional",
+      "sandra_feijoo@colpal.com": "required",
+      "jesma_johnson@colpal.com": "required",
+      "al_morali@colpal.com": "required",
+      "Catalina De Sanctis": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-11T19:00:00.0000000",
+    "End": "2024-12-11T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.823564"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABTkLX9AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Delgado Carranza, Priscila (she/her/hers)",
+    "Title": "ARCH for APAC - Feedback follow up",
+    "Description": "Hello All, As per previous request - Looking forward to meet and discuss a plan to launch ARCH in APAC. Thanks, Microsoft Teams Need help? Join the meeting now Meet",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Delgado Carranza, Priscila (she/her/hers)": "required",
+      "Rebecca Parrilla": "required",
+      "Gu, Rose (she/her/hers)": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required",
+      "Tarshish, Evan (he/him/his)": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-09T13:15:00.0000000",
+    "End": "2024-12-09T13:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.823634"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABTkLX8AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "Arnold & Porter Pitch: Meeting #1",
+    "Description": "Hi, team. Before this meeting, please review our RFP response to Arnold & Porter (attached). You may also want to review the original RFP document (\u2018Arnold Porter RFP for 2025 DI Curriculum\u2019 in screenshot below, it\u2019s rather short). There\u2019s also a FAQ d",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Patricia Coleman": "optional",
+      "Andrea Wicks Bowles": "required",
+      "Chuck Adams": "required",
+      "Larry Baker": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-10T19:30:00.0000000",
+    "End": "2024-12-10T20:20:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.823733"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABTkLX7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "Arnold & Porter Pitch Rehearsal- REMEMBER TO RECORD!!",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 256 109 003 044 Passcode: AB9S7uf2 Dial in by phone +1 872-239-8243,,397",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Andrea Wicks Bowles": "required",
+      "Sarah Nodarse": "required",
+      "Chuck Adams": "required",
+      "Larry Baker": "required",
+      "Juri Mansour": "optional",
+      "Patricia Coleman": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-12-19T16:00:00.0000000",
+    "End": "2024-12-19T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.823799"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABTkLX6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "[AGENDA] Arnold & Porter Pitch: Meeting #2",
+    "Description": "Agenda: * RP to send email with LCW participants + facilitation recording (uploaded onto LCW YouTube-unlisted) today * Recap pitch meeting + Lisa Tomiko Blackburn\u2019s (Director of D&I) email response * Approach and Philosophy: What core",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Andrea Wicks Bowles": "required",
+      "Sarah Nodarse": "required",
+      "Chuck Adams": "required",
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Patricia Coleman": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-12-17T16:00:00.0000000",
+    "End": "2024-12-17T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.823903"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABTkLX4AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "HOLD for BSC \"Leading Inclusively in the EMEA\" (Patricia OR Larry, Session 4/4)",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 225 101 422 907 Passcode: 9Rn3Mp9v For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Patricia Coleman": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-11-03T13:00:00.0000000",
+    "End": "2025-11-03T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.823982"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABTkLX3AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "HOLD for BSC \"Leading Inclusively in the EMEA\" (Patricia OR Larry, Session 3/4)",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 258 904 086 740 Passcode: E7Gu6sr3 For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Patricia Coleman": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-06-02T12:00:00.0000000",
+    "End": "2025-06-02T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.824056"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABTkLX2AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "HOLD for BSC \"Leading Inclusively in the EMEA\" (Patricia OR Larry, Session 2/4)",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 286 306 592 35 Passcode: jo27sy2s For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Patricia Coleman": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-04-21T12:00:00.0000000",
+    "End": "2025-04-21T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.824123"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABTkLX1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "HOLD for BSC \"Leading Inclusively in the EMEA\" (Patricia OR Larry, Session 1/4) ",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 219 776 644 63 Passcode: pE98eu3J Dial in by phone +1 872-239-8243,,2533",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Patricia Coleman": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-10T10:00:00.0000000",
+    "End": "2025-03-10T12:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.824186"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABSROIJAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "HOLD for BSC \"Leading Inclusively in the U.S.\" (Session 2/10)",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 249 962 206 253 Passcode: xj2QU6Jj For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-25T14:00:00.0000000",
+    "End": "2025-03-25T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.824248"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABSROIIAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "HOLD for BSC \"Leading Inclusively in the U.S.\" (Session 1/10)",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 226 445 414 915 Passcode: ez7gu7Zy Dial in by phone +1 872-239-8243,,959",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-02-26T18:00:00.0000000",
+    "End": "2025-02-26T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.824309"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABLDGPwAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Claudia Solorzano",
+    "Title": "Rewards & Recognition Microlearning Discussion",
+    "Description": "Rewards & Recognition Microlearning Discussion Join with Google Meet \u2013 You have been invited by Claudia Solorzano to attend an event named Rewards & Recognition Microlearning Discussion on Thursday Dec 5, 2024 \u22c5 9:30am \u2013 10am (Colombia Standard Time).",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Claudia Solorzano": "required",
+      "Jesma Johnson": "required",
+      "Patricia Coleman": "required",
+      "Al Morali": "required",
+      "Chuck Adams": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-12-05T14:30:00.0000000",
+    "End": "2024-12-05T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.824407"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABKUew6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Scoro PM Solutions Sandbox",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 298 679 279 727 Passcode: vB3Yf7ur Dial in by phone +1 872-239-8243,,882",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-03T16:30:00.0000000",
+    "End": "2024-12-03T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.824467"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABKUew5AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Scoro PM Solutions Sandbox",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 268 099 970 391 Passcode: SD2WH3sh Dial in by phone +1 872-239-8243,,622",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-25T21:30:00.0000000",
+    "End": "2024-11-25T23:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.824525"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABKUew4AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Appointment ",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-11-22T18:30:00.0000000",
+    "End": "2024-11-22T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.824567"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABIjAvcAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "BSC 30-min Session walkthrough HOLD",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 295 394 935 419 Passcode: BA9bN2EB Dial in by phone +1 872-239-8243,,360",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Patricia Coleman": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-20T20:30:00.0000000",
+    "End": "2024-11-20T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.824628"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABIjAvbAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Juri/Sarah Session Checklist",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 279 229 004 218 Passcode: Lc695UW2 Dial in by phone +1 872-239-8243,,253",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-20T20:00:00.0000000",
+    "End": "2024-11-20T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.824680"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABHDgXZAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Vendor/LCW Project Stand-up - MLs Colgate Palmolive",
+    "Description": "A quick touchbase on status for this project as we near the deadline with many moving pieces. We will have this meeting 2x a week until Dec 4. We can communicate on the meeting invite thread if there is no change in status or no flags",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "Catalina De Sanctis": "required",
+      "Elixir Multimedia Solutions": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-05T18:00:00.0000000",
+    "End": "2024-12-05T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.824754"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABBj-LIAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Vendor/LCW Project Stand-up - MLs Colgate Palmolive",
+    "Description": "A quick touchbase on status for this project as we near the deadline with many moving pieces. We will have this meeting 2x a week until Dec 4. We can communicate on the meeting invite thread if there is no change in status or no flags",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "Catalina De Sanctis": "required",
+      "Elixir Multimedia Solutions": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-14T18:00:00.0000000",
+    "End": "2024-11-14T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.824823"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABBj-LGAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "Touch base on BSC project plan",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 215 716 190 538 Passcode: GdS5MG Dial in by phone +1 872-239-8243,,29587",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-08T17:15:00.0000000",
+    "End": "2024-11-08T17:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.824884"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAABAHC2XAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Patricia Coleman",
+    "Title": "LCW-ColPal-Micro-learnings Check-in",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 278 198 149 444 Passcode: Cp9dFK Dial in by phone +1 872",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "jesma_johnson@colpal.com": "required",
+      "al_morali@colpal.com": "required",
+      "sandra_feijoo@colpal.com": "required",
+      "Claudia Solorzano": "required",
+      "Catalina De Sanctis": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-13T15:30:00.0000000",
+    "End": "2024-11-13T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.824945"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA87GiFAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "LAIR Gaelle (RIC-US)",
+    "Title": "RICHEMONT Inclusion Spotlight Series: Indigenous Community Nov",
+    "Description": "We will use RICHEMONT TEAMS link below. -----Original Appointment----- From: LAIR Gaelle (RIC-US) Sent: Thursday, October 31, 2024 2:39 PM To: LAIR Gaelle (RIC-US); BEG Sulaiman (RIC-US); LOPACINSKI Lauren (RIC-US); LEE L",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "LAIR Gaelle (RIC-US)": "required",
+      "Juri Mansour": "required",
+      "Tammie Myles": "required",
+      "BEG Sulaiman (RIC-US)": "required",
+      "LOPACINSKI Lauren (RIC-US)": "required",
+      "LEE Laura (RIC-US)": "required",
+      "BONARI Jessica (RIC-US)": "required",
+      "Patricia Coleman": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-21T18:00:00.0000000",
+    "End": "2024-11-21T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.825055"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA8FnW7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "BSC/LCW 2025 Discussion",
+    "Description": "This meeting serves to discuss BSC\u2019s DEI objectives and strategy and see where LCW can support and collaborate. * Overall strategy/\u2019hopes and dreams\u2019 for 2025 * The current climate and new administration - concerns, thoughts * \"Valuing Dive",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Bird, Shani (she/her/hers)": "required",
+      "Delgado Carranza, Priscila (she/her/hers)": "required",
+      "evan.tarshish@bsci.com": "required",
+      "Sarah Nodarse": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-11-26T18:00:00.0000000",
+    "End": "2024-11-26T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.825146"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA4d-BFAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Andrea Wicks Bowles",
+    "Title": "Growing a One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 Primary Facilitator: Sarah Nodarse Secondary Facilitator: Andrea Wicks Bowles || Company: GroupM Shared resources: Larry Baker || Company: GroupM Shared resources: Andrea W",
+    "Location": "Zoom Meeting",
+    "Attendees": {
+      "Andrea Wicks Bowles": "required",
+      "Juri Mansour": "required",
+      "Patricia Coleman": "required",
+      "Sarah Nodarse": "required",
+      "Sarah Froning": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-12-06T20:00:00.0000000",
+    "End": "2024-12-06T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.825212"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA4d-BCAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-11-04T00:00:00.0000000",
+    "End": "2024-11-05T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.825257"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA4d-BAAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-11-01T00:00:00.0000000",
+    "End": "2024-11-02T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.825306"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA4d-A-AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Private Appointment",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-10-28T17:00:00.0000000",
+    "End": "2024-10-28T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.825347"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA4d-A_AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing a One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker",
+    "Location": "Zoom Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-09T20:00:00.0000000",
+    "End": "2024-12-09T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.825411"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA4d-A9AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing a One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker",
+    "Location": "Zoom Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-09T16:00:00.0000000",
+    "End": "2024-12-09T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.825468"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA4d-A7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing a One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker || Company: GroupM Shared resources: Larry Baker, Patricia Coleman",
+    "Location": "Zoom Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Patricia Coleman": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-06T16:00:00.0000000",
+    "End": "2024-12-06T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.825532"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA4d-A6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing a One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker",
+    "Location": "Zoom Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-02T20:00:00.0000000",
+    "End": "2024-12-02T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.825587"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA4d-A5AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing A One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker",
+    "Location": "Zoom Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-02T16:00:00.0000000",
+    "End": "2024-12-02T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.825644"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA4d-A4AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Private Appointment",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-10-24T19:00:00.0000000",
+    "End": "2024-10-24T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.825690"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA2gP3BAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Patricia Coleman",
+    "Title": "LCW-ColPal-Micro-learnings Check-in",
+    "Description": "This meeting will be to get an update on Translations. Microsoft Teams Need help? Join the meeting now Meeting ID: 278 198 149 444 Passcode: Cp9dFK",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "sandra_feijoo@colpal.com": "required",
+      "jesma_johnson@colpal.com": "required",
+      "al_morali@colpal.com": "required",
+      "Catalina De Sanctis": "required",
+      "Claudia Solorzano": "optional",
+      "Juri Mansour": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-10-30T14:30:00.0000000",
+    "End": "2024-10-30T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.825759"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA2gP3AAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Andrea Wicks Bowles",
+    "Title": "CHeck in",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 245 778 357 500 Passcode: aWu2af Dial in by phone +1 872-239-8243,,14713",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Andrea Wicks Bowles": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-23T17:30:00.0000000",
+    "End": "2024-10-23T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.825823"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA2gP2-AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "LAIR Gaelle (RIC-US)",
+    "Title": "Join Richemont DEI Spotlight 30mins early",
+    "Description": "\u00a9 2024 Richemont North America, Inc.. All Rights Reserved The information contained in this e-mail message is confidential. This communication is intended for the use of the addressee(s) only. If you are not the intended recipient, you are hereby not",
+    "Location": "Use REAL link from 2pm invitation",
+    "Attendees": {
+      "LAIR Gaelle (RIC-US)": "required",
+      "Patricia Coleman": "required",
+      "ariadne@thezunzun.com": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-10-24T17:30:00.0000000",
+    "End": "2024-10-24T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.825920"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA2gP2_AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "LAIR Gaelle (RIC-US)",
+    "Title": "Confirmed - DEI Spotlight Series: Disability",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 313 826 838 245 Passcode: 6s57Zw Join on a video conferencing device Ten",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "LAIR Gaelle (RIC-US)": "required",
+      "Patricia Coleman": "required",
+      "ariadne@thezunzun.com": "required",
+      "Juri Mansour": "required",
+      "BEG Sulaiman (RIC-US)": "required",
+      "LOPACINSKI Lauren (RIC-US)": "required",
+      "BONARI Jessica (RIC-US)": "required",
+      "LEE Laura (RIC-US)": "required",
+      "FOURIE Carla (RIC-US)": "required",
+      "MASSONI Christophe (RIC-US)": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-24T18:00:00.0000000",
+    "End": "2024-10-24T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.825997"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA2gP27AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Session Hold",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 278 448 378 860 Passcode: orzcyh Dial in by phone +1 872-239-8243,,84751",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-09T20:00:00.0000000",
+    "End": "2024-12-09T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.826063"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA2gP26AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Session Hold",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 211 506 863 984 Passcode: e64hUd Dial in by phone +1 872-239-8243,,16115",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-09T16:00:00.0000000",
+    "End": "2024-12-09T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.826128"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA2gP25AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Session Hold",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 282 524 726 494 Passcode: M4gSiS Dial in by phone +1 872-239-8243,,17165",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-06T20:00:00.0000000",
+    "End": "2024-12-06T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.826191"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA2gP24AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Session Hold",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 233 293 173 327 Passcode: fgqcwd Dial in by phone +1 872-239-8243,,62798",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-06T16:00:00.0000000",
+    "End": "2024-12-06T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.826253"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA2gP23AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Session hold",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 298 697 162 147 Passcode: 4mjrP9 Dial in by phone +1 872-239-8243,,69287",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-02T16:00:00.0000000",
+    "End": "2024-12-02T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.826317"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA2gP22AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Session Hold",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 235 491 395 02 Passcode: ih7vb4 Dial in by phone +1 872-239-8243,,824279",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-12-02T20:00:00.0000000",
+    "End": "2024-12-02T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.826381"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA2gP2zAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Session Dress Rehearsal",
+    "Description": "A time to run through & test technical needs, presentation questions & run of show Microsoft Teams Need help? Join the meeting now Meeting ID: 293 383 112 484 Passcode",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Larry Baker": "required",
+      "Chuck Adams": "required",
+      "Andrea Wicks Bowles": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-30T19:30:00.0000000",
+    "End": "2024-10-30T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.826458"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA2gP2yAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Session TTT & Dress Rehearsal",
+    "Description": "A time to run through & test technical needs, presentation questions & run of show Microsoft Teams Need help? Join the meeting now Meeting ID: 259 694 973 548 Passcode",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Larry Baker": "required",
+      "Chuck Adams": "required",
+      "Rebecca Parrilla": "required",
+      "Andrea Wicks Bowles": "required",
+      "Patricia Coleman": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-23T21:00:00.0000000",
+    "End": "2024-10-23T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.826533"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAA1HSC5AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Patricia Coleman",
+    "Title": "REMINDER LCW \"Spotlight on indigenous people\" Tammie and Patricia",
+    "Description": "PLEASE MARK CALENDAR: NOVEMBER 14, 2024 1hr spotlight- 1pm-2pm EST TEAMS LINK TO FOLLOW Join 12:30pm EST-30mn early to meet client. Client will provide TEAMS link",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "motherearthwhispers@gmail.com": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-11-21T17:30:00.0000000",
+    "End": "2024-11-21T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.826601"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAz1BTLAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Patricia Coleman",
+    "Title": "Tech run-Richemont  DISABILITY Spotlight Oct 24 session",
+    "Description": "Gaelle back from vacation on 10/22, thus optional attendance. This meeting is to review updated content, activities, timing with facilitator, Ariadne. Session will take place on RICHEMONT's TEAMS-Link to follow. POLLS will be tested once this",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "ariadne@thezunzun.com": "required",
+      "Juri Mansour": "required",
+      "gaelle.lair@richemont.com": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-10-22T13:15:00.0000000",
+    "End": "2024-10-22T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.826670"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAzA1MAAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "BSC x LCW Biweekly Meeting",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 256 755 278 318 Passcode: tnCyfo For organizers: Meeting options ___",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "priscila.delgadocarranza@bsci.com": "required",
+      "shani.bird@bsci.com": "required",
+      "evan.tarshish@bsci.com": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-22T18:30:00.0000000",
+    "End": "2025-01-22T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.826733"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAx4qFCAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Delgado Carranza, Priscila (she/her/hers)",
+    "Title": "ARCH in APAC review",
+    "Description": "Updating as requested, kindly confirm availability. Hello All, Looking forward to connecting regarding ARCH program in APAC. Please note Rose is located in China (12 hours difference), appreciate everyone\u2019s flexibility to make it to this meeting.",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Delgado Carranza, Priscila (she/her/hers)": "required",
+      "Gu, Rose (she/her/hers)": "required",
+      "Bird, Shani (she/her/hers)": "required",
+      "Sarah Nodarse": "required",
+      "Rebecca Parrilla": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-25T12:00:00.0000000",
+    "End": "2024-10-25T12:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.826828"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAvu3SvAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Patricia Coleman",
+    "Title": "LCW-ColPal-Micro-learnings Check-in",
+    "Description": "Hello everyone, We will check in on: English ML update on your end (upload and functioning accordingly in your platform/Dustin invited to meeting for any technical question but optional attendance) Translation/Voice over ( Catalina)",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "elixirmultimediasolutions@gmail.com": "optional",
+      "sandra_feijoo@colpal.com": "required",
+      "jesma_johnson@colpal.com": "required",
+      "al_morali@colpal.com": "required",
+      "Claudia Solorzano": "required",
+      "Catalina De Sanctis": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-16T15:00:00.0000000",
+    "End": "2024-10-16T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.826900"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAtymnnAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Patricia Coleman",
+    "Title": "Pc connect with Juri",
+    "Description": "Review clients timeline and upcoming steps COLPAL RICHEMONT",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-10-11T16:00:00.0000000",
+    "End": "2024-10-11T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.826960"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAo8CUUAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Muehlmann, Lisa",
+    "Title": "GIF Rehearsal with LCW",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 226 758 324 003 Passcode: AE32ND For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Muehlmann, Lisa": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required",
+      "Patricia Coleman": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-01T12:00:00.0000000",
+    "End": "2024-10-01T13:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.827025"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAoD3z4AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing A One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker || Company: GroupM Shared resources: Larry Baker",
+    "Location": "Zoom Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-08T20:00:00.0000000",
+    "End": "2024-11-08T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.827089"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAoD3z3AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing A One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker || Company: GroupM Shared resources: Larry Baker",
+    "Location": "Zoom Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-04T20:00:00.0000000",
+    "End": "2024-11-04T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.827154"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAoD3z2AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing A One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker || Company: GroupM Shared resources: Larry Baker",
+    "Location": "Zoom Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-01T19:00:00.0000000",
+    "End": "2024-11-01T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.827219"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAoD3z1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing A One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker || Company: GroupM Shared resources: Larry Baker",
+    "Location": "Zoom Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-28T19:00:00.0000000",
+    "End": "2024-10-28T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.827282"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAoD3z0AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing A One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker || Company: GroupM Shared resources: Larry Baker",
+    "Location": "Zoom Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-25T19:00:00.0000000",
+    "End": "2024-10-25T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.827354"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAoD3zzAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing A One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker || Company: GroupM Shared resources: Larry Baker",
+    "Location": "Zoom Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-21T19:00:00.0000000",
+    "End": "2024-10-21T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.827418"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAoD3zyAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing A One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker || Company: GroupM Shared resources: Larry Baker",
+    "Location": "Zoom Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-18T19:00:00.0000000",
+    "End": "2024-10-18T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.827484"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAoD3zxAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing A One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker || Company: GroupM Shared resources: Larry Baker",
+    "Location": "Zoom Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-15T16:00:00.0000000",
+    "End": "2024-11-15T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.827543"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAoD3zwAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Andrea Wicks Bowles",
+    "Title": "Growing A One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Andrea Wicks Bowles || Company: GroupM Shared resources: Andrea Wicks Bowles",
+    "Location": "Zoom Meeting",
+    "Attendees": {
+      "Andrea Wicks Bowles": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-15T20:00:00.0000000",
+    "End": "2024-11-15T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.827603"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAoD3zvAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing A One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker || Company: GroupM Shared resources: Larry Baker",
+    "Location": "Zoom Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-08T16:00:00.0000000",
+    "End": "2024-11-08T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.827664"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAoD3zuAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing A One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker || Company: GroupM Shared resources: Larry Baker",
+    "Location": "Zoom Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-04T16:00:00.0000000",
+    "End": "2024-11-04T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.827724"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAoD3ztAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing A One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker || Company: GroupM Shared resources: Larry Baker",
+    "Location": "Zoom",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-28T15:00:00.0000000",
+    "End": "2024-10-28T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.827786"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAoD3zsAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing A One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker || Company: GroupM Shared resources: Larry Baker",
+    "Location": "Zoom",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-25T15:00:00.0000000",
+    "End": "2024-10-25T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.827846"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAoD3zrAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing A One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker || Company: GroupM Shared resources: Larry Baker",
+    "Location": "Zoom",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-21T15:00:00.0000000",
+    "End": "2024-10-21T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.827913"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAoD3zqAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Andrea Wicks Bowles",
+    "Title": "Growing A One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Andrea Wicks Bowles || Company: GroupM Shared resources: Andrea Wicks Bowles",
+    "Location": "Zoom",
+    "Attendees": {
+      "Andrea Wicks Bowles": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-01T15:00:00.0000000",
+    "End": "2024-11-01T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.827977"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAoD3zpAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "Growing a One GroupM Culture",
+    "Description": "Zoom Link: https://languageandculture.zoom.us/j/83883220168 || Company: GroupM Shared resources: Larry Baker || Company: GroupM Shared resources: Larry Baker",
+    "Location": "Zoom",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-18T15:00:00.0000000",
+    "End": "2024-10-18T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.828044"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-iAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Patricia Coleman",
+    "Title": "LCW-ColPal-Micro-learnings Check-in",
+    "Description": "Hello team, I am updating this meeting with a 2:30pm EST time as requested by Sandra. Also, outcome desired is around final MLs and transition to translations. ColPal, feel free to email additional topics/questions ahead of time.",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "sandra_feijoo@colpal.com": "required",
+      "jesma_johnson@colpal.com": "required",
+      "al_morali@colpal.com": "required",
+      "elixirmultimediasolutions@gmail.com": "required",
+      "Juri Mansour": "required",
+      "Catalina De Sanctis": "optional",
+      "Rebecca Parrilla": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-10-02T18:30:00.0000000",
+    "End": "2024-10-02T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.828122"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-hAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Patricia Coleman",
+    "Title": "Meeting  Juri1:1 Patricia",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-09-27T17:30:00.0000000",
+    "End": "2024-09-27T18:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.828171"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-gAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "UL Solutions: Leading with Conscious Inclusion",
+    "Description": "Using Client's Teams Link || Company: UL Solutions Shared resources: Larry Baker",
+    "Location": "Client teams",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-10-03T15:00:00.0000000",
+    "End": "2024-10-03T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.828238"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-fAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "UL Solutions: Neurodiversity/Disability Spotlight",
+    "Description": "Using Client's Teams Link || Company: UL Solutions Shared resources: Larry Baker",
+    "Location": "Client teams",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-10-02T19:00:00.0000000",
+    "End": "2024-10-02T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.828308"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-eAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Larry Baker",
+    "Title": "UL Solutions: Communication Across Cultures",
+    "Description": "|| Company: UL Solutions Shared resources: Larry Baker",
+    "Location": "Client teams",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-10-02T15:00:00.0000000",
+    "End": "2024-10-02T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.828370"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-dAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "INTERNAL Discussion about BSC APAC feedback - how to approach with client ",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 270 579 411 794 Passcode: nsvheN Dial in by phone +1 872-239-8243,,23728",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Chuck Adams": "required",
+      "Sarah Nodarse": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-09-26T13:30:00.0000000",
+    "End": "2024-09-26T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.828438"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-cAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "UL Diversity And Inclusion",
+    "Title": "DEI GIF test ",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 255 846 518 697 Passcode: jYQFYS For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "UL Diversity And Inclusion": "required",
+      "Cornejo Garcia, Stephen R.": "required",
+      "Juri Mansour": "required",
+      "Larry Baker": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-09-25T15:30:00.0000000",
+    "End": "2024-09-25T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.828506"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-bAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "UL Diversity And Inclusion",
+    "Title": "Global Inclusion Forum - Customer Panel on DEI\u2019s Importance to their business ",
+    "Description": "Dear DEI representatives, We are pleased to invite you to Day 2 - Part 2 of this year\u2019s Global Inclusion Forum for APAC. Joining this Forum is a great opportunity to enhance your knowledge about DEI topics, strengthen your capabilities to lead inclu",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "UL Diversity And Inclusion": "required",
+      "Juri Mansour": "optional",
+      "Sugavanam, Suresh": "required",
+      "Wudawei, David": "required",
+      "LST.UL.AP DEI": "required",
+      "Tan, Anthony": "required",
+      "Dodson, Jermisha Y.": "required",
+      "Cornejo Garcia, Stephen R.": "required",
+      "Guerrero, Betsy": "required",
+      "Poonacha, Rohini": "required",
+      "Muehlmann, Lisa": "required",
+      "Brooks, Kim E.": "required",
+      "Morote, Rebekah": "required",
+      "Lynch, Tim": "required",
+      "Gao, Laura": "required",
+      "George, Teena Elizabeth": "required",
+      "Zhao, Cathy": "required",
+      "Chan, Charmaine": "required",
+      "Wang, Isaac": "required",
+      "Tang, Circle": "required",
+      "Thian, David": "required",
+      "Miyamoto, Mari": "required",
+      "Domae, Tsubura": "required",
+      "Li, June": "required",
+      "Zhong, Summer": "required",
+      "Jin, Cindy": "required",
+      "Chan, Matthew": "required",
+      "Huh, Gun": "required",
+      "Chiu, Elaine": "required",
+      "Kao, Sara": "required",
+      "Kaveramma, Mukkatira Neha": "required",
+      "Zou, Sara": "required",
+      "Sunder, Shyam": "required",
+      "Feng, Tina": "required",
+      "Wang, Alien": "required",
+      "rashmi.bhangale@ril.com": "required",
+      "Heidi.lee@hp.com": "required",
+      "Jung, Jill": "required",
+      "Chen, Karen": "optional",
+      "Ho, Tony": "optional",
+      "Wu, Frances": "optional",
+      "Chen, Jonathan T.H.": "optional",
+      "Quek, Lawrence": "optional",
+      "Riego, Milbert Dan CA.": "optional",
+      "Akter, Tania": "optional",
+      "Ahmed, Rashed": "optional",
+      "Javalla, Circe": "optional",
+      "Chen, Samuel": "optional",
+      "Zhong, Janice": "optional",
+      "Cui, Rondra": "optional",
+      "Chen, Idy": "optional",
+      "Doydum, Hatice": "optional",
+      "Tsai, Sylvia": "optional",
+      "Chapin, Linda": "optional",
+      "Sun, Inna": "optional",
+      "Wei, Sam": "optional",
+      "Kurachi, Hiroki": "optional",
+      "Shugarman, Blake M.": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-10-17T06:00:00.0000000",
+    "End": "2024-10-17T07:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.828616"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-aAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "UL Diversity And Inclusion",
+    "Title": "Global Inclusion Forum - Leading with Conscious Inclusion",
+    "Description": "Dear DEI representatives, We are pleased to invite you to Day 2 - Part 1 of this year\u2019s Global Inclusion Forum for APAC. Joining this Forum is a great opportunity to enhance your knowledge about DEI topics, strengthen your capabilities to lead inclu",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "UL Diversity And Inclusion": "required",
+      "Juri Mansour": "optional",
+      "Sugavanam, Suresh": "required",
+      "Wudawei, David": "required",
+      "LST.UL.AP DEI": "required",
+      "Tan, Anthony": "required",
+      "Dodson, Jermisha Y.": "required",
+      "Cornejo Garcia, Stephen R.": "required",
+      "Guerrero, Betsy": "required",
+      "Poonacha, Rohini": "required",
+      "Muehlmann, Lisa": "required",
+      "Brooks, Kim E.": "required",
+      "Morote, Rebekah": "required",
+      "Lynch, Tim": "required",
+      "Gao, Laura": "required",
+      "George, Teena Elizabeth": "required",
+      "Zhao, Cathy": "required",
+      "Chan, Charmaine": "required",
+      "Wang, Isaac": "required",
+      "Tang, Circle": "required",
+      "Thian, David": "required",
+      "Miyamoto, Mari": "required",
+      "Domae, Tsubura": "required",
+      "Li, June": "required",
+      "Zhong, Summer": "required",
+      "Jin, Cindy": "required",
+      "Chan, Matthew": "required",
+      "Huh, Gun": "required",
+      "Chiu, Elaine": "required",
+      "Kao, Sara": "required",
+      "Kaveramma, Mukkatira Neha": "required",
+      "Zou, Sara": "required",
+      "Sunder, Shyam": "required",
+      "Feng, Tina": "required",
+      "Wang, Alien": "required",
+      "Jung, Jill": "required",
+      "Javalla, Circe": "optional",
+      "Chen, Karen": "optional",
+      "Ho, Tony": "optional",
+      "Wu, Frances": "optional",
+      "Chen, Jonathan T.H.": "optional",
+      "Quek, Lawrence": "optional",
+      "Riego, Milbert Dan CA.": "optional",
+      "Ahmed, Rashed": "optional",
+      "Chen, Samuel": "optional",
+      "Zhong, Janice": "optional",
+      "Cui, Rondra": "optional",
+      "Doydum, Hatice": "optional",
+      "Tsai, Sylvia": "optional",
+      "Chapin, Linda": "optional",
+      "Sun, Inna": "optional",
+      "Wei, Sam": "optional",
+      "Kurachi, Hiroki": "optional",
+      "Shugarman, Blake M.": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-10-17T02:45:00.0000000",
+    "End": "2024-10-17T05:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.828721"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-ZAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "UL Diversity And Inclusion",
+    "Title": "Global Inclusion Forum - Neurodiversity Inclusion in the Workplace ",
+    "Description": "Global Inclusion Forum APAC Day 1 \u2013 Part 2 Dear DEI representatives, We are pleased to invite you to Day 1 - Part 2 of this year\u2019s Global Inclusion Forum for APAC. Joining this Forum is a great opportunity to enhance your knowledge about DEI topi",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "UL Diversity And Inclusion": "required",
+      "Juri Mansour": "optional",
+      "Sugavanam, Suresh": "required",
+      "Wudawei, David": "required",
+      "LST.UL.AP DEI": "required",
+      "Tan, Anthony": "required",
+      "Dodson, Jermisha Y.": "required",
+      "Cornejo Garcia, Stephen R.": "required",
+      "Guerrero, Betsy": "required",
+      "Poonacha, Rohini": "required",
+      "Muehlmann, Lisa": "required",
+      "Brooks, Kim E.": "required",
+      "Morote, Rebekah": "required",
+      "Lynch, Tim": "required",
+      "Gao, Laura": "required",
+      "George, Teena Elizabeth": "required",
+      "Zhao, Cathy": "required",
+      "Chan, Charmaine": "required",
+      "Wang, Isaac": "required",
+      "Tang, Circle": "required",
+      "Thian, David": "required",
+      "Miyamoto, Mari": "required",
+      "Domae, Tsubura": "required",
+      "Li, June": "required",
+      "Zhong, Summer": "required",
+      "Jin, Cindy": "required",
+      "Chan, Matthew": "required",
+      "Huh, Gun": "required",
+      "Chiu, Elaine": "required",
+      "Kao, Sara": "required",
+      "Kaveramma, Mukkatira Neha": "required",
+      "Zou, Sara": "required",
+      "Sunder, Shyam": "required",
+      "Feng, Tina": "required",
+      "Wang, Alien": "required",
+      "Jung, Jill": "required",
+      "Javalla, Circe": "optional",
+      "Chen, Karen": "optional",
+      "Ho, Tony": "optional",
+      "Wu, Frances": "optional",
+      "Chen, Jonathan T.H.": "optional",
+      "Quek, Lawrence": "optional",
+      "Riego, Milbert Dan CA.": "optional",
+      "Ahmed, Rashed": "optional",
+      "Chen, Samuel": "optional",
+      "Zhong, Janice": "optional",
+      "Cui, Rondra": "optional",
+      "Doydum, Hatice": "optional",
+      "Tsai, Sylvia": "optional",
+      "Chapin, Linda": "optional",
+      "Sun, Inna": "optional",
+      "Wei, Sam": "optional",
+      "Kurachi, Hiroki": "optional",
+      "Shugarman, Blake M.": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-10-16T05:45:00.0000000",
+    "End": "2024-10-16T07:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.828827"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-YAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "UL Diversity And Inclusion",
+    "Title": "Global Inclusion Forum - How Culture Influences Communication Styles.",
+    "Description": "Dear DEI representatives, We are pleased to invite you to Day 1 \u2013 How Culture Influences Communication Styles of this year\u2019s Global Inclusion Forum for APAC. Joining this Forum is a great opportunity to enhance your knowledge about DEI topics, stren",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "UL Diversity And Inclusion": "required",
+      "Juri Mansour": "optional",
+      "Sugavanam, Suresh": "required",
+      "Wudawei, David": "required",
+      "LST.UL.AP DEI": "required",
+      "Tan, Anthony": "required",
+      "Dodson, Jermisha Y.": "required",
+      "Cornejo Garcia, Stephen R.": "required",
+      "Guerrero, Betsy": "required",
+      "Poonacha, Rohini": "required",
+      "Muehlmann, Lisa": "required",
+      "Brooks, Kim E.": "required",
+      "Morote, Rebekah": "required",
+      "Lynch, Tim": "required",
+      "Gao, Laura": "required",
+      "George, Teena Elizabeth": "required",
+      "Zhao, Cathy": "required",
+      "Chan, Charmaine": "required",
+      "Wang, Isaac": "required",
+      "Tang, Circle": "required",
+      "Thian, David": "required",
+      "Miyamoto, Mari": "required",
+      "Domae, Tsubura": "required",
+      "Li, June": "required",
+      "Zhong, Summer": "required",
+      "Jin, Cindy": "required",
+      "Chan, Matthew": "required",
+      "Huh, Gun": "required",
+      "Chiu, Elaine": "required",
+      "Kao, Sara": "required",
+      "Kaveramma, Mukkatira Neha": "required",
+      "Zou, Sara": "required",
+      "Sunder, Shyam": "required",
+      "Feng, Tina": "required",
+      "Wang, Alien": "required",
+      "Jung, Jill": "required",
+      "Javalla, Circe": "optional",
+      "Chen, Karen": "optional",
+      "Ho, Tony": "optional",
+      "Wu, Frances": "optional",
+      "Chen, Jonathan T.H.": "optional",
+      "Chen, Samuel": "optional",
+      "Quek, Lawrence": "optional",
+      "Riego, Milbert Dan CA.": "optional",
+      "Ahmed, Rashed": "optional",
+      "Zhong, Janice": "optional",
+      "Cui, Rondra": "optional",
+      "Doydum, Hatice": "optional",
+      "Tsai, Sylvia": "optional",
+      "Chapin, Linda": "optional",
+      "Sun, Inna": "optional",
+      "Wei, Sam": "optional",
+      "Kurachi, Hiroki": "optional",
+      "Shugarman, Blake M.": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-10-16T02:45:00.0000000",
+    "End": "2024-10-16T05:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.828931"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-XAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "UL Diversity And Inclusion",
+    "Title": "Global Inclusion Forum EMEA - Customer Panel on DEI\u2019s Importance to their Business",
+    "Description": "Dear DEI representatives, We\u2019re pleased to invite you to the Customer Panel on DEI\u2019s Importance to their Business as part of our Global Inclusion Forum for EMEA. Joining this Forum is a great opportunity to enhance your knowledge about DEI topics, s",
+    "Location": "Online via MS Teams - Link below in invite",
+    "Attendees": {
+      "UL Diversity And Inclusion": "required",
+      "Juri Mansour": "optional",
+      "Muehlmann, Lisa": "required",
+      "Cornejo Garcia, Stephen R.": "optional",
+      "Dodson, Jermisha Y.": "optional",
+      "Guerrero, Betsy": "optional",
+      "Poonacha, Rohini": "optional",
+      "Brooks, Kim E.": "optional",
+      "Morote, Rebekah": "optional",
+      "Bautz, Mirko": "optional",
+      "Schjotz, Gitte": "optional",
+      "Little, Anna": "optional",
+      "Gutmann, Tobias": "optional",
+      "Torlino, Monica": "optional",
+      "Marchesi, Mariachiara": "optional",
+      "Sarah Nodarse": "optional",
+      "Susanna Cabos <susanna.cabos@se.com>": "optional",
+      "Chapin, Linda": "optional",
+      "Jakobsen, Claus K.": "optional",
+      "Doll, Christian": "optional",
+      "Scott, Monica": "optional",
+      "Ebach, Helene": "optional",
+      "vera.troitskaya@siemens.com": "optional",
+      "Shugarman, Blake M.": "optional"
+    },
+    "Virtual": false,
+    "Start": "2024-10-10T12:00:00.0000000",
+    "End": "2024-10-10T13:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.829019"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-WAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "UL Diversity And Inclusion",
+    "Title": "Global Inclusion Forum EMEA - Leading with Conscious Inclusion",
+    "Description": "Dear DEI representatives, We\u2019re pleased to invite you to the Leading with Conscious Inclusion session as part of our Global Inclusion Forum for EMEA. Joining this Forum is a great opportunity to enhance your knowledge about DEI topics, strengthen yo",
+    "Location": "Online via MS Teams - Link below in invite",
+    "Attendees": {
+      "UL Diversity And Inclusion": "required",
+      "Juri Mansour": "optional",
+      "Muehlmann, Lisa": "required",
+      "Cornejo Garcia, Stephen R.": "optional",
+      "Dodson, Jermisha Y.": "optional",
+      "Guerrero, Betsy": "optional",
+      "Poonacha, Rohini": "optional",
+      "Brooks, Kim E.": "optional",
+      "Morote, Rebekah": "optional",
+      "Bautz, Mirko": "optional",
+      "Schjotz, Gitte": "optional",
+      "Little, Anna": "optional",
+      "Gutmann, Tobias": "optional",
+      "Torlino, Monica": "optional",
+      "Marchesi, Mariachiara": "optional",
+      "Sarah Nodarse": "optional",
+      "Chapin, Linda": "optional",
+      "Bolivar, Liseth": "optional",
+      "Jakobsen, Claus K.": "optional",
+      "Doll, Christian": "optional",
+      "Scott, Monica": "optional",
+      "Shugarman, Blake M.": "optional"
+    },
+    "Virtual": false,
+    "Start": "2024-10-10T08:00:00.0000000",
+    "End": "2024-10-10T09:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.829109"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-VAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "UL Diversity And Inclusion",
+    "Title": "Global Inclusion Forum EMEA - Improving Cross-Cultural Communication in Global Contexts",
+    "Description": "Dear DEI representatives, We\u2019re pleased to invite you to the Improving Cross-Cultural Communication in Global Contexts session as part of our Global Inclusion Forum for EMEA. Joining this Forum is a great opportunity to enhance your knowledge about",
+    "Location": "Online via MS Teams - Link below in invite",
+    "Attendees": {
+      "UL Diversity And Inclusion": "required",
+      "Juri Mansour": "optional",
+      "Muehlmann, Lisa": "required",
+      "Cornejo Garcia, Stephen R.": "optional",
+      "Dodson, Jermisha Y.": "optional",
+      "Guerrero, Betsy": "optional",
+      "Poonacha, Rohini": "optional",
+      "Brooks, Kim E.": "optional",
+      "Morote, Rebekah": "optional",
+      "Bautz, Mirko": "optional",
+      "Schjotz, Gitte": "optional",
+      "Little, Anna": "optional",
+      "Gutmann, Tobias": "optional",
+      "Torlino, Monica": "optional",
+      "Marchesi, Mariachiara": "optional",
+      "Sarah Nodarse": "optional",
+      "Chapin, Linda": "optional",
+      "Jakobsen, Claus K.": "optional",
+      "Doll, Christian": "optional",
+      "Scott, Monica": "optional",
+      "Shugarman, Blake M.": "optional"
+    },
+    "Virtual": false,
+    "Start": "2024-10-09T08:00:00.0000000",
+    "End": "2024-10-09T09:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.829201"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-UAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "UL Diversity And Inclusion",
+    "Title": ";Global Inclusion Forum EMEA - Neurodiversity Inclusion in the Workplace",
+    "Description": "Dear DEI representatives, We\u2019re pleased to invite you to the Neurodiversity Inclusion in the Workplace session as part of our Global Inclusion Forum for EMEA. Joining this Forum is a great opportunity to enhance your knowledge about DEI topics, stre",
+    "Location": "Online via MS Teams - Link in invite",
+    "Attendees": {
+      "UL Diversity And Inclusion": "required",
+      "Juri Mansour": "optional",
+      "Muehlmann, Lisa": "required",
+      "Cornejo Garcia, Stephen R.": "optional",
+      "Dodson, Jermisha Y.": "optional",
+      "Guerrero, Betsy": "optional",
+      "Poonacha, Rohini": "optional",
+      "Brooks, Kim E.": "optional",
+      "Morote, Rebekah": "optional",
+      "Bautz, Mirko": "optional",
+      "Schjotz, Gitte": "optional",
+      "Little, Anna": "optional",
+      "Gutmann, Tobias": "optional",
+      "Torlino, Monica": "optional",
+      "Marchesi, Mariachiara": "optional",
+      "Sarah Nodarse": "optional",
+      "Chapin, Linda": "optional",
+      "Jakobsen, Claus K.": "optional",
+      "Doll, Christian": "optional",
+      "Scott, Monica": "optional",
+      "Rokni, Farbod": "optional",
+      "Shugarman, Blake M.": "optional"
+    },
+    "Virtual": false,
+    "Start": "2024-10-09T12:00:00.0000000",
+    "End": "2024-10-09T13:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.829295"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-TAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "UL Diversity And Inclusion",
+    "Title": "Global Inclusion Forum - Leading with Conscious Inclusion ",
+    "Description": "We\u2019re pleased to invite you to the Leading with Conscious Inclusion session as part of our Global Inclusion Forum for the Americas. Joining this Forum is a great opportunity to enhance your knowledge about DEI topics, strengthen your capabilities to le",
+    "Location": "NBK Conference Room A",
+    "Attendees": {
+      "UL Diversity And Inclusion": "required",
+      "Cornejo Garcia, Stephen R.": "required",
+      "Guerrero, Betsy": "required",
+      "Dodson, Jermisha Y.": "required",
+      "Sarah Nodarse": "required",
+      "Feng, Tina": "required",
+      "Wang, Alien": "required",
+      "Juri Mansour": "required",
+      "Storey, Kristen": "optional",
+      "Scanlon, Jennifer": "optional",
+      "Chapin, Linda": "optional",
+      "Smidt, Jeffrey A.": "optional",
+      "Denison, Todd J.": "optional",
+      "Surendranathan, Sreelatha": "optional",
+      "Matuszewska, Anna": "optional",
+      "Sengupta, Upayan": "optional",
+      "Maurio, Chante W.": "optional",
+      "Ho, Cynthia": "optional",
+      "Halas, Shanna L": "optional",
+      "Slone, Robert": "optional",
+      "Sullivan, Lisa": "optional",
+      "Seegebrecht, Kathy S.": "optional",
+      "Flores, Rodolfo": "optional",
+      "Gallegos, Donna": "optional",
+      "Hancock, Lynn": "optional",
+      "Zhou, Weifang": "optional",
+      "Guerra de Leon, Cesar": "optional",
+      "Robinson, Ryan": "optional",
+      "Williams, Angela C.": "optional",
+      "Zhou, Simin": "optional",
+      "Sagredo, Christine": "optional",
+      "Pacheco, Carlos": "optional",
+      "White, Paula Jayne": "optional",
+      "Jimenez, Aldo": "optional",
+      "Weijola, Jason": "optional",
+      "Neff, Trenda": "optional",
+      "Dvorak, Anna M.": "optional",
+      "Shugarman, Blake M.": "optional",
+      "Schwartz, Ann M.": "optional",
+      "Bwanhot, Jerry": "optional",
+      "Jolicoeur, Iyana": "optional",
+      "Hernandez, Frank": "optional",
+      "Leyva, Jean": "optional",
+      "Carvajal, Diana": "optional",
+      "Espejo, Theresa": "optional",
+      "Muehlmann, Lisa": "optional",
+      "Brooks, Kim E.": "optional",
+      "Morote, Rebekah": "optional",
+      "Blake, Sally": "optional",
+      "Kalian, Barry": "optional",
+      "King, Justin": "optional",
+      "Tafa, Florian": "optional",
+      "Saltzman, Crystal": "optional",
+      "Dunlap, Daniel": "optional",
+      "Sosa, Manuel": "optional",
+      "Scott, Monica": "optional",
+      "Neudigate, Nicholas": "optional",
+      "Kollatou, Emma": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-10-03T15:00:00.0000000",
+    "End": "2024-10-03T16:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.829414"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-SAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "UL Diversity And Inclusion",
+    "Title": "Global Inclusion Forum - Improving Cross-Cultural Communication in Global Contexts ",
+    "Description": "We\u2019re pleased to invite you to the Improving Cross-Cultural Communication in Global Contexts session as part of our Global Inclusion Forum for the Americas. Joining this Forum is a great opportunity to enhance your knowledge about DEI topics, strengthe",
+    "Location": "NBK Conference Room A",
+    "Attendees": {
+      "UL Diversity And Inclusion": "required",
+      "Dodson, Jermisha Y.": "required",
+      "Guerrero, Betsy": "required",
+      "Cornejo Garcia, Stephen R.": "required",
+      "Sarah Nodarse": "required",
+      "Feng, Tina": "required",
+      "Wang, Alien": "required",
+      "Juri Mansour": "required",
+      "Storey, Kristen": "optional",
+      "Scanlon, Jennifer": "optional",
+      "Chapin, Linda": "optional",
+      "Smidt, Jeffrey A.": "optional",
+      "Denison, Todd J.": "optional",
+      "Surendranathan, Sreelatha": "optional",
+      "Matuszewska, Anna": "optional",
+      "Sengupta, Upayan": "optional",
+      "Maurio, Chante W.": "optional",
+      "Ho, Cynthia": "optional",
+      "Halas, Shanna L": "optional",
+      "Slone, Robert": "optional",
+      "Sullivan, Lisa": "optional",
+      "Seegebrecht, Kathy S.": "optional",
+      "Flores, Rodolfo": "optional",
+      "Gallegos, Donna": "optional",
+      "Hancock, Lynn": "optional",
+      "Zhou, Weifang": "optional",
+      "Guerra de Leon, Cesar": "optional",
+      "Robinson, Ryan": "optional",
+      "Williams, Angela C.": "optional",
+      "Zhou, Simin": "optional",
+      "Sagredo, Christine": "optional",
+      "Pacheco, Carlos": "optional",
+      "White, Paula Jayne": "optional",
+      "Jimenez, Aldo": "optional",
+      "Weijola, Jason": "optional",
+      "Neff, Trenda": "optional",
+      "Dvorak, Anna M.": "optional",
+      "Shugarman, Blake M.": "optional",
+      "Schwartz, Ann M.": "optional",
+      "Bwanhot, Jerry": "optional",
+      "Jolicoeur, Iyana": "optional",
+      "Hernandez, Frank": "optional",
+      "Leyva, Jean": "optional",
+      "Carvajal, Diana": "optional",
+      "Espejo, Theresa": "optional",
+      "Muehlmann, Lisa": "optional",
+      "Brooks, Kim E.": "optional",
+      "Morote, Rebekah": "optional",
+      "Blake, Sally": "optional",
+      "Kalian, Barry": "optional",
+      "King, Justin": "optional",
+      "Tafa, Florian": "optional",
+      "Saltzman, Crystal": "optional",
+      "Dunlap, Daniel": "optional",
+      "Sosa, Manuel": "optional",
+      "Scott, Monica": "optional",
+      "DST.All UL COM Canada Employees Only": "optional",
+      "Neudigate, Nicholas": "optional",
+      "Kollatou, Emma": "optional",
+      "Gauthier Poitras, Maxime": "optional",
+      "Hannah, David G.": "optional",
+      "Singh, Gurmeet": "optional",
+      "Baart, Marco": "optional",
+      "Kearns, Daniel": "optional",
+      "Tantoulos, Le": "optional",
+      "Tran, Michael": "optional",
+      "Gauthier, Jesse-Carl": "optional",
+      "Joseph, Fabian": "optional",
+      "Ravindra, Neha": "optional",
+      "Couture, Gilles": "optional",
+      "Hooites Meursing, Jeffrey": "optional",
+      "Loubert, Jean": "optional",
+      "Laurin, Olivier": "optional",
+      "Choolaparambil Biju, Blesson": "optional",
+      "Feng, Henry": "optional",
+      "Venketaraman, Anand": "optional",
+      "Pidwerbecki, Mike": "optional",
+      "Craig Webster": "optional",
+      "Zhang, Kelly": "optional",
+      "Parmachand, Suresh": "optional",
+      "Davis, Kelly": "optional",
+      "Leung, Kenneth": "optional",
+      "Tang, Calvin": "optional",
+      "Turbide, Gabriel": "optional",
+      "Kini, Pranav NA.": "optional",
+      "Dahmane, Mansour": "optional",
+      "Poon, Kenny": "optional",
+      "Plouffe, Raphael": "optional",
+      "Ndjeng Ngangue, Martial Alban": "optional",
+      "Gawlas, Marianne": "optional",
+      "Kpodar, Marc-David": "optional",
+      "Shible, German": "optional",
+      "Nagalingam, Matt": "optional",
+      "Labelle, Stephen R.": "optional",
+      "Pottier, Andrew": "optional",
+      "Jawad, Jawad": "optional",
+      "Sharkey, Geovanna": "optional",
+      "Abraham, Binu": "optional",
+      "Pearson, Coralie": "optional",
+      "Holt, Benjamin": "optional",
+      "Ngenzi, Jean Monet": "optional",
+      "Muntean, Adrian": "optional",
+      "Payne, Michael": "optional",
+      "Jayathilake, Jagath": "optional",
+      "Beaucage, Philippe": "optional",
+      "Wachowicz, Ron": "optional",
+      "Nihal, Ahsan": "optional",
+      "Sean Allan": "optional",
+      "Seegebrecht, Max W.": "optional",
+      "Laquerre, Guillaume": "optional",
+      "Richard Schaap": "optional",
+      "Chalard, Lucas": "optional",
+      "Jutras, Robert": "optional",
+      "Naim Ibrahim, Ehab NA.": "optional",
+      "Sandhu, Kamaldeep": "optional",
+      "Paintal, Gunsimar": "optional",
+      "Tsai, Nicholas": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-10-02T15:00:00.0000000",
+    "End": "2024-10-02T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.829529"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-RAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "UL Diversity And Inclusion",
+    "Title": "Global Inclusion Forum - Neurodiversity Inclusion in the Workplace",
+    "Description": "We\u2019re pleased to invite you to the Neurodiversity Inclusion in the Workplace session as part of our Global Inclusion Forum for the Americas Joining this Forum is a great opportunity to enhance your knowledge about DEI topics, strengthen your capabiliti",
+    "Location": "NBK Conference Room A",
+    "Attendees": {
+      "UL Diversity And Inclusion": "required",
+      "Juri Mansour": "required",
+      "Storey, Kristen": "optional",
+      "Scanlon, Jennifer": "optional",
+      "Chapin, Linda": "optional",
+      "Smidt, Jeffrey A.": "optional",
+      "Denison, Todd J.": "optional",
+      "Surendranathan, Sreelatha": "optional",
+      "Matuszewska, Anna": "optional",
+      "Sengupta, Upayan": "optional",
+      "Maurio, Chante W.": "optional",
+      "Ho, Cynthia": "optional",
+      "Halas, Shanna L": "optional",
+      "Slone, Robert": "optional",
+      "Sullivan, Lisa": "optional",
+      "Seegebrecht, Kathy S.": "optional",
+      "Flores, Rodolfo": "optional",
+      "Gallegos, Donna": "optional",
+      "Hancock, Lynn": "optional",
+      "Zhou, Weifang": "optional",
+      "Guerra de Leon, Cesar": "optional",
+      "Robinson, Ryan": "optional",
+      "Williams, Angela C.": "optional",
+      "Zhou, Simin": "optional",
+      "Sagredo, Christine": "optional",
+      "Pacheco, Carlos": "optional",
+      "White, Paula Jayne": "optional",
+      "Jimenez, Aldo": "optional",
+      "Weijola, Jason": "optional",
+      "Neff, Trenda": "optional",
+      "Dvorak, Anna M.": "optional",
+      "Shugarman, Blake M.": "optional",
+      "Schwartz, Ann M.": "optional",
+      "Bwanhot, Jerry": "optional",
+      "Jolicoeur, Iyana": "optional",
+      "Hernandez, Frank": "optional",
+      "Leyva, Jean": "optional",
+      "Carvajal, Diana": "optional",
+      "Espejo, Theresa": "optional",
+      "Muehlmann, Lisa": "optional",
+      "Brooks, Kim E.": "optional",
+      "Morote, Rebekah": "optional",
+      "Blake, Sally": "optional",
+      "Kalian, Barry": "optional",
+      "King, Justin": "optional",
+      "Tafa, Florian": "optional",
+      "Saltzman, Crystal": "optional",
+      "Dunlap, Daniel": "optional",
+      "Sosa, Manuel": "optional",
+      "Scott, Monica": "optional",
+      "Neudigate, Nicholas": "optional",
+      "Cornejo Garcia, Stephen R.": "required",
+      "Dodson, Jermisha Y.": "required",
+      "Guerrero, Betsy": "required",
+      "Sarah Nodarse": "required",
+      "Feng, Tina": "required",
+      "Wang, Alien": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-02T19:00:00.0000000",
+    "End": "2024-10-02T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.829628"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-QAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Guerrero, Betsy",
+    "Title": "GIF Debrief Day 2",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 233 550 724 928 Passcode: Lko8Gk For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Guerrero, Betsy": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required",
+      "Larry Baker": "required",
+      "Cornejo Garcia, Stephen R.": "optional",
+      "Dodson, Jermisha Y.": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-10-03T20:30:00.0000000",
+    "End": "2024-10-03T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.829692"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-PAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Guerrero, Betsy",
+    "Title": "GIF Debrief Day 1",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 254 232 745 048 Passcode: CNNRcF For organizers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Guerrero, Betsy": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required",
+      "Larry Baker": "required",
+      "Cornejo Garcia, Stephen R.": "optional",
+      "Dodson, Jermisha Y.": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-10-02T20:30:00.0000000",
+    "End": "2024-10-02T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.829759"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAkhs-NAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "UL Sol-GIF-Neurodiversity / Disability Spotlight_HOLD",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 277 546 288 517 Passcode: yBrBXK Dial in by phone +1 872-239-8243,,79538",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-02T19:00:00.0000000",
+    "End": "2024-10-02T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.829818"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAjYbRVAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Session Hold",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 272 810 609 741 Passcode: RxpRvr Dial in by phone +1 872-239-8243,,18894",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Andrea Wicks Bowles": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-01T15:00:00.0000000",
+    "End": "2024-11-01T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.829876"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAjYbRUAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Session Hold",
+    "Description": "We need a facilitator for this time frame as Larry is unable to do it. Microsoft Teams Need help? Join the meeting now Meeting ID: 280 380 934 750 Passcode: YRMEZ8 __",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-15T20:00:00.0000000",
+    "End": "2024-11-15T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.829959"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAjYbRTAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Muehlmann, Lisa",
+    "Title": "Briefing Meeting UL Solutions GIF EMEA - Day 2",
+    "Description": "Hello Patricia, Here comes the briefing call for Day 2 of the UL Solutions GIF for EMEA. I hope the slot works for you. Looking forward to working with you. Thanks and best regards, Lisa",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Muehlmann, Lisa": "required",
+      "Juri Mansour": "optional",
+      "Patricia Coleman": "required",
+      "Sarah Nodarse": "optional",
+      "Cornejo Garcia, Stephen R.": "optional",
+      "Dodson, Jermisha Y.": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-10-10T13:30:00.0000000",
+    "End": "2024-10-10T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.830041"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAjYbRSAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Muehlmann, Lisa",
+    "Title": "Briefing Meeting UL Solutions GIF EMEA - Day 1",
+    "Description": "Hello Patricia, I am setting up this briefing call for us so that we can talk about the sessions of Day 1 of the Global Inclusion Forum for UL Solutions EMEA and exchange some impressions as well as feedback. I hope this slot works for you. I am lo",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Muehlmann, Lisa": "required",
+      "Juri Mansour": "optional",
+      "Patricia Coleman": "required",
+      "Sarah Nodarse": "optional",
+      "Cornejo Garcia, Stephen R.": "optional",
+      "Dodson, Jermisha Y.": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-10-09T13:30:00.0000000",
+    "End": "2024-10-09T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.830122"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAgjeApAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Nodarse",
+    "Title": "TTT for UL Solutions Global Inclusion Forum",
+    "Description": "Good day friends \u2013 the UL Solutions Global Inclusion Forum is fast approaching! As a reminder, the schedule is below. Can you all confirm you have your invites? Larry, you are up first with the Americas the week of 10-2. I am doing a final proof of",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Larry Baker": "required",
+      "Patricia Coleman": "required",
+      "Yuko Deneuville": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-09-24T18:00:00.0000000",
+    "End": "2024-09-24T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.830216"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAgjeAoAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "ARCH-Leading Inclusively-APAC Discussion",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 216 933 723 197 Passcode: qR2RMj Dial in by phone +1 872-239-8243,,91525",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Bird, Shani (she/her/hers)": "required",
+      "Delgado Carranza, Priscila (she/her/hers)": "required",
+      "Sarah Nodarse": "required",
+      "Rebecca Parrilla": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-09-26T20:00:00.0000000",
+    "End": "2024-09-26T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.830273"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAfpxT4AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Group m Session hold",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 288 890 100 212 Passcode: AwSpVB Dial in by phone +1 872-239-8243,,97725",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-15T16:00:00.0000000",
+    "End": "2024-11-15T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.830315"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAfpxT2AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Group M Session hold",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 281 082 621 95 Passcode: WdQaoS Dial in by phone +1 872-239-8243,,744952",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-08T16:00:00.0000000",
+    "End": "2024-11-08T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.830368"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAfpxT1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Session Hold",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 221 599 244 658 Passcode: EDYutH Dial in by phone +1 872-239-8243,,42481",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-08T20:00:00.0000000",
+    "End": "2024-11-08T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.830457"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAfpxTzAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Group M Session hold",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 230 340 721 579 Passcode: jGc9iK Dial in by phone +1 872-239-8243,,87359",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-04T20:00:00.0000000",
+    "End": "2024-11-04T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.830527"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAfpxTyAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Dustin & Juri touch base",
+    "Description": "Just a quick meeting to get to know each other and processes :) Let me know if theres a better time Microsoft Teams Need help? Join the meeting now Meeting ID: 247 660",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Elixir Multimedia Solutions": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-09-19T18:30:00.0000000",
+    "End": "2024-09-19T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.830596"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAevj3PAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Nodarse",
+    "Title": "Bi-Weekly ARCH Meeting",
+    "Description": "Adjusting time at Shani\u2019s request, adding Juri, Rebecca (LCW) and Priscila (BSC). Microsoft Teams Need help? Join the meeting now Meeting ID: 224 573 070 615 Passcode: T",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Bird, Shani (she/her/hers)": "optional",
+      "Chan, Bethany (she/her/hers)": "required",
+      "Juri Mansour": "required",
+      "Rebecca Parrilla": "required",
+      "priscila.delgadocarranza@bsci.com": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-09-19T16:00:00.0000000",
+    "End": "2024-09-19T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.830674"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAdGKmvAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Kaitlin Nonweiler",
+    "Title": "BSC- ARCH: Leading Inclusively (Maple Grove)",
+    "Description": "Join Zoom Meeting https://languageandculture.zoom.us/j/86553457539 Meeting ID: 865 5345 7539 Microsoft Teams Need help? Join the meeting now Meeting ID: 266 090 767",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Kaitlin Nonweiler": "required",
+      "Chuck Adams": "required",
+      "Sarah Nodarse": "optional",
+      "Juri Mansour": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-09-19T15:00:00.0000000",
+    "End": "2024-09-19T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.830733"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAbvtxOAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Session Hold",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 279 755 488 379 Passcode: 2gTjfG Dial in by phone +1 872-239-8243,,89482",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-01T19:00:00.0000000",
+    "End": "2024-11-01T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.830793"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAbvtxNAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM session hold",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 299 284 698 680 Passcode: gheRvH Dial in by phone +1 872-239-8243,,19281",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-04T16:00:00.0000000",
+    "End": "2024-11-04T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.830846"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAbvtxIAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-10-28T15:00:00.0000000",
+    "End": "2024-10-28T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.830887"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAbvtxHAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-10-28T19:00:00.0000000",
+    "End": "2024-10-28T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.830925"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAbvtxGAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Sessions Hold",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-10-25T19:00:00.0000000",
+    "End": "2024-10-25T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.830967"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAbvtxFAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Sessions hold",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-10-25T15:00:00.0000000",
+    "End": "2024-10-25T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.831008"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAbvtxCAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Sessions- Revised Deck Review",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 267 636 239 153 Passcode: 5VRzDm Dial in by phone +1 872-239-8243,,31892",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Lukeisha Paul": "required",
+      "Shelton Rankin": "required",
+      "brian.dashew@groupm.com": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-23T19:00:00.0000000",
+    "End": "2024-10-23T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.831062"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAbvtxAAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Session Hold",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-10-21T19:00:00.0000000",
+    "End": "2024-10-21T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.831102"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAbvtw-AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Session Hold",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-10-21T15:00:00.0000000",
+    "End": "2024-10-21T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.831136"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAbvtw_AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Session Hold",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 248 576 685 380 Passcode: EJ3aer Dial in by phone +1 872-239-8243,,29946",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-18T19:00:00.0000000",
+    "End": "2024-10-18T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.831190"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAbvtw9AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Session Hold",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 261 001 275 285 Passcode: 3YY8EX Dial in by phone +1 872-239-8243,,16891",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-18T15:00:00.0000000",
+    "End": "2024-10-18T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.831251"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAbvtw1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "LCW x GroupM Weekly Meeting",
+    "Description": "Hi team, I realized the invitation series Sarah set up ran through 3/5/25. I am sending the extended series. Microsoft Teams Need help? Join the meeting now Meeting",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Lukeisha Paul": "required",
+      "Safa Aamir": "required",
+      "brian.dashew@groupm.com": "required",
+      "Shelton Rankin": "required",
+      "Rebecca Parrilla": "optional"
+    },
+    "Virtual": true,
+    "Start": "2025-03-17T15:00:00.0000000",
+    "End": "2025-03-17T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.831325"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAbvtw0AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Nodarse",
+    "Title": "Bi-Weekly ARCH Meeting",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 224 573 070 615 Passcode: ToBZQy Dial-in by phone +1 872-239-8243,,93608",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Bird, Shani (she/her/hers)": "optional",
+      "Chan, Bethany (she/her/hers)": "required",
+      "Rebecca Parrilla": "required",
+      "Juri Mansour": "required",
+      "Delgado Carranza, Priscila (she/her/hers)": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-09T17:00:00.0000000",
+    "End": "2024-10-09T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.831395"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAZ46FdAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "BSC: ARCH- Leading Inclusively (Maple Grove)",
+    "Description": "|| Company: Boston Scientific Corporation (BSC) Shared resources: Larry Baker",
+    "Location": "Zoom Meeting",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Juri Mansour": "required",
+      "Larry Baker": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": false,
+    "Start": "2024-09-19T15:00:00.0000000",
+    "End": "2024-09-19T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.831813"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAZ46FcAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Canceled: BSC ARCH Leading Inclusively Maple Grove #1 of 2",
+    "Description": "Leading Inclusively USA Version https://languageandculture.zoom.us/j/86553457539 || Project: Maple Grove ARCH Leading Inclusively Company: Boston Scientific Corporation (BSC) Shared resources: Andrea Wicks Bowles, Chuck Adams, Larry Baker, Sa",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Andrea Wicks Bowles": "required",
+      "Juri Mansour": "required",
+      "Kaitlin Nonweiler": "required",
+      "Larry Baker": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-09-19T15:00:00.0000000",
+    "End": "2024-09-19T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.831876"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAXCB4TAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Safa Aamir",
+    "Title": "LCW/GroupM Meeting and Updates",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 343 651 508 562 Passcode: vWArWD Join on a video conferencing device T",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Safa Aamir": "required",
+      "Lukeisha Paul": "required",
+      "Brian Dashew": "required",
+      "Juri Mansour": "required",
+      "Vince Bongiovanni": "required",
+      "Shelton Rankin": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-09-09T16:30:00.0000000",
+    "End": "2024-09-09T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.831927"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAXCB4SAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "UL GIF Dress Rehearsal HOLD",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 279 473 032 012 Passcode: muhHEh Dial in by phone +1 872-239-8243,,65222",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "yuko@yukodeneuville.com": "required",
+      "Sarah Nodarse": "required",
+      "Poonacha, Rohini": "required",
+      "Sarah Gluckstein": "required",
+      "Yuko Deneuville": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-10-09T10:00:00.0000000",
+    "End": "2024-10-09T11:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.831968"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAXCB4QAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "UL GIF Dress Rehearsal Hold",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 285 374 725 204 Passcode: YMjXgw Dial in by phone +1 872-239-8243,,17444",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "Muehlmann, Lisa": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-01T12:00:00.0000000",
+    "End": "2024-10-01T13:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832005"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAXCB4PAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "UL GIF DRess Rehearsal Hold",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 278 061 165 643 Passcode: JEoFAp Dial in by phone +1 872-239-8243,,37124",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Guerrero, Betsy": "required",
+      "Sarah Nodarse": "required",
+      "Sarah Gluckstein": "required",
+      "Cornejo Garcia, Stephen R.": "optional",
+      "Chuck Adams": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-09-25T15:00:00.0000000",
+    "End": "2024-09-25T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832043"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAXCB4OAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "BSC EMEA SESSION HOLD",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 233 943 251 641 Passcode: BPTtmu Dial in by phone +1 872-239-8243,,664",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-07T09:00:00.0000000",
+    "End": "2024-10-07T12:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832079"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAXCB4LAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Nodarse",
+    "Title": "Bi-Weekly ARCH Meeting",
+    "Description": "Good day team \u2013 seeing your request to reschedule now. 1 pm Central works. Will send agenda shortly. Microsoft Teams Need help? Join the meeting now Meeting ID: 224 573 0",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Bird, Shani (she/her/hers)": "optional",
+      "Chan, Bethany (she/her/hers)": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-09-04T18:00:00.0000000",
+    "End": "2024-09-04T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832135"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAV1xlNAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Pati/Juri client management platform discussion ",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 222 366 304 391 Passcode: CXTWhx Dial in by phone +1 872-239-8243,,65671",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-09-03T15:30:00.0000000",
+    "End": "2024-09-03T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832174"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAARbgK7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Nodarse",
+    "Title": "Juri & Sarah - BSC eLearning & other",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 220 043 607 982 Passcode: DtPtZE Dial in by phone +1 872-239-8243,,61030",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-26T18:00:00.0000000",
+    "End": "2024-08-26T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832210"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAOApO3AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "RP & Juri ",
+    "Description": "Hi RP! I wanted to get a consultant's perspective on what I will be discussing during the PM/consultant meeting on Monday. Microsoft Teams Need help? Join the meeting no",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Rebecca Parrilla": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-23T15:30:00.0000000",
+    "End": "2024-08-23T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832247"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAOApO2AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Juri & Patricia 1 on1 ",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 221 763 131 954 Passcode: EG3Rvk Dial in by phone +1 872-239-8243,,10271",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-26T18:30:00.0000000",
+    "End": "2024-08-26T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832281"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAOApO1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Nodarse",
+    "Title": "Review Canada Leading Inclusively ",
+    "Description": "Team, I am so sorry, I had the time zone wrong for the other meeting I was trying to accommodate. Would this work for the Canada review? Please let me know if not, we will find a time that does! Thanks \u2013 Happy Friday \u2013 Sarah",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Rebecca Parrilla": "optional",
+      "Chan, Bethany (she/her/hers)": "required",
+      "Bird, Shani": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-28T16:30:00.0000000",
+    "End": "2024-08-28T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832336"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAOApO0AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Session HOLD Leading Inclusively for Maple Grove Ops",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 246 304 255 226 Passcode: VYcs9Y Dial in by phone +1 872-239-8243,,73398",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-07T16:00:00.0000000",
+    "End": "2024-11-07T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832376"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAANEox7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Nodarse",
+    "Title": "Bi-Weekly ARCH Meeting",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 224 573 070 615 Passcode: ToBZQy Dial-in by phone +1 872-239-8243,,93608",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Bird, Shani (she/her/hers)": "optional",
+      "Chan, Bethany (she/her/hers)": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-21T17:00:00.0000000",
+    "End": "2024-08-21T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832415"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAMy0-aAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "GroupM Train The Trainer",
+    "Description": "A meeting to prepare facilitators for the upcoming \"Building an Inclusive GroupM Culture\" sessions. Please see file path attached for course content to familiarize yourselves with the material:",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Larry Baker": "required",
+      "Andrea Wicks Bowles": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-10T15:00:00.0000000",
+    "End": "2024-10-10T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832454"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAMy0-YAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Nodarse",
+    "Title": "BSC Elearning Content review",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 228 294 514 986 Passcode: zVCXXS Dial in by phone +1 872-239-8243,,80784",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-20T15:00:00.0000000",
+    "End": "2024-08-20T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832492"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAImZoiAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "BSC eLearning Content Review",
+    "Description": "Hi RP- As Sarah is OOO she directed me to reach out to you for guidance on revising some content for an eLearning as well as produce a Quiz for the eLearning. I would like to go over this with you during this time.",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Rebecca Parrilla": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-14T18:00:00.0000000",
+    "End": "2024-08-14T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832533"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAIR9zRAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Andrea Wicks Bowles",
+    "Title": "HOLD CHOP Muslim",
+    "Description": "The Muslim Spotlight",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Andrea Wicks Bowles": "required",
+      "Chuck Adams": "required",
+      "Juri Mansour": "optional"
+    },
+    "Virtual": false,
+    "Start": "2025-02-04T17:00:00.0000000",
+    "End": "2025-02-04T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832566"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAEaD9UAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Project Debriefs",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 210 466 379 618 Passcode: HEnbEM Dial in by phone +1 872-239-8243,,10205",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Vince Bongiovanni": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-12T17:00:00.0000000",
+    "End": "2024-08-12T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832601"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAEaD9TAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Olivia Kippax Jones",
+    "Title": "BC LCW Valuing Diversity edits discussion",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 324 869 166 580 Passcode: b7fjGT For organisers: Meeting options",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Olivia Kippax Jones": "required",
+      "Eliot Southwell": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-08-13T15:00:00.0000000",
+    "End": "2024-08-13T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832637"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAEaD9SAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "SOWs in Compass Bi-Weekly Check",
+    "Description": "At this meeting we will go through the SOWs reflected in Compass to make sure numbers are accurate for forecasts. Microsoft Teams meeting Join on your computer, mobile app",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Juri Mansour": "optional",
+      "Nicole Barile": "optional",
+      "Sarah Nodarse": "required",
+      "Andrea Wicks Bowles": "required",
+      "Patricia Coleman": "required",
+      "Rebecca Parrilla": "required",
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-11-30T17:00:00.0000000",
+    "End": "2023-11-30T17:40:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832674"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAEaD9RAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Bright Carbon/BSC touchbase before PTO",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 288 445 226 972 Passcode: tzhrJz Dial in by phone +1 872-239-8243,,89674",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-08T20:00:00.0000000",
+    "End": "2024-08-08T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832710"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAEaD9QAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Focus",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-08-08T15:00:00.0000000",
+    "End": "2024-08-08T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832739"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAEaD9OAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "[Moving bc SN's mtg w/ CapGemini] BSC: Relp download and prepping for shift",
+    "Description": "Join Zoom Meeting https://languageandculture.zoom.us/j/84826988554 Meeting ID: 848 2698 8554 Find your local number: https://languageandculture.zoom.us/u/kdpUucHU5l As we shift the main point of contact for BSC and move to a team-model, let\u2019s ge",
+    "Location": "https://languageandculture.zoom.us/j/84826988554",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Juri Mansour": "required",
+      "Chuck Adams": "required",
+      "Sarah Nodarse": "required",
+      "Patricia Coleman": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-26T20:00:00.0000000",
+    "End": "2024-08-26T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832782"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAEaD9MAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Nodarse",
+    "Title": "Review BSC eLearning - access link included",
+    "Description": "If you can attend. Sorry for the last minute invite. Chuck -----Original Appointment----- From: Sarah Nodarse Sent: Tuesday, July 16, 2024 2:20 PM To: Sarah Nodarse; Bird, Shani; Chan, Bethany (she/her/hers); Chuck Adams;",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Bird, Shani": "required",
+      "Chan, Bethany (she/her/hers)": "required",
+      "Chuck Adams": "required",
+      "Vince Bongiovanni": "required",
+      "Juri Mansour": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-08-07T15:00:00.0000000",
+    "End": "2024-08-07T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832858"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAEVZumAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Juri Mansour": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2024-10-07T00:00:00.0000000",
+    "End": "2024-10-08T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832887"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAEVZulAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Juri/Chuck - Weekly 1:1",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 288 468 096 396 Passcode: 8pSJVt Dial in by phone +1 872-239-8243,,37576",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-09-04T15:00:00.0000000",
+    "End": "2024-09-04T15:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832927"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAEVZukAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "PM Touchbase",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 231 977 928 644 Passcode: b9t6Ei Dial in by phone +1 872-239-8243,,62723",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-06T17:30:00.0000000",
+    "End": "2024-08-06T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.832964"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAEVZujAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Content Review & Prioritization Part 2",
+    "Description": "This meeting is a continuation of the 8/2 discussion on content library status & priorities. For this meeting we will focus on: * Prioritizing the updated content offerings . * Reconfirming dates & leads. Please find the link to",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Rebecca Parrilla": "required",
+      "Andrea Wicks Bowles": "required",
+      "Sarah Nodarse": "required",
+      "Pedro Seminario": "required",
+      "Patricia Coleman": "required",
+      "Larry Baker": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-09T16:30:00.0000000",
+    "End": "2024-08-09T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.833015"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAEVZuYAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "Content Review and Prioritization",
+    "Description": "Edit: Please access the content needs now in dropbox: Hi Folks, Andrea and I were talking during the Thinkathon about the content being worked on, in need of updates, and completely new to be built and wanted to bring everyone together for that conver",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Andrea Wicks Bowles": "required",
+      "Patricia Coleman": "required",
+      "Rebecca Parrilla": "required",
+      "Chuck Adams": "optional",
+      "Pedro Seminario": "optional",
+      "Sarah Nodarse": "optional",
+      "Keri Luo": "optional",
+      "Larry Baker": "optional",
+      "Juri Mansour": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-08-02T18:00:00.0000000",
+    "End": "2024-08-02T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.833056"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAADSviuAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juri Mansour",
+    "Title": "Group M Sessions Touch Base",
+    "Description": "To go over Group M deliverables tracking & Session scheduling needs in Compass and/or otherwise. Microsoft Teams Need help? Join the meeting now Meeting ID: 257 632 792",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Kaitlin Nonweiler": "required",
+      "Chuck Adams": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-07-31T15:30:00.0000000",
+    "End": "2024-07-31T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.833096"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAADSvitAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Meet and Greet - Juri and Kaitlin",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 218 523 964 340 Passcode: 4vwzab Dial in by phone +1 872-239-8243,,52204",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Kaitlin Nonweiler": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-07-30T16:30:00.0000000",
+    "End": "2024-07-30T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.833134"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAAGInxAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Meet and Greet - Juri and Pedro",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 287 312 233 207 Passcode: e8a99e Dial in by phone +1 872-239-8243,,79833",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Juri Mansour": "required",
+      "Pedro Seminario": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-07T20:00:00.0000000",
+    "End": "2024-08-07T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.833170"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAAGInwAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Meet and Greet - Juri and Larry",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 273 018 463 15 Passcode: 9xCDBg Dial in by phone +1 872-239-8243,,660641",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Larry Baker": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-01T19:00:00.0000000",
+    "End": "2024-08-01T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.833206"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAAGInvAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Meet and Greet - Juri and Keri",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 290 825 161 348 Passcode: KHZv9P Dial in by phone +1 872-239-8243,,95945",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Keri Luo": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-07-31T18:00:00.0000000",
+    "End": "2024-07-31T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.833242"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAAGInuAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Meet and Greet - Juri and Patricia",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 271 022 096 095 Passcode: pAtk5W Dial in by phone +1 872-239-8243,,91271",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Juri Mansour": "required",
+      "Patricia Coleman": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-07-31T16:30:00.0000000",
+    "End": "2024-07-31T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.833276"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAAGIntAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Meet and Greet - Juri and Andrea",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 277 177 846 841 Passcode: Aqo9RA Dial in by phone +1 872-239-8243,,75728",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Juri Mansour": "required",
+      "Andrea Wicks Bowles": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-01T16:00:00.0000000",
+    "End": "2024-08-01T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.833316"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAAGInrAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Meet and Greet - Juri and Sarah",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 267 898 200 545 Passcode: DyeYsy Dial in by phone +1 872-239-8243,,79619",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Juri Mansour": "required",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-07-29T19:00:00.0000000",
+    "End": "2024-07-29T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.833353"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAAGInqAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Meet and Greet - Juri and Rebecca",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 285 418 426 978 Passcode: 5dAacz Dial in by phone +1 872-239-8243,,66523",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Rebecca Parrilla": "required",
+      "Juri Mansour": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-07-29T17:30:00.0000000",
+    "End": "2024-07-29T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.833388"
+  },
+  {
+    "Event ID": "AAMkADhkMDllM2JlLTVjMWYtNGZiYi04MTZjLTNlZmU5NmJjNGFiNwBGAAAAAAAfr_YmsVRLQb1Pz_4QpxslBwCqE7VVYJVVSKsT-Lq5G-TVAAAAAAENAACqE7VVYJVVSKsT-Lq5G-TVAAAAGIniAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Meet and Greet - Juri and Alisa",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 267 580 367 553 Passcode: SPFJvt Dial in by phone +1 872-239-8243,,27421",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Juri Mansour": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-07-25T15:15:00.0000000",
+    "End": "2024-07-25T15:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:21.833423"
+  }
+]

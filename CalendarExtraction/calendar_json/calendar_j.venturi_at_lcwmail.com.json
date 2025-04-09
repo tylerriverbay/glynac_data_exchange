@@ -1,0 +1,106 @@
+[
+  {
+    "Event ID": "AAMkAGFkODc4NTQyLTYyYTQtNGJkZC05MGExLTYwMWVhNzU1YmViYQBGAAAAAADSystAlcO7Qr9TBe1PvcL5BwDrMCXs_RiZTbSp-KxqAX7xAAAAAAENAADrMCXs_RiZTbSp-KxqAX7xAAALF0zkAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jorgelina Venturi",
+    "Title": "Block time ",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Jorgelina Venturi": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2025-02-24T15:30:00.0000000",
+    "End": "2025-02-24T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:02.573508"
+  },
+  {
+    "Event ID": "AAMkAGFkODc4NTQyLTYyYTQtNGJkZC05MGExLTYwMWVhNzU1YmViYQBGAAAAAADSystAlcO7Qr9TBe1PvcL5BwDrMCXs_RiZTbSp-KxqAX7xAAAAAAENAADrMCXs_RiZTbSp-KxqAX7xAAALF0zhAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Karen Lai",
+    "Title": "LCW Weekly Status Call",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 256 012 016 244 Passcode: bF2mV39w Dial in by phone +1 518-380-6343,,793",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Karen Lai": "required",
+      "Jorgelina Venturi": "required",
+      "Randi Mooney": "required",
+      "Brian Luong": "required",
+      "Don Reyes": "required",
+      "Kumud Mishra": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-06T18:00:00.0000000",
+    "End": "2025-03-06T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:02.573657"
+  },
+  {
+    "Event ID": "AAMkAGFkODc4NTQyLTYyYTQtNGJkZC05MGExLTYwMWVhNzU1YmViYQBGAAAAAADSystAlcO7Qr9TBe1PvcL5BwDrMCXs_RiZTbSp-KxqAX7xAAAAAAENAADrMCXs_RiZTbSp-KxqAX7xAAAFxTIgAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Catalina De Sanctis",
+    "Title": "LCW Lina Onboarding ",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 258 973 369 069 Passcode: 2QU2z5Vf Dial in by phone +1 872-239-8243,,541",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Catalina De Sanctis": "required",
+      "Jorgelina Venturi": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-02-24T12:00:00.0000000",
+    "End": "2025-02-24T13:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:02.573737"
+  },
+  {
+    "Event ID": "AAMkAGFkODc4NTQyLTYyYTQtNGJkZC05MGExLTYwMWVhNzU1YmViYQBGAAAAAADSystAlcO7Qr9TBe1PvcL5BwDrMCXs_RiZTbSp-KxqAX7xAAAAAAENAADrMCXs_RiZTbSp-KxqAX7xAAAFOjSuAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Randi Mooney",
+    "Title": "Diligent and LCW - Weekly Status Call",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 259 263 782 090 Passcode: Nz3HT9XC Dial in by phone +1 518-380-6343,,580",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Randi Mooney": "required",
+      "Catalina De Sanctis": "required",
+      "Jorgelina Venturi": "required",
+      "Don Reyes": "required",
+      "Karen Lai": "required",
+      "Kumud Mishra": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-02-18T16:00:00.0000000",
+    "End": "2025-02-18T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:02.573802"
+  },
+  {
+    "Event ID": "AAMkAGFkODc4NTQyLTYyYTQtNGJkZC05MGExLTYwMWVhNzU1YmViYQBGAAAAAADSystAlcO7Qr9TBe1PvcL5BwDrMCXs_RiZTbSp-KxqAX7xAAAAAAENAADrMCXs_RiZTbSp-KxqAX7xAAAC__BUAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Melody Maravillas",
+    "Title": "Translation Services for Grants",
+    "Description": "Melody Maravillas is inviting you to a scheduled Zoom meeting. Join Zoom Meeting https://us06web.zoom.us/j/86089212657?pwd=0IE9PyMFSZNaeFIwXoezNOKSUFbKaI.1 Meeting ID: 860 8921 2657 Passcode: 851162 --- One tap mobile +13126266799,,8608921265",
+    "Location": "https://url.us.m.mimecastprotect.com/s/oZrNCgJOq9FAykvUNf1T4Jy4L?domain=us06web.zoom.us",
+    "Attendees": {
+      "Melody Maravillas": "required",
+      "Catalina De Sanctis": "required",
+      "Jorgelina Venturi": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-02-19T18:00:00.0000000",
+    "End": "2025-02-19T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:02.573868"
+  },
+  {
+    "Event ID": "AAMkAGFkODc4NTQyLTYyYTQtNGJkZC05MGExLTYwMWVhNzU1YmViYQBGAAAAAADSystAlcO7Qr9TBe1PvcL5BwDrMCXs_RiZTbSp-KxqAX7xAAAAAAENAADrMCXs_RiZTbSp-KxqAX7xAAABA0VCAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "Nicole + Jorgelina 1:1",
+    "Description": "Let's set this 1:1 for a few weeks. We can adjust as needed. Thank you! Microsoft Teams Need help? Join the meeting now Meeting ID: 234 208 064 294 Passcode: zp9366Ht",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Jorgelina Venturi": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-02-21T14:30:00.0000000",
+    "End": "2025-02-21T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:02.573929"
+  }
+]

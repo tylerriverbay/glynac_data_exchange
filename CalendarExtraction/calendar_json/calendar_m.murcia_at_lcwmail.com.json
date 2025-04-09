@@ -1,0 +1,321 @@
+[
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AABq9p1FAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Michelle Murcia",
+    "Title": "LCW",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Michelle Murcia": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-07-25T15:30:00.0000000",
+    "End": "2023-07-25T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.305852"
+  },
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AABnZK1mAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Antonio Jones",
+    "Title": "CFF",
+    "Description": "FEEL FREE TO ADJUST THE TIME, I\u2019M FREE ALL AFTERNOON. Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID:",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Antonio Jones": "required",
+      "Michelle Murcia": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-07-25T15:30:00.0000000",
+    "End": "2023-07-25T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.305948"
+  },
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AABkTCXsAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Michelle Murcia",
+    "Title": "M + Toni",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 239 305 463 053 Passcode: ANPENQ Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Antonio Jones": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-07-17T18:30:00.0000000",
+    "End": "2023-07-17T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.306003"
+  },
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AABfvRKjAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Antonio Jones",
+    "Title": "AP Review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 270 685 189 961 Passcode: 49CymX Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Antonio Jones": "required",
+      "Michelle Murcia": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-07-13T19:15:00.0000000",
+    "End": "2023-07-13T21:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.306050"
+  },
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AABawCFVAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Billing Training",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 298 810 180 764 Passcode: SVNH43 Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Michelle Murcia": "required",
+      "Antonio Jones": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-07-06T19:00:00.0000000",
+    "End": "2023-07-06T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.306094"
+  },
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AABawCFUAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Accounting Inbox",
+    "Description": "Meet Michelle Murcia She will walk you through the categorization and filing of the accounting inbox. Microsoft Teams meeting Join on your computer, mobile app or room",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Antonio Jones": "required",
+      "Michelle Murcia": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-07-05T19:30:00.0000000",
+    "End": "2023-07-05T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.306138"
+  },
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AABLG-H3AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Michelle Murcia",
+    "Title": "Recap on Receivables",
+    "Description": "Any chance we can connect at this time to review process for receivables? Microsoft Teams meeting Join on your computer, mobile app or room device Click here to joi",
+    "Location": "Teams",
+    "Attendees": {
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-22T15:30:00.0000000",
+    "End": "2023-06-22T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.306178"
+  },
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AABLG-H2AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Andrea Wicks Bowles",
+    "Title": "L'Oreal Accounting",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 229 011 528 692 Passcode: QkshFB Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Andrea Wicks Bowles": "required",
+      "Michelle Murcia": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-08T18:00:00.0000000",
+    "End": "2023-06-08T18:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.306217"
+  },
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AABLG-H1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "Client Invoicing Accounting Questions",
+    "Description": "Accounting Office Hour A place where you can ask accounting your invoicing questions. Microsoft Teams meeting Join on your computer, mobile app or room device Click here",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "optional",
+      "Andrea Wicks Bowles": "required",
+      "Grace Vottero": "required",
+      "Emani Richmond": "required",
+      "Sarah Nodarse": "required",
+      "Jennifer Barbieri": "required",
+      "Michelle Murcia": "required",
+      "Randall Stieghorst": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-08T16:00:00.0000000",
+    "End": "2023-06-08T16:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.306257"
+  },
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AABJrW3LAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Reimbursement Policy",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 284 938 911 308 Passcode: p8BRCB Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Michelle Murcia": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-05T13:00:00.0000000",
+    "End": "2023-06-05T13:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.306296"
+  },
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AAA8Mj5NAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "Finance and Accounting",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 290 387 205 381 Passcode: TduRsn Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Michelle Murcia": "required",
+      "Jennifer Barbieri": "required",
+      "Randall Stieghorst": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-17T21:00:00.0000000",
+    "End": "2023-05-17T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.306336"
+  },
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AAA745m-AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "LCW Financials Discussion",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 275 659 763 669 Passcode: 96v7bB Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Michelle Murcia": "required",
+      "Jennifer Barbieri": "required",
+      "Randall Stieghorst": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-05-12T17:15:00.0000000",
+    "End": "2023-05-12T17:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.306375"
+  },
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AAA6WxDtAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Pamela Coulter",
+    "Title": "Hartford Form Completion via portal",
+    "Description": "Maria Here is the Zoom meeting for today at 2pm Eastern / 1pm Central https://us02web.zoom.us/j/89642780853 Pamela Coulter Accounting Email: p.coulter@lcwmail.com Mobile: +1.937.605.9970 www | Twitter | Facebook | LinkedIn",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Pamela Coulter": "required",
+      "Maria Mercado": "required",
+      "Michelle Murcia": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-05-09T18:00:00.0000000",
+    "End": "2023-05-09T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.306433"
+  },
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AAA5ho39AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Sarah Nodarse",
+    "Title": "BSC Invoice 22255-A",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 246 721 492 668 Passcode: PNtMDz Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Sarah Nodarse": "required",
+      "Michelle Murcia": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-08T20:30:00.0000000",
+    "End": "2023-05-08T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.306477"
+  },
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AAAl88aMAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Cash Forecast review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 258 768 754 022 Passcode: ohWUMZ Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Jennifer Barbieri": "required",
+      "Alisa Kolodizner": "required",
+      "Michelle Murcia": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-04-10T22:00:00.0000000",
+    "End": "2023-04-10T22:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.306516"
+  },
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AAActUuGAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Grace Vottero",
+    "Title": "Michelle-Grace connect",
+    "Description": "Hey Michelle! Just wanted to grab this time to talk through the Ralph Lauren account reset Microsoft Teams meeting Join on your computer, mobile app or room device Click",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Grace Vottero": "required",
+      "Michelle Murcia": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-29T15:15:00.0000000",
+    "End": "2023-03-29T15:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.306558"
+  },
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AAACtadpAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Grace Vottero",
+    "Title": "Michelle-Grace Ralph Lauren invoicing",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 213 467 921 624 Passcode: VXpKZm Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Grace Vottero": "required",
+      "Michelle Murcia": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-03T20:00:00.0000000",
+    "End": "2023-03-03T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.306614"
+  },
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AAACtadoAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "M+Alisa ",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 218 190 206 187 Passcode: 3QKVgp Download Teams |",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Michelle Murcia": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-03T19:00:00.0000000",
+    "End": "2023-03-03T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.306673"
+  },
+  {
+    "Event ID": "AAMkAGE5ODhlYzI1LTQ1OTItNGRmMi1iODc1LTRjZWVjNTQ4ODhjNQBGAAAAAAAppxYz5t6oQoh7M-8K6-f4BwC-hY9V5nR6SKtMg2sTJeS7AAAAAAENAAC-hY9V5nR6SKtMg2sTJeS7AAACtadmAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Month end close process",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 245 540 763 435 Passcode: cSz4Lw Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Jennifer Barbieri": "required",
+      "Michelle Murcia": "required",
+      "Pamela Coulter": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-01T16:00:00.0000000",
+    "End": "2023-03-01T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:06:22.306724"
+  }
+]

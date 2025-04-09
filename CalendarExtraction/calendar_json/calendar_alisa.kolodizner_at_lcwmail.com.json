@@ -1,0 +1,51 @@
+[
+  {
+    "Event ID": "AAMkADQ4ZWUzMDdjLTM1OGUtNDlmYi1iYThhLTgzZDM4MWYyZmYzZQBGAAAAAADZbj3Zm3yLRac0F4BV4MpgBwB6stxNB26ORJhGsDhFN8sGAAAAAAENAAB6stxNB26ORJhGsDhFN8sGAACgoC_JAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Shaun Pereira",
+    "Title": "Canceled: Alisa Kolodizner and Shaun Pereira",
+    "Description": "Need to make changes? * Reschedule: https://app.hubspot.com/meetings/shaun-pereira?rescheduleId=75c0e4a3c9593ec16065c67f7c10f0f3&ms=1 * Cancel: https://app.hubspot.com/meetings/shaun-pereira?cancelId=75c0e4a3c9593ec16065c67f7c10f0f3&ms=1",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Shaun Pereira": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-04-02T14:00:00.0000000",
+    "End": "2025-04-02T14:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:05.149107"
+  },
+  {
+    "Event ID": "AAMkADQ4ZWUzMDdjLTM1OGUtNDlmYi1iYThhLTgzZDM4MWYyZmYzZQBGAAAAAADZbj3Zm3yLRac0F4BV4MpgBwB6stxNB26ORJhGsDhFN8sGAAAAAAENAAB6stxNB26ORJhGsDhFN8sGAACdryAUAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Matt Liebman",
+    "Title": "Revenue.io Introduction",
+    "Description": "Revenue.io Introduction You have been invited by Matt Liebman to attend an event named Revenue.io Introduction on Wednesday Apr 2, 2025 \u22c5 2:30pm \u2013 3pm (Pacific Time - Los Angeles). This event has been updated Changed: time Join Zoom Meeting reven",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Matt Liebman": "required",
+      "Alisa Kolodizner": "required",
+      "daniel@byalsky.me": "required"
+    },
+    "Virtual": false,
+    "Start": "2025-04-02T21:30:00.0000000",
+    "End": "2025-04-02T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:05.149224"
+  },
+  {
+    "Event ID": "AAMkADQ4ZWUzMDdjLTM1OGUtNDlmYi1iYThhLTgzZDM4MWYyZmYzZQBGAAAAAADZbj3Zm3yLRac0F4BV4MpgBwB6stxNB26ORJhGsDhFN8sGAAAAAAENAAB6stxNB26ORJhGsDhFN8sGAACdryATAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Josh Entriken",
+    "Title": "Josh @ Outreach | Alisa @ LCW | Introductions",
+    "Description": "PARTICIPANTS Josh Entriken, Outreach Alisa Kolodizner, LCW AGENDA The purpose of this 30-minute meeting is to explore areas where Outreach\u2019s sales execution platform can add value at LCW. Here's our proposed agenda: 1. About You: Your sales tea",
+    "Location": "https://url.us.m.mimecastprotect.com/s/CoYECwpzNqIGMM3SVflUJIjrW?domain=outreach.zoom.us",
+    "Attendees": {
+      "Josh Entriken": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-31T20:30:00.0000000",
+    "End": "2025-03-31T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:05.149294"
+  }
+]

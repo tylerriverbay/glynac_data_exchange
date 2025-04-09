@@ -1,0 +1,296 @@
+[
+  {
+    "Event ID": "AAMkADYzNzBjZjg5LTY5OGItNDZlNS1hZDlhLTQzNWJkMTM5N2NjOABGAAAAAABPMNITJrUqQb-GDw8Wgb9YBwBwvTGcCkeYRIkGD4IdyxH4AAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABr1hiAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Tyler Stetson",
+    "Title": "Language & Culture Worldwide | Payroll Processing Call with Tyler Stetson",
+    "Description": "Language & Culture Worldwide | Payroll Processing Call with Tyler Stetson Event Name: IM Payroll Processing Call Description/Instructions: This call will be to process your first payroll with Rippling. On this call we will walk through the steps required",
+    "Location": "https://rippling.zoom.us/j/94558517643",
+    "Attendees": {
+      "Tyler Stetson": "required",
+      "Accounting": "required",
+      "Nicole Barile": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-04-09T15:00:00.0000000",
+    "End": "2025-04-09T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:58.448228"
+  },
+  {
+    "Event ID": "AAMkADYzNzBjZjg5LTY5OGItNDZlNS1hZDlhLTQzNWJkMTM5N2NjOABGAAAAAABPMNITJrUqQb-GDw8Wgb9YBwBwvTGcCkeYRIkGD4IdyxH4AAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABr1hjAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Tyler Stetson",
+    "Title": "Language & Culture Worldwide | Payroll Review Call with Tyler Stetson",
+    "Description": "Language & Culture Worldwide | Payroll Review Call with Tyler Stetson Event Name: IM Payroll Review Call Description/Instructions: This call will be to review the Payroll Setup. The below tasks are a required prerequisite to this call. If these items are",
+    "Location": "https://rippling.zoom.us/j/93456535070",
+    "Attendees": {
+      "Tyler Stetson": "required",
+      "Accounting": "required",
+      "Nicole Barile": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-27T19:00:00.0000000",
+    "End": "2025-03-27T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:58.448323"
+  },
+  {
+    "Event ID": "AAMkADYzNzBjZjg5LTY5OGItNDZlNS1hZDlhLTQzNWJkMTM5N2NjOABGAAAAAABPMNITJrUqQb-GDw8Wgb9YBwBwvTGcCkeYRIkGD4IdyxH4AAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABr1hhAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Tyler Stetson",
+    "Title": "Language & Culture Worldwide - Rippling Implementation",
+    "Description": "From: Tyler Stetson Sent: Tuesday, March 18, 2025 8:17:55 PM (UTC-05:00) Eastern Time (US & Canada) To: Tyler Stetson ; Nicole Barile Subject: Lan",
+    "Location": "https://rippling.zoom.us/j/92102800539",
+    "Attendees": {
+      "Tyler Stetson": "required",
+      "Accounting": "required",
+      "Nicole Barile": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-21T21:00:00.0000000",
+    "End": "2025-03-21T21:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:58.448509"
+  },
+  {
+    "Event ID": "AAMkADYzNzBjZjg5LTY5OGItNDZlNS1hZDlhLTQzNWJkMTM5N2NjOABGAAAAAABPMNITJrUqQb-GDw8Wgb9YBwBwvTGcCkeYRIkGD4IdyxH4AAAAAAENAABwvTGcCkeYRIkGD4IdyxH4AAI7sGbaAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Catalina De Sanctis",
+    "Title": "CDS Quickbooks - Draft 1099",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 214 574 842 347 Passcode: vr9Jz2MM Dial in by phone +1 872-239-8243,,260",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Catalina De Sanctis": "required",
+      "Accounting": "required",
+      "Sarah Gluckstein": "optional"
+    },
+    "Virtual": true,
+    "Start": "2025-01-23T17:30:00.0000000",
+    "End": "2025-01-23T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:58.448583"
+  },
+  {
+    "Event ID": "AAMkADYzNzBjZjg5LTY5OGItNDZlNS1hZDlhLTQzNWJkMTM5N2NjOABGAAAAAABPMNITJrUqQb-GDw8Wgb9YBwBwvTGcCkeYRIkGD4IdyxH4AAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABr1hfAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "Scoro-QB Integration",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 262 707 600 785 Passcode: co7ag2CG Dial in by phone +1 872-239-8243,,395",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Accounting": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-01-21T18:00:00.0000000",
+    "End": "2025-01-21T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:58.448651"
+  },
+  {
+    "Event ID": "AAMkADYzNzBjZjg5LTY5OGItNDZlNS1hZDlhLTQzNWJkMTM5N2NjOABGAAAAAABPMNITJrUqQb-GDw8Wgb9YBwBwvTGcCkeYRIkGD4IdyxH4AAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABr1heAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "One doc chat (cash flow, forecasts, prepaid)",
+    "Description": "Favor to ask... Can we work together please to get the below info in one place / one doc? * Cash Flow Report - things that have been invoiced compared to our expenses and working capital * Forecasted Revenue - work that has been agreed to",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Accounting": "required",
+      "Sarah Gluckstein": "optional"
+    },
+    "Virtual": true,
+    "Start": "2025-01-23T16:00:00.0000000",
+    "End": "2025-01-23T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:58.448721"
+  },
+  {
+    "Event ID": "AAMkADYzNzBjZjg5LTY5OGItNDZlNS1hZDlhLTQzNWJkMTM5N2NjOABGAAAAAABPMNITJrUqQb-GDw8Wgb9YBwBwvTGcCkeYRIkGD4IdyxH4AAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABr1hdAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Ryan Cox",
+    "Title": "Bill Spend & Expense Intro || Language & Culture Worldwide",
+    "Description": "Bill Spend & Expense Intro || Language & Culture Worldwide Sarah,We are looking forward to spending a bit more time with you to learn more about you and Language & Culture Worldwide. Here are the instructions for connecting to the meeting.How to Conn",
+    "Location": "https://billcom.zoom.us/j/2130295022?pwd=dUp1L1dJSFhVYzFoKzBZQUhtZU8ydz09",
+    "Attendees": {
+      "Ryan Cox": "required",
+      "Accounting": "required",
+      "Samson Hansgen": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-26T16:30:00.0000000",
+    "End": "2024-11-26T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:58.449620"
+  },
+  {
+    "Event ID": "AAMkADYzNzBjZjg5LTY5OGItNDZlNS1hZDlhLTQzNWJkMTM5N2NjOABGAAAAAABPMNITJrUqQb-GDw8Wgb9YBwBwvTGcCkeYRIkGD4IdyxH4AAAAAAENAABwvTGcCkeYRIkGD4IdyxH4AAIQ17K2AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Rebecca Parrilla",
+    "Title": "Converting BSC invoice 24284 to a prepayment",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 233 474 236 455 Passcode: AP7Cz6aJ Dial in by phone +1 872-239-8243,,463",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Rebecca Parrilla": "required",
+      "Accounting": "required",
+      "Sarah Gluckstein": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-11-20T18:30:00.0000000",
+    "End": "2024-11-20T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:58.449695"
+  },
+  {
+    "Event ID": "AAMkADYzNzBjZjg5LTY5OGItNDZlNS1hZDlhLTQzNWJkMTM5N2NjOABGAAAAAABPMNITJrUqQb-GDw8Wgb9YBwBwvTGcCkeYRIkGD4IdyxH4AAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABr1hcAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Catalina De Sanctis",
+    "Title": "MITER / PGTI Translation Project Invoicing",
+    "Description": "Hello, Im sorry I got emergency need to reschedule. Please let me know if this works ok. CDS Microsoft Teams Need help? Join the meeting now Meeting ID: 220 405 753 627",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Catalina De Sanctis": "required",
+      "Accounting": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-10-30T15:00:00.0000000",
+    "End": "2024-10-30T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:58.449772"
+  },
+  {
+    "Event ID": "AAMkADYzNzBjZjg5LTY5OGItNDZlNS1hZDlhLTQzNWJkMTM5N2NjOABGAAAAAABPMNITJrUqQb-GDw8Wgb9YBwBwvTGcCkeYRIkGD4IdyxH4AAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABr1haAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Patricia Coleman",
+    "Title": "PC CLIENTS INVOICES",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 256 652 593 663 Passcode: uamZWn Dial in by phone +1 872-239-8243,,9",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Patricia Coleman": "required",
+      "Accounting": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-08-26T15:00:00.0000000",
+    "End": "2024-08-26T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:58.449846"
+  },
+  {
+    "Event ID": "AAMkADYzNzBjZjg5LTY5OGItNDZlNS1hZDlhLTQzNWJkMTM5N2NjOABGAAAAAABPMNITJrUqQb-GDw8Wgb9YBwBwvTGcCkeYRIkGD4IdyxH4AAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABr1hZAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Steven Lombardo",
+    "Title": "LCW Conversation",
+    "Description": "",
+    "Location": "Zoom to Follow",
+    "Attendees": {
+      "Steven Lombardo": "required",
+      "Accounting": "required",
+      "Alisa Kolodizner": "optional"
+    },
+    "Virtual": false,
+    "Start": "2024-05-24T17:30:00.0000000",
+    "End": "2024-05-24T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:58.449895"
+  },
+  {
+    "Event ID": "AAMkADYzNzBjZjg5LTY5OGItNDZlNS1hZDlhLTQzNWJkMTM5N2NjOABGAAAAAABPMNITJrUqQb-GDw8Wgb9YBwBwvTGcCkeYRIkGD4IdyxH4AAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABr1hVAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Juliette Umana",
+    "Title": "REQUEST FROM TERADYNE INC TO CONFIRM SUPPLIER INFORMATION",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 251 882 258 56 Passcode: B34cfi Join on a video conferencing device",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Juliette Umana": "required",
+      "Accounting": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-05-08T16:00:00.0000000",
+    "End": "2024-05-08T16:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:58.449955"
+  },
+  {
+    "Event ID": "AAMkADYzNzBjZjg5LTY5OGItNDZlNS1hZDlhLTQzNWJkMTM5N2NjOABGAAAAAABPMNITJrUqQb-GDw8Wgb9YBwBwvTGcCkeYRIkGD4IdyxH4AAAAAAENAAAhL0MhR-gmTosy_ToLwGuLAAABr1hTAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Holmes, Gerald",
+    "Title": "Cordelia - 2024 Prep...",
+    "Description": "-----Original Appointment----- From: Holmes, Gerald Sent: Friday, March 15, 2024 9:10 AM To: Holmes, Gerald; Schneider, Jill; Alisa Kolodizner Subject: Cordelia - 2024 Prep... When: Friday, March 22, 2024 2:30 PM-3",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Holmes, Gerald": "required",
+      "Sarah Gluckstein": "required",
+      "Accounting": "required",
+      "Schneider, Jill": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2024-03-22T18:30:00.0000000",
+    "End": "2024-03-22T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:58.450055"
+  },
+  {
+    "Event ID": "AAMkADYzNzBjZjg5LTY5OGItNDZlNS1hZDlhLTQzNWJkMTM5N2NjOABGAAAAAABPMNITJrUqQb-GDw8Wgb9YBwBwvTGcCkeYRIkGD4IdyxH4AAAAAAENAABtVw9PUChbTYfEtl4_WuDhAAZWLvd3AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "SOWs in Compass Bi-Weekly Check",
+    "Description": "These meetings will be recorded for Toni to review. At this meeting we will go through the SOWs reflected in Compass to make sure numbers are accurate for forecasts. Mic",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Tamara Thorpe": "required",
+      "Andrea Wicks Bowles": "required",
+      "Briza Cardenas": "required",
+      "Sarah Nodarse": "required",
+      "Antonio Jones": "optional"
+    },
+    "Virtual": true,
+    "Start": "2024-02-14T17:00:00.0000000",
+    "End": "2024-02-14T17:40:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:58.450119"
+  },
+  {
+    "Event ID": "AAMkADYzNzBjZjg5LTY5OGItNDZlNS1hZDlhLTQzNWJkMTM5N2NjOABGAAAAAABPMNITJrUqQb-GDw8Wgb9YBwBwvTGcCkeYRIkGD4IdyxH4AAAAAAENAABwvTGcCkeYRIkGD4IdyxH4AACOdi7SAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Accounting and Compass Processes",
+    "Description": "In this meeting we will go over common consultant processes to fill in any gaps there are in how Compass is used, how QBO captures that data, and what changes might be necessary to ensure accuracy across systems.",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Daniel Gough": "required",
+      "Tamara Thorpe": "required",
+      "Sarah Nodarse": "required",
+      "Jennifer Barbieri": "required",
+      "Kendall Washington": "required",
+      "Accounting": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-04-19T19:30:00.0000000",
+    "End": "2023-04-19T20:10:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:58.450186"
+  },
+  {
+    "Event ID": "AAMkADYzNzBjZjg5LTY5OGItNDZlNS1hZDlhLTQzNWJkMTM5N2NjOABGAAAAAABPMNITJrUqQb-GDw8Wgb9YBwBwvTGcCkeYRIkGD4IdyxH4AAAAAAENAABwvTGcCkeYRIkGD4IdyxH4AAAB4TiFAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "LCW Fall Best Fest",
+    "Description": "Join us on Tuesday, November 1st at 12pm CST to celebrate fall festivities all over the world! Bring your lunch, dress your background or yourself in fall themes (if you\u2019d like) and get ready to Kahoot! Placing this on our calendars now. I\u2019ll update w",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Office": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-01T17:00:00.0000000",
+    "End": "2022-11-01T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:58.450276"
+  },
+  {
+    "Event ID": "AAMkADYzNzBjZjg5LTY5OGItNDZlNS1hZDlhLTQzNWJkMTM5N2NjOABGAAAAAABPMNITJrUqQb-GDw8Wgb9YBwBwvTGcCkeYRIkGD4IdyxH4AAAAAAENAABwvTGcCkeYRIkGD4IdyxH4AAAB4TiEAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "Alsu training continued",
+    "Description": "",
+    "Location": "MIcrosoft Teams",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Alsu Schondelmayer": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-09-15T13:00:00.0000000",
+    "End": "2022-09-15T14:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:08:58.450325"
+  }
+]

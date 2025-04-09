@@ -1,0 +1,2952 @@
+[
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAADhk_QUAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Catch up",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 286 272 243 543 Passcode: DMtwDZ Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-08-22T19:00:00.0000000",
+    "End": "2023-08-22T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.684689"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAADZY0V8AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alan Samsky",
+    "Title": "LCW - 13-Week Projections",
+    "Description": "Review and discuss the \u2013 13-week cash flow projections 3- Month P&L 3-Month Free Cash Flow 3-Month Statement of Cash Flow Microsoft Teams meeting Join on your computer",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alan Samsky": "required",
+      "Antonio Jones": "required",
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Jennifer Barbieri": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-08-09T13:00:00.0000000",
+    "End": "2023-08-09T13:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.684836"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAADZY0V7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alan Samsky",
+    "Title": "LCW Projections",
+    "Description": "-----Original Appointment----- From: Alan Samsky Sent: Friday, August 4, 2023 1:44 PM To: Alan Samsky; Alisa Kolodizner; Chuck Adams; Antonio Jones Subject: LCW Projections When: Monday, August 7, 2023 4:00 PM-5:30 PM (U",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alan Samsky": "required",
+      "Jennifer Barbieri": "required",
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Antonio Jones": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-08-07T21:00:00.0000000",
+    "End": "2023-08-07T22:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.684990"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkqAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "July Review and Projections",
+    "Description": "Discussion around Deb\u2019s role. Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 245 784 546 217 Passc",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Antonio Jones": "required",
+      "Chuck Adams": "required",
+      "Randall Stieghorst": "required",
+      "Jennifer Barbieri": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-08-02T16:00:00.0000000",
+    "End": "2023-08-02T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685093"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkpAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alan Samsky",
+    "Title": "LCW Projections",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 255 773 381 787 Passcode: nMSsMb Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alan Samsky": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-07-24T19:00:00.0000000",
+    "End": "2023-07-24T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685181"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAADKzOwNAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alan Samsky",
+    "Title": "LCW - Information for Financial Projections",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 293 389 668 715 Passcode: kBVZ7F Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alan Samsky": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-07-18T16:15:00.0000000",
+    "End": "2023-07-18T17:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685255"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAADJOye7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Weekly XLT Meeting",
+    "Description": "Focus: Strategic direction of the firm Microsoft Teams meeting Join on your computer or mobile app Click here to join the meeting Or call in (audio only) +1 872-239-8",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Kelly Salek": "required",
+      "Rebecca Parrilla": "required",
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Maria Mercado": "required",
+      "Jennifer Barbieri": "optional"
+    },
+    "Virtual": true,
+    "Start": "2022-07-12T18:00:00.0000000",
+    "End": "2022-07-12T18:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685297"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAC8L7VSAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "michelle@bookandstreet.com",
+    "Title": "M + Alisa + Chuck",
+    "Description": "M + Alisa + Chuck You have been invited by michelle@bookandstreet.com to attend an event named M + Alisa + Chuck on Friday Jun 30, 2023 \u22c5 11am \u2013 12pm (Eastern Time - New York). When Friday Jun 30, 2023 \u22c5 11am \u2013 12pm (Eastern Time - New York) Organiz",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "michelle@bookandstreet.com": "required",
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Jennifer Barbieri": "optional"
+    },
+    "Virtual": false,
+    "Start": "2023-06-30T15:00:00.0000000",
+    "End": "2023-06-30T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685351"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACxo-JTAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Grace Vottero",
+    "Title": "Jennifer & Grace",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 270 446 529 418 Passcode: gQCDGw Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Grace Vottero": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-08T17:00:00.0000000",
+    "End": "2023-06-08T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685390"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACvbDakAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Pedro Henriquez-Controller Interview",
+    "Description": "Event Name: Controller Interviews Name Pronunciation: PEDRO Need to make changes to this event? Cancel: https://calendly.com/cancellations/9781fcea-0390-476e-b1c4-367c734fcdb8 Reschedule: https://calendly.com/reschedulings/9781fcea-0390-476e-b1c4-",
+    "Location": "https://calendly.com/events/df57a73d-6b13-4805-8bbf-35f195d861c9/microsoft_teams",
+    "Attendees": {
+      "Maria Mercado": "required",
+      "Pedro Henriquez": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required",
+      "Beth Sabin": "required",
+      "Randall Stieghorst": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-12T22:00:00.0000000",
+    "End": "2023-06-12T23:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685434"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACvbDajAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Maria Mercado",
+    "Title": "Antonio Jones-Controller Interview",
+    "Description": "Event Name: Controller Interviews Need to make changes to this event? Cancel: https://calendly.com/cancellations/098c7c27-b22b-4997-86d4-205eef282881 Reschedule: https://calendly.com/reschedulings/098c7c27-b22b-4997-86d4-205eef282881 Powered by Ca",
+    "Location": "https://calendly.com/events/75529d70-2374-4820-96ed-c8ccef8aae22/microsoft_teams",
+    "Attendees": {
+      "Maria Mercado": "required",
+      "Antonio Jones": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required",
+      "Beth Sabin": "required",
+      "Randall Stieghorst": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-12T21:00:00.0000000",
+    "End": "2023-06-12T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685480"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACvbDahAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "Client Invoicing Accounting Questions",
+    "Description": "Accounting Office Hour A place where you can ask accounting your invoicing questions. Microsoft Teams meeting Join on your computer, mobile app or room device Click here",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "optional",
+      "Andrea Wicks Bowles": "required",
+      "Grace Vottero": "required",
+      "Emani Richmond": "required",
+      "Sarah Nodarse": "required",
+      "Jennifer Barbieri": "required",
+      "Michelle Murcia": "required",
+      "Randall Stieghorst": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-08T16:00:00.0000000",
+    "End": "2023-06-08T16:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685523"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACvbDafAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "Follow up on CF",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 253 021 650 548 Passcode: ai3CaN Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Randall Stieghorst": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-09T14:00:00.0000000",
+    "End": "2023-06-09T14:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685564"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACsSGc9AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Follow up  - CF",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 270 939 214 928 Passcode: 6mtkZX Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Randall Stieghorst": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-06-05T14:00:00.0000000",
+    "End": "2023-06-05T14:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685603"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACqmshGAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "2023 Forecast Review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 285 872 850 575 Passcode: A6StDu Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Randall Stieghorst": "required",
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-31T13:00:00.0000000",
+    "End": "2023-05-31T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685640"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACnmfSyAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Review of LCW Request List etc",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 212 685 635 78 Passcode: jkGYtZ Download Teams",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Steven Lombardo": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-24T19:00:00.0000000",
+    "End": "2023-05-24T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685678"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvklAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "Board Meeting to Address Covenant",
+    "Description": "Friday; 1. Talk to Sellers (Alisa) 2. What will bank do (Alisa) 3. Sensitivity of restructuring debt (Jennifer) 4. Expenses GO/NO GO (Chuck) Microso",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "sabin.beth@gmail.com": "required",
+      "Adam@forgood.io": "required",
+      "Dani.Fava@envestnet.com": "required",
+      "Jennifer Barbieri": "required",
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-29T13:00:00.0000000",
+    "End": "2023-05-29T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685719"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkkAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Java Love COGS",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-05-26T23:00:00.0000000",
+    "End": "2023-05-26T23:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685750"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACjH1ANAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "comp review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 216 980 968 105 Passcode: FMcGtb Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-18T21:15:00.0000000",
+    "End": "2023-05-18T21:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685787"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACjH1AMAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "Cordelia Capital Board Meeting",
+    "Description": "This meeting is regarding the bank and covenant test. Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID:",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required",
+      "Chuck Adams": "optional",
+      "sabin.beth@gmail.com": "required",
+      "Adam@forgood.io": "required",
+      "Dani.Fava@envestnet.com": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-21T12:30:00.0000000",
+    "End": "2023-05-21T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685829"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACjH1ALAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Travel Reimbursement Review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 290 401 504 10 Passcode: 6NGUNx Download Teams",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-22T13:30:00.0000000",
+    "End": "2023-05-22T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685867"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACfxLchAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "Employee stock incentive plan finalization",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 235 447 120 204 Passcode: 5BwN2k Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Thomas Bondi <tom.bondi@tcbondicpa.com>": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-18T20:30:00.0000000",
+    "End": "2023-05-18T21:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685904"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACfxLcgAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "Financials Update",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 295 129 791 068 Passcode: zrEcEZ Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Melissa Neu": "required",
+      "Jake Pieczynski": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-12T19:45:00.0000000",
+    "End": "2023-05-12T20:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685942"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACfxLcfAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "Finance and Accounting",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 290 387 205 381 Passcode: TduRsn Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Michelle Murcia": "required",
+      "Jennifer Barbieri": "required",
+      "Randall Stieghorst": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-17T21:00:00.0000000",
+    "End": "2023-05-17T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.685980"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACeURdLAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "LCW Financials Discussion",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 275 659 763 669 Passcode: 96v7bB Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required",
+      "Chuck Adams": "required",
+      "Michelle Murcia": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-12T17:15:00.0000000",
+    "End": "2023-05-12T17:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.686018"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkjAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Daniel Gough",
+    "Title": "Jennifer<>Dan Connect Product categories",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 266 066 558 488 Passcode: Mu3d2o Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Daniel Gough": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-10T16:00:00.0000000",
+    "End": "2023-05-10T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.686054"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACdFo12AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "michelle@bookandstreet.com",
+    "Title": "M + Alisa Weekly Meetup",
+    "Description": "Alisa Kolodizner Co-CEO and Managing Partner, LCW Email: a.kolodizner@lcwmail.com Office: +1.773.888.9355 [CDT] Mobile: +1.773.430.3534 www | Twitter | Facebook | LinkedIn To inspire kindness, deepen understanding, and f",
+    "Location": "https://us02web.zoom.us/j/83909490630",
+    "Attendees": {
+      "michelle@bookandstreet.com": "required",
+      "Jennifer Barbieri": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-09T20:00:00.0000000",
+    "End": "2023-05-09T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.686092"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACdFo11AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Quick Catch up on Q2 projections",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 286 151 884 113 Passcode: jqUhqE Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-08T15:00:00.0000000",
+    "End": "2023-05-08T15:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.686129"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACZs9ADAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Karalis, Nicholas",
+    "Title": "LCW/Wintrust",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 211 102 433 715 Passcode: qnHniv Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Karalis, Nicholas": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-08T21:15:00.0000000",
+    "End": "2023-05-08T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.686166"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACZs9ACAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Revisit Company Goals",
+    "Description": "2023 Company Goals * (deepen client relationships) Increase sales revenue by 40% YoY \u2013 total revenue of 8.8 million * (drive new sales) Record 10% of revenues related to new products * (support recurring revenue streams) Decrease our chur",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Jennifer Barbieri": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-09T17:00:00.0000000",
+    "End": "2023-05-09T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.686219"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACYe2HIAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance update",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 253 006 543 885 Passcode: 8oTTic Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-02T13:15:00.0000000",
+    "End": "2023-05-02T13:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.686266"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACYe2HHAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance catch up",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 221 866 352 885 Passcode: ZoYhaN Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-03T13:00:00.0000000",
+    "End": "2023-05-03T13:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.686303"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACTqIqMAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "michelle@bookandstreet.com",
+    "Title": "LCW",
+    "Description": "LCW You have been invited by michelle@bookandstreet.com to attend an event named LCW on Thursday Apr 27, 2023 \u22c5 6pm \u2013 6:30pm (Eastern Time - New York). This event has been updated Changed: time When CHANGED Thursday Apr 27, 2023 \u22c5 6pm \u2013 6:30pm (",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "michelle@bookandstreet.com": "required",
+      "Jennifer Barbieri": "required",
+      "Pamela Coulter": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-04-27T22:00:00.0000000",
+    "End": "2023-04-27T22:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.686355"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACMeYE9AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Thomas Bondi",
+    "Title": "11:00am PST/ 1pm CT/2pm ET Zoom Meeting w/Alisa & Jennifer re Equity Comp plan for LCW (time pending approval from Alisa and Jennifer)",
+    "Description": "Tom Bondi is inviting you to a scheduled Zoom meeting. Join Zoom Meeting https://zoom.us/j/94119805267?pwd=clliYlFYakdvVzBYNnZtVWVVSkg4dz09 Meeting ID: 941 1980 5267 Passcode: 349905 One tap mobile +16469313860,,94119805267#,,,,*349905# US +166",
+    "Location": "https://zoom.us/j/94119805267?pwd=clliYlFYakdvVzBYNnZtVWVVSkg4dz09",
+    "Attendees": {
+      "Thomas Bondi": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-01T18:00:00.0000000",
+    "End": "2023-05-01T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.686393"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACMeYE8AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Melissa Neu",
+    "Title": "Weekly Business Development Team Meeting",
+    "Description": "We will have special guests, Jennifer Barbieri, and Alisa Kolodizner, on 4/28. The commission structure will be shared with the team. Kind regards, Melissa Microsoft",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Melissa Neu": "required",
+      "Pedro Seminario": "required",
+      "Hannah Strack": "required",
+      "Jennifer Barbieri": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-04-28T14:15:00.0000000",
+    "End": "2023-04-28T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.686433"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACIxZIKAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Weekly LT Meeting",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 261 138 199 167 Passcode: PUZ3E2 Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Jennifer Barbieri": "required",
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Tamara Thorpe": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Nodarse": "required",
+      "Daniel Gough": "required",
+      "Kelly Salek": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-10T15:00:00.0000000",
+    "End": "2023-05-10T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.686472"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACIxZIJAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Weekly LT Meeting",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 214 305 632 218 Passcode: uWvsDH Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Jennifer Barbieri": "required",
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Sarah Nodarse": "required",
+      "Daniel Gough": "required",
+      "Rebecca Parrilla": "required",
+      "Kelly Salek": "required",
+      "Tamara Thorpe": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-05-02T19:00:00.0000000",
+    "End": "2023-05-02T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.686513"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACIxZIHAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Holmes, Gerald",
+    "Title": "2022 - Cordelia Extension.... ",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 228 736 663 287 Passcode: LJGWJQ Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Holmes, Gerald": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required",
+      "Schneider, Jill": "required",
+      "Michelle Murcia": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-04-12T13:40:00.0000000",
+    "End": "2023-04-12T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.686558"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACIxZIGAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Commission Review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 210 284 061 626 Passcode: U9YM6N Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-04-11T20:45:00.0000000",
+    "End": "2023-04-11T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.686642"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACIxZIFAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Cash Forecast review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 258 768 754 022 Passcode: ohWUMZ Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Michelle Murcia": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-04-10T22:00:00.0000000",
+    "End": "2023-04-10T22:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687085"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACFKseRAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Quick Review of Commissions",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 215 315 242 501 Passcode: MiP7wh Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Melissa Neu": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-04-05T16:45:00.0000000",
+    "End": "2023-04-05T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687132"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkhAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Holmes, Gerald",
+    "Title": "Cordelia - Extension",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 275 189 769 530 Passcode: ZnpNgd Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Holmes, Gerald": "required",
+      "Jennifer Barbieri": "required",
+      "Schneider, Jill": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-04-04T20:30:00.0000000",
+    "End": "2023-04-04T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687172"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACFKsePAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Commission Review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 279 747 037 881 Passcode: iphand Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Melissa Neu": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-04-04T15:30:00.0000000",
+    "End": "2023-04-04T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687210"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAACFKseOAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Commission Review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 252 543 899 141 Passcode: 8mupJt Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-04-03T18:30:00.0000000",
+    "End": "2023-04-03T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687246"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAB8ePUhAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Cash Flow review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 211 792 956 662 Passcode: xPTgbB Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-30T19:00:00.0000000",
+    "End": "2023-03-30T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687281"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAB8ePUgAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Commission review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 263 961 410 184 Passcode: V4jRyN Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-27T18:00:00.0000000",
+    "End": "2023-03-27T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687316"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAB8ePUfAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Happy 1-Year to the new LCW!",
+    "Description": "Happy 1-Year to the new LCW! Join us for some reflections of the past year and introducing our NEW quarterly chit chat series where we can gather to talk about Anything! We\u2019ll open the time with words from Chuck & Alisa, follow-up with reflections/high",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Office": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-31T16:00:00.0000000",
+    "End": "2023-03-31T16:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687374"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAB8ePUeAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Sector Categories Review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 252 827 154 98 Passcode: xtjNuV Download Teams",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Daniel Gough": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-20T17:30:00.0000000",
+    "End": "2023-03-20T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687412"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAB8ePUdAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Review sector categories",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 288 069 022 308 Passcode: cQdX8E Download Team",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-20T13:30:00.0000000",
+    "End": "2023-03-20T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687447"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAByh4cMAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Karalis, Nicholas",
+    "Title": "LCW/Wintrust",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 221 536 314 019 Passcode: iwAv3d Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Karalis, Nicholas": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required",
+      "Shin, Crystal": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-20T15:00:00.0000000",
+    "End": "2023-03-20T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687483"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAByh4cKAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Virtual Offsite",
+    "Description": "-----Original Appointment----- From: Briza Cardenas Sent: Tuesday, March 14, 2023 8:41 PM To: Briza Cardenas; Maria Mercado; Melissa Neu; Chuck Adams Cc: Alisa Kolodizner; Jake Pieczynski Subject: Virtual Offsite When: O",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Alisa Kolodizner": "optional",
+      "Jake Pieczynski": "optional",
+      "Maria Mercado": "required",
+      "Melissa Neu": "required",
+      "Chuck Adams": "required",
+      "Jennifer Barbieri": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-03-15T14:00:00.0000000",
+    "End": "2023-03-15T21:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687553"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAByh4cIAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Phillip Acevedo",
+    "Title": "Cordelia -- Updated Options Award Agreements",
+    "Description": "From: Alisa Kolodizner Sent: Thursday, March 9, 2023 11:27 PM To: Thomas Bondi Cc: Phillip Acevedo ; Jennifer Barbieri <",
+    "Location": "https://us06web.zoom.us/j/89949095731?pwd=TFVNSWJvdWFKOUJONElRNnBSQTlVZz09&from=addon",
+    "Attendees": {
+      "Phillip Acevedo": "required",
+      "Thomas Bondi": "required",
+      "Alisa Kolodizner": "optional",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-14T18:00:00.0000000",
+    "End": "2023-03-14T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687647"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAByh4cHAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Placeholder for Wintrust request discussion",
+    "Description": "Hi Alisa - I'll send the files later today (3/9) for review prior to this call Microsoft Teams meeting Join on your computer, mobile app or room device Click here t",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-10T15:30:00.0000000",
+    "End": "2023-03-10T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687686"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAByh4cGAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Tax Discussion",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 243 406 569 210 Passcode: cHw6Hv Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "pschimmel@hmscpatax.com": "required",
+      "Alisa Kolodizner": "required",
+      "Peter Schimmel": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-03-10T20:00:00.0000000",
+    "End": "2023-03-10T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687725"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAByh4cEAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Conference",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Jennifer Barbieri": "Organizer"
+    },
+    "Virtual": false,
+    "Start": "2023-03-06T00:00:00.0000000",
+    "End": "2023-03-08T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687753"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYfOAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "LCW//HMS Intro",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 255 298 659 01 Passcode: iGCyoC Download Teams",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "slombardo@hmscpatax.com": "required",
+      "pschimmel@hmscpatax.com": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-08T20:00:00.0000000",
+    "End": "2023-03-08T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687794"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYfNAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "BD Role discussion",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 298 508 851 553 Passcode: dFrUTj Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-03T21:30:00.0000000",
+    "End": "2023-03-03T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687830"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYfMAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Kendall Washington",
+    "Title": "(Live Stream) Embracing Equity: Reflections from Two Women Business Owners",
+    "Description": "Please join us as your schedule allows for this conversation on International Women's Day. Consider inviting your clients, colleagues, and LinkedIn connections using the link below and the \"invite\" button. Watch live on LinkedIn: https://www.linkedi",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Kendall Washington": "required",
+      "Alisa Kolodizner": "required",
+      "Andrea Wicks Bowles": "required",
+      "Briza Cardenas": "required",
+      "Melissa Neu": "required",
+      "Chuck Adams": "required",
+      "Conner Williams": "required",
+      "Daniel Gough": "required",
+      "Dustin Puehler": "required",
+      "Emani Richmond": "required",
+      "Grace Vottero": "required",
+      "Hannah Strack": "required",
+      "Jake Pieczynski": "required",
+      "Jeffrey Cookson": "required",
+      "Jennifer Barbieri": "required",
+      "Kaitlin Nonweiler": "required",
+      "Kelly Salek": "required",
+      "Larry Baker": "required",
+      "Maria Fagrelius": "required",
+      "Maya Benoit": "required",
+      "Michelle Murcia": "required",
+      "Nassise Geleta": "required",
+      "Pamela Coulter": "required",
+      "Randall Stieghorst": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Nodarse": "required",
+      "Tamara Thorpe": "required",
+      "Vince Bongiovanni": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-03-08T17:00:00.0000000",
+    "End": "2023-03-08T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687886"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYfJAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Kendall Washington",
+    "Title": "(Join using link in description) Learning with LCW: Confidently Using LGBTQ+ Language Related to Gender Identity",
+    "Description": "Hi there, As your schedules allow, please support Jeffrey and Rebecca by planning to attend this LCW webinar. You are invited to a Zoom meeting. When: Mar 23, 2023 12:00 PM Central Time (US and Canada) Register in advance for this meeting: http",
+    "Location": "https://languageandculture.zoom.us/j/84372473114?pwd=RmJGM2tCWHdtbVJDR1RxRUJXdmNidz09, JC host, RP alt",
+    "Attendees": {
+      "Kendall Washington": "required",
+      "Alisa Kolodizner": "required",
+      "Andrea Wicks Bowles": "required",
+      "Briza Cardenas": "required",
+      "Melissa Neu": "required",
+      "Chuck Adams": "required",
+      "Conner Williams": "required",
+      "Daniel Gough": "required",
+      "Dustin Puehler": "required",
+      "Emani Richmond": "required",
+      "Grace Vottero": "required",
+      "Hannah Strack": "required",
+      "Jake Pieczynski": "required",
+      "Jeffrey Cookson": "required",
+      "Jennifer Barbieri": "required",
+      "Kaitlin Nonweiler": "required",
+      "Kelly Salek": "required",
+      "Larry Baker": "required",
+      "Maria Fagrelius": "required",
+      "Maya Benoit": "required",
+      "Nassise Geleta": "required",
+      "Nicole Barile": "required",
+      "Randall Stieghorst": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Nodarse": "required",
+      "Tamara Thorpe": "required",
+      "Vince Bongiovanni": "required",
+      "Ashton Vicente": "optional",
+      "Deb Munster": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-03-23T17:00:00.0000000",
+    "End": "2023-03-23T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687940"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYfIAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Month end close process",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 245 540 763 435 Passcode: cSz4Lw Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Michelle Murcia": "required",
+      "Pamela Coulter": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-01T16:00:00.0000000",
+    "End": "2023-03-01T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.687975"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYfHAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "BD structure",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 289 658 068 121 Passcode: DRabnJ Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-02T17:00:00.0000000",
+    "End": "2023-03-02T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688010"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYfGAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "LCW//CLA introduction",
+    "Description": "Hi Kevin - I just realized I did not send this invitation out yesterday. Please let me know if this is still a good time to connect. Jennifer Microsoft Teams mee",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Kevin.C.Cooke@claconnect.com": "required",
+      "Tim.Irvin@claconnect.com": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-28T14:30:00.0000000",
+    "End": "2023-02-28T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688048"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYfFAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Andrea Wicks Bowles",
+    "Title": "Hold  LCW Welcome Maria",
+    "Description": "Tentative Plan: the goal is to get a meeting room at Regus on Valley Road in Montclair. We can meet \u201cwork\u201d, and then head out for an early dinner.",
+    "Location": "Regus Meeting Space Montclair",
+    "Attendees": {
+      "Andrea Wicks Bowles": "required",
+      "Maria Mercado": "required",
+      "Jennifer Barbieri": "required",
+      "Grace Vottero": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-03-22T20:00:00.0000000",
+    "End": "2023-03-23T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688097"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYfEAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Commission Structure Review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 227 596 005 315 Passcode: Q7aTHE Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-24T14:00:00.0000000",
+    "End": "2023-02-24T14:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688133"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYfDAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Kasia H. Kaufman",
+    "Title": "LCW/FGMK Intro Call",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 246 302 292 956 Passcode: t886P6 Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Kasia H. Kaufman": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-24T18:00:00.0000000",
+    "End": "2023-02-24T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688170"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYfBAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "PPF review part II",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 241 603 155 29 Passcode: xyYpiX Download Teams",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Pamela Coulter": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-22T15:00:00.0000000",
+    "End": "2023-02-22T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688206"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYfAAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Financial review introduction - Marcum // LCW",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 292 049 744 939 Passcode: ZHcdcQ Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Jenny.Deloy@marcumllp.com": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-22T21:00:00.0000000",
+    "End": "2023-02-22T21:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688247"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYe_AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "Department Goals/Offsite prep",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 262 029 416 678 Passcode: HXpPvZ Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-23T20:30:00.0000000",
+    "End": "2023-02-23T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688285"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYe9AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Schneider, Jill",
+    "Title": "Proposal for review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 258 012 182 33 Passcode: eKLzWi Download Teams",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Schneider, Jill": "required",
+      "Hess, Harold": "required",
+      "tom.bondi@tcbondicpa.com": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-17T20:00:00.0000000",
+    "End": "2023-02-17T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688322"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYe7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Pamela Coulter",
+    "Title": "Review accounting email w Pam",
+    "Description": "Books Street is inviting you to a scheduled Zoom meeting. Topic: LCW Accounting Email Review Time: Feb 17, 2023 10:00 AM Eastern Time (US and Canada) Join Zoom Meeting https://us02web.zoom.us/j/85455762544 Meeting ID: 854 5576 2544",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Pamela Coulter": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-17T15:00:00.0000000",
+    "End": "2023-02-17T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688370"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYe6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Canceled: Quarterly Company & Department Goals Conversation",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 258 421 183 331 Passcode: 6MCSsN Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-04-10T15:00:00.0000000",
+    "End": "2023-04-10T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688410"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYe5AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Phillip Acevedo",
+    "Title": "Cordelia -- Plan Discussion (Continued)",
+    "Description": "Phillip Acevedo is inviting you to a scheduled Zoom meeting. Join Zoom Meeting https://us06web.zoom.us/j/89561510142?pwd=Q0haVXdmVTBVY21mNXptYjgwM3dRQT09&from=addon Meeting ID: 895 6151 0142 Passcode: 202803 One tap mobile +13092053325,,89561510",
+    "Location": "https://us06web.zoom.us/j/89561510142?pwd=Q0haVXdmVTBVY21mNXptYjgwM3dRQT09&from=addon",
+    "Attendees": {
+      "Phillip Acevedo": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required",
+      "Tom.Bondi@tcbondicpa.com": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-21T20:00:00.0000000",
+    "End": "2023-02-21T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688454"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYe4AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Employee Appreciation Day!",
+    "Description": "Join us, the Culture Team on Friday, March 3rd to celebrate Employee Appreciation Day! We\u2019ll have 50-minutes dedicated to having FUN and saying our goodbyes to Nicole \u2639 Hello Secret Agents! This email contains top secret information that you need to",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Office": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-03-03T17:00:00.0000000",
+    "End": "2023-03-03T17:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688505"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABlgYe3AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance tb",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 294 563 957 476 Passcode: EYP4Hq Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-14T14:00:00.0000000",
+    "End": "2023-02-14T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688541"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABkmb2rAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Phillip Acevedo",
+    "Title": "Cordelia -- Discuss Incentive Program",
+    "Description": "Phillip Acevedo is inviting you to a scheduled Zoom meeting. Join Zoom Meeting https://us06web.zoom.us/j/88545987552?pwd=NVJoa2N4Q1Q1d2dQTmVYYncwdmF0Zz09&from=addon Meeting ID: 885 4598 7552 Passcode: 843464 One tap mobile +13092053325,,88545987",
+    "Location": "https://us06web.zoom.us/j/88545987552?pwd=NVJoa2N4Q1Q1d2dQTmVYYncwdmF0Zz09&from=addon",
+    "Attendees": {
+      "Phillip Acevedo": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-14T21:00:00.0000000",
+    "End": "2023-02-14T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688581"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABghGnrAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "pamela@bookandstreet.com",
+    "Title": "LCW AR Review",
+    "Description": "LCW AR Review <!-- @font-face {font-family:\"Cambria Math\"} @font-face {font-family:Calibri} p.MsoNormal, li.MsoNormal, div.MsoNormal {margin:0in; font-size:11.0pt; font-family:\"Calibri\",sa This event has been updated Changed: description Descri",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "pamela@bookandstreet.com": "required",
+      "Randall Stieghorst": "required",
+      "Jennifer Barbieri": "required",
+      "Alisa Kolodizner": "required",
+      "Michelle Murcia": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-13T19:00:00.0000000",
+    "End": "2023-02-13T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688625"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABghGnqAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "pamela@bookandstreet.com",
+    "Title": "LCW Payroll Review",
+    "Description": "LCW Payroll Review <!-- @font-face {font-family:\"Cambria Math\"} @font-face {font-family:Calibri} p.MsoNormal, li.MsoNormal, div.MsoNormal {margin:0in; font-size:11.0pt; font-family:\"Calibri\",sa This event has been updated Changed: description D",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "pamela@bookandstreet.com": "required",
+      "Randall Stieghorst": "required",
+      "Jennifer Barbieri": "required",
+      "Alisa Kolodizner": "required",
+      "Michelle Murcia": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-10T14:00:00.0000000",
+    "End": "2023-02-10T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688667"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABghGnpAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "pamela@bookandstreet.com",
+    "Title": "LCW AP Review",
+    "Description": "LCW AP Review <!-- @font-face {font-family:\"Cambria Math\"} @font-face {font-family:Calibri} p.MsoNormal, li.MsoNormal, div.MsoNormal {margin:0in; font-size:11.0pt; font-family:\"Calibri\",sa This event has been updated Changed: description Descri",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "pamela@bookandstreet.com": "required",
+      "Randall Stieghorst": "required",
+      "Jennifer Barbieri": "required",
+      "Alisa Kolodizner": "required",
+      "Michelle Murcia": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-02-10T19:00:00.0000000",
+    "End": "2023-02-10T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688710"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABghGnoAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Karalis, Nicholas",
+    "Title": "LCW/Wintrust",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 224 465 056 292 Passcode: 3T2UWT Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Karalis, Nicholas": "required",
+      "Jennifer Barbieri": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-14T15:00:00.0000000",
+    "End": "2023-02-14T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688746"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkeAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Profit Sharing/Comp Bonuses",
+    "Description": "Profit Sharing Comp Bonuses See #\u2019s for merit increases. Maybe push to later JB \u2013 Q4 Profit sharing Comp bonuses Chuck- will arrange convos with Randy and Principals",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required",
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-09T21:00:00.0000000",
+    "End": "2023-02-09T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688796"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkcAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "dan@bookandstreet.com",
+    "Title": "Nicole Barile and Dan Rowell",
+    "Description": "Nicole Barile and Dan Rowell Event Name: Dan Rowell, Book+Street 1 hour minute meeting This meeting will schedule 60 minutes. Thank you. Location: This is a Zoom web conference. You can join this meeting from your computer, ta Event Name: Dan Rowell,",
+    "Location": "https://us02web.zoom.us/j/83353509743",
+    "Attendees": {
+      "dan@bookandstreet.com": "required",
+      "Nicole Barile": "required",
+      "Pamela Coulter": "required",
+      "Michelle Murcia": "required",
+      "Alisa Kolodizner": "required",
+      "Randall Stieghorst": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-08T14:00:00.0000000",
+    "End": "2023-02-08T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688837"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABduh4HAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "dan@bookandstreet.com",
+    "Title": "Nicole Barile and Dan Rowell",
+    "Description": "Nicole Barile and Dan Rowell Event Name: Dan Rowell, Book+Street 1 hour minute meeting This meeting will schedule 60 minutes. Thank you. Location: This is a Zoom web conference. You can join this meeting from your computer, ta Event Name: Dan Rowell,",
+    "Location": "https://us02web.zoom.us/j/84780497795",
+    "Attendees": {
+      "dan@bookandstreet.com": "required",
+      "Nicole Barile": "required",
+      "pamela@bookandstreet.com": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-07T14:00:00.0000000",
+    "End": "2023-02-07T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688874"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABduh4GAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Phillip Acevedo",
+    "Title": "Cordelia -- Discuss ERC",
+    "Description": "Phillip Acevedo is inviting you to a scheduled Zoom meeting. Join Zoom Meeting https://us06web.zoom.us/j/84237292186?pwd=K25KOEpXa24vYysrNEJ0bmVzM2lBZz09&from=addon Meeting ID: 842 3729 2186 Passcode: 832129 One tap mobile +13092053325,,84237292",
+    "Location": "https://us06web.zoom.us/j/84237292186?pwd=K25KOEpXa24vYysrNEJ0bmVzM2lBZz09&from=addon",
+    "Attendees": {
+      "Phillip Acevedo": "required",
+      "Alisa Kolodizner": "required",
+      "Patrick Croke": "required",
+      "Julie Rhoades": "required",
+      "Jennifer Barbieri": "required",
+      "Schneider, Jill": "required",
+      "tom.bondi@tcbondicpa.com": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-06T21:00:00.0000000",
+    "End": "2023-02-06T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688916"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABaZ8ErAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Consultant Portfolio 2022 Calculations",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 293 574 752 229 Passcode: wPwDKi Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Jennifer Barbieri": "required",
+      "Randall Stieghorst": "required",
+      "Sarah Nodarse": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-01-31T20:00:00.0000000",
+    "End": "2023-01-31T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688955"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkZAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "michelle@bookandstreet.com",
+    "Title": "LCW / Book+Street Kickoff Call",
+    "Description": "LCW / Book+Street Kickoff Call Book Smart is inviting you to a scheduled Zoom meeting. Join Zoom Meeting https://us02web.zoom.us/j/83135237268?pwd=V1VnczdveWptaEd3c3lHUXZrd2VwZz09 Meeting ID: 831 3523 7268 Passcode: 660511 One ta Book Smart is invitin",
+    "Location": "https://us02web.zoom.us/j/83135237268?pwd=V1VnczdveWptaEd3c3lHUXZrd2VwZz09",
+    "Attendees": {
+      "michelle@bookandstreet.com": "required",
+      "Jennifer Barbieri": "required",
+      "Alisa Kolodizner": "required",
+      "dan@bookandstreet.com": "required",
+      "Chuck Adams": "required",
+      "Nicole Barile": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-01-30T19:00:00.0000000",
+    "End": "2023-01-30T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.688993"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABZNQL-AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance TB",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 275 361 379 494 Passcode: VkZRtv Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-01-25T16:30:00.0000000",
+    "End": "2023-01-25T17:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689028"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABXcv2mAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "2023 KPIs",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 212 535 892 389 Passcode: g6R8JH Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Briza Cardenas": "required",
+      "Nicole Barile": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-01-25T17:30:00.0000000",
+    "End": "2023-01-25T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689064"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABXcv2lAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance TB",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 216 485 535 733 Passcode: GkF7uW Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-01-25T14:30:00.0000000",
+    "End": "2023-01-25T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689098"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkXAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "OOO",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": false,
+    "Start": "2023-01-18T00:00:00.0000000",
+    "End": "2023-01-20T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689125"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkWAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Schneider, Jill",
+    "Title": "Cordelia Capital",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 215 598 392 951 Passcode: eajkw9 Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Schneider, Jill": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required",
+      "Holmes, Gerald": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-01-20T19:00:00.0000000",
+    "End": "2023-01-20T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689162"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkYAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Team & Company Goals Conversation",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 269 196 972 412 Passcode: huSET7 Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-02-13T16:00:00.0000000",
+    "End": "2023-02-13T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689199"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABNV9pGAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "2023 KPI TB",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 281 316 977 411 Passcode: EnnJYp Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Nicole Barile": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-01-17T16:30:00.0000000",
+    "End": "2023-01-17T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689234"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABNV9pEAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Sales Pipeline",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 246 926 970 975 Passcode: HkKuuB Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Nicole Barile": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-01-11T17:00:00.0000000",
+    "End": "2023-01-11T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689268"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABNV9pDAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Sales Pipeline",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 279 818 533 948 Passcode: 3dcACn Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-01-11T14:30:00.0000000",
+    "End": "2023-01-11T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689303"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABNV9pCAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance tb",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 275 260 170 27 Passcode: thihEk Download Teams",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-01-09T01:20:00.0000000",
+    "End": "2023-01-09T01:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689336"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABJF73YAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Kelly Salek",
+    "Title": "ML Pricing Final Discussion",
+    "Description": "From: Kelly Salek Sent: Thursday, January 5, 2023 9:12:42 AM (UTC-05:00) Eastern Time (US & Canada) To: Kelly Salek; Nicole Barile; Chuck Adams; Alisa Kolodizner Subject: ML Pricing",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Kelly Salek": "required",
+      "Nicole Barile": "required",
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "optional"
+    },
+    "Virtual": true,
+    "Start": "2023-01-06T19:00:00.0000000",
+    "End": "2023-01-06T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689400"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAABJF73XAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "raianne.drumondfelipe@carta.com",
+    "Title": "Carta Implementation",
+    "Description": "Carta Implementation This meeting may be recorded for quality control, product enhancement, and training purposes. By attending this meeting, you are agreeing to have this meeting recorded. Join from PC, Mac, Linux, iOS This meeting may be recorded fo",
+    "Location": "https://carta.zoom.us/j/95904090389?pwd=bHc0bTJHWHRWMEROQm5nM2xwOFJBUT09",
+    "Attendees": {
+      "raianne.drumondfelipe@carta.com": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2023-01-10T19:15:00.0000000",
+    "End": "2023-01-10T19:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689438"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAA-xx7KAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Projection review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 218 527 891 326 Passcode: e6kxgH Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-12-21T18:30:00.0000000",
+    "End": "2022-12-21T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689473"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAA_dRXxAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "Tom, Jennifer, and Alisa Discuss Form 8594",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 231 589 726 887 Passcode: 6SAdjr Download Teams |",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required",
+      "Tom Bondi": "optional"
+    },
+    "Virtual": true,
+    "Start": "2022-12-16T16:45:00.0000000",
+    "End": "2022-12-16T17:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689509"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAA56ZBRAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Alisa Kolodizner",
+    "Title": "Discussion of Billing and COGs",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 297 844 920 189 Passcode: 4x7nxN Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Jennifer Barbieri": "required",
+      "Tom Bondi": "optional",
+      "David Trincado": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-12-12T17:00:00.0000000",
+    "End": "2022-12-12T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689544"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAA56ZBQAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "Discussion on Bonuses",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 244 210 165 929 Passcode: aFDiwB Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-12-12T19:00:00.0000000",
+    "End": "2022-12-12T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689581"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAA3SilbAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance tb",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 294 545 184 490 Passcode: BeTFSd Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-12-08T13:00:00.0000000",
+    "End": "2022-12-08T13:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689615"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkTAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Tom Bondi",
+    "Title": "2:30pm PST call w/Jennifer Barbieri re LCW to review Form 8594.",
+    "Description": "Tom Bondi is inviting you to a scheduled Zoom meeting. Join Zoom Meeting https://armanino.zoom.us/j/97897733792 Meeting ID: 978 9773 3792 One tap mobile +16468769923,,97897733792# US (New York) +16469313860,,97897733792# US Dial by your locat",
+    "Location": "https://armanino.zoom.us/j/97897733792",
+    "Attendees": {
+      "Tom Bondi": "required",
+      "Jennifer Barbieri": "required",
+      "Alisa Kolodizner": "optional"
+    },
+    "Virtual": true,
+    "Start": "2022-12-06T22:30:00.0000000",
+    "End": "2022-12-06T23:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689652"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAA3SilZAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Tax Preparation discussion",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 234 474 958 99 Passcode: xri5t9 Download Teams",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "jill.schneider@eisneramper.com": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-12-06T22:00:00.0000000",
+    "End": "2022-12-06T22:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689686"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAA0yaT1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "2023 KPIs",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 243 775 112 490 Passcode: BWbcqD Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required",
+      "Nicole Barile": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-12-07T20:30:00.0000000",
+    "End": "2022-12-07T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689720"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAA0yaT0AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Stephanie Madrigal",
+    "Title": "Re: LCW",
+    "Description": "Join Zoom Meeting https://us06web.zoom.us/j/87576306773?pwd=aTFBT25CdTQxRk5aMUpOZUczREpjdz09&from=addon Meeting ID: 875 7630 6773 Passcode: 317363 One tap mobile +13126266799,,87576306773#,,,,*317363# US (Chicago) +13092053325,,87576306773#,,,,*31",
+    "Location": "https://us06web.zoom.us/j/87576306773?pwd=aTFBT25CdTQxRk5aMUpOZUczREpjdz09&from=addon",
+    "Attendees": {
+      "Stephanie Madrigal": "required",
+      "Alisa Kolodizner": "required",
+      "Patrick Croke": "required",
+      "Phillip Acevedo": "required",
+      "Meredith Christianson": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-12-02T17:30:00.0000000",
+    "End": "2022-12-02T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689760"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAA0yaTzAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Scoro/Compass",
+    "Title": "Weekly Compass Refresher Sessions",
+    "Description": "-----Original Appointment----- From: Scoro/Compass Sent: Wednesday, November 23, 2022 12:42 PM To: Scoro/Compass; Briza Cardenas; Nicole Barile; Kendall Washington; Conner Williams; Grace Vottero; Andrea Wicks Bowles; Daniel Gou",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Scoro/Compass": "required",
+      "David Trincado": "required",
+      "Jennifer Barbieri": "required",
+      "Briza Cardenas": "required",
+      "Nicole Barile": "required",
+      "Kendall Washington": "required",
+      "Conner Williams": "required",
+      "Grace Vottero": "required",
+      "Andrea Wicks Bowles": "required",
+      "Daniel Gough": "required",
+      "Tamara Thorpe": "required",
+      "Sarah Nodarse": "required",
+      "Chuck Adams": "optional",
+      "Alisa Kolodizner": "optional",
+      "Dustin Puehler": "optional",
+      "Maria Fagrelius": "optional",
+      "Randy Pringle": "optional",
+      "Ada Vargas": "optional",
+      "Emani Richmond": "optional",
+      "Vince Bongiovanni": "optional",
+      "Nassise Geleta": "optional"
+    },
+    "Virtual": true,
+    "Start": "2022-12-01T15:30:00.0000000",
+    "End": "2022-12-01T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689820"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAA0yaTyAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "jordan.risley@carta.com",
+    "Title": "Carta | LCW",
+    "Description": "-----Original Appointment----- From: jordan.risley@carta.com Sent: Wednesday, November 30, 2022 7:07 PM To: jordan.risley@carta.com; Alisa Kolodizner Subject: Carta | LCW When: Friday, December 9, 2022 12:30 PM-1:00 PM (",
+    "Location": "https://carta.zoom.us/j/7991561003?pwd=NnQ4V1JCZ3NSNlM1QncxaWpMeE5Bdz09",
+    "Attendees": {
+      "jordan.risley@carta.com": "required",
+      "Jennifer Barbieri": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-12-09T18:30:00.0000000",
+    "End": "2022-12-09T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689875"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAyUDgeAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Scoro Delivery Dates and November Invoicing",
+    "Description": "Hi Tamara - just wanted to connect on some delivery dates in Scoro that shows November completion. I'm not sure if Scoro needs to be updated or these are ready to invoice: Ubisoft quote 2021170 Gusto quote 2022303",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Tamara Thorpe": "required",
+      "David Trincado": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-30T19:30:00.0000000",
+    "End": "2022-11-30T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689915"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAyUDgdAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance TB",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 281 946 439 184 Passcode: UDr2Ut Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-30T03:00:00.0000000",
+    "End": "2022-11-30T03:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689952"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAyUDgcAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "Chat on 401k",
+    "Description": "* Eligible employees will receive an email with enrollment instructions on December 2, 2022. Review your employee roster in the Guideline dashboard for accuracy and ensure a valid email address is on file for eligible employees. * First contribut",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "David Trincado": "required",
+      "Jennifer Barbieri": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-12-01T18:00:00.0000000",
+    "End": "2022-12-01T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.689992"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAsgZoBAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Financial update for Meeting",
+    "Description": "Hi Chuck - I just want to make sure I'm giving the team a proper update. Can we review the following? The report should cover: * How we got the quarterly bonuses * How we are looking towards our end of the year goal * The importance",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-21T22:00:00.0000000",
+    "End": "2022-11-21T22:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690031"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAsgZoAAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Month End Closing and Reporting",
+    "Description": "Agenda: Establish a month end closing process of: 1. Timing of close (within 5 business days of prior month end) 2. Check list of all journal entries to close the month (to be created) 3. Reconciling all balance sheet items and compilin",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "David Trincado": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-23T14:10:00.0000000",
+    "End": "2022-11-23T15:10:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690076"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAsOLQ1AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance tb",
+    "Description": "will send the updated rec with Alisa's notes Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 28",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Randall Stieghorst": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-21T18:00:00.0000000",
+    "End": "2022-11-21T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690119"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAsOLQ0AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance tb",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 264 078 759 572 Passcode: 7B6zVb Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Randall Stieghorst": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-18T17:30:00.0000000",
+    "End": "2022-11-18T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690155"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkQAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "Chat on Facilitator utilization/hours",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 292 467 729 578 Passcode: pUrLDR Download Teams |",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-12-06T15:00:00.0000000",
+    "End": "2022-12-06T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690190"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAsOLQyAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance TB",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 219 826 882 548 Passcode: QkoVMH Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-18T13:00:00.0000000",
+    "End": "2022-11-18T13:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690225"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAArbO_HAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance tb",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 259 131 270 581 Passcode: vAhTrj Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-17T13:00:00.0000000",
+    "End": "2022-11-17T13:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690265"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAApLNmFAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Performance calc review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 227 301 899 910 Passcode: JYH3D3 Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Randall Stieghorst": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-16T21:30:00.0000000",
+    "End": "2022-11-16T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690299"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAApLNmEAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Andrea Wicks Bowles",
+    "Title": "Dinner in Mtc",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 289 152 917 596 Passcode: e4JJYy Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Andrea Wicks Bowles": "required",
+      "Jennifer Barbieri": "required",
+      "Grace Vottero": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-12-01T23:00:00.0000000",
+    "End": "2022-12-02T00:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690335"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAApLNmDAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance TB",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 221 004 248 938 Passcode: sZBNpA Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-16T14:30:00.0000000",
+    "End": "2022-11-16T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690370"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAApLNmCAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance TB",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 252 184 043 136 Passcode: QGYBzo Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-14T20:30:00.0000000",
+    "End": "2022-11-14T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690405"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAmL60kAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Workflow review",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 297 735 114 357 Passcode: ytER3B Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Nicole Barile": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-10T20:00:00.0000000",
+    "End": "2022-11-10T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690441"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAmL60jAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Pipeline and projections",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 237 830 920 650 Passcode: eSq7Hw Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Randall Stieghorst": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-10T20:30:00.0000000",
+    "End": "2022-11-10T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690476"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAGgEYwAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Derek Piper",
+    "Title": "LCW / Armanino",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 261 008 398 86 Passcode: Y5K2q9 Download Teams | J",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Derek Piper": "required",
+      "Dan Schoenleber": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "optional"
+    },
+    "Virtual": true,
+    "Start": "2022-11-11T16:00:00.0000000",
+    "End": "2022-11-11T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690511"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAkvYp_AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Phillip Acevedo",
+    "Title": "USE THIS LINK",
+    "Description": "Phillip Acevedo is inviting you to a scheduled Zoom meeting. Join Zoom Meeting https://us06web.zoom.us/j/87150796614?pwd=YXVDUThMZ1BqeTIyZEdUVG0xLzdEQT09&from=addon Meeting ID: 871 5079 6614 Passcode: 095218 One tap mobile +13092053325,,87150",
+    "Location": "https://us06web.zoom.us/j/87150796614?pwd=YXVDUThMZ1BqeTIyZEdUVG0xLzdEQT09&from=addon",
+    "Attendees": {
+      "Phillip Acevedo": "required",
+      "Alisa Kolodizner": "required",
+      "Tom Bondi": "required",
+      "Jennifer Barbieri": "required",
+      "Patrick Croke": "optional"
+    },
+    "Virtual": true,
+    "Start": "2022-11-07T23:00:00.0000000",
+    "End": "2022-11-07T23:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690552"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAkvYp9AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Tom Bondi",
+    "Title": "3:10pm PST/6:10pm ET Zoom Meeting",
+    "Description": "Tom Bondi is inviting you to a scheduled Zoom meeting. Join Zoom Meeting https://armanino.zoom.us/j/92551470489 Meeting ID: 925 5147 0489 One tap mobile +16699006833,,92551470489# US (San Jose) +16694449171,,92551470489# US Dial by your locat",
+    "Location": "https://armanino.zoom.us/j/92551470489",
+    "Attendees": {
+      "Tom Bondi": "required",
+      "Alisa Kolodizner (alisa@cordelia.capital)": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-07T23:10:00.0000000",
+    "End": "2022-11-07T23:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690588"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkNAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Finance: Alisa, Jennifer & David",
+    "Description": "* Role Responsibilites & Expectations * Access to QBO, Bill.com, bank * First week topics: * Dropbox - Accounting * Compass - Accounting * Invoicing * Payable Processing * Payroll * Scoro Updating * Trave",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required",
+      "David Trincado": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-14T16:10:00.0000000",
+    "End": "2022-11-14T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690630"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAi_vzgAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance TB",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 266 368 560 840 Passcode: fyXYwB Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-07T21:15:00.0000000",
+    "End": "2022-11-07T22:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690664"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAguS-mAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance TB part II",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 234 014 531 950 Passcode: qda2Kn Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-02T22:15:00.0000000",
+    "End": "2022-11-02T22:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690698"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAguS-lAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Canceled: Staff Accountant Debrief",
+    "Description": "Moving forward with David",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Alisa Kolodizner": "required",
+      "Nicole Barile": "optional",
+      "Jennifer Barbieri": "optional"
+    },
+    "Virtual": true,
+    "Start": "2022-11-02T22:00:00.0000000",
+    "End": "2022-11-02T22:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690735"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAguS-kAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Professional & Intellectual Wellness Session",
+    "Description": "Join us Wednesday, November 9th for our Professional & Intellectual Wellness session led by Miriam Ortiz y Pino. She is a Certified Professional Organizer (one of the first in the world), Simplicity Expert & Money Breakthrough Business Coach. Miriam fo",
+    "Location": "https://languageandculture.zoom.us/j/86256358442?pwd=akE2dEV0L2N5MVhHMXRkdXJhMDRKQT09",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Office": "required",
+      "'miriam@morethanorganized.net'": "required",
+      "Jennifer Barbieri": "optional",
+      "Kaitlin Nonweiler": "optional"
+    },
+    "Virtual": true,
+    "Start": "2022-11-09T18:00:00.0000000",
+    "End": "2022-11-09T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690776"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAguS-jAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Weekly Deliverables",
+    "Description": "Profit sharing Reconciliation Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 287 575 455 990",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-02T15:00:00.0000000",
+    "End": "2022-11-02T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690811"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAgCGcgAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "Nicole & Jennifer weekly 1:1",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 293 014 059 945 Passcode: gJiofX Download Teams |",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-08T16:00:00.0000000",
+    "End": "2022-11-08T16:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690846"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAbSbruAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Michelle Miller and LCW",
+    "Description": "Event Name: Staff Accountant Interviews Need to make changes to this event? Cancel: https://calendly.com/cancellations/001b6f1a-32a2-4916-9b0d-c87cd6cbf9c3 Reschedule: https://calendly.com/reschedulings/001b6f1a-32a2-4916-9b0d-c87cd6cbf9c3 Powered",
+    "Location": "https://calendly.com/events/64cd9115-3002-455b-8db5-7c1a0f8b2e09/microsoft_teams",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Nicole Barile": "required",
+      "Jennifer Barbieri": "required",
+      "Michelle Miller": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-31T16:00:00.0000000",
+    "End": "2022-10-31T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690883"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkLAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Daysi Menefee  and LCW",
+    "Description": "Event Name: Staff Accountant Interviews Name Pronunciation: Day-zee Preferred Pronouns: She/her Need to make changes to this event? Cancel: https://calendly.com/cancellations/6186ed4e-7a58-49ad-9161-e861122602e8 Reschedule: https://calendly.com",
+    "Location": "https://calendly.com/events/d725d5e1-d879-45b3-b485-45bee209d883/microsoft_teams",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Daysi Menefee ": "required",
+      "Nicole Barile": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-31T20:30:00.0000000",
+    "End": "2022-10-31T21:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690921"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAbSbrpAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance TB",
+    "Description": "Compliance Certificate Reconciliation Profit Sharing Calc Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-28T18:00:00.0000000",
+    "End": "2022-10-28T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690956"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAbSbroAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "[Zoom Link Inside] October: Financial Wellness - Retirement Session",
+    "Description": "Alisa is leading a session on Retirement today if you were interested in attending. -----Original Appointment----- From: Briza Cardenas Sent: Tuesday, October 25, 2022 8:27 AM To: Alisa Kolodizner; Emani Richmond; Briza Cardenas Cc: Office Subject",
+    "Location": "Zoom",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Jennifer Barbieri": "required",
+      "Office": "optional",
+      "Alisa Kolodizner": "required",
+      "Emani Richmond": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-25T19:00:00.0000000",
+    "End": "2022-10-25T20:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.690994"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAbSbrnAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "LCW Fall Best Fest",
+    "Description": "We are having an LCW lunch party if you wanted to join! \ud83d\ude0a -----Original Appointment----- From: Briza Cardenas Sent: Wednesday, October 5, 2022 11:05 AM To: Office; Briza Cardenas Subject: LCW Fall Best Fest When: Tuesday, November 1, 2022 12:00 P",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Jennifer Barbieri": "required",
+      "Office": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-11-01T17:00:00.0000000",
+    "End": "2022-11-01T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691046"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAbSbrhAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Daysi Menefee and LCW",
+    "Description": "Event Name: Staff Accountant Interviews Name Pronunciation: Day-Zee Need to make changes to this event? Cancel: https://calendly.com/cancellations/247e1fa1-c19b-4078-9bc3-2787cab682c7 Reschedule: https://calendly.com/reschedulings/247e1fa1-c19b-40",
+    "Location": "https://calendly.com/events/ebc53bd4-5e86-4e58-9c60-618a44d00931/microsoft_teams",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Nicole Barile": "required",
+      "Jennifer Barbieri": "required",
+      "Daysi Menefee": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-27T15:00:00.0000000",
+    "End": "2022-10-27T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691084"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAbSbrgAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "David Trincado and LCW",
+    "Description": "Event Name: Staff Accountant Interviews Need to make changes to this event? Cancel: https://calendly.com/cancellations/87b91214-b1e9-4c04-9ecb-03877348f315 Reschedule: https://calendly.com/reschedulings/87b91214-b1e9-4c04-9ecb-03877348f315 Powered",
+    "Location": "https://calendly.com/events/5e920fdc-08b9-453d-89a6-56081c7d1eb6/microsoft_teams",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "David Trincado": "required",
+      "Nicole Barile": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-27T18:30:00.0000000",
+    "End": "2022-10-27T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691124"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAbSbrfAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance TB on tasks",
+    "Description": "409a Covenant Reconciliation Month end cash forcasting Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "optional"
+    },
+    "Virtual": true,
+    "Start": "2022-10-26T13:00:00.0000000",
+    "End": "2022-10-26T13:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691160"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAbSbreAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "German Alvarado and LCW",
+    "Description": "Event Name: Finance Assistant Interviews Need to make changes to this event? Cancel: https://calendly.com/cancellations/78937f8d-1ccf-4ee2-9c65-8ddca49c2f75 Reschedule: https://calendly.com/reschedulings/78937f8d-1ccf-4ee2-9c65-8ddca49c2f75 Powere",
+    "Location": "https://calendly.com/events/88903ad5-813b-4286-8262-82eb9fd5e2b6/microsoft_teams",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Nicole Barile": "required",
+      "Jennifer Barbieri": "required",
+      "German Alvarado": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-26T19:30:00.0000000",
+    "End": "2022-10-26T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691199"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAYL6AsAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance TB",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 264 423 779 243 Passcode: eugskD Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-24T17:00:00.0000000",
+    "End": "2022-10-24T17:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691234"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAYL6ArAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance tb eow ",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 224 075 473 686 Passcode: fCETC9 Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-21T21:30:00.0000000",
+    "End": "2022-10-21T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691268"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkHAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "Nicole + Jennifer 1:1",
+    "Description": "I hope this time works! Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 222 166 790 837 Passcode:",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-24T14:00:00.0000000",
+    "End": "2022-10-24T14:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691304"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAW8qKwAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance TB",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 232 500 728 321 Passcode: 6y9Yb7 Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-20T18:00:00.0000000",
+    "End": "2022-10-20T18:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691338"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAW8qKvAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Phillip Acevedo",
+    "Title": "Cordelia -- Check-In",
+    "Description": "Phillip Acevedo is inviting you to a scheduled Zoom meeting. Join Zoom Meeting https://us06web.zoom.us/j/84752048853?pwd=Vmc4NWtDSHE1dEd5MHN4NVN1eS90dz09&from=addon Meeting ID: 847 5204 8853 Passcode: 835966 One tap mobile +13126266799,,84752",
+    "Location": "https://us06web.zoom.us/j/84752048853?pwd=Vmc4NWtDSHE1dEd5MHN4NVN1eS90dz09&from=addon",
+    "Attendees": {
+      "Phillip Acevedo": "required",
+      "Alisa Kolodizner": "required",
+      "Tom Bondi": "required",
+      "Jennifer Barbieri": "required",
+      "Patrick Croke": "optional"
+    },
+    "Virtual": true,
+    "Start": "2022-11-07T23:00:00.0000000",
+    "End": "2022-11-07T23:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691377"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAUU4MWAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Cash Forecast ",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 280 991 435 828 Passcode: Sf5sQM Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-14T20:30:00.0000000",
+    "End": "2022-10-14T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691412"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkEAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Monthly LT Meeting ",
+    "Description": "Where the CLT and XLT meet to discuss topics and department updates Currently scheduled for 80-minutes, can adjust time accordingly as we go Microsoft Teams meeting Join",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "CLT": "required",
+      "XLT": "required",
+      "Jennifer Barbieri": "required",
+      "Maria Mercado": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-19T17:30:00.0000000",
+    "End": "2022-10-19T18:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691449"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAUU4MUAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance EOW TB",
+    "Description": "Hi Alisa - would love to touch base on the cash flow doc. Finding a few misalignments - 1. The outstanding invoice report in Scoro ($1,758,425) is off by $490K to QBO AR ($1,267,561) * Scoro has some invoices marked as outstanding but the",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required",
+      "Chuck Adams": "optional"
+    },
+    "Virtual": true,
+    "Start": "2022-10-14T20:00:00.0000000",
+    "End": "2022-10-14T20:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691486"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAUU4MTAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Phillip Acevedo",
+    "Title": "[Hold] LCW Equity Incentive Plan",
+    "Description": "-----Original Appointment----- From: Phillip Acevedo Sent: Thursday, October 13, 2022 5:42 PM To: Phillip Acevedo; Briza Cardenas; Patrick Croke Cc: Cecilia Hanlin Subject: [Hold] LCW Equity Incentive Plan When: Mon",
+    "Location": "https://us06web.zoom.us/j/81211979881?pwd=Tk10L1Y3Q29LMnRUNWNjenJCSUtMZz09&from=addon",
+    "Attendees": {
+      "Phillip Acevedo": "required",
+      "Alisa Kolodizner": "required",
+      "Jennifer Barbieri": "required",
+      "Tom Bondi": "required",
+      "Briza Cardenas": "required",
+      "Patrick Croke": "required",
+      "Cecilia Hanlin": "optional"
+    },
+    "Virtual": true,
+    "Start": "2022-10-17T22:00:00.0000000",
+    "End": "2022-10-17T23:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691546"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkCAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Busy",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-10-21T13:30:00.0000000",
+    "End": "2022-10-21T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691573"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvkBAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "NYC",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-10-20T17:00:00.0000000",
+    "End": "2022-10-20T22:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691598"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAUU4MSAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Outlook Calendar",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 246 842 332 224 Passcode: JKvxk6 Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-13T21:00:00.0000000",
+    "End": "2022-10-13T21:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691635"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvj_AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Randall Stieghorst",
+    "Title": "BSC, PO's, Ariba",
+    "Description": "If possible, let\u2019s gather to walk through the current status of all BSC invoices (some are awaiting PO, others were changed and need to be re-submitted, etc.) There are multiple wrinkles to BSC (including the Ariba interface for billing) and I think it",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Randall Stieghorst": "required",
+      "Alisa Kolodizner": "optional",
+      "Chuck Adams": "optional",
+      "Nicole Barile": "optional",
+      "Jennifer Barbieri": "optional",
+      "Sarah Nodarse": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-18T15:30:00.0000000",
+    "End": "2022-10-18T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691840"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAARB30NAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance TB",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 256 506 354 688 Passcode: aHNScZ Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-11T13:00:00.0000000",
+    "End": "2022-10-11T13:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691877"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAPxiaHAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "RS//JB TB",
+    "Description": "Hi Randy - I'm not sure if you are on the Harassment Training session. If not and you are available, can we meet for 30 min? * Profit Sharing * Chart of Accounts - cc's * 2021 LCW tax return - new accountants requesting to give an estim",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Randall Stieghorst": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-07T15:45:00.0000000",
+    "End": "2022-10-07T16:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691915"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAPxiaGAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance TB - Part II",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 277 038 060 593 Passcode: R3CxyS Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-07T16:30:00.0000000",
+    "End": "2022-10-07T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691950"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAPxiaFAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance TB",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 221 843 243 321 Passcode: 2WyhXB Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-07T13:30:00.0000000",
+    "End": "2022-10-07T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.691983"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvj9AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "FA Interview Debrief",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 293 741 626 056 Passcode: tFPJKz Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Nicole Barile": "required",
+      "Randall Stieghorst": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-11T15:30:00.0000000",
+    "End": "2022-10-11T16:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.692018"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvj8AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Randall Stieghorst",
+    "Title": "Scoro / QB",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 211 676 274 35 Passcode: RZenxX Download Teams | J",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Randall Stieghorst": "required",
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-05T15:45:00.0000000",
+    "End": "2022-10-05T16:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.692051"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAKIOkGAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Staff meeting presentation",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 240 343 998 166 Passcode: L32jWp Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-09-29T20:30:00.0000000",
+    "End": "2022-09-29T21:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.692083"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvj7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Briza Cardenas",
+    "Title": "Angela Espeland and LCW",
+    "Description": "Event Name: Finance Assistant Interviews Name Pronunciation: 7734840553 Preferred Pronouns: They/Them Need to make changes to this event? Cancel: https://calendly.com/cancellations/82acc4e9-50b4-4876-90ac-421b4b92e20e Reschedule: https://calend",
+    "Location": "https://calendly.com/events/8c6141da-5f0a-4024-9805-3b50f149ab9a/microsoft_teams",
+    "Attendees": {
+      "Briza Cardenas": "required",
+      "Jennifer Barbieri": "required",
+      "Randall Stieghorst": "required",
+      "Angela Espeland": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-10-05T14:00:00.0000000",
+    "End": "2022-10-05T15:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.692119"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvj6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Call Frank for LCW and Horizon for Rae",
+    "Description": "",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Jennifer Barbieri": "required"
+    },
+    "Virtual": false,
+    "Start": "2022-09-28T19:00:00.0000000",
+    "End": "2022-09-28T19:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.692143"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAIQ60oAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "RP//JB Connect",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 257 814 676 047 Passcode: gdEZ3x Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Rebecca Parrilla": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-09-28T18:30:00.0000000",
+    "End": "2022-09-28T19:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.692176"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAABvvj5AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance tb",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 227 265 073 16 Passcode: KNNtn3 Download Teams | J",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-09-27T16:45:00.0000000",
+    "End": "2022-09-27T17:15:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.692210"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAHElIYAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance Review ",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 212 922 241 131 Passcode: qsY6Zx Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-09-23T22:30:00.0000000",
+    "End": "2022-09-23T23:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.692246"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAHElIXAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance tb",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 226 493 197 726 Passcode: QVtAaD Download Team",
+    "Location": "Virtual Meeting (link in Description)",
+    "Attendees": {
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-09-23T16:00:00.0000000",
+    "End": "2022-09-23T16:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.692280"
+  },
+  {
+    "Event ID": "AAMkADVjNjdmNDFjLWRmYzEtNGI4YS05NDA4LWQ2NDUzM2VhNWY4YwBGAAAAAABFCLmwjuq3TpAA-c0XWm_xBwBCMmEeN4QdTo95RKYwbkvNAAAAAAENAABCMmEeN4QdTo95RKYwbkvNAAAGgEYqAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Jennifer Barbieri",
+    "Title": "Finance Catchup",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 237 116 316 577 Passcode: AmxwMS Download Teams |",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Jennifer Barbieri": "required",
+      "Alisa Kolodizner": "required"
+    },
+    "Virtual": true,
+    "Start": "2022-09-22T18:00:00.0000000",
+    "End": "2022-09-22T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:11:33.692312"
+  }
+]

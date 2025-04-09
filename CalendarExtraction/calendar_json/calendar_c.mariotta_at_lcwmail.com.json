@@ -1,0 +1,233 @@
+[
+  {
+    "Event ID": "AAMkADg0NTVkZjY2LTQyMTQtNDljOC04ZGRhLWFiYmZiMjkzYTg0YQBGAAAAAAB1YAEKnu4fRYpID_d5bSDcBwDNiJdz1lWcQrlvjD8ApiHtAAAAAAENAADNiJdz1lWcQrlvjD8ApiHtAAASXO-yAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Andrea Wicks Bowles",
+    "Title": "Translation Request",
+    "Description": "Opportunity to discuss the ML translation project for Ryan Specialty Microsoft Teams Need help? Join the meeting now Meeting ID: 235 774 537 162 Passcode: GP6pK9qd ____",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Andrea Wicks Bowles": "required",
+      "Cecilia Mariotta": "required",
+      "Nicole Barile": "optional"
+    },
+    "Virtual": true,
+    "Start": "2025-04-07T15:00:00.0000000",
+    "End": "2025-04-07T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:20.182374"
+  },
+  {
+    "Event ID": "AAMkADg0NTVkZjY2LTQyMTQtNDljOC04ZGRhLWFiYmZiMjkzYTg0YQBGAAAAAAB1YAEKnu4fRYpID_d5bSDcBwDNiJdz1lWcQrlvjD8ApiHtAAAAAAENAADNiJdz1lWcQrlvjD8ApiHtAAAAAvfEAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "Nicole + Cecilia chat",
+    "Description": "Talk about Dustin & your time off. Microsoft Teams Need help? Join the meeting now Meeting ID: 235 960 289 638 Passcode: ft6HQ7Ut Di",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Cecilia Mariotta": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-04-03T18:00:00.0000000",
+    "End": "2025-04-03T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:20.182531"
+  },
+  {
+    "Event ID": "AAMkADg0NTVkZjY2LTQyMTQtNDljOC04ZGRhLWFiYmZiMjkzYTg0YQBGAAAAAAB1YAEKnu4fRYpID_d5bSDcBwDNiJdz1lWcQrlvjD8ApiHtAAAAAAENAADNiJdz1lWcQrlvjD8ApiHtAAAAAvfDAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Dustin Puehler",
+    "Title": "Diligent Process discussion",
+    "Description": "Microsoft Teams meeting Join on your computer, mobile app or room device Click here to join the meeting Meeting ID: 934 089 935 864 6 Passcode: Sy7KT2 Download Te",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Dustin Puehler": "required",
+      "Cecilia Mariotta": "required",
+      "Nicole Barile": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-31T18:00:00.0000000",
+    "End": "2025-03-31T18:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:20.182666"
+  },
+  {
+    "Event ID": "AAMkADg0NTVkZjY2LTQyMTQtNDljOC04ZGRhLWFiYmZiMjkzYTg0YQBGAAAAAAB1YAEKnu4fRYpID_d5bSDcBwDNiJdz1lWcQrlvjD8ApiHtAAAAAAENAADNiJdz1lWcQrlvjD8ApiHtAAAAAvfCAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "Invoicing in Scoro",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 264 008 541 680 Passcode: AX9MU2qr Dial in by phone +1 872-239-8243,,555",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Cecilia Mariotta": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-21T13:30:00.0000000",
+    "End": "2025-03-21T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:20.182785"
+  },
+  {
+    "Event ID": "AAMkADg0NTVkZjY2LTQyMTQtNDljOC04ZGRhLWFiYmZiMjkzYTg0YQBGAAAAAAB1YAEKnu4fRYpID_d5bSDcBwDNiJdz1lWcQrlvjD8ApiHtAAAAAAENAADNiJdz1lWcQrlvjD8ApiHtAAAAAvfBAAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Cecilia Mariotta",
+    "Title": "DILIGENT",
+    "Description": "Microsoft Teams \u00bfNecesita ayuda? Unirse a la reuni\u00f3n ahora Id. de reuni\u00f3n: 254 710 718 754 C\u00f3digo de acceso: yQ3fA6UW Para organizado",
+    "Location": "Reuni\u00f3n de Microsoft Teams",
+    "Attendees": {
+      "Cecilia Mariotta": "required",
+      "Nicole Barile": "required",
+      "Elixir Multimedia Solutions": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-24T13:00:00.0000000",
+    "End": "2025-03-24T14:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:20.182921"
+  },
+  {
+    "Event ID": "AAMkADg0NTVkZjY2LTQyMTQtNDljOC04ZGRhLWFiYmZiMjkzYTg0YQBGAAAAAAB1YAEKnu4fRYpID_d5bSDcBwDNiJdz1lWcQrlvjD8ApiHtAAAAAAENAADNiJdz1lWcQrlvjD8ApiHtAAAAAve-AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "Chat about Diligent",
+    "Description": "Does this time work for you? Microsoft Teams Need help? Join the meeting now Meeting ID: 265 227 001 86 Passcode: Bh3my69p Dial in b",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Cecilia Mariotta": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-17T17:30:00.0000000",
+    "End": "2025-03-17T18:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:20.183036"
+  },
+  {
+    "Event ID": "AAMkADg0NTVkZjY2LTQyMTQtNDljOC04ZGRhLWFiYmZiMjkzYTg0YQBGAAAAAAB1YAEKnu4fRYpID_d5bSDcBwDNiJdz1lWcQrlvjD8ApiHtAAAAAAENAADNiJdz1lWcQrlvjD8ApiHtAAAAAve_AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Brian Luong",
+    "Title": "Diligent and LCW - Weekly Status Call",
+    "Description": "Microsoft Teams Need help? Join the meeting now Meeting ID: 219 121 409 399 Passcode: WDomFf Dial-in by phone +1 518-380-6343,,81235",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Brian Luong": "required",
+      "Cecilia Mariotta": "optional",
+      "Nicole Barile": "optional",
+      "Don Reyes": "required",
+      "Karen Lai": "required",
+      "Kumud Mishra": "required",
+      "Randi Mooney": "required",
+      "Jim Calabrese": "optional",
+      "Jason Radgowski": "optional"
+    },
+    "Virtual": true,
+    "Start": "2025-01-07T16:30:00.0000000",
+    "End": "2025-01-07T17:00:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:20.183122"
+  },
+  {
+    "Event ID": "AAMkADg0NTVkZjY2LTQyMTQtNDljOC04ZGRhLWFiYmZiMjkzYTg0YQBGAAAAAAB1YAEKnu4fRYpID_d5bSDcBwDNiJdz1lWcQrlvjD8ApiHtAAAAAAENAADNiJdz1lWcQrlvjD8ApiHtAAAAAve9AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "GLS chat",
+    "Description": "Please let me know if this time works for you both. We can discuss translation processes so we are all on the same page. Thank you! Microsoft Teams Need help? Join t",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "Keri Luo": "required",
+      "Cecilia Mariotta": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-18T16:00:00.0000000",
+    "End": "2025-03-18T16:45:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:20.183205"
+  },
+  {
+    "Event ID": "AAMkADg0NTVkZjY2LTQyMTQtNDljOC04ZGRhLWFiYmZiMjkzYTg0YQBGAAAAAAB1YAEKnu4fRYpID_d5bSDcBwDNiJdz1lWcQrlvjD8ApiHtAAAAAAENAADNiJdz1lWcQrlvjD8ApiHtAAAAAve8AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "LCW All-Staff Meeting - 1st and 3rd Monday",
+    "Description": "1. This is a \"Stand up\" meeting for all staff members (FTE/PTE) where each person participates * Each staff member gives a short update on what they are working on this week / their tasks for the week * Each staff member shares where th",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Keri Luo": "required",
+      "Andrea Wicks Bowles": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Gluckstein": "required",
+      "Juri Mansour": "required",
+      "Kaitlin Nonweiler": "required",
+      "Nicole Barile": "required",
+      "Cecilia Mariotta": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-17T16:00:00.0000000",
+    "End": "2025-03-17T16:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:20.183296"
+  },
+  {
+    "Event ID": "AAMkADg0NTVkZjY2LTQyMTQtNDljOC04ZGRhLWFiYmZiMjkzYTg0YQBGAAAAAAB1YAEKnu4fRYpID_d5bSDcBwDNiJdz1lWcQrlvjD8ApiHtAAAAAAENAADNiJdz1lWcQrlvjD8ApiHtAAAAAve7AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "LCW All-Staff Meeting - 1st and 3rd Monday",
+    "Description": "1. This is a \"Stand up\" meeting for all staff members (FTE/PTE) where each person participates * Each staff member gives a short update on what they are working on this week / their tasks for the week * Each staff member shares where th",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Keri Luo": "required",
+      "Andrea Wicks Bowles": "required",
+      "Rebecca Parrilla": "required",
+      "Sarah Gluckstein": "required",
+      "Juri Mansour": "required",
+      "Kaitlin Nonweiler": "required",
+      "Nicole Barile": "required",
+      "Cecilia Mariotta": "required",
+      "Sarah Jordan": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-03T17:00:00.0000000",
+    "End": "2025-03-03T17:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:20.183367"
+  },
+  {
+    "Event ID": "AAMkADg0NTVkZjY2LTQyMTQtNDljOC04ZGRhLWFiYmZiMjkzYTg0YQBGAAAAAAB1YAEKnu4fRYpID_d5bSDcBwDNiJdz1lWcQrlvjD8ApiHtAAAAAAENAADNiJdz1lWcQrlvjD8ApiHtAAAAAve6AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Nicole Barile",
+    "Title": "Nicole + Cecilia",
+    "Description": "Just a check-in to make sure you have everything you need. LMK if you need to change the time. Thank you! Microsoft Teams Need help? Join the meeting now Meeting ID",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Nicole Barile": "required",
+      "ceciliamariotta@gmail.com": "required",
+      "Cecilia Mariotta": "required"
+    },
+    "Virtual": true,
+    "Start": "2025-03-13T15:00:00.0000000",
+    "End": "2025-03-13T15:30:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:20.183423"
+  },
+  {
+    "Event ID": "AAMkADg0NTVkZjY2LTQyMTQtNDljOC04ZGRhLWFiYmZiMjkzYTg0YQBGAAAAAAB1YAEKnu4fRYpID_d5bSDcBwDNiJdz1lWcQrlvjD8ApiHtAAAAAAENAADNiJdz1lWcQrlvjD8ApiHtAAAAAve5AAA=",
+    "Tenant ID": "3ca40a42-d72d-43c9-b92e-0740101d9dd3",
+    "Organizer": "Chuck Adams",
+    "Title": "LCW All-Staff Meeting",
+    "Description": "If you can join, great. If not, you can join the next one! From: Chuck Adams Sent: Monday, February 3, 2025 9:35:09 AM (UTC-05:00) Eastern Time (US & Canada) To: Chuck Adams <c.adams@lcwmail.com",
+    "Location": "Microsoft Teams Meeting",
+    "Attendees": {
+      "Chuck Adams": "required",
+      "Alisa Kolodizner": "optional",
+      "Catalina De Sanctis": "required",
+      "Keri Luo": "required",
+      "Andrea Wicks Bowles": "required",
+      "Sarah Gluckstein": "required",
+      "Juri Mansour": "required",
+      "Kaitlin Nonweiler": "required",
+      "Nicole Barile": "required",
+      "Jorgelina Venturi": "required",
+      "jorgelina.venturi@gmail.com": "required",
+      "Rebecca Parrilla": "required",
+      "ceciliamariotta@gmail.com": "optional",
+      "Cecilia Mariotta": "optional"
+    },
+    "Virtual": true,
+    "Start": "2025-03-10T16:00:00.0000000",
+    "End": "2025-03-10T16:50:00.0000000",
+    "Date Extracted": "2025-04-07T20:09:20.183523"
+  }
+]
