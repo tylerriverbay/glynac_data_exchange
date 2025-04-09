@@ -98,6 +98,7 @@ def fetch_events_for_date(date_str):
             try:
                 event_type = event.get("event_type", {}).get(".tag")
                 if event_type not in RELEVANT_EVENT_TYPES:
+                    logging.info(f"[{date_str}] Skipping irrelevant event type: {event_type}")
                     continue
 
                 asset = next(
@@ -125,10 +126,13 @@ def fetch_events_for_date(date_str):
             except Exception as e:
                 logging.warning(f"[{date_str}] Skipping malformed event: {e}")
 
+        print(current_batch)
+
         if current_batch:
             date_dir = os.path.join(EXTRACTED_DIR, date_str)
             os.makedirs(date_dir, exist_ok=True)
             filename = os.path.join(date_dir, f"{date_str}_batch_{batch_number}_{uuid.uuid4().hex[:6]}.json")
+            print(filename)
             with open(filename, "w", encoding="utf-8") as f:
                 json.dump(current_batch, f, indent=2)
             logging.info(f"[{date_str}] Saved batch {batch_number} ({len(current_batch)} events)")
@@ -142,7 +146,7 @@ def fetch_events_for_date(date_str):
             logging.info(f"[{date_str}] Completed fetching")
             break
 
-def run_parallel_fetch(start_date, end_date, max_threads=16):
+def run_parallel_fetch(start_date, end_date, max_threads=8):
     dates = []
     current = start_date
     while current <= end_date:
@@ -153,6 +157,6 @@ def run_parallel_fetch(start_date, end_date, max_threads=16):
         executor.map(fetch_events_for_date, dates)
 
 if __name__ == "__main__":
-    start = datetime.strptime("2017-01-03", "%Y-%m-%d")
-    end = datetime.strptime("2017-10-03", "%Y-%m-%d")
+    start = datetime.strptime("2024-01-01", "%Y-%m-%d")
+    end = datetime.strptime("2024-01-02", "%Y-%m-%d")
     run_parallel_fetch(start, end)
