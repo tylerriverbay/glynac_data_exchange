@@ -122,8 +122,9 @@ def get_activity_log():
                 json.dump(current_batch, f, indent=2)
             logging.info(f"Saved batch {batch_number} with {len(current_batch)} events")
 
-            save_state(cursor, batch_number)
             batch_number += 1
+
+        save_state(cursor, batch_number)
 
         if has_more and cursor:
             body = {"cursor": cursor}

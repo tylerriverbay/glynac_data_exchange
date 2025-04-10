@@ -137,8 +137,9 @@ def fetch_events_for_date(date_str):
                 json.dump(current_batch, f, indent=2)
             logging.info(f"[{date_str}] Saved batch {batch_number} ({len(current_batch)} events)")
 
-            save_state(date_str, cursor, batch_number)
             batch_number += 1
+
+        save_state(date_str, cursor, batch_number)
 
         if has_more and cursor:
             body = {"cursor": cursor}
